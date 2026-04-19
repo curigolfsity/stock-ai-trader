@@ -64,9 +64,8 @@ STEP 6 — Send ONE ClickUp message. <= 15 lines:
   Grade: <letter>"
 
 STEP 7 — COMMIT AND PUSH (mandatory):
-  git checkout main
   git add memory/WEEKLY-REVIEW.md memory/TRADING-STRATEGY.md
   git commit -m "weekly review $DATE"
-  git push origin main
+  git push origin HEAD:main
 If TRADING-STRATEGY.md didn't change, add just WEEKLY-REVIEW.md.
-On push failure: git pull --rebase origin main, then push again.
+On push failure: git pull --rebase origin main && git push origin HEAD:main.

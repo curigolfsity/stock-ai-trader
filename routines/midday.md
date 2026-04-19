@@ -50,8 +50,7 @@ STEP 7 — Notification: only if action was taken.
   bash scripts/clickup.sh "<action summary>"
 
 STEP 8 — COMMIT AND PUSH (if any memory files changed):
-  git checkout main
   git add memory/TRADE-LOG.md memory/RESEARCH-LOG.md
   git commit -m "midday scan $DATE"
-  git push origin main
-Skip commit if no-op. On push failure: git pull --rebase origin main, then push again.
+  git push origin HEAD:main
+Skip commit if no-op. On push failure: git pull --rebase origin main && git push origin HEAD:main.

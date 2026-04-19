@@ -54,8 +54,7 @@ STEP 7 — Notification: only if a trade was placed.
   bash scripts/clickup.sh "<tickers, shares, fill prices, one-line why>"
 
 STEP 8 — COMMIT AND PUSH (mandatory if any trades executed):
-  git checkout main
   git add memory/TRADE-LOG.md
   git commit -m "market-open trades $DATE"
-  git push origin main
-Skip commit if no trades fired. On push failure: git pull --rebase origin main, then push again.
+  git push origin HEAD:main
+Skip commit if no trades fired. On push failure: git pull --rebase origin main && git push origin HEAD:main.
