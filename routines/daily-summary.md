@@ -53,6 +53,7 @@ STEP 5 — Send ONE ClickUp message (always, even on no-trade days). <= 15 lines
   Tomorrow: <one-line plan>"
 
 STEP 6 — COMMIT AND PUSH (mandatory):
+  git checkout main
   git add memory/TRADE-LOG.md
   git commit -m "EOD snapshot $DATE"
   git push origin main
