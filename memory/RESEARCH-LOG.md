@@ -33,6 +33,45 @@ TRADE or HOLD (default HOLD if no edge)
 
 ---
 
+## 2026-05-02 — Pre-market Research (Weekend — next trading day Mon May 4)
+
+### Account
+- Equity: $100,000
+- Cash: $100,000
+- Buying power: $200,000 (2× margin; non-marginable $100k)
+- Daytrade count: 0
+- Positions: 0
+- Open orders: 0
+
+### Market Context
+- WTI / Brent: WTI ~$101 (down from $111 Thu 4-yr high); Brent ~$109 (down from $114 high); oil retreated on Iran-US peace talk momentum
+- S&P 500 futures: Closed Fri at 7,230; futures +0.13% (7,253) Friday; market at record highs
+- VIX: 16.99 — moderate/low fear; down 38% over 30 days (from 31.65 high)
+- Today's catalysts: Berkshire Hathaway Q1 results released today (Sat) at 7am CT; Greg Abel's first annual meeting as CEO; cash pile $373B, buybacks resumed Mar
+- Earnings before open Monday May 4: No major S&P 500 reports BMO Mon; PLTR/AMD/ARM report week of May 4
+- Economic calendar: Nothing major Mon May 4; NFP April jobs data Fri May 8; CPI May 10; no FOMC
+- Sector momentum YTD: Healthcare +22% (leader), Energy strong Q1, Utilities defensive bid; Laggards: Tech, Consumer Disc, Financials
+
+### Trade Ideas
+1. CAT (Caterpillar) — Q1 rev +22% to $17.4B (beat), EPS $5.54 (+30%), record backlog, data center power demand new driver; Morgan Stanley upgraded to $915 PT; Industrials sector momentum; entry ~$895 on Mon confirm, stop $806 (-10% trail GTC), target $1,074 (+20%), R:R 2:1. Risk: tariff cost $2.2-2.4B headwind; P/E 44x stretched; +32% YTD already.
+2. EOG Resources (EOG) — WTI elevated ($101), Energy sector momentum, earnings Q1 beat expected (ESP +7.62%); but REPORTS May 5 AMC — buying Mon creates binary earnings risk Tue open. WATCH only. Entry ~$140 post-earnings if positive, stop $126 (-10% trail GTC), target $168 (+20%), R:R 2:1.
+3. Healthcare watch list — Sector #1 YTD (+22%); UNH/ELV/ABBV setups to evaluate next week if CAT position is established. No entry today.
+
+### Risk Factors
+- Oil reversal risk: Iran-US peace deal (if completed) = sharp WTI drop, pressures Energy thesis
+- Market at all-time highs (S&P 7,230); elevated valuations across board
+- NFP May 8 and CPI May 10 — twin macro events could whipsaw market mid-week
+- PLTR/AMD/ARM earnings week of May 4 — tech sector binary events; could set AI narrative for summer
+- No positions yet — first trade carries outsized psychological pressure; must stay disciplined on entry
+- CAT tariff exposure ($2.2-2.4B); if tariff relief trade unwinds, stock could correct from +32% YTD
+
+### Decision
+CONDITIONAL TRADE — Initiate CAT on Mon May 4 at market open IF futures hold flat/positive and no negative macro shock over weekend. Limit order $895 or better (max $900), size 20% of equity (~$20,000, ~22 shares). Place 10% trailing stop GTC immediately on fill. Skip EOG until post-earnings clarity. Patience on rest of portfolio.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
 ## 2026-05-01 — Pre-market Research
 
 ### Account
