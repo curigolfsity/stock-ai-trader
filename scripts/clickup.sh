@@ -28,6 +28,10 @@ fi
 
 stamp="$(date '+%Y-%m-%d %H:%M %Z')"
 
+CLICKUP_API_KEY=$(echo "${CLICKUP_API_KEY:-}" | tr -d '\r\n')
+CLICKUP_WORKSPACE_ID=$(echo "${CLICKUP_WORKSPACE_ID:-}" | tr -d '\r\n')
+CLICKUP_CHANNEL_ID=$(echo "${CLICKUP_CHANNEL_ID:-}" | tr -d '\r\n')
+
 if [[ -z "${CLICKUP_API_KEY:-}" || -z "${CLICKUP_WORKSPACE_ID:-}" || -z "${CLICKUP_CHANNEL_ID:-}" ]]; then
   printf "\n---\n## %s (fallback — ClickUp not configured)\n%s\n" "$stamp" "$msg" >> "$FALLBACK"
   echo "[clickup fallback] appended to DAILY-SUMMARY.md"
