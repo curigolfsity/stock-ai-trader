@@ -111,38 +111,44 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 
 ---
 
-## 2026-05-02 — Pre-market Research
+## 2026-05-02 — Pre-market Research (UPDATED — Mon May 4 playbook)
 
 ### Account
 - Equity: $100,000
 - Cash: $100,000
 - Buying power: $200,000 (2× margin; non-marginable $100k)
 - Daytrade count: 0
-- Positions: 0 (no trades taken yet)
+- Positions: 0
 - Open orders: 0
 
 ### Market Context
-- WTI / Brent: ~$104.10 / ~$108.94 — pulled back from $126 high on Apr 30; Iran-US peace talks (Trump sending Witkoff/Kushner to Pakistan this weekend) driving supply-risk unwind; Strait of Hormuz tensions persist but de-escalation narrative in play
-- S&P 500 futures: ESM26 +0.13% to 7,253 premarket (Saturday — no live trading; context for Mon May 4 open)
-- VIX: 16.99 (+0.59%) — low, calm markets, no fear signal
-- Today's catalysts (Sat/weekend): Berkshire Hathaway annual meeting — Greg Abel era begins (first meeting without Buffett as central figure); AAPL +3-5% Friday on fiscal Q2 beat + strong Q3 guidance; Nasdaq closed at all-time high 25,114; Fed held rates, tone hawkish; Iran-US peace talk progress = bearish oil, bullish broad market
-- Earnings before Mon open: BRK.B/A reporting Sat (digested before Mon open); PLTR/AMD/ARM report week of May 5 — major AI narrative drivers
-- Economic calendar week of May 4: No major release Mon; NFP April jobs data Fri May 8; CPI May 13; no FOMC near-term
+- WTI / Brent: ~$101 / ~$109 — WTI fell ~11% Friday as Iran declared Strait of Hormuz "completely open" for commercial shipping; supply-shock narrative materially deflated; Goldman Sachs now targets Brent $90 by late 2026
+- S&P 500: Closed +1.20% Friday on risk-on Hormuz reopening; YTD +4.7%; Nasdaq at all-time high 25,114
+- VIX: 18.7 (up 1.25 pts on week despite rally) — modest residual uncertainty; no fear signal
+- Weekend catalysts: Iran Strait of Hormuz confirmed open; Berkshire annual meeting (Greg Abel era); BRK Q1 results — cash $373B, buybacks resumed; AAPL +3-5% on Q2 beat + strong Q3 guide
+- Earnings this week: PLTR Q1 AFTER CLOSE Mon May 4 (exp. EPS +115% YoY to $0.28, rev $1.54B); AMD Q1 AMC Tue; DIS during week; no major BMO Mon
+- Economic calendar: Factory Orders Mon; ISM Services + JOLTS Tue; NFP Apr jobs Fri May 8; CPI May 13; no FOMC near-term
+- Sector momentum (Leading quadrant): Materials, Industrials, Consumer Staples, Energy; Lagging: Tech, Comm, Consumer Disc, Financials
 
 ### Trade Ideas
-1. **EOG Resources (EOG)** — WTI still elevated at $104 despite pullback; Energy sector #1 YTD; CONDITIONAL entry ~$132 only if WTI holds $100+ Mon morning and peace talks stall; stop $119 (-10% trail GTC), target $158 (+20%), R:R ~2:1. Risk: peace deal = sharp WTI dump, thesis breaks fast.
-2. **UnitedHealth (UNH)** — Healthcare sector YTD leader (+22%); defensive against hawkish Fed; no binary earnings risk near-term; entry ~$580 on Mon confirm above 5-day high, stop $522 (-10% trail GTC), target $696 (+20%), R:R 2:1. Risk: ACA/Medicaid policy headlines; premium valuation.
-3. **LMT (Lockheed Martin)** — Defense/geopolitical premium; Iran tensions not resolved even if talks progress; entry ~$530 on pullback, stop $477 (-10% trail GTC), target $636 (+20%), R:R ~2:1. Risk: peace deal = defense rotation out; Senate budget debates.
+1. **CAT (Caterpillar)** — Q1 beat (rev +22% to $17.4B, EPS $5.54 +30%); AI data-center power generation emerging as new revenue driver; Morgan Stanley upgraded PT $915; Baird PT $1,165 (Street-high); up 32% YTD, +9% on earnings Friday; Industrials in Leading momentum quadrant. Entry: limit $920 Mon (pullback from ~$935 post-earnings close); stop $828 (10% trail GTC immediately on fill); target $1,105 (+20%); R:R 2:1. Risk: tariff exposure $2.6B; P/E ~44x stretched; previous limit $895 now below market.
+2. **PLTR (Palantir) — WATCHLIST ONLY pre-earnings** — Reports AMC Mon; options pricing ±10.55% move; down 20% YTD, Wedbush PT $230; street expects 115% EPS growth + 74% rev growth. DO NOT touch pre-earnings. If beats and stock pulls back Tue open → evaluate entry ~$90-95 area; stop 10% trail GTC; target +20%.
+3. **UNH (UnitedHealth)** — Healthcare sector outperforming; defensive against hawkish Fed; no near-term earnings risk; entry ~$580 on Mon confirm, stop $522 (10% trail GTC), target $696 (+20%), R:R 2:1. Risk: ACA/Medicaid policy headlines; premium valuation.
+
+### Thesis Changes vs. Prior Entry
+- EOG: SKIP — Hormuz open breaks supply-shock thesis; WTI trending toward $90 (Goldman); Energy narrative fading
+- LMT/RTX defense: SKIP — peace deal = rotation out of defense geopolitical premium
+- CAT: UPDATE — prior limit $895 now below market (~$935); revised to $920 limit (accept some post-earnings premium given dual industrial + AI power catalyst)
 
 ### Risk Factors
-- Iran-US peace deal this weekend: if announced → WTI collapses → kills EOG/LMT thesis; sector rotation risk
-- S&P 500 and Nasdaq both at all-time highs — chasing risk; no urgency to buy the top
-- Fed hawkish tone: rate-cut hopes pushed out → headwind for high-multiple Tech; defensive/value tilt supported
-- PLTR/AMD/ARM earnings week of May 5 — AI narrative binary; could reset broad tape
-- NFP May 8 + CPI May 13 — twin macro events; whipsaw risk before positions can mature
-- No positions yet — patience remains correct posture; first entry must have clear thesis and clean level
+- Hormuz "open" ≠ fully normalized: only 8 vessels/day vs. 129 pre-war average; normalization takes weeks, oil floor higher than pre-war
+- S&P at ATH — chasing risk; discipline on entry levels critical
+- PLTR/AMD binary: if misses → broad AI/growth selloff mid-week
+- NFP May 8 + CPI May 13 — 1-2 weeks from now; whipsaw risk before positions mature
+- CAT tariff exposure: $2.6B costs flagged for 2026; any tariff escalation = margin headwind
+- No positions yet after two weeks; psychological pressure to deploy — stay disciplined
 
 ### Decision
-HOLD — Weekend peace talks could materially alter Energy/Defense thesis by Mon open. Markets at ATH with hawkish Fed and macro events (NFP, CPI) within 1-2 weeks. Action plan for Mon May 4: if WTI holds $100+ and Iran talks stall → initiate EOG ~$132 (20% of equity ~$20k, ~151 shares) with immediate 10% trail GTC. If oil drops below $100 → skip EOG, pivot to UNH as first position. Max 1 new position this week until macro clarity improves.
+CONDITIONAL TRADE — Initiate CAT Mon May 4 with limit $920 (skip if gap-opens above $945+; not chasing >2.5% above current). Size: 20% of equity = $20,000 (~21 shares). Immediate 10% trailing stop GTC on fill. Skip EOG, LMT, any energy/defense on Hormuz news. Watch PLTR post-earnings Tue for potential second position. Max 1 new trade this week; hold cash for NFP/CPI clarity.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
