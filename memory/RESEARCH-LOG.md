@@ -212,3 +212,66 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 CONDITIONAL TRADE — Initiate **CAT limit $920 Monday open**; size 20% of equity ($20,000, ~21 shares); place 10% trailing stop GTC immediately on fill. Skip if gap-opens >$945 (not chasing). HOLD everything else. Keep ≥80% cash through NFP May 8. Max 1 new trade this week (watch PLTR Tue for potential 2nd position).
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-05-02 — Pre-market Research (Run 3 — Saturday Afternoon)
+
+### Account
+- Equity: $100,000
+- Cash: $100,000
+- Buying power: $200,000 (2× margin)
+- Daytrade count: 0
+- Positions: 0 (flat)
+- Open orders: 0
+
+### Market Context
+- **WTI / Brent:** $101.94 / $108.17 (May 1 close); -3% / -2% Fri; Iran updated peace proposal via Pakistan mediators; Trump cancelled Witkoff/Kushner trip ("confusion in Tehran"); Hormuz still 19 ships/day vs. 129 normal; Goldman Brent $90 target late 2026
+- **S&P 500:** ATH 7,230.12 (May 1 +0.29%); Nasdaq ATH 25,114.44; futures flat-slightly positive
+- **VIX:** 17.0 (up 0.10 pts); low fear; modest geopolitical residual
+- **⚠ KEY UPDATE — FOMC this week May 6-7 (CONFIRMED):** Rate decision + presser Wed May 7. Prior entries said "no FOMC near-term" — incorrect. Focus: rate path, recession risk language, PCE trajectory. High-impact binary for any position entered Mon/Tue.
+- **Key catalysts May 4–8:**
+  - PLTR Q1 AMC Mon May 4 — exp. $1.54B rev +74%, EPS $0.28 +115%; options ±10.55%; stock ~$141 (down 32% from peak ~$208); avg analyst PT $191
+  - AMD Q1 AMC Tue May 5 — AI GPU catalyst
+  - **FOMC rate decision Wed May 7** — high-impact binary
+  - NFP April Fri May 8 8:30am ET
+  - CPI May 13
+
+### Earnings This Week (May 4–8)
+| Day | BMO | AMC |
+|-----|-----|-----|
+| Mon May 4 | VRTX, Tyson, NCL, Paramount, ON Semi | **PLTR** (±10.55%) |
+| Tue May 5 | — | **AMD**, EOG, Devon, Pfizer, PayPal, Arista, Diamondback |
+| Wed May 6 | — | AppLovin, Fortinet, Warner Bros, EA, Super Micro |
+| Thu May 7 | MCD, Airbnb, DDOG, TTD, Coinbase, DIS | **FOMC decision** |
+| Fri May 8 | **NFP April** 8:30am ET | — |
+
+### Sector Momentum YTD
+- Leading: Energy +22% (Q1), Healthcare, Consumer Staples, Industrials
+- Mixed: Energy fading (Hormuz partially open; Goldman $90 downgrade)
+- Lagging: Financials -8.7%, Consumer Disc -5.0%, Tech -4.1%
+
+### Trade Ideas
+1. **CAT (Caterpillar)** — ⚠ PRICE CORRECTION: closed $889 May 1 (prior logs had ~$935 — incorrect). Thesis intact: Q1 beat (rev $17.4B +22%, EPS $5.54 +30%), guidance raised; Morgan Stanley doubled PT $430→$915 (upgrade to Equal-Weight); BofA PT $930; AI data-center power gen new revenue driver; Industrials leading sector. Entry: limit $893 Mon (skip if gap-opens >$910); stop $804 (10% trail GTC on fill); target $1,072 (+20%); R:R ~2:1. CAVEAT: FOMC May 6-7 = rate binary 2 days post-entry; CAT at P/E 44x / +32% YTD is high-beta to rate surprise.
+2. **PLTR — WATCHLIST ONLY** — ⚠ PRICE CORRECTION: current ~$141 (prior log $90-95 zone was incorrect). Binary AMC Mon; ±10.55% expected move; 10-quarter beat streak; avg PT $191 (35% upside). DO NOT enter pre-earnings. If beat + orderly pullback Tue → evaluate $140-145 entry; 10% trail GTC; target +20%. FOMC Wed = added day-after risk.
+3. **Consumer Staples post-FOMC** — Sector YTD outperformer; defensive against rate surprise or NFP miss. No entry now; post-FOMC/NFP (May 8) evaluate PG, KO, WMT on pullback.
+
+### Thesis Changes vs. Prior Entry
+- **CAT price corrected:** $889 close (not ~$935); revise limit $920→$893; skip if >$910 (not $945)
+- **PLTR price corrected:** current ~$141 (not $90-95); update post-earnings watch zone to $140-145
+- **FOMC corrected:** meeting IS this week May 6-7; prior entries wrong to say "no FOMC near-term"
+- EOG / Energy: SKIP confirmed — Hormuz still constrained; Goldman $90 oil target
+- LMT/RTX: SKIP confirmed — peace talks deflating defense premium
+
+### Risk Factors
+- **FOMC May 6-7 (NEW, HIGH):** Hawkish surprise = broad selloff; CAT at 44x P/E / +32% YTD particularly exposed
+- NFP May 8 + CPI May 13 — back-to-back macro binaries within 1-2 weeks of any new position
+- PLTR/AMD binary midweek — AI guidance miss → growth selloff contagion
+- Iran: Hormuz still 15% of normal throughput; snap oil reversal risk to $120+
+- S&P at ATH — no valuation cushion for rate or macro disappointment
+- Psychological pressure to deploy after 2+ weeks flat — stay disciplined
+
+### Decision
+**HOLD** — Revised from prior CONDITIONAL TRADE. Rationale: FOMC May 6-7 confirmed this week (was missing from prior entries). CAT at 44x P/E / +32% YTD carries high rate sensitivity; entering Mon/Tue with FOMC Wed = poor risk-adjusted trade. Plan: HOLD through FOMC Wednesday. Reassess Thu May 7 evening (post-FOMC + pre-NFP). Exception: CAT pulls back to $870-880 Mon AND Fed funds futures shift clearly dovish by Tue close → may initiate 15% half-size position ($15,000, ~17 shares) with tighter $800 stop.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
