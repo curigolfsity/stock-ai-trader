@@ -152,3 +152,63 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 CONDITIONAL TRADE — Initiate CAT Mon May 4 with limit $920 (skip if gap-opens above $945+; not chasing >2.5% above current). Size: 20% of equity = $20,000 (~21 shares). Immediate 10% trailing stop GTC on fill. Skip EOG, LMT, any energy/defense on Hormuz news. Watch PLTR post-earnings Tue for potential second position. Max 1 new trade this week; hold cash for NFP/CPI clarity.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-05-02 — Pre-market Research (Run 2 — Saturday Morning)
+
+### Account
+- Equity: $100,000
+- Cash: $100,000
+- Buying power: $200,000 (2× margin)
+- Daytrade count: 0
+- Positions: 0 (flat)
+- Open orders: 0
+
+### Market Context
+- **WTI / Brent:** ~$101.94 / ~$108.17 — WTI -3% Friday; Iran sent updated peace proposal via Pakistan mediators; Trump scrapped Witkoff/Kushner trip citing "confusion in Tehran"; peace deal NOT imminent; Hormuz still only 19 ships/day vs. 129 normal (Goldman: Brent $90 target by late 2026, normalization earliest end-June)
+- **S&P 500:** Closed ATH 7,230.12 (+0.29% Fri); Nasdaq ATH 25,114.44; futures slightly positive premarket
+- **VIX:** ~17.0 — low fear; modest geopolitical residual
+- **Key catalysts Mon–Fri:**
+  - AAPL Q2 beat + strong Q3 guide → +3-5%; drove Nasdaq to ATH Fri
+  - PLTR reports Mon May 4 AMC (exp. $1.54B rev +74%, EPS $0.28 +115%; 10-quarter beat streak)
+  - AMD reports Tue May 5 AMC (AI GPU catalyst)
+  - NFP April jobs report Fri May 8 8:30am ET (March came in +178k vs +65k forecast)
+  - CPI May 13; no FOMC near-term
+- **Sector momentum YTD:**
+  - Leading: Consumer Staples (+22%), Healthcare, Industrials
+  - Mixed: Energy (Q1 standout but Hormuz/Goldman headwind)
+  - Lagging: Tech (cooling post-AI-run), Comm Services, Consumer Disc, Financials
+
+### Earnings This Week (May 4–8)
+| Day | BMO | AMC |
+|-----|-----|-----|
+| Mon May 4 | Vertex Pharma, Tyson, NCL, Paramount, ON Semi | **PLTR** (binary ±10-11%) |
+| Tue May 5 | — | **AMD**, EOG, Devon, Pfizer, PayPal, Arista |
+| Wed May 6 | — | **AppLovin**, Fortinet, Warner Bros, MetLife |
+| Thu May 7 | McDonald's, Airbnb, Datadog, Trade Desk, Coinbase | — |
+| Fri May 8 | **NFP April** 8:30am ET | PPL |
+
+### Trade Ideas
+1. **CAT (Caterpillar)** — Prior thesis intact: Q1 beat ($17.4B rev +22%, EPS $5.54 +30%), guidance raised, AI data-center power gen as new revenue driver; Industrials in leading momentum quadrant; Morgan Stanley PT $915, Baird PT $1,165 (street-high). Entry: limit $920 Mon (skip if gap-opens >$945); stop $828 (10% trail GTC immediately on fill); target $1,104 (+20%); R:R ~2:1.
+2. **PLTR** — WATCHLIST ONLY; binary AMC Mon; DO NOT enter pre-earnings. If strong beat + orderly pullback Tue → evaluate $90–95 area; 10% trail GTC; target +20%.
+3. **Consumer Staples monitor** — Sector #1 YTD +22%; defensive with NFP/CPI risk ahead. No entry now; revisit post-NFP (May 8) for names like PG, KO, WMT on pullback.
+
+### Thesis Changes vs. Prior Entry
+- EOG / Energy: SKIP — Hormuz "open" narrative unreliable (19 ships/day only); Goldman oil downgrade; supply thesis broken
+- LMT/RTX: SKIP — peace talks narrative still deflating geopolitical premium
+- CAT: MAINTAIN $920 limit — conviction intact
+- UNH: REMOVED — no clear near-term catalyst vs. CAT conviction; defer
+
+### Risk Factors
+- NFP May 8 + CPI May 13 — macro binary within one week of any new position
+- Iran: updated proposal + scrapped Witkoff trip = daily oil headline risk, potential snap reversal
+- PLTR/AMD binary Tue/Wed — misses → broad AI/growth selloff midweek
+- CAT margin compression headlines + tariff exposure ($2.6B); CFO just transitioned; avg analyst PT $855 (many bears below market)
+- S&P at ATH — chasing discipline critical
+- Psychological pressure to deploy after 2 weeks flat — stay disciplined; patience > activity
+
+### Decision
+CONDITIONAL TRADE — Initiate **CAT limit $920 Monday open**; size 20% of equity ($20,000, ~21 shares); place 10% trailing stop GTC immediately on fill. Skip if gap-opens >$945 (not chasing). HOLD everything else. Keep ≥80% cash through NFP May 8. Max 1 new trade this week (watch PLTR Tue for potential 2nd position).
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
