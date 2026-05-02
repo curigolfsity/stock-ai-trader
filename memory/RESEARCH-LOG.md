@@ -108,3 +108,41 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 HOLD — Market at record highs, oil news-driven and volatile, ISM + NFP ahead. No clean low-risk entry today. Monitor EOG and CAT setups. Deploy next week if sector confirmation holds and a pullback offers entry without chasing. Max 2 positions on first deployment (20% each = $40k deployed, well within 75-85% target after gradual build).
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-05-02 — Pre-market Research
+
+### Account
+- Equity: $100,000
+- Cash: $100,000
+- Buying power: $200,000 (2× margin; non-marginable $100k)
+- Daytrade count: 0
+- Positions: 0 (no trades taken yet)
+- Open orders: 0
+
+### Market Context
+- WTI / Brent: ~$104.10 / ~$108.94 — pulled back from $126 high on Apr 30; Iran-US peace talks (Trump sending Witkoff/Kushner to Pakistan this weekend) driving supply-risk unwind; Strait of Hormuz tensions persist but de-escalation narrative in play
+- S&P 500 futures: ESM26 +0.13% to 7,253 premarket (Saturday — no live trading; context for Mon May 4 open)
+- VIX: 16.99 (+0.59%) — low, calm markets, no fear signal
+- Today's catalysts (Sat/weekend): Berkshire Hathaway annual meeting — Greg Abel era begins (first meeting without Buffett as central figure); AAPL +3-5% Friday on fiscal Q2 beat + strong Q3 guidance; Nasdaq closed at all-time high 25,114; Fed held rates, tone hawkish; Iran-US peace talk progress = bearish oil, bullish broad market
+- Earnings before Mon open: BRK.B/A reporting Sat (digested before Mon open); PLTR/AMD/ARM report week of May 5 — major AI narrative drivers
+- Economic calendar week of May 4: No major release Mon; NFP April jobs data Fri May 8; CPI May 13; no FOMC near-term
+
+### Trade Ideas
+1. **EOG Resources (EOG)** — WTI still elevated at $104 despite pullback; Energy sector #1 YTD; CONDITIONAL entry ~$132 only if WTI holds $100+ Mon morning and peace talks stall; stop $119 (-10% trail GTC), target $158 (+20%), R:R ~2:1. Risk: peace deal = sharp WTI dump, thesis breaks fast.
+2. **UnitedHealth (UNH)** — Healthcare sector YTD leader (+22%); defensive against hawkish Fed; no binary earnings risk near-term; entry ~$580 on Mon confirm above 5-day high, stop $522 (-10% trail GTC), target $696 (+20%), R:R 2:1. Risk: ACA/Medicaid policy headlines; premium valuation.
+3. **LMT (Lockheed Martin)** — Defense/geopolitical premium; Iran tensions not resolved even if talks progress; entry ~$530 on pullback, stop $477 (-10% trail GTC), target $636 (+20%), R:R ~2:1. Risk: peace deal = defense rotation out; Senate budget debates.
+
+### Risk Factors
+- Iran-US peace deal this weekend: if announced → WTI collapses → kills EOG/LMT thesis; sector rotation risk
+- S&P 500 and Nasdaq both at all-time highs — chasing risk; no urgency to buy the top
+- Fed hawkish tone: rate-cut hopes pushed out → headwind for high-multiple Tech; defensive/value tilt supported
+- PLTR/AMD/ARM earnings week of May 5 — AI narrative binary; could reset broad tape
+- NFP May 8 + CPI May 13 — twin macro events; whipsaw risk before positions can mature
+- No positions yet — patience remains correct posture; first entry must have clear thesis and clean level
+
+### Decision
+HOLD — Weekend peace talks could materially alter Energy/Defense thesis by Mon open. Markets at ATH with hawkish Fed and macro events (NFP, CPI) within 1-2 weeks. Action plan for Mon May 4: if WTI holds $100+ and Iran talks stall → initiate EOG ~$132 (20% of equity ~$20k, ~151 shares) with immediate 10% trail GTC. If oil drops below $100 → skip EOG, pivot to UNH as first position. Max 1 new position this week until macro clarity improves.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
