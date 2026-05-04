@@ -405,3 +405,56 @@ _Research via WebSearch (native fallback)_
 **HOLD** — Iran escalation with intraday equity sell-off (Dow -564 pts, VIX +7%) + PLTR binary tonight = no new entries today. CAT trailing stop at $792.35 protects downside. Reassess Tue AM post-PLTR earnings reaction. If PLTR beats + orderly gap (not >+15%) → evaluate $148–155 entry. If PLTR misses → HOLD all cash; wait for NFP May 8 clarity before any new trade.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-05-04 — Pre-market Research (Run 3 — EOD / Pre-PLTR Earnings Brief)
+
+### Account
+- Equity: $99,837.25
+- Cash: $84,965.56
+- Buying power: $184,802.81
+- Daytrade count: 1
+- Positions: CAT 17 shares long @ $884.38 avg | Current $874.81 | Unrealized -$162.76 (-1.08%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC; HWM $880.39; stop $792.35
+
+### Market Context
+- **WTI / Brent:** ~$107.35 / ~$114 — Iran Navy blocked US warships from Hormuz; UAE intercepted Iranian cruise missiles today; ceasefire narrative fully reversed; WTI forecast $105–125, Brent $115–135 for May
+- **S&P 500:** Closed ~7,217 (-0.18% from ATH 7,230.12 May 1); risk-off day (Dow -564 pts intraday); PLTR AMC tonight = primary sentiment driver for Tue
+- **VIX:** 18.09 (+6.47% on day) — elevated and rising; range since Apr 6: 16.44–28.00
+- **Today's catalysts (May 4):**
+  - Iran/Hormuz escalation (only 8 ships/day vs. 129 normal) — equity headwind intact
+  - PLTR Q1 AMC tonight — exp. $1.54B rev +74%, EPS $0.28 +115%; 96% Polymarket beat odds; options ±9–10%
+  - AMD Q1 AMC Tuesday May 5 — exp. $9.84B rev +32%, EPS $1.27; OpenAI + Meta 6GW MI450 deals in focus
+- **Earnings BMO Tue May 5:** No major S&P 500 reports
+- **Economic calendar:** ISM Services PMI (April) 10:00 ET Tue (Mar was 54.0); JOLTS Job Openings (March) 10:00 ET Tue; NFP April Fri May 8 (primary macro binary); CPI May 13; next FOMC June 16-17
+- **Sector momentum YTD:** Comms +4.5% ▲, Energy +3.3% ▲, Consumer Staples +1.2%, Real Estate +0.9%, Financials +0.9%, Industrials +0.2%, Materials -1.7% ▼; S&P 500 +5.1% YTD; IT + Comms leading earnings growth; Healthcare earnings declining
+
+### CAT Position Check
+- Entry $884.38; current $874.81; unrealized -1.08% — no -7% cut trigger
+- HWM $880.39; stop $792.35 — valid; no tightening needed (not at +15% = $1,017)
+- Q1 thesis intact: rev $17.41B (+22%), EPS $5.54 (+30%), $63B backlog (+79% YoY), Power Gen +41%; JPM PT $1,125 (OW), BofA $930, MS $915; 15 Buy/Strong Buy
+- Bear case: tariff headwind $710M Q1; stock +190% 1yr; some "Hold for now" at current levels
+- **Action: HOLD. Thesis intact.**
+
+### Trade Ideas
+1. **PLTR — Watchlist tonight** — Reports AMC; 10-quarter beat streak; 96% EPS beat probability; options ±9–10%. DO NOT enter pre-earnings. If beat + orderly Tue AM gap (<+15%): evaluate $148–155 entry; stop 10% GTC; target +20% (~$178–186); R:R ~2:1. If miss or gap >+15%: skip.
+2. **AMD — Watchlist Tue AMC** — Reports Tue AMC; exp. $9.84B rev +32%, $1.27 EPS; guidance $9.9B ±$300M, GM ~54%; AMD +74% April may have priced in near-term. If beat + orderly Wed AM reaction: evaluate $350+ entry; stop 10% GTC; target +20%. Gross margin guidance key.
+3. **Consumer Staples post-NFP** — Sector +1.2% YTD; defensive if NFP May 8 disappoints; PG/KO/WMT. No entry now — revisit post-NFP.
+
+### Risk Factors
+- **PLTR binary tonight (HIGH):** Miss → AI sentiment shock; broad tech/growth sell-off; contagion to Industrials/CAT possible
+- **AMD Tue AMC (HIGH):** Compounds AI narrative damage on miss; gross margin guidance key
+- **Iran/Hormuz (HIGH):** Only 8 ships/day; WTI ~$107; spike to $120+ on further breakdown = Industrials cost pressure
+- **VIX 18.09 (+6.47%):** Rising fear; unfavorable new-entry environment
+- **ISM Services + JOLTS Tue 10am:** Sub-50 services PMI = recession signal; miss amplifies risk-off
+- **NFP May 8:** Primary macro binary 4 days away; any new position carries full exposure
+- **CAT:** +190% 1yr / P/E ~44x; max downside to stop = -$1,401.82
+
+### Decision
+**HOLD** — Three stacked binaries within 36 hours (PLTR AMC tonight, AMD Tue AMC, ISM/JOLTS Tue 10am) + NFP Fri = no new entries. CAT stop $792.35 protects downside. Reassess Tue AM:
+- PLTR beat + orderly gap (<+15%) → evaluate $148–155 entry (15% size, 2nd position)
+- PLTR miss → HOLD all cash; no new entries until NFP May 8 clears
+- CAT -1.08%: inside -7% rule; stop intact; thesis holds
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
