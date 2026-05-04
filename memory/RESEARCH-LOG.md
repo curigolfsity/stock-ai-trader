@@ -354,3 +354,54 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - NFP Fri May 8 — primary macro risk
 
 _Research via WebSearch (native fallback)_
+
+---
+
+## 2026-05-04 — Pre-market Research (Run 2 — Afternoon/Iran Escalation Update)
+
+### Account
+- Equity: $99,833.17
+- Cash: $84,965.56
+- Buying power: $184,798.73
+- Daytrade count: 1
+- Positions: CAT 17 shares long @ $884.38 avg | Current $874.57 | Unrealized -$166.84 (-1.11%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC; HWM $880.39; stop $792.35
+
+### Market Context
+- **WTI / Brent:** ~$105.61 / ~$113.81 (+3–5% intraday) — UAE intercepted Iranian cruise missiles; fresh escalation; prior ceasefire narrative reversed
+- **S&P 500:** Premarket +0.07% (7,235); intraday: S&P -0.5%, Dow -564 pts (-1.1%), Nasdaq -0.3%; prior close ATH 7,230.12
+- **VIX:** 18.24 (+7.36% from 17.01 open) — elevated and rising; fear reaccelerating
+- **Today's catalysts:**
+  - UAE missile intercept (Iranian-launched) → oil spike, equity sell-off
+  - Dow -564 pts at midday; broad risk-off
+  - GameStop ($GME) bid to acquire eBay at $125/share ($EBAY +10%)
+  - Circle Internet (+17%) on stablecoin legislation progress
+  - PLTR reports AMC tonight — primary watchlist event
+- **Earnings before open:** No major S&P 500 reports BMO today
+- **Economic calendar:** Nothing major today; NFP April Fri May 8 8:30am ET (primary macro risk); no FOMC until June 16-17
+- **Sector momentum YTD (as of May 1):** Communications +4.5% ▲, Energy +3.3% ▲, Consumer Staples +1.2%, Real Estate +0.9%, Financials +0.9%, Industrials +0.2%; Materials -1.7% ▼; S&P 500 YTD +5.1%
+
+### CAT Position Check
+- Entry $884.38; current $874.57; unrealized -1.11% — no -7% cut trigger
+- HWM reset to $880.39 since midday ($873.16 → $880.39 = CAT bounced post midday then faded)
+- Stop now $792.35 (10% below HWM $880.39) — valid, no tightening needed (not at +15%)
+- CAT news: Q1 beat intact; JPM PT $1,125 (OW); BofA PT $930; MS PT $915; some analysts "Hold for now" at +190% 1yr gain. No thesis-breaking news.
+- **Action: HOLD. Thesis intact.**
+
+### Trade Ideas
+1. **PLTR (watchlist post-earnings)** — Reports AMC tonight; options ±10.06% move; 96% EPS beat odds (Polymarket); exp. $1.54B rev +74%, EPS $0.28 +115%. DO NOT enter pre-earnings. If beat + orderly Tue AM gap (not >+15%), evaluate $148–155 entry; stop 10% GTC; target +20% (~$178); R:R ~2:1.
+2. **AMD (watchlist Tue AMC)** — Reports Tue AMC; OpenAI 6GW + Meta 6GW MI450 structural catalysts; AMD +74% April may have priced in near-term. If beat + orderly Wed AM reaction, evaluate $350+ entry; stop 10% GTC; target +20%. Watch gross margin guidance.
+3. **Energy sector (secondary watch)** — WTI >$105, Brent >$113 on Iran escalation; XOM/CVX benefiting. BUT ceasefire snapback risk is high; do not chase. Skip for now — binary risk too elevated with NFP Fri.
+
+### Risk Factors
+- **Iran escalation (HIGH):** UAE missile intercept reverses ceasefire narrative; WTI could spike $120+ on further breakdown; broad equity sell-off in progress
+- **VIX 18.24 (+7%):** Elevated and rising — unfavorable entry environment for new positions
+- **PLTR AMC tonight (HIGH):** Miss → AI sentiment shock; broad tech/growth sell-off
+- **AMD Tue AMC:** Secondary binary; miss compounds AI narrative damage
+- **NFP Fri May 8:** Primary macro binary still ahead
+- **CAT valuation:** 190% 1yr gain; analysts increasingly cautious at current levels
+
+### Decision
+**HOLD** — Iran escalation with intraday equity sell-off (Dow -564 pts, VIX +7%) + PLTR binary tonight = no new entries today. CAT trailing stop at $792.35 protects downside. Reassess Tue AM post-PLTR earnings reaction. If PLTR beats + orderly gap (not >+15%) → evaluate $148–155 entry. If PLTR misses → HOLD all cash; wait for NFP May 8 clarity before any new trade.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
