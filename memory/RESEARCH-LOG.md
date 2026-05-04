@@ -275,3 +275,57 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 **HOLD** — Revised from prior CONDITIONAL TRADE. Rationale: FOMC May 6-7 confirmed this week (was missing from prior entries). CAT at 44x P/E / +32% YTD carries high rate sensitivity; entering Mon/Tue with FOMC Wed = poor risk-adjusted trade. Plan: HOLD through FOMC Wednesday. Reassess Thu May 7 evening (post-FOMC + pre-NFP). Exception: CAT pulls back to $870-880 Mon AND Fed funds futures shift clearly dovish by Tue close → may initiate 15% half-size position ($15,000, ~17 shares) with tighter $800 stop.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-05-04 — Pre-market Research (Monday)
+
+### Account
+- Equity: $100,000
+- Cash: $100,000
+- Buying power: $200,000 (2× margin)
+- Daytrade count: 0
+- Positions: 0 (flat)
+- Open orders: 0
+
+### Market Context
+- **WTI / Brent:** ~$101 / ~$116 — WTI fell on Iran ceasefire hopes; Brent spiked to $126 on escalation fears, now retreating; wide $15 spread reflects geopolitical risk premium
+- **S&P 500:** ATH 7,230.12 (Fri +0.29%); ES futures +0.07% premarket; 76% of traders betting "Up"; Nasdaq ATH 25,114.44
+- **VIX:** 16.78 (down 0.11 pts); low fear
+- **⚠ FOMC CORRECTION (critical):** NO FOMC in May. April 28-29 meeting concluded (held 3.5%-3.75%); next meeting June 16-17. Prior entries claiming "FOMC May 6-7 CONFIRMED" were WRONG — risk removed.
+- **Economic calendar this week:** NFP April Fri May 8 8:30am ET (main event); Chicago PMI 49.2 (contraction); S&P Global Mfg PMI 54.5 (expansion — strongest since May 2022)
+- **Earnings this week:**
+  | Day | Key Report | Expected Move |
+  |-----|-----------|---------------|
+  | Mon AMC | **PLTR** | ±10.55%; rev $1.54B +74%, EPS $0.28 +115%; 96% EPS beat (Polymarket); shares up premarket |
+  | Tue AMC | **AMD** | rev $9.89B +33%, EPS $1.29 +34%; OpenAI 6GW + Meta 6GW MI450 deals; Data Center record |
+  | Thu AMC | Airbnb, DDOG, TTD, DIS | various |
+  | Fri BMO | **NFP April** | high-impact macro binary |
+
+### Sector Momentum YTD
+- Leading: Consumer Staples, Industrials, Materials, Energy
+- Weakening: Healthcare (was top performer, now fading)
+- Lagging: Tech, Communication Services, Consumer Discretionary, Financials
+- Improving: Real Estate, Utilities
+
+### Trade Ideas
+1. **CAT (Caterpillar)** — Traded $879-905 today; ~$889 current. Industrials = leading sector. FOMC-in-May risk eliminated (prior blocker was incorrect). Thesis intact: Q1 beat (rev +22%, EPS +30%), raised guidance, MS PT $915, BofA PT $930. Entry: limit $885 (skip if gap-opens >$910); stop $800 (10% trail GTC on fill); target ~$1,060 (+20%); R:R ~2:1. Size: 15% ($15k, ~17 shares). CAVEAT: 44x P/E / +32% YTD still demanding; NFP May 8 is real risk.
+2. **PLTR — WATCHLIST AMC tonight** — DO NOT enter pre-earnings. Options ±10.55%; 96% EPS beat probability; Stocktwits sentiment mixed/bearish (contrarian note). If beat + orderly Tue AM reaction (gap not >+15%), evaluate $148-155 entry; 10% trail GTC; target +20%.
+3. **AMD — WATCHLIST Tue AMC** — DO NOT enter pre-earnings. OpenAI + Meta 6GW deals strong structural catalysts; AMD +74% in April may have priced in near-term. If beat + orderly Wed AM reaction, evaluate $350+ entry; 10% trail; target +20%. Watch gross margin guidance (was 55% vs 57% prior).
+
+### Thesis Changes vs. Prior Entry
+- **FOMC CORRECTED (HIGH):** No May meeting — prior "FOMC May 6-7 CONFIRMED" was wrong. Next meeting June 16-17. Removes the primary hold rationale from May 2 entry.
+- **CAT:** Upgraded from HOLD to CONDITIONAL TRADE — FOMC blocker eliminated; entry $885 valid if no gap-open above $910.
+- **Oil:** Brent retreating from $126 spike; WTI $101 on ceasefire progress. Energy leading but momentum may be peaking.
+
+### Risk Factors
+- **NFP May 8 (HIGH):** Primary near-term macro risk now FOMC is June
+- **PLTR/AMD earnings mid-week:** Miss on either → AI sentiment shock; could drag broad market
+- **Iran:** Ceasefire still fragile; snap reversal to $120+ oil possible on breakdown
+- **S&P at ATH:** No valuation cushion; guidance miss = amplified drawdown
+- **CAT valuation:** 44x P/E / +32% YTD; high-beta to any NFP/macro miss
+
+### Decision
+**CONDITIONAL TRADE** — FOMC correction removes the primary hold rationale. CAT is best current setup: Industrials leading, strong Q1 beat, price in range. Entry condition: CAT limit $885 if no gap-open above $910. Size 15% ($15k, ~17 shares). Otherwise HOLD flat; reassess Thu May 7 morning post PLTR/AMD earnings clarity. PLTR and AMD watchlist only — no pre-earnings entry.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
