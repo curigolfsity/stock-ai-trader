@@ -280,6 +280,7 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 
 ## 2026-05-04 — Pre-market Research (Monday)
 
+
 ### Account
 - Equity: $100,000
 - Cash: $100,000
@@ -329,3 +330,27 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 **CONDITIONAL TRADE** — FOMC correction removes the primary hold rationale. CAT is best current setup: Industrials leading, strong Q1 beat, price in range. Entry condition: CAT limit $885 if no gap-open above $910. Size 15% ($15k, ~17 shares). Otherwise HOLD flat; reassess Thu May 7 morning post PLTR/AMD earnings clarity. PLTR and AMD watchlist only — no pre-earnings entry.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-05-04 — Midday Addendum (~12:20 ET)
+
+### Account Snapshot
+- Equity: $99,817 | Cash: $84,966 | Buying power: $184,783
+- Daytrade count: 1
+- Positions: CAT 17 shares long @ $884.38 avg
+
+### CAT Intraday Check
+- Price: $872.78 (-1.89% on day from $889.67 close; -1.31% from entry $884.38)
+- No -7% trigger. No tightening needed (not at +15%).
+- **Missing trailing stop discovered and placed:** 10% GTC, order 1c43ebd9, HWM $873.16, stop $785.84
+- **News sweep:** No CAT-specific thesis-breaking news. Dip = broad Iran/Hormuz geopolitical noise. S&P -0.2–0.5%, Dow -0.4%.
+- Fundamentals unchanged: tariff cost revised down ($2.2–2.4B from $2.6B), JPM raised PT $1,125 (OW), BofA $930, MS $915. No downgrades.
+- **Verdict: HOLD. Thesis intact.**
+
+### Watchlist Tonight
+- PLTR reports AMC — watchlist only; do NOT enter pre-earnings (±10.55% expected move)
+- AMD reports Tue AMC — watchlist only
+- NFP Fri May 8 — primary macro risk
+
+_Research via WebSearch (native fallback)_
