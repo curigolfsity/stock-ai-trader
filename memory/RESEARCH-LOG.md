@@ -458,3 +458,52 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - CAT -1.08%: inside -7% rule; stop intact; thesis holds
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-05-05 — Pre-market Research
+
+### Account
+- Equity: $99,891.39
+- Cash: $84,965.56
+- Buying power: $184,856.95
+- Daytrade count: 0
+- Positions: CAT 17 shares long @ $884.38 avg | Current $877.99 | Unrealized -$108.61 (-0.72%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC; HWM $880.39; stop $792.35
+
+### Market Context
+- **WTI / Brent:** ~$103.78 / ~$112.85 — both pulling back (WTI -2.5%, Brent -1.3%) from Monday's Iran-spike highs ($106.42 / $114.44); structural Hormuz risk intact, early de-escalation signals in price
+- **S&P 500:** ~7,225 (SPX slightly positive vs Monday close 7,200.75); PLTR beat lifting AI/tech tone
+- **VIX:** ~18.24 intraday (+7.4%) — still elevated; range since Apr 6: 16.44–28.00
+- **Today's catalysts (May 5):**
+  - ISM Services PMI (April) + JOLTS Job Openings (March) both at 10:00 AM ET — macro binary
+  - AMD Q1 reports AMC tonight — exp. $9.9B rev +33%, EPS $1.28; HSBC cautious (meet/not-beat); DA Davidson bullish; Cathie Wood sold $70M+ AMD recently
+  - PLTR Q1 beat (AMC May 4): EPS $0.33 vs $0.28 est (+18%), rev $1.63B vs $1.54B est (+85% YoY), raised 2026 guidance to $7.65B (from $7.19B); premarket faded to +1.4% (~$146, below $148–155 entry window)
+  - NCLH missed rev + weak Q2 guide (-6.5%); blaming Middle East + high fuel costs
+- **Earnings BMO today:** No major S&P 500 reports before open
+- **Economic calendar:** ISM Services + JOLTS 10 AM ET today; ADP Wed; NFP Fri May 8 (primary binary); CPI May 13; FOMC June 16–17
+- **Sector momentum YTD:** Energy +30.7% ▲▲ (leading; Hormuz + AI power gen); Consumer Staples / Industrials / Materials also Leading; Tech / Comms / Consumer Disc / Financials Lagging; Healthcare Weakening; RE / Utilities Improving
+
+### CAT Position Check
+- Entry $884.38; current $877.99; unrealized -0.72% — no -7% cut trigger (threshold ~$822)
+- HWM $880.39; stop $792.35 — valid; no tightening needed (not at +15% = $1,017)
+- No new negative CAT-specific news today; day range $869.59–$892.03; thesis intact
+- TIKR bull case $932; consensus $874; 15 Buy/Strong Buy on Street
+- **Action: HOLD. Stop valid.**
+
+### Trade Ideas
+1. **PLTR — Conditional entry post-AMD (Wed AM)** — Massive Q1 beat; but premarket faded to $146, below $148–155 window; AMD AMC tonight could hit AI/tech sentiment on a miss. **Plan: HOLD today. If AMD beats → Wed AM evaluate 80 shares PLTR at $148–153 (~12% equity, ~$12,000); stop 10% GTC (~$133); target +20% (~$178); R:R ~2:1.**
+2. **Energy / CVX — Watchlist post-NFP** — Energy #1 YTD sector +30.7%; WTI pullback today creates potential entry; Hormuz structural bid. No entry until NFP May 8 clears direction.
+3. **Consumer Staples (KO / PG) — Post-NFP defensive** — Sector Leading; defensive hedge if NFP disappoints. No entry now.
+
+### Risk Factors
+- **AMD AMC tonight (HIGH):** HSBC says meet/not-beat; Cathie Wood sold $70M+; miss or soft gross margin guidance = AI/tech sentiment damage; contagion to PLTR
+- **ISM Services + JOLTS 10 AM (MEDIUM-HIGH):** Sub-50 PMI = contraction; weak JOLTS = demand slowdown; combined miss could reverse SPX rally
+- **VIX 18.24 (MEDIUM):** Still elevated; sub-17 needed for favorable new-entry environment
+- **Iran/Hormuz (MEDIUM):** Structural disruption intact (8 ships/day vs. 129 normal); any re-escalation → oil spike → Industrials/CAT headwind
+- **NFP Fri May 8 (HIGH):** Primary macro binary 3 days away; any new position carries full exposure
+
+### Decision
+**HOLD** — ISM/JOLTS at 10 AM + AMD AMC tonight = two binaries precluding clean entry. PLTR beat is legitimate but reaction faded below entry window; waiting for AMD to clear before committing capital. CAT thesis intact at -0.72%; stop $792.35 valid. **Wed AM: if AMD beats → evaluate PLTR 80 shares $148–153; if AMD misses → HOLD all cash until NFP May 8.**
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
