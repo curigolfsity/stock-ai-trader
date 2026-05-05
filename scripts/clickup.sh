@@ -29,10 +29,7 @@ if [[ -z "${DISCORD_WEBHOOK_URL:-}" ]]; then
   exit 0
 fi
 
-payload="$(python3 -c "
-import json, sys
-print(json.dumps({'content': sys.argv[1]}))
-" "$msg")"
+payload="$(jq -n --arg content "$msg" '{"content": $content}')"
 
 curl -fsS -X POST "$DISCORD_WEBHOOK_URL" \
   -H "Content-Type: application/json" \
