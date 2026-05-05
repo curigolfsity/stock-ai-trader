@@ -47,3 +47,14 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $874.81 | -1.67% | -$162.76 (-1.08%) | $792.35 (10% trail, HWM $880.39) |
 
 **Notes:** Day 1 ended with CAT as the sole position, closing at $874.81 after a -1.67% session driven by Iran/Hormuz macro noise rather than any CAT-specific deterioration. The -1.08% unrealized loss is well above the -7% manual cut threshold ($822). Trailing stop tightened naturally as the HWM climbed intraday to $880.39, moving the stop up to $792.35. PLTR reported earnings after the close tonight — will reassess for watchlist entry tomorrow. No new trades entered; weekly count remains 1/3 with ample capacity. Phase P&L -$162.75 (-0.16%) vs. $100,000 starting equity.
+
+---
+
+### May 05 — EOD Snapshot (Day 2, Tuesday)
+**Portfolio:** $100,247.03 | **Cash:** $84,965.56 (84.8%) | **Day P&L:** +$409.78 (+0.41%) | **Phase P&L:** +$247.03 (+0.25%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $898.91 | +2.76% | +$247.03 (+1.64%) | $818.01 (10% trail, HWM $908.90) |
+
+**Notes:** Day 2 saw a sharp reversal as CAT recovered from Monday's macro dip, closing at $898.91 (+2.76%). The AI data-center power gen catalyst continued to strengthen alongside the broader market recovery (+0.41% day P&L). The trailing stop HWM held at $908.90 with stop at $818.01 — well above entry and no manual tightening required (still below +15%/$1,017 threshold). Phase P&L turned positive for the first time: +$247.03 (+0.25%) vs. $100,000 starting equity. No trades entered today; weekly count remains 1/3 with ample capacity. AMD Q1 results reported AMC — will evaluate for PLTR or other watchlist entries tomorrow morning before open.
