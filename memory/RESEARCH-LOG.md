@@ -588,3 +588,60 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - No positions cut. No stops adjusted. No new entries.
 
 _Research via WebSearch (native fallback)_
+
+---
+
+## 2026-05-05 — Pre-Market Research
+
+### Account Snapshot
+- Equity: $100,320.30 | Cash: $84,965.56 | Buying power: $185,285.86
+- Daytrade count: 0 | Weekly trades: 1/3
+- Positions: CAT 17sh @ $884.38 avg | Current $903.22 | Unrealized +$320.30 (+2.13%) | Day chg +3.25%
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC; HWM $908.90; stop $818.01 ✓
+
+### Market Context
+- **SPX futures:** -0.12% premarket; SPX closed May 4 at 7,200.75 (-0.41%); Dow -1.13% to 48,941.90
+- **VIX:** ~18.24 (elevated; sub-17 needed for clean new-entry environment)
+- **WTI:** ~$105–106/barrel | **Brent:** ~$115/barrel (Iran/Hormuz structural bid intact)
+- **Iran/Hormuz:** de-escalation signals emerging but structural disruption ongoing (~8 ships/day vs. 129 normal)
+- **Sector momentum:** IT & Comm Services leading Q1 earnings growth; Energy earnings declined YoY despite high prices; Industrials strong (CAT $63B backlog)
+
+### Today's Releases
+- Trade Balance 08:30 ET
+- ISM Services PMI 10:00 AM (est. 53.8 vs prior 54.0 — expansion; miss below 50 = contraction risk)
+- JOLTS 10:00 AM (est. 6.870M job openings)
+- **AMD Q1 AMC tonight** — exp. $9.84B rev (+33%), EPS $1.28–1.30; Data Center ~$5.56B (+51% YoY); primary AI/tech binary
+- ADP Wed May 6 | NFP Fri May 8
+
+### Earnings BMO Today
+- No major S&P 500 BMO reports of significance
+
+### CAT Position Check
+- Current $903.22 (+3.25% on day); unrealized +$320.30 (+2.13%) — well above -7% cut threshold (~$822)
+- HWM $908.90; stop $818.01 — valid; auto-advancing upward ✓
+- Thesis intact and strengthening: $63B backlog (+79% YoY), Q1 EPS $5.54 vs $4.62 est, Citi PT $1,020 (OW), Power & Energy AI data-center narrative confirmed
+- Risk watch: tariff cost $700M Q2 (known/embedded); Resource Industries op profit -39% in Q1, margin -700bps
+- **Action: HOLD. No stop adjustment needed (not at +15% = $1,017 or +20% = $1,061).**
+
+### PLTR Watch
+- Q1 reported AMC May 4: EPS $0.33 vs $0.28 (+18%), rev $1.63B vs $1.54B (+85% YoY), raised 2026 guide $7.65B
+- Premarket May 5: ~$152 — within $148–155 entry window
+- **Hold on entry:** AMD reports AMC tonight; AI/tech sentiment binary; entering today = full AMD binary exposure
+- **Plan:** If AMD beats → Wed AM 80sh PLTR $148–155 (stop 10% GTC ~$133–140; target +20% ~$178–186; R:R ~2:1); if AMD misses → reassess Wed AM
+
+### Trade Ideas
+1. **PLTR — Wed AM conditional** — In entry window at $152 premarket but AMD tonight is the binary. Wait.
+2. **CAT — HOLD existing** — Thesis intact; stop advancing; no action.
+3. **Energy (CVX/XOM) — Post-NFP only** — Oil elevated but Q1 Energy earnings declined YoY; wait for NFP May 8.
+
+### Risk Factors
+- **AMD AMC tonight (HIGH):** AI/tech sector binary; miss or weak gross-margin guide = PLTR contagion risk
+- **ISM Services 10 AM (MEDIUM-HIGH):** Below 53 = disappointment; below 50 = contraction signal
+- **JOLTS 10 AM (MEDIUM):** Below 6.5M = demand slowdown; market-moving
+- **VIX 18.24 (MEDIUM):** Elevated; unfavorable for new entries
+- **NFP Fri May 8 (HIGH):** Primary weekly macro binary in 3 days
+
+### Decision
+**HOLD** — ISM Services + JOLTS at 10 AM (macro binaries) and AMD AMC tonight (AI/tech binary) preclude clean new entry. PLTR is in the entry window at $152 but patience is required — Wed AM post-AMD is the earliest clean window. CAT thesis intact and strengthening; stop valid; no action needed.
+
+_Research via WebSearch (native fallback)_
