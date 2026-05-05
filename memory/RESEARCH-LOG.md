@@ -559,3 +559,32 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 **HOLD** — ISM/JOLTS at 10 AM + AMD AMC tonight = two binaries precluding clean entry. PLTR beat is legitimate but reaction faded below entry window; waiting for AMD to clear before committing capital. CAT thesis intact at -0.72%; stop $792.35 valid. **Wed AM: if AMD beats → evaluate PLTR 80 shares $148–153; if AMD misses → HOLD all cash until NFP May 8.**
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-05-05 — Midday Addendum (~midday ET)
+
+### Account Snapshot
+- Equity: ~$100,319 | Cash: $84,966 | Buying power: ~$185,284
+- Daytrade count: 0
+- Positions: CAT 17 shares long @ $884.38 avg | Current $903.17 | Unrealized +$319.36 (+2.12%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC; HWM $908.90 (auto-advanced); stop $818.01
+
+### CAT Intraday Check
+- Price: $903.17 (+3.25% on day; +2.12% from entry $884.38)
+- No -7% cut trigger. No tightening needed (not at +15% = $1,017).
+- Trailing stop auto-advanced: HWM $880.39→$908.90; stop $792.35→$818.01. Valid — stop only moved up.
+- **CAT catalyst today:** Power & Energy segment AI data-center narrative confirmed; Citi raised PT $905→$1,020 (OW); Q1 mgmt raised full-year sales outlook. Tariff cost ($700M Q2) already embedded in estimates.
+- **Simply Wall St note:** Margin compression flagged — adjusted op margin at low end of target range. Known risk; does not break thesis.
+- **Verdict: HOLD. Thesis intact and strengthening.**
+
+### Market Context
+- S&P 500 +0.55%, Dow +0.55%, Nasdaq +0.70%, Russell 2000 -0.60%
+- Iran/Hormuz: early de-escalation signals; oil pulling back (WTI ~$101, Brent ~$112)
+- VIX still elevated (~18); sub-17 needed for clean new-entry environment
+- AMD Q1 AMC tonight — primary binary for PLTR entry decision tomorrow
+
+### No Actions Taken
+- No positions cut. No stops adjusted. No new entries.
+
+_Research via WebSearch (native fallback)_

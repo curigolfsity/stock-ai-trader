@@ -13,7 +13,7 @@ No positions yet. Bot launches tomorrow.
 
 | Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
-| 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $880.39; stop $792.35) | Q1 beat (rev +22%, EPS +30%), Industrials leading sector, MS PT $915, AI data-center power gen catalyst | ~$1,061 (+20%) | 2:1 |
+| 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $908.90; stop $818.01) | Q1 beat (rev +22%, EPS +30%), Industrials leading sector, Citi PT $1,020, AI data-center power gen catalyst | ~$1,061 (+20%) | 2:1 |
 
 **Tighten trail:** 7% at +15% ($1,017), 5% at +20% ($1,061).
 **Cut rule:** Close manually if unrealized loss hits -7% (~$822).
@@ -25,6 +25,15 @@ No positions yet. Bot launches tomorrow.
 - **Action:** Placed missing 10% trailing stop GTC (order 1c43ebd9; HWM $873.16; stop $785.84)
 - **Thesis check:** No CAT-specific news. Dip = Iran/Hormuz macro noise. Fundamentals intact (tariff cost revised lower, analyst upgrades). HOLD.
 - **PLTR:** Reports AMC tonight — watchlist only; no action.
+
+### Midday Scan — 2026-05-05
+
+- **Account:** Equity ~$100,319 | Cash $84,966 | Daytrade count: 0
+- **CAT:** $903.17 (+2.12% unrealized; +3.25% on day) — no -7% trigger; below +15% tightening threshold
+- **Trailing stop:** HWM auto-advanced $880.39→$908.90; stop auto-advanced $792.35→$818.01 ✓ (stop only moved up)
+- **Action:** No trades. No stop adjustments needed (not at +15%/$1,017 or +20%/$1,061).
+- **Thesis check:** INTACT + strengthening. CAT up on AI data-center power gen catalyst (Power & Energy segment outperforming); Citi raised PT $905→$1,020; Q1 mgmt raised full-year outlook. Tariff headwind (~$700M Q2) known/priced. Market +0.55% broad recovery from Iran dip.
+- **Watchlist tonight:** AMD Q1 AMC — beat → evaluate PLTR 80sh $148–153 Wed AM; miss → hold cash to NFP May 8.
 
 ### Weekly Trade Count: 1 confirmed (CAT filled 2026-05-04)
 
