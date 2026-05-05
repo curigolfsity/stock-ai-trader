@@ -461,6 +461,58 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 
 ---
 
+## 2026-05-05 — Pre-market Research (Run 2 — Live Session)
+
+### Account
+- Equity: $100,322.00
+- Cash: $84,965.56
+- Buying power: $185,287.56
+- Daytrade count: 0
+- Positions: CAT 17 shares long @ $884.38 avg | Current $903.41 | Unrealized +$323.53 (+2.15%) | Day +3.27%
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC; HWM $908.90; stop $818.01
+
+### CAT Trailing Stop Update
+- HWM moved from $880.39 → $908.90 (CAT rallied today on Industrials strength + ongoing Q1 catalyst)
+- Stop auto-tightened from $792.35 → $818.01 (correctly tracking 10% below HWM)
+- No manual tightening needed yet — +15% tighten trigger = $1,017; +20% trigger = $1,061
+- **Action: HOLD. Stop functioning correctly.**
+
+### Market Context
+- **WTI / Brent:** ~$102.65 / ~$111.45 — both pulling back 2-3% from Monday's Iran-spike highs; US confirms Iran ceasefire remains in place despite UAE drone/missile intercepts; structural Hormuz disruption intact (8 ships/day vs. 129 normal)
+- **S&P 500:** Futures +0.4% (~7,258) premarket; PLTR beat lifting AI/tech tone; oil pullback = relief for Industrials
+- **VIX:** ~18.24 — still elevated (Mon spike +7.4%); range since Apr 6: 16.44–28.00; no clear-all-clear yet
+- **Today's catalysts (May 5):**
+  - **PLTR Q1 beat (reported AMC May 4):** EPS $0.33 vs $0.28 est; rev $1.63B vs $1.54B est (+85% YoY); 2026 guidance raised to $7.65B; stock +2% only — muted reaction at 46× forward revenue; still below $148–155 entry window
+  - **AMD Q1 AMC tonight:** exp. $9.88B rev +33%, EPS $1.28; gross margin ~55% (key watch — step down from 57% Q4); HSBC cautious (meet/not-beat); Cathie Wood sold $70M+ recently; Data Center rev exp. $5.56B +51.5% YoY; OpenAI + Meta 6GW MI450 deals in focus
+  - **ISM Services PMI (April) + JOLTS (March) 10 AM ET:** results pending; March ISM Svcs 54.0 (prior); sub-50 = contraction signal
+  - **GE Vernova:** nuclear + nat gas data center deal (Blue Energy SMR) — AI power gen theme extends CAT thesis
+  - **Pfizer** +2.2% BMO beat; **Shopify** -7%; **Duolingo** -7%; **Tyson** strong
+  - Apple chipmaking talks (Intel/Samsung); Meta $13B data center financing; Anthropic $1.5B Wall Street JV; OpenAI IPO preps
+- **Earnings BMO today:** No major S&P 500 reports before open
+- **Economic calendar:** ISM Services + JOLTS 10 AM ET today; ADP Wed; NFP Apr Fri May 8 (primary binary); CPI May 13; FOMC June 16–17
+- **Sector momentum YTD:** Energy + Consumer Staples leading; Industrials / Healthcare outperforming; Tech / Comms / Consumer Disc / Financials lagging; AI power gen sub-theme lifting Industrials
+
+### Trade Ideas
+1. **PLTR — Conditional entry Wed AM** — Massive Q1 beat (EPS +18% beat, rev +6% beat, guidance +6.5% raise) but muted +2% reaction (46× fwd revenue priced in). AMD reports AMC tonight; miss → PLTR fades further; beat → PLTR may re-test $148–155. **Plan: HOLD today. If AMD beats → evaluate Wed AM entry 80 shares PLTR ~$148–153 (~$12,000, ~12% equity); stop 10% GTC (~$133); target +20% (~$178); R:R ~2:1.**
+2. **GEV (GE Vernova) — Watchlist** — Nuclear + nat gas SMR data center deal; AI power gen catalyst aligns with CAT thesis; no earnings binary near-term; but VIX 18+ = unfavorable entry environment; watchlist post-AMD/NFP.
+3. **Energy (CVX/XOM) — Post-NFP** — Energy sector leading YTD; WTI pullback today = potential setup; Hormuz structural bid; Goldman $90 oil target is headwind; wait for NFP May 8 clarity before any entry.
+
+### Risk Factors
+- **AMD AMC tonight (HIGH):** Gross margin guide 55% (step-down from 57%) is the key watch; miss or soft guide → AI/tech sentiment shock; PLTR contagion
+- **ISM Services + JOLTS 10 AM (MEDIUM-HIGH):** Sub-50 services PMI = contraction signal; weak JOLTS = labor demand slowdown; combined miss could reverse SPX +0.4% premarket
+- **VIX 18.24 (MEDIUM):** Still elevated; sub-17 needed for favorable new-entry environment
+- **Iran/Hormuz (MEDIUM):** Ceasefire fragile; structural disruption intact; snap oil reversal risk to $120+ on breakdown
+- **PLTR valuation (MEDIUM):** 46× forward revenue — even strong beats don't move the stock; limits upside asymmetry
+- **NFP Fri May 8 (HIGH):** Primary macro binary 3 days away; any new position carries full exposure
+- **CAT stop gap risk:** Stop $818.01 is 9.5% below current; a gap-open gap-down through stop = max loss ~$1,452; Iran re-escalation scenario
+
+### Decision
+**HOLD** — AMD AMC tonight + ISM/JOLTS at 10 AM = two binaries precluding new entries. PLTR beat is legitimate but muted reaction and 46× valuation limit urgency; waiting for AMD to clear before committing capital. CAT thesis intact at +2.15% unrealized; trailing stop correctly tightened to $818.01. **Wed AM: if AMD beats → evaluate PLTR 80 shares $148–153; if AMD misses → HOLD all cash until NFP May 8 clears.**
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
 ## 2026-05-05 — Pre-market Research
 
 ### Account
