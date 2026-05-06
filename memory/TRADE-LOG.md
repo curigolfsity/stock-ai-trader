@@ -70,3 +70,14 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check:** INTACT. AMD Q1 massive beat validates AI data-center power gen narrative; Argus raised CAT PT $820→$990. Oil WTI ~$100 (de-escalation signals = slight margin tailwind). BofA PT $930 approaching.
 - **PLTR:** Pre-market gate required ≥$148 post-ADP. PLTR opened $140.30, peaked $142.98, now ~$135.91 — never reached $148. **No entry.** Selling off on ADP beat (+109k vs 84k est) removing rate-cut expectations; 46× fwd revenue = expensive growth headwind when Fed stays pat.
 - **ADP (May 6):** +109k (beat 84k est) — strong jobs; Fed on hold; Industrials/CAT benefit from stable macro; expensive AI/growth (PLTR) selling off.
+
+---
+
+### May 06 — EOD Snapshot (Day 3, Wednesday)
+**Portfolio:** $100,727.66 | **Cash:** $84,965.56 (84.4%) | **Day P&L:** +$384.07 (+0.38%) | **Phase P&L:** +$727.66 (+0.73%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $927.18 | +2.50% | +$727.66 (+4.84%) | $834.89 (10% trail, HWM $927.65) |
+
+**Notes:** Day 3 closed with CAT at $927.18, extending the recovery for a third straight session and lifting phase P&L to +$727.66 (+0.73%). Day gain of +$384.07 (+0.38%) driven entirely by CAT's +2.50% session, supported by Argus PT raise ($820→$990) and AMD Q1 beat reinforcing the AI data-center power gen thesis. Trailing stop HWM advanced to $927.65 with stop auto-moved to $834.89 — well above entry, no manual action needed. PLTR never hit the pre-market gate ($148); selling off on ADP beat reducing rate-cut expectations, no entry taken. Weekly trade count 1/3. Next decision point: NFP Friday May 8 — strong print favors holding CAT and reassessing watchlist; weak print increases stop-tightening vigilance.
