@@ -701,3 +701,37 @@ _Research via WebSearch (native fallback)_
 **CONDITIONAL TRADE** — PLTR 80sh if price ≥ $148 after ADP clears at 8:15 AM; otherwise **HOLD**. AMD beat validates AI demand thesis and creates clean re-entry catalyst for PLTR. VIX 16.73 improving. ADP is the gate: strong data (no rate shock) + PLTR ≥ $148 → pull trigger. Weak ADP or PLTR below $148 → HOLD cash through NFP. CAT: hold, stop auto-advancing, no action needed.
 
 _Research via WebSearch (native fallback)_
+
+---
+
+## 2026-05-06 — Midday Addendum (~midday ET)
+
+### Account Snapshot
+- Equity: ~$100,603 | Cash: $84,966 | Buying power: ~$185,568
+- Daytrade count: 0 | Weekly trades: 1/3
+- Positions: CAT 17sh @ $884.38 avg | Current $919.84 | Unrealized +$602.84 (+4.01%) | Day +1.69%
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC; HWM $926.50 (auto-advanced); stop $833.85 ✓
+
+### CAT Intraday Check
+- Price: $919.84 (+4.01% unrealized; +1.69% day); day range $912.20–$933.89
+- No -7% cut trigger. No tightening needed (not at +15% = $1,017).
+- Trailing stop HWM auto-advanced $908.90→$926.50; stop $818.01→$833.85. Valid — stop only moved up. ✓
+- **CAT news:** Argus raised PT $820→$990 (upgrade). AMD Q1 massive beat (+15% AH: rev $10.25B +38%, EPS $1.37, Q2 guide $11.2B) confirms AI data-center demand at scale — validates CAT Power & Energy thesis. WTI ~$100.60 (−5% on Iran de-escalation signals = slight tariff/cost tailwind).
+- **Verdict: HOLD. Thesis intact and strengthening.**
+
+### PLTR Watch (no position)
+- Opened $140.30; day range $134.72–$142.98; midday ~$135.91 — **never reached $148 entry gate**
+- Pre-market plan: enter 80sh only if PLTR ≥ $148 post-ADP → gate not met → **no entry**
+- ADP +109k (beat 84k est) reduces rate-cut expectations; PLTR (46× fwd revenue) selling off on rate-stability = expensive growth headwind; fell through $140 open to $136
+- **Updated watch:** PLTR now below entry window; reassess post-NFP (Fri May 8); no urgency
+
+### Market Context
+- S&P 500: May 5 close 7,259.22 (+0.81%); May 6 premarket +0.25% (~7,305)
+- VIX: 17.38 (May 5 close; down from 18.24 intraday high; approaching favorable <17 zone)
+- ADP April: +109k (beat 84k) — stable labor market; Fed on hold; next rate catalyst = NFP Fri
+- WTI: ~$100.60 (−5% from $106 on Iran de-escalation signals; structural Hormuz disruption ongoing)
+
+### No Actions Taken
+- No positions cut. No stops adjusted. No new entries (PLTR gate not met).
+
+_Research via WebSearch (native fallback)_

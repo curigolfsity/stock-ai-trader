@@ -58,3 +58,15 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $898.91 | +2.76% | +$247.03 (+1.64%) | $818.01 (10% trail, HWM $908.90) |
 
 **Notes:** Day 2 saw a sharp reversal as CAT recovered from Monday's macro dip, closing at $898.91 (+2.76%). The AI data-center power gen catalyst continued to strengthen alongside the broader market recovery (+0.41% day P&L). The trailing stop HWM held at $908.90 with stop at $818.01 — well above entry and no manual tightening required (still below +15%/$1,017 threshold). Phase P&L turned positive for the first time: +$247.03 (+0.25%) vs. $100,000 starting equity. No trades entered today; weekly count remains 1/3 with ample capacity. AMD Q1 results reported AMC — will evaluate for PLTR or other watchlist entries tomorrow morning before open.
+
+---
+
+### Midday Scan — 2026-05-06
+
+- **Account:** Equity ~$100,603 | Cash $84,966 | Daytrade count: 0
+- **CAT:** $919.84 (+4.01% unrealized; +1.69% on day) — no -7% trigger; below +15% tightening threshold ($1,017)
+- **Trailing stop:** HWM auto-advanced $908.90→$926.50; stop auto-advanced $818.01→$833.85 ✓ (stop only moved up)
+- **Action:** No trades. No stop adjustments needed.
+- **Thesis check:** INTACT. AMD Q1 massive beat validates AI data-center power gen narrative; Argus raised CAT PT $820→$990. Oil WTI ~$100 (de-escalation signals = slight margin tailwind). BofA PT $930 approaching.
+- **PLTR:** Pre-market gate required ≥$148 post-ADP. PLTR opened $140.30, peaked $142.98, now ~$135.91 — never reached $148. **No entry.** Selling off on ADP beat (+109k vs 84k est) removing rate-cut expectations; 46× fwd revenue = expensive growth headwind when Fed stays pat.
+- **ADP (May 6):** +109k (beat 84k est) — strong jobs; Fed on hold; Industrials/CAT benefit from stable macro; expensive AI/growth (PLTR) selling off.
