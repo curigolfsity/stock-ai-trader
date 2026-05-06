@@ -645,3 +645,59 @@ _Research via WebSearch (native fallback)_
 **HOLD** — ISM Services + JOLTS at 10 AM (macro binaries) and AMD AMC tonight (AI/tech binary) preclude clean new entry. PLTR is in the entry window at $152 but patience is required — Wed AM post-AMD is the earliest clean window. CAT thesis intact and strengthening; stop valid; no action needed.
 
 _Research via WebSearch (native fallback)_
+
+---
+
+## 2026-05-06 — Pre-Market Research
+
+### Account Snapshot
+- Equity: $100,744.11 | Cash: $84,965.56 | Buying power: $185,709.67
+- Daytrade count: 0 | Weekly trades: 1/3
+- Positions: CAT 17sh @ $884.38 avg | Current $928.15 (+2.60% premarket) | Unrealized +$744.11 (+4.95%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC; HWM $908.90 → will auto-advance to ~$928.15; stop $818.01 → ~$835.34
+
+### Market Context
+- **SPX futures:** +0.25% (~7,305) — positive premarket; Iran deal optimism driving bid
+- **VIX:** 16.73 (down from 18.29 close May 5) — improving; approaching favorable new-entry zone (<16)
+- **WTI:** ~$100.60/barrel (down ~5% from mid-week $106 on Strait of Hormuz de-escalation signals)
+- **Brent:** ~$116.55/barrel (retreating from highs)
+- **Iran/Hormuz:** De-escalation signals causing oil pullback; structural disruption still ongoing
+- **Sector momentum YTD:** Energy +33% | Technology +15% (SOX +55%) | Industrials +11% | Materials +14%
+
+### Today's Releases
+- **ADP Private Payrolls 08:15 AM ET** — key jobs precursor; main pre-open risk event
+- **GSCPI 10:00 AM** — supply chain pressure index
+- **NFP Friday May 8** — primary macro binary; 2 days away
+- No major BMO earnings of significance today
+
+### Overnight Catalyst — AMD Q1 Massive Beat
+- Rev: $10.25B (+38% YoY vs $9.89B est); EPS $1.37 vs $1.28 est
+- Data Center: $5.8B (+57% YoY) — AI inference demand confirmed at scale
+- Q2 guide: $11.2B (vs ~$10.0B est, +46% YoY) — massive beat-and-raise
+- AMD AH: +15% — strongest AI/tech momentum in weeks; Morgan Stanley raised PT
+- Implication: AI demand cycle intact; benefits PLTR (AI platform), validates CAT power gen thesis
+
+### Position Check — CAT
+- $928.15 premarket (+4.95% unrealized vs $884.38 entry); up 53% YTD
+- BofA raised PT to $930 (approaching); Citi PT $1,020 maintained
+- Thesis intact: $63B backlog, Q1 rev +22%, AI data-center power gen structural tailwind
+- Risk: BofA PT $930 nearly reached (near-term ceiling for consensus); margin compression (net margin 13.1% vs 16.7% YoY); tariff cost ~$700M Q2 (known/embedded)
+- Trailing stop will auto-advance to ~$835 as HWM moves up — no manual action required
+- **Action: HOLD. Not at +15% threshold ($1,017). Stop auto-advancing. No manual adjustment.**
+
+### Trade Ideas
+1. **PLTR — Conditional entry today AM** | AMD +15% AH lifts AI/tech sentiment; PLTR Q1 strong (rev +85% YoY, EPS $0.33 vs $0.28, raised guide $7.65B) but fell 6.59% post-earnings on valuation overhang; AMD beat may drive recovery above $148 entry window; Plan: 80sh if PLTR ≥ $148 POST-ADP clear (8:15 AM); stop 10% GTC (~$133-134); target +20% (~$178); R:R ~2:1; Cost ~$11,840 (11.7% of equity — within 20% limit)
+2. **CAT — Hold existing** | Stop auto-advancing; thesis intact; no action
+3. **AMD — Watchlist only** | +15% gap = chasing; risk of sell-the-news; no entry
+
+### Risk Factors
+- **ADP 8:15 AM (HIGH):** Weak jobs = risk-off before open; strong = rate-rise fear; either can move PLTR pre-entry
+- **NFP Friday May 8 (HIGH):** Primary weekly binary 2 days away — entering PLTR adds exposure into NFP
+- **PLTR valuation (MEDIUM-HIGH):** Already fell 6.59% on own earnings; P/E stretched; institutional selling risk
+- **CAT BofA PT $930 (MEDIUM):** Near-term ceiling; momentum may stall at analyst consensus
+- **Oil de-escalation (LOW-MEDIUM):** Reduces energy sector bid; no direct portfolio impact (no energy positions)
+
+### Decision
+**CONDITIONAL TRADE** — PLTR 80sh if price ≥ $148 after ADP clears at 8:15 AM; otherwise **HOLD**. AMD beat validates AI demand thesis and creates clean re-entry catalyst for PLTR. VIX 16.73 improving. ADP is the gate: strong data (no rate shock) + PLTR ≥ $148 → pull trigger. Weak ADP or PLTR below $148 → HOLD cash through NFP. CAT: hold, stop auto-advancing, no action needed.
+
+_Research via WebSearch (native fallback)_
