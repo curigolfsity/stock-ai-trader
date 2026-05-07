@@ -101,3 +101,14 @@ No positions yet. Bot launches tomorrow.
 - **Action:** No trades. PLTR ~$127 — $21 below $148 entry gate; no entry. NFP tomorrow May 8 = primary binary gate for any new position.
 - **Thesis check (CAT):** INTACT. WTI declining to $95.66 on Iran deal progress (margin tailwind). Argus PT $990 / Citi PT $1,020 intact. DDOG / ABNB / TTD all reporting today (AMC) — monitoring for AI/cloud sentiment read-through.
 - **Next:** Reassess Friday AM post-NFP. Strong print → evaluate PLTR re-entry at $148+ or GEV setup. Weak print → hold cash, tighten vigilance on CAT stop.
+
+---
+
+### May 07 — EOD Snapshot (Day 4, Thursday)
+**Portfolio:** $100,069.55 | **Cash:** $84,965.56 (84.9%) | **Day P&L:** -$653.82 (-0.65%) | **Phase P&L:** +$69.55 (+0.07%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $888.56 | -4.14% | +$71.08 (+0.47%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Day 4 closed with CAT pulling back sharply to $888.56 (-4.14% from yesterday's $926.93 close), entirely attributed to broad pre-NFP profit-taking and positioning ahead of tomorrow's April jobs report (8:30 AM ET). No CAT-specific negative catalysts; thesis remains intact with Argus PT $990 / Citi PT $1,020 unchanged. Despite the intraday drop, the position stays profitable: +$71.08 unrealized (+0.47%) above the $884.38 entry. The trailing stop HWM locked in at $931.35 with stop at $838.22 — above entry and protecting against a larger drawdown. Phase P&L slipped to +$69.55 (+0.07%), barely positive after the -$653.82 day. No trades entered; weekly count 1/3 with full capacity. Tomorrow's NFP is the primary binary: strong print → evaluate PLTR ($148+ gate) or GEV setup; weak print → hold cash and tighten stop vigilance on CAT.
