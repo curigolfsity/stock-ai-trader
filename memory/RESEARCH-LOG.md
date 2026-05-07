@@ -704,6 +704,56 @@ _Research via WebSearch (native fallback)_
 
 ---
 
+## 2026-05-07 — Pre-Market Research (Thursday)
+
+### Account
+- Equity: $100,690.39
+- Cash: $84,965.56
+- Buying power: $185,655.95
+- Daytrade count: 0
+- Weekly trades: 1/3
+- Positions: CAT 17sh @ $884.38 avg | Current $924.99 | Unrealized +$690.39 (+4.59%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC; HWM $930.54; stop $837.49 ✓
+
+### Market Context
+- **WTI / Brent:** ~$95.66 / ~$103 — WTI -5% this week on Iran deal progress; structural Hormuz disruption easing; Goldman $90 target now in play
+- **S&P 500 futures:** +0.81% (~7,318); market broadly bullish on Iran de-escalation + AI earnings cycle
+- **VIX:** 17.45 (down 4.59%); approaching but still above favorable <17 new-entry zone
+- **Today's catalysts:**
+  - MCD Q1 BMO — exp. 4% US same-store sales growth
+  - DDOG Q1 BMO — cloud/AI infrastructure catalyst
+  - ABNB AMC — consensus $0.30 EPS / $2.62B rev
+  - TTD AMC — implied move ±15.80%
+  - **NFP April tomorrow May 8 8:30am ET** — primary macro binary for the week
+- **Iran/Hormuz:** US nearing deal to end war; ceasefire holding but fragile; WTI fading toward $95
+- **Sector momentum:** SPX futures strong; AI/data-center narrative intact post-AMD massive beat; Energy fading as oil retreats
+
+### CAT Position Check
+- Entry $884.38; current $924.99; unrealized +4.59% — no -7% cut trigger
+- HWM $930.54; stop $837.49 — auto-advanced since May 06 EOD; no manual tightening needed
+- Tighten thresholds: 7% at +15% ($1,017), 5% at +20% ($1,061) — not reached
+- Thesis intact: Argus PT $990, Citi PT $1,020; AI power gen + $63B backlog structural tailwinds
+- **Action: HOLD. Stop valid and auto-advancing. No adjustment needed.**
+
+### Trade Ideas
+1. **PLTR — Watchlist only** — Current ~$127 bid (after-hours); well below $148 entry gate. ADP beat (+109k) removed rate-cut expectations; 46× fwd revenue = expensive growth headwind while Fed stays pat. **No entry until PLTR reclaims $148 area post-NFP.**
+2. **Post-NFP setups (May 8+)** — Strong NFP: Industrials/CAT thesis strengthens; evaluate adding GEV or second industrial. Weak NFP: defensive rotation; Consumer Staples (KO/PG) post-print.
+3. **DDOG / cloud infra watchlist** — If DDOG Q1 beat + strong guide today, note setup for next week evaluation. No pre-earnings entry.
+
+### Risk Factors
+- **NFP May 8 (HIGH):** Primary macro binary tomorrow; entering any position today adds full exposure
+- **ABNB + TTD AMC tonight (MEDIUM):** Both carry ±10-16% implied moves; miss on either = growth sentiment pressure
+- **WTI $95 decline (MEDIUM):** Energy sector losing momentum; positive for CAT margins (lower input costs) but confirms Hormuz normalization risk
+- **VIX 17.45 (LOW-MEDIUM):** Sub-17 preferred for new entries; close but not quite clean
+- **CAT near BofA PT $930 (LOW):** Consensus ceiling approaching; potential near-term resistance
+
+### Decision
+**HOLD** — NFP May 8 tomorrow is the dominant gate. PLTR $21 below entry window. VIX slightly elevated. Earnings binaries AMC tonight (ABNB, TTD). No catalyst-backed trade idea ready. CAT holding well (+4.59%); trailing stop auto-advancing correctly. Reassess Friday post-NFP: strong print → evaluate PLTR recovery or GEV entry at $148/$X; weak print → hold cash.
+
+_Research via WebSearch (native fallback)_
+
+---
+
 ## 2026-05-06 — Midday Addendum (~midday ET)
 
 ### Account Snapshot

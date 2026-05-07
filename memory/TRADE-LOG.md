@@ -81,3 +81,14 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $927.18 | +2.50% | +$727.66 (+4.84%) | $834.89 (10% trail, HWM $927.65) |
 
 **Notes:** Day 3 closed with CAT at $927.18, extending the recovery for a third straight session and lifting phase P&L to +$727.66 (+0.73%). Day gain of +$384.07 (+0.38%) driven entirely by CAT's +2.50% session, supported by Argus PT raise ($820→$990) and AMD Q1 beat reinforcing the AI data-center power gen thesis. Trailing stop HWM advanced to $927.65 with stop auto-moved to $834.89 — well above entry, no manual action needed. PLTR never hit the pre-market gate ($148); selling off on ADP beat reducing rate-cut expectations, no entry taken. Weekly trade count 1/3. Next decision point: NFP Friday May 8 — strong print favors holding CAT and reassessing watchlist; weak print increases stop-tightening vigilance.
+
+---
+
+### Market-Open Scan — 2026-05-07
+
+- **Account:** Equity $100,690 | Cash $84,966 | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $924.99 (-0.21% intraday; +4.59% unrealized from $884.38 entry)
+- **Trailing stop:** HWM auto-advanced $927.65→$930.54; stop auto-advanced $834.89→$837.49 ✓ (stop only moved up)
+- **Action:** No trades. PLTR ~$127 — $21 below $148 entry gate; no entry. NFP tomorrow May 8 = primary binary gate for any new position.
+- **Thesis check (CAT):** INTACT. WTI declining to $95.66 on Iran deal progress (margin tailwind). Argus PT $990 / Citi PT $1,020 intact. DDOG / ABNB / TTD all reporting today (AMC) — monitoring for AI/cloud sentiment read-through.
+- **Next:** Reassess Friday AM post-NFP. Strong print → evaluate PLTR re-entry at $148+ or GEV setup. Weak print → hold cash, tighten vigilance on CAT stop.
