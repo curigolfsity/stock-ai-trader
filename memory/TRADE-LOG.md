@@ -84,6 +84,15 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Midday Scan — 2026-05-07
+
+- **Account:** Equity $100,305.68 | Cash $84,966 | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $902.36 (−2.65% intraday from $926.93; +2.03% unrealized from $884.38 entry) — no −7% trigger
+- **Trailing stop:** HWM $931.35 (day high); stop auto-advanced to $838.22 ✓ (stop only moved up)
+- **Action:** No trades. No stop adjustments needed (below +15% threshold $1,017).
+- **Thesis check:** INTACT. No CAT-specific negative news. Intraday decline = broad pre-NFP positioning. Workforce challenge announcement ($1M awards / $100M pledge) is mild positive for structural narrative. Argus PT $990, Citi PT $1,020 unchanged.
+- **Tonight:** ABNB + TTD AMC (±10–16% implied moves). NFP April tomorrow 8:30am ET = primary binary.
+
 ### Market-Open Scan — 2026-05-07
 
 - **Account:** Equity $100,690 | Cash $84,966 | Daytrade count: 0 | Weekly trades: 1/3
