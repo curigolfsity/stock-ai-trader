@@ -124,3 +124,14 @@ No positions yet. Bot launches tomorrow.
 - **GEV watchlist — BLOCKED:** Research entry price $440–455 vs. Alpaca live bid $994.44 (~55% discrepancy). Research-log stop ($400) and target ($530) are calibrated to wrong price data from WebSearch fallback. Cannot size or risk-manage — trade skipped. NFP print not yet confirmed in live data at scan time.
 - **Action:** No trades. CAT trailing stop intact. No adjustment needed.
 - **Next:** Post-NFP: if print ≥65K + SPX >7,350 + VIX <17, reassess GEV at actual market price (~$994); recalculate position size, stop (10% below entry = ~$895), and target (+20% = ~$1,193). Reload correct price data via Alpaca before any entry.
+
+### Midday Scan — 2026-05-08
+
+- **Account:** Equity $100,272 | Cash $84,966 | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $900.95 (+1.87% unrealized; +0.59% intraday) — no −7% trigger; below +15% tightening threshold ($1,017)
+- **Trailing stop:** HWM $931.35; stop $838.22 — valid, auto-advancing ✓ (no manual action)
+- **NFP April:** +115K (vs. 62K consensus) — strong beat; SPX ATH 7,390; VIX 17.02–17.18
+- **Thesis check (CAT):** INTACT. NFP beat reinforces industrial capex cycle. WTI ~$92 declining on Iran deal = margin tailwind. Argus PT $990 / Citi PT $1,020 unchanged.
+- **GEV watchlist:** NFP gate ✓ | SPX gate ✓ | VIX gate ✗ (17.02 vs. <17 required) → no entry. Also: prior research entry ($440–455) was bad WebSearch data; live GEV bid/ask $1,040/$1,104. Correct parameters: entry ~$1,050–1,100, stop ~$990 (10% trail), target ~$1,260–1,320 (+20%), ~9 shares (~$9,900, ~10% equity).
+- **Action:** No trades. No stop adjustments. Hold CAT.
+- **Next:** Reassess Mon May 11 — if VIX <17 + SPX holds + GEV $1,050–1,100 zone, evaluate entry. Weekly capacity 2/3 remaining.

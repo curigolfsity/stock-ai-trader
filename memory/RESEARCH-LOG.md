@@ -876,3 +876,43 @@ _Research via WebSearch (native fallback)_
 **HOLD** — CAT stop intact and above entry; thesis strengthening (oil decline + AI power-gen). No action pre-NFP. GEV is active watchlist: evaluate immediately post-8:30 AM print. Gates = NFP ≥65K + SPX >7,350 + VIX <17. Weekly capacity 2/3 remaining.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-08 — Midday Addendum (~midday ET)
+
+### Account Snapshot
+- Equity: $100,272.11 | Cash: $84,965.56 | Buying power: $185,237.67
+- Daytrade count: 0 | Weekly trades: 1/3
+- Positions: CAT 17sh @ $884.38 avg | Current $900.95 | Unrealized +$281.67 (+1.87%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC | HWM $931.35 | Stop $838.22 ✓
+
+### NFP April 2026 Result
+- **Actual: +115K** (vs. 62K consensus; prior March revised +185K) — massive beat
+- Unemployment steady 4.3%; gains in healthcare (+37K), transportation (+30K), retail (+22K); federal govt −9K
+- Interpretation: Strong labor market but not inflationary — ideal "goldilocks" for equities; Fed path unchanged (June 16–17 next FOMC)
+- **NFP gate met ✓** (≥65K threshold from pre-market plan)
+
+### Market Context Post-NFP
+- SPX: New ATH 7,390 (+0.42% vs. 7,351 prior close) — **gate met ✓** (>7,350 threshold)
+- VIX: 17.02–17.18 — **gate NOT met ✗** (<17 required for clean new entry)
+- WTI: ~$91–94 declining on Iran deal optimism — positive for CAT margins
+
+### CAT Intraday Check
+- Price: $900.95 (+1.87% unrealized from $884.38 entry; +0.59% intraday from $895.69 close)
+- No −7% cut trigger. No tightening needed (not at +15% = $1,017).
+- Trailing stop HWM locked at $931.35; stop $838.22 — valid, auto-advancing correctly ✓
+- **Thesis: INTACT and strengthening.** NFP beat reinforces industrial capex cycle. Argus PT $990 / Citi PT $1,020 unchanged. WTI decline = margin tailwind.
+- **Action: HOLD.**
+
+### GEV Watchlist — Price Correction (Critical)
+- **Prior research entry ($440–455) was a WebSearch data error.** GEV live bid $1,040 / ask $1,104.
+- Correct thesis parameters at live price ~$1,100: entry ~$1,050–1,100, stop ~$990 (10% trail GTC), target ~$1,260–1,320 (+20%), R:R ~2:1
+- Position size at 10% equity: ~$10,000 / ~$1,100 = ~9 shares (~$9,900, ~9.9% equity)
+- **Gate check today:** NFP ✓ | SPX ✓ | VIX ✗ (17.02 vs. <17 required) → **No entry**
+- Reassess Monday May 11 AM if VIX drops below 17 and SPX holds gains
+
+### No Actions Taken
+- No positions cut. No stops adjusted. No new entries (VIX gate not met).
+
+_Research via WebSearch (native fallback)_
