@@ -830,3 +830,49 @@ _Research via WebSearch (native fallback)_
 **HOLD** — NFP print at 8:30 AM is the dominant gate. No position change pre-print. CAT trailing stop intact and above entry; thesis unchanged. GEV is the live watchlist candidate — evaluate post-NFP if: print ≥65K + SPX holds + VIX drops <17. Weekly capacity 2/3 remaining. Default action: do nothing until data is clear.
 
 _Research via WebSearch (native fallback)_
+
+---
+
+## 2026-05-08 — Pre-market Research (Local Refresh, ~8 AM ET)
+
+### Account Snapshot
+- Equity: $100,317.58 | Cash: $84,965.56 | Buying power: $185,283.14
+- Daytrade count: 0 | Weekly trades: 1/3 | Balance as of: 2026-05-07
+- Positions: CAT 17sh @ $884.38 avg | Live $903.06 (+0.82% intraday) | Unrealized +$317.58 (+2.11%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC | HWM $931.35 | Stop $838.22 ✓
+
+### Market Context
+- WTI: ~$91.73–$94.36/bbl (−3.5% — Iran peace deal progress accelerating; Hormuz reopening signals)
+- Brent: ~$97.93–$100.53/bbl (directionally lower with WTI on same catalyst)
+- S&P 500 futures: +0.3–0.42% | ES ~7,394 (Dow +0.3%, Nasdaq +0.1–0.45%)
+- VIX: 17.32 (−0.40% on day; still marginally above <17 clean-entry threshold)
+- NFP April (8:30 AM ET): Consensus 60–73K; actual print NOT YET CONFIRMED at time of research
+- Economic calendar: NFP + unemployment only today; no CPI/PPI/FOMC
+- Earnings AMC May 7 confirmed: ABNB beat (+18% rev, raised FY guide); TTD beat rev but −15% on guidance
+- Earnings BMO May 8: BRK.B, NCLH only — minor market impact
+- Sector momentum YTD: Energy +30.7%, Materials +22% leading; Industrials/Staples/Energy in "Leading" quadrant; Tech/Comm/Discretionary lagging
+- Premarket movers: SITM +32.7% (AI precision timing, Q2 EPS guidance doubled); FLNC +32.2% (hyperscaler deals, $5.6B backlog) — AI infrastructure positive
+
+### Current Position Check — CAT
+- Entry $884.38 | Live $903.06 | Unrealized +$317.58 (+2.11%) — no −7% cut trigger
+- HWM $931.35 | Stop $838.22 (10% trail) — protecting entry; no manual action needed
+- Tighten thresholds: 7% trail at +15% ($1,017); 5% trail at +20% ($1,061) — not reached
+- Thesis: INTACT. Q1 beat (EPS $5.54 vs $4.66 est; Rev $17.41B +22% YoY). AI/power-gen + $63B backlog. Argus PT $990, Citi PT $1,020. CAT plans to double turbine capacity by 2030 + $725M Lafayette plant upgrade.
+- WTI declining to ~$92 = direct margin tailwind (energy input costs lower); Industrials sector in leading quadrant.
+- No new negative catalysts. CAT +0.82% pre-open with broader market bid.
+
+### Trade Ideas
+1. **HOLD CAT** — Thesis intact, stop protecting above entry, declining oil = margin tailwind. No action pre-NFP.
+2. **GEV (GE Vernova) — Live watchlist** — Same AI/power-gen thesis; Industrials leading YTD. Entry $440–$455, stop $400 (−10%), target $530 (2:1 R:R). Gate: NFP ≥65K + SPX holds >7,350 post-print + VIX <17. ~$7,700 notional (~7.7% equity). Max 1 new trade; weekly count 1/3 → 2/3.
+3. **SITM (SiTime) — Flag for next week** — +33% gap today on AI timing chip demand; too extended to chase. Watch for consolidation setup; Q2 EPS guidance doubled = fundamental inflection.
+
+### Risk Factors
+- **NFP binary (HIGH):** Print not confirmed at research time. Weak (<50K) → rate-cut bid → risk-on; Strong (>110K) → "higher for longer" → pressure on expensive names.
+- **VIX 17.32 (LOW-MEDIUM):** Marginally above <17 clean-entry threshold; GEV gate requires drop below 17 post-NFP.
+- **Oil spike risk (LOW-MEDIUM):** WTI falling on Iran deal optimism; fragile — collapse of talks = sharp reversal, marginal headwind to CAT margin narrative.
+- **CAT near resistance (LOW):** BofA $930 PT, HWM $931.35 — potential ceiling before next leg toward Argus $990.
+
+### Decision
+**HOLD** — CAT stop intact and above entry; thesis strengthening (oil decline + AI power-gen). No action pre-NFP. GEV is active watchlist: evaluate immediately post-8:30 AM print. Gates = NFP ≥65K + SPX >7,350 + VIX <17. Weekly capacity 2/3 remaining.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
