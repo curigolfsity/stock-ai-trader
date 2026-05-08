@@ -112,3 +112,15 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $888.56 | -4.14% | +$71.08 (+0.47%) | $838.22 (10% trail, HWM $931.35) |
 
 **Notes:** Day 4 closed with CAT pulling back sharply to $888.56 (-4.14% from yesterday's $926.93 close), entirely attributed to broad pre-NFP profit-taking and positioning ahead of tomorrow's April jobs report (8:30 AM ET). No CAT-specific negative catalysts; thesis remains intact with Argus PT $990 / Citi PT $1,020 unchanged. Despite the intraday drop, the position stays profitable: +$71.08 unrealized (+0.47%) above the $884.38 entry. The trailing stop HWM locked in at $931.35 with stop at $838.22 — above entry and protecting against a larger drawdown. Phase P&L slipped to +$69.55 (+0.07%), barely positive after the -$653.82 day. No trades entered; weekly count 1/3 with full capacity. Tomorrow's NFP is the primary binary: strong print → evaluate PLTR ($148+ gate) or GEV setup; weak print → hold cash and tighten stop vigilance on CAT.
+
+---
+
+### Market-Open Scan — 2026-05-08 (NFP Friday)
+
+- **Account:** Equity $100,382.35 | Cash $84,965.56 | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $906.87 (+1.25% intraday; +2.54% unrealized from $884.38 entry) — no −7% trigger; no tightening threshold reached (+15% = $1,017)
+- **Trailing stop:** HWM $931.35; stop $838.22 — auto-advancing; above entry; valid ✓
+- **Thesis check (CAT):** INTACT. WTI ~$92–96 declining on Iran deal optimism = margin tailwind. Argus PT $990 / Citi PT $1,020 unchanged. No negative catalysts.
+- **GEV watchlist — BLOCKED:** Research entry price $440–455 vs. Alpaca live bid $994.44 (~55% discrepancy). Research-log stop ($400) and target ($530) are calibrated to wrong price data from WebSearch fallback. Cannot size or risk-manage — trade skipped. NFP print not yet confirmed in live data at scan time.
+- **Action:** No trades. CAT trailing stop intact. No adjustment needed.
+- **Next:** Post-NFP: if print ≥65K + SPX >7,350 + VIX <17, reassess GEV at actual market price (~$994); recalculate position size, stop (10% below entry = ~$895), and target (+20% = ~$1,193). Reload correct price data via Alpaca before any entry.
