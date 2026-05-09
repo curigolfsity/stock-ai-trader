@@ -21,6 +21,7 @@ fi
 stamp="$(date '+%Y-%m-%d %H:%M %Z')"
 
 DISCORD_WEBHOOK_URL="${DISCORD_WEBHOOK_URL:-}"
+DISCORD_WEBHOOK_URL="${DISCORD_WEBHOOK_URL//[$'\t\r\n ']}"  # strip all whitespace/newlines
 
 if [[ -z "${DISCORD_WEBHOOK_URL:-}" ]]; then
   printf "\n---\n## %s (fallback — Discord not configured)\n%s\n" "$stamp" "$msg" >> "$FALLBACK"
