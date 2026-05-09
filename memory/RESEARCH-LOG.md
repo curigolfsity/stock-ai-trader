@@ -123,7 +123,7 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 
 ### Market Context
 - WTI / Brent: ~$101 / ~$109 — WTI fell ~11% Friday as Iran declared Strait of Hormuz "completely open" for commercial shipping; supply-shock narrative materially deflated; Goldman Sachs now targets Brent $90 by late 2026
-- S&P 500: Closed +1.20% Friday on risk-on Hormuz reopening; YTD +4.7%; Nasdaq at all-time high 25,114
+- S&P 500: Closed Fri at 7,230; futures +0.13% (7,253) Friday; market at record highs
 - VIX: 18.7 (up 1.25 pts on week despite rally) — modest residual uncertainty; no fear signal
 - Weekend catalysts: Iran Strait of Hormuz confirmed open; Berkshire annual meeting (Greg Abel era); BRK Q1 results — cash $373B, buybacks resumed; AAPL +3-5% on Q2 beat + strong Q3 guide
 - Earnings this week: PLTR Q1 AFTER CLOSE Mon May 4 (exp. EPS +115% YoY to $0.28, rev $1.54B); AMD Q1 AMC Tue; DIS during week; no major BMO Mon
@@ -973,5 +973,68 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
 ### Decision
 **HOLD** — Do not enter new positions before CPI print (May 12 8:30 AM ET). VIX gate blocked, oil headwind emerging, high-impact macro binary ahead. Post-CPI checklist: if core ≤0.3% + VIX drops <17 + SPX holds ATH → evaluate GEV entry at ~$1,042–1,100. CAT trailing stop intact; no manual action needed.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-09 — Pre-Market Research (Session 2 / Week-Ahead Confirmation)
+
+### Account Snapshot
+- Equity: $100,222.21 | Cash: $84,965.56 (84.8%) | Buying power: $185,187.77
+- Daytrade count: 0 | Weekly trades: 0/3 (new week resets Mon May 11)
+- Positions: CAT 17sh @ $884.38 avg | Last close $897.45 | Unrealized +$222.21 (+1.48%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC | HWM $931.35 | Stop $838.22 ✓
+
+### Market Context
+- **WTI:** $95.42 | **Brent:** $103.29 (premarket) — rising on US-Iran Hormuz disruption risk
+- **SPX futures:** ~7,419 (opened 7,340) | +15% since March 30 low; near ATH
+- **VIX:** ~17.13–17.18 — above <17 clean-entry gate ✗
+- **Fed:** No FOMC this week. Senate vote on Kevin Warsh as Fed Chair (Powell term ends May 15). Policy uncertainty.
+
+### Key Releases This Week
+- **CPI April — Tue May 12 8:30 AM ET (DOMINANT BINARY):** Core ~+0.4% MoM consensus; hot print = "higher for longer" → broad risk-off
+- **PPI April — Wed May 13 8:30 AM ET:** Secondary inflation read
+- **No NFP** (April +115K beat released May 8); No FOMC this week
+
+### Earnings This Week
+- Mon May 11 BMO: CEG, CRCL, MNDY
+- Tue May 12: JD
+- Wed May 13: BABA, CSCO
+- Thu May 14: AMAT
+- May 20 (ahead): NVDA — primary SOX catalyst / "sell the news" risk
+
+### Sector Momentum YTD
+- **Leading:** Energy (+30.7% YTD), Industrials, Materials, Consumer Staples
+- **Improving:** Utilities, Real Estate
+- **Lagging:** Technology, Communications, Consumer Discretionary, Financials
+
+### CAT Update
+- Close $897.45 | Stop HWM $931.35 | Stop $838.22 (above entry $884.38) ✓
+- Thesis INTACT. Q1 EPS $5.54 beat; $63B backlog; AI data-center power gen narrative strong
+- PTs: JPM $1,125 / Argus $990 / Citi $1,020 / BofA $930
+- **Headwind:** WTI $95.42 / Brent $103.29 rising on Iran tensions — direct margin headwind. Watch if Brent sustains >$105.
+- Action: HOLD. No stop adjustment needed (below +15% tightening threshold $1,017)
+
+### GEV Update
+- Last confirmed price ~$1,042–1,067 | +71% YTD | 28 Buy / 0 Sell
+- Backlog $163B; orders +71% YoY; electrification +86% YoY; FY2026 guidance raised
+- Entry zone: ~$1,050–1,100 | Stop ~$990 GTC trail | Target ~$1,260–1,320 | R:R ~2:1 | ~9sh (~9.5% equity)
+- **Gate:** VIX ✗ (17.13) | CPI unknown → No entry until post-CPI Tue AM
+
+### Trade Ideas
+1. **HOLD CAT** — Thesis intact; stop above entry; no action needed
+2. **GEV — Post-CPI gate** — Enter ~$1,050–1,100 if core CPI ≤0.3% + VIX <17 + SPX holds ATH
+3. **CEG — Monitor post-earnings Mon BMO** — Nuclear/AI power theme; beat = evaluate as 3rd position
+
+### Risk Factors
+- **CPI Tuesday (HIGH):** Core ≥0.4% = kills GEV gate, pressures CAT multiple
+- **Oil accelerating (MEDIUM):** Brent $103+ on Iran = CAT margin headwind; if sustained thesis weakens
+- **VIX above 17 (MEDIUM):** Gate blocked; spike >20 on hot CPI = hold all cash
+- **Kevin Warsh / Fed chair transition (LOW-MEDIUM):** Policy uncertainty this week
+- **NVDA May 20 (LOW):** SOX "sell the news" could drag Industrials
+
+### Decision
+**HOLD** — VIX gate blocked, CPI binary Tuesday, oil rising. No new entries before May 12 8:30 AM. Post-CPI: if core ≤0.3% + VIX <17 + SPX holds → evaluate GEV ~$1,050–1,100. CAT stop intact; no manual action.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
