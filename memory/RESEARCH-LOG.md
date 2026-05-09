@@ -915,4 +915,63 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 ### No Actions Taken
 - No positions cut. No stops adjusted. No new entries (VIX gate not met).
 
-_Research via WebSearch (native fallback)_
+---
+
+## 2026-05-09 — Weekend Pre-Market Research (Week-Ahead Planning)
+
+### Account Snapshot
+- Equity: $100,222.21 | Cash: $84,965.56 (84.8%) | Buying power: $185,187.77
+- Daytrade count: 0 | Weekly trades: 1/3 → resets Monday May 11 (0/3 new week)
+- Positions: CAT 17sh @ $884.38 avg | Last close $897.45 | Unrealized +$222.21 (+1.48%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC | HWM $931.35 | Stop $838.22 ✓
+
+### Market Context
+- **WTI:** ~$95+ (rebounding — fresh US-Iran clashes threatened diplomatic talks; Hormuz disruption risk 14M bbl/day offline)
+- **Brent:** ~$101.73 (May 8 close; up +1.66% on the day)
+- **SPX futures:** ~7,419 | SPX +15% since March 30 low; near ATH
+- **VIX:** ~17.08–17.13 (still above <17 clean-entry gate — critical)
+- **Key note:** Today is Saturday — markets closed. Session = week-ahead planning.
+
+### Week-Ahead Catalysts (May 11–15)
+- **CPI April (Tue May 12, 8:30 AM ET) — DOMINANT BINARY:** Core +0.4% MoM consensus (vs +0.2% March); headline ~3.4–3.8% YoY range (markets assign 66% prob >3.6%). Hot print = "higher for longer" headwind for all risk assets.
+- **PPI:** Expected mid-week; watch for producer-side inflation signal
+- **IEEPA tariff removal:** Potentially this week — market positive if confirmed; adds volatility risk
+- **Earnings this week:** CEG, CRCL (Mon BMO) | JD (Tue) | BABA, CSCO (Wed) | AMAT (Thu)
+- **NVDA (May 20):** Building SOX momentum into report; "sell the news" risk if semis extended
+
+### S&P 500 Sector Momentum
+- **Leading:** Industrials (CAT +53% YTD; GEV +65–71% YTD); Semiconductors; Energy (oil bid)
+- **Lagging:** Financials (-8.69% YTD as of March); Consumer Discretionary (-5% YTD); Advertising/Medical devices weak
+- **Energy caution:** WTI/Brent rising on Iran conflict = headwind for industrial margin narrative (reverses prior oil-decline tailwind)
+
+### CAT Update
+- Last close $897.45 | Trailing stop HWM $931.35 | Stop $838.22 (above entry $884.38) ✓
+- Thesis: INTACT. Q1 EPS $5.54 vs $4.66 est; Rev $17.4B +22% YoY; $63B backlog (+79% YoY)
+- JPMorgan raised PT to $1,125 (Overweight, "resounding" beat); Morgan Stanley upgraded EW target $915; Argus PT $990; Citi PT $1,020; BofA PT $930
+- **Headwind flag:** WTI/Brent rebounding on Iran tensions — reverses prior margin tailwind. Monitor closely.
+- **Insider flag:** Exec Shurman sold 5,639 shares ~$903 on May 5. Minor concern; not thesis-breaking.
+- Action: HOLD. Stop valid and above entry. No adjustment needed.
+
+### GEV Watchlist Update
+- Last close ~$1,042 | Up 65–71% YTD | PE 30.46x | 28 analysts Buy / 0 Sell
+- Q1: Orders +71%; power orders +59% YoY; electrification +86% YoY to $7.1B; FY2026 guidance raised to $44.5–45.5B revenue
+- Entry zone: ~$1,042–1,100 | Stop: ~$990 (10% trail GTC) | Target: ~$1,250–1,320 (+20%) | R:R ~2:1
+- Position size: ~9 shares (~$9,400, ~9.4% equity)
+- **Gate check:** VIX ✗ (17.13 vs. <17 required) | SPX ✓ | CPI unknown → **No entry until post-CPI (May 12)**
+
+### Trade Ideas
+1. **HOLD CAT** — Stop above entry; PT consensus $1,020–1,125. Watch for oil reversal impact on margins. No action needed.
+2. **GEV — Active watchlist, gate pending** — Wait for VIX <17 AND benign CPI (core ≤0.3% MoM). Post-CPI Tuesday AM is earliest entry window. Entry ~$1,042–1,100, stop ~$990 GTC trail, target ~$1,250+.
+3. **CSCO — Flag for post-earnings Wed** — Cloud/AI networking catalyst; if strong beat on AI infra demand, evaluate as tech diversifier. Not actionable until earnings.
+
+### Risk Factors
+- **CPI Tuesday (HIGH):** Core 0.4% MoM print or headline >3.6% = "higher for longer" → broad risk-off; kills GEV entry gate and pressures CAT multiple
+- **Oil rebounding (MEDIUM):** WTI ~$95 / Brent ~$101 on Iran clash risk = direct CAT margin headwind; reverses prior declining-oil tailwind
+- **VIX stuck above 17 (MEDIUM):** Clean-entry gate blocked; any spike >20 on CPI = hold cash
+- **Insider selling at CAT (LOW):** Exec sold shares at $903; not thesis-breaking but worth monitoring
+- **NVDA / SOX momentum (LOW-MEDIUM):** Semiconductor rally into May 20 NVDA report = potential "sell the news" that drags Industrials
+
+### Decision
+**HOLD** — Do not enter new positions before CPI print (May 12 8:30 AM ET). VIX gate blocked, oil headwind emerging, high-impact macro binary ahead. Post-CPI checklist: if core ≤0.3% + VIX drops <17 + SPX holds ATH → evaluate GEV entry at ~$1,042–1,100. CAT trailing stop intact; no manual action needed.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
