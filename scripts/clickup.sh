@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
-# Notification wrapper. Posts to Discord webhook.
+# Notification wrapper. Tries ntfy.sh first, then Discord, then local fallback.
 # Usage: bash scripts/clickup.sh "<message>"
-# If DISCORD_WEBHOOK_URL is unset, appends to a local fallback file and exits 0.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -20,19 +19,34 @@ fi
 
 stamp="$(date '+%Y-%m-%d %H:%M %Z')"
 
-DISCORD_WEBHOOK_URL="${DISCORD_WEBHOOK_URL:-}"
-DISCORD_WEBHOOK_URL="${DISCORD_WEBHOOK_URL//[$'\t\r\n ']}"  # strip all whitespace/newlines
+NTFY_TOPIC="${NTFY_TOPIC:-}"
+NTFY_TOPIC="${NTFY_TOPIC//[$'\t\r\n ']}"
 
-if [[ -z "${DISCORD_WEBHOOK_URL:-}" ]]; then
-  printf "\n---\n## %s (fallback — Discord not configured)\n%s\n" "$stamp" "$msg" >> "$FALLBACK"
-  echo "[discord fallback] appended to DAILY-SUMMARY.md"
-  echo "$msg"
+DISCORD_WEBHOOK_URL="${DISCORD_WEBHOOK_URL:-}"
+DISCORD_WEBHOOK_URL="${DISCORD_WEBHOOK_URL//[$'\t\r\n ']}"
+
+# Try ntfy.sh (preferred — works from all cloud IPs)
+if [[ -n "$NTFY_TOPIC" ]]; then
+  curl -fsS -X POST "https://ntfy.sh/${NTFY_TOPIC}" \
+    -H "Content-Type: text/plain" \
+    --data-binary "$msg"
+  echo
+  echo "[ntfy] sent to topic: $NTFY_TOPIC"
   exit 0
 fi
 
-payload="$(jq -n --arg content "$msg" '{"content": $content}')"
+# Fallback: Discord webhook
+if [[ -n "$DISCORD_WEBHOOK_URL" ]]; then
+  payload="$(jq -n --arg content "$msg" '{"content": $content}')"
+  curl -fsS -X POST "$DISCORD_WEBHOOK_URL" \
+    -H "Content-Type: application/json" \
+    -d "$payload"
+  echo
+  echo "[discord] sent"
+  exit 0
+fi
 
-curl -fsS -X POST "$DISCORD_WEBHOOK_URL" \
-  -H "Content-Type: application/json" \
-  -d "$payload"
-echo
+# Last resort: write to local file
+printf "\n---\n## %s (fallback — no notification service configured)\n%s\n" "$stamp" "$msg" >> "$FALLBACK"
+echo "[fallback] appended to DAILY-SUMMARY.md"
+echo "$msg"
