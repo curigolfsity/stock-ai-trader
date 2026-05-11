@@ -125,6 +125,14 @@ No positions yet. Bot launches tomorrow.
 - **Action:** No trades. CAT trailing stop intact. No adjustment needed.
 - **Next:** Post-NFP: if print ≥65K + SPX >7,350 + VIX <17, reassess GEV at actual market price (~$994); recalculate position size, stop (10% below entry = ~$895), and target (+20% = ~$1,193). Reload correct price data via Alpaca before any entry.
 
+### Market-Open Scan — 2026-05-11
+
+- **Account:** Equity $100,223 | Cash $84,966 (84.8%) | Daytrade count: 0 | Weekly trades: 0/3 (new week)
+- **CAT:** $897.50 (+1.48% unrealized from $884.38 entry) — no −7% trigger; below +15% tightening threshold ($1,017)
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 ✓ (above entry; valid)
+- **Action:** No trades. VIX >17 (gate blocked) + Iran oil spike (WTI $97.40 / Brent $103.80 +2–2.5%) + CPI binary Tue May 12 — all entry gates blocked. CAT thesis intact; stop auto-advancing. No manual adjustment needed.
+- **Next:** Post-CPI Tue May 12 8:30 AM ET: if core ≤0.3% + VIX <17 + SPX holds → evaluate GEV entry at $1,042–1,100 (stop ~$990 GTC, ~9sh, ~9.5% equity).
+
 ### Midday Scan — 2026-05-08
 
 - **Account:** Equity $100,272 | Cash $84,966 | Daytrade count: 0 | Weekly trades: 1/3
