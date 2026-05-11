@@ -1038,3 +1038,63 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — VIX gate blocked, CPI binary Tuesday, oil rising. No new entries before May 12 8:30 AM. Post-CPI: if core ≤0.3% + VIX <17 + SPX holds → evaluate GEV ~$1,050–1,100. CAT stop intact; no manual action.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-11 — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $100,131.09 | **Cash:** $84,965.56 (84.8%) | **Buying power:** $185,096.65
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 (new week — full capacity restored)
+- **Positions:** CAT 17sh @ $884.38 avg | Premarket ~$892.09 | Unrealized +$131.09 (+0.87%)
+- **Open orders:** 1c43ebd9 — CAT trailing stop 10% GTC | HWM $931.35 | Stop $838.22 ✓ (above entry)
+
+### Market Context
+- **WTI:** $97.40 (+2.0%) | **Brent:** $103.80 (+2.5%) — sharply higher on Iran war fears; Netanyahu says conflict "not over," Trump rejected Iran's peace counteroffer
+- **SPX futures:** ~−0.09% (slipping); ~38% chance of up open per Polymarket; geopolitical overhang weighing
+- **VIX:** ~17.19 (May 8 close) — likely higher today given oil spike + geopolitical escalation; clean-entry gate blocked ✗
+- **Today's key release:** No major US data today (Mon May 11). **CPI April: Tue May 12 8:30 AM ET (dominant binary)**; PPI Wed May 13
+- **No FOMC this week**; Kevin Warsh Fed Chair Senate confirmation ongoing (policy uncertainty)
+- **Earnings today BMO:** CEG (Constellation Energy, call 10 AM ET), MNDY (monday.com), FOXA (Fox Corp), Barrick (GOLD), MOS (Mosaic), SPG (Simon Property)
+- **Earnings this week:** BABA + CSCO Wed; AMAT Thu; NVDA May 20 (primary SOX binary)
+
+### Sector Momentum YTD
+- **Leading:** Energy (+22% YTD), Semiconductors, Defense, Industrials — distinct macro drivers
+- **Lagging:** Technology (cooling post-AI run), Consumer Discretionary, Communications
+
+### CAT Update
+- Premarket ~$892.09 (−0.60% intraday; +0.87% unrealized from $884.38 entry)
+- Intraday range: $893–$914.77; ATH was $931.35 (May 7)
+- Thesis: INTACT. Q1 EPS $5.54 beat; revenue +22% YoY; data center power demand strong
+- BofA raised PT to $930; Argus $990; Citi $1,020; JPM $1,125
+- **Headwind:** WTI $97.40 / Brent $103.80 (+2–2.5%) on Iran escalation = direct margin pressure; if Brent sustains >$105 this weakens thesis
+- **Action:** HOLD. Stop at $838.22 (above entry $884.38); no adjustment needed (below +15% tightening threshold at $1,017)
+
+### GEV Update
+- Premarket range: $1,034.43–$1,073.75; current ~$1,042.46
+- **Gate:** VIX elevated (>17) ✗ | CPI unknown ✗ | Oil headwind (rising input costs) → No entry
+- Entry zone (post-gate): $1,042–1,100 | Stop ~$990 GTC trail | Target ~$1,250 | ~9sh (~9.5% equity)
+- Earliest entry window: post-CPI Tue AM if core ≤0.3% + VIX <17 + SPX holds
+
+### CEG — Watchlist (Reporting Today BMO)
+- Consensus: EPS $2.56 (+20% YoY) | Revenue $8.21B; stock down ~13% YTD = potential catch-up
+- Nuclear/AI power demand + Calpine integration; CEO flagged PJM regulatory clarity in 2026
+- **Watch:** If beat confirmed + stock gaps positively + CPI clear Tue → evaluate as 3rd position
+- Cannot act today; CPI binary prevents pre-CPI entry on any new name
+
+### Trade Ideas
+1. **HOLD CAT** — Thesis intact; stop above entry; oil headwind real but not thesis-breaking yet; no action
+2. **GEV — Post-CPI gate** — If core CPI ≤0.3% + VIX <17 + SPX holds → enter ~$1,042–1,100; stop ~$990 GTC; target ~$1,250; ~9sh
+3. **CEG — Post-CPI evaluation** — If Q1 beat + positive reaction today + CPI benign Tue → enter as nuclear/AI diversifier; size ~10% equity
+
+### Risk Factors
+- **CPI Tuesday (HIGH):** Core ≥0.4% = "higher for longer" → risk-off; kills all entry gates; pressures CAT multiple
+- **Iran escalation / oil spike (HIGH):** WTI $97.40 / Brent $103.80 and rising = direct CAT margin headwind; binary geopolitical risk confirmed
+- **VIX elevated above 17 (MEDIUM):** Gate blocked for all new entries; spike >20 on hot CPI = hold all cash
+- **SPX premarket weakness (MEDIUM):** −0.09% futures + 38% chance of up open = fragile tape into CPI
+- **NVDA May 20 (LOW):** "Sell the news" risk for SOX/Industrials if report disappoints
+
+### Decision
+**HOLD** — Oil spike (+2–2.5%) on Iran escalation, VIX above 17, and CPI binary tomorrow make new entries unjustifiable today. CAT trailing stop intact above entry; no manual action needed. Preserve 0/3 weekly trade capacity for post-CPI opportunity. Reassess Tue May 12 8:30 AM ET: if core CPI ≤0.3% + VIX <17 + SPX holds → evaluate GEV entry at $1,042–1,100.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
