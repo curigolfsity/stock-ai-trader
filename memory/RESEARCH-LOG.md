@@ -1098,3 +1098,42 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — Oil spike (+2–2.5%) on Iran escalation, VIX above 17, and CPI binary tomorrow make new entries unjustifiable today. CAT trailing stop intact above entry; no manual action needed. Preserve 0/3 weekly trade capacity for post-CPI opportunity. Reassess Tue May 12 8:30 AM ET: if core CPI ≤0.3% + VIX <17 + SPX holds → evaluate GEV entry at $1,042–1,100.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-11 — Midday Addendum (~midday ET)
+
+### Account Snapshot
+- Equity: ~$100,547 | Cash: $84,965.56 (84.5%) | Buying power: ~$185,513
+- Daytrade count: 0 | Weekly trades: 0/3
+- Positions: CAT 17sh @ $884.38 avg | Current $916.54 | Unrealized +$546.70 (+3.64%) | Day +2.13%
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC | HWM $931.35 | Stop $838.22 ✓ (locked; current price below HWM)
+
+### CAT Intraday Check
+- Price: $916.54 (+3.64% unrealized; +2.13% intraday from $897.45 prior close)
+- No −7% cut trigger. No tightening needed (below +15% threshold $1,017).
+- Trailing stop HWM $931.35 unchanged — current price $916.54 is below prior HWM; stop locked at $838.22.
+- **Verdict: HOLD. Thesis intact.**
+
+### Intraday Driver
+- CAT rallying +2.13% on broad market strength (SPX ~7,399, near ATH). NFP +115K carry from Friday supporting industrials into Monday open.
+- Oil remains elevated (WTI ~$97, Brent ~$103) but CAT shrugging off headwind — institutional bid holding.
+- No CAT-specific catalyst identified. Move is market-driven, not fundamental.
+
+### New Valuation Flag (Seeking Alpha, May 2026)
+- Flags CAT at ~43x P/E as potential "data center trap" — stock may have priced in AI-linked growth; ~$890 area seen as "fairly valued."
+- **Assessment:** Noted but not thesis-breaking. Q1 EPS $5.54 beat (+30% YoY), $63B backlog (+79% YoY), tripling large engine capacity by 2028. JPM PT $1,125 / Argus $990 / Citi $1,020 unchanged. Valuation debate is a trailing stop risk, not an exit signal.
+
+### Market Context
+- SPX: ~7,399 (near ATH) | VIX: 17.19 ✗ → GEV entry gate blocked
+- WTI: ~$97+ | Brent: ~$103+ — Iran escalation ongoing; oil headwind persists
+
+### GEV Watchlist
+- VIX ✗ (17.19) | CPI unknown (tomorrow 8:30 AM ET) → No entry today
+- Entry zone: ~$1,042–1,100 | Stop ~$990 GTC trail | Target ~$1,250–1,320 | ~9sh (~9.5% equity)
+- Earliest entry: post-CPI Tue May 12 AM if core ≤0.3% + VIX <17 + SPX holds
+
+### No Actions Taken
+- No positions cut. No stops adjusted. No new entries.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
