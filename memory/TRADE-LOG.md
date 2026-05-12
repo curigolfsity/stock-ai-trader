@@ -155,3 +155,18 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. Broad market strength (NFP carry + SPX ~7,399 near ATH) driving +2.13% session despite WTI $97+ / Brent $103+ oil headwind. Analyst PTs unchanged: JPM $1,125 / Argus $990 / Citi $1,020. New Seeking Alpha note flags "data center trap" at 43x P/E as valuation concern — noted but not thesis-breaking; fundamental Q1 beat ($63B backlog, EPS +30%) and AI power-gen demand intact.
 - **VIX:** 17.19 — GEV entry gate remains blocked ✗
 - **Next:** CPI April Tue May 12 8:30 AM ET = dominant binary. If core ≤0.3% + VIX <17 + SPX holds → evaluate GEV entry at $1,042–1,100 (stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 used; full capacity for post-CPI opportunity.
+
+---
+
+### Market-Open Scan — 2026-05-12
+
+- **Account:** Equity $100,537.56 | Cash $84,965.56 (84.5%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $916.00 (−1.16% intraday; +3.57% unrealized from $884.38 entry) — no −7% trigger; below +15% tightening threshold ($1,017)
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ (HWM locked — price below prior HWM; stop cannot advance)
+- **CPI April (8:30 AM ET):** Actual print not confirmed at scan time; consensus core +0.3% MoM / +3.7% YoY headline
+- **VIX:** 18.11 — GEV entry gate BLOCKED ✗ (requires <17)
+- **SPX:** 7,425.67 (+0.36%) ✓
+- **GEV:** After-hours quote $1,030–1,138 spread; live open price TBD. Entry zone $1,042–1,100 — price gate potentially in range but macro gates not cleared
+- **Action:** No trades. VIX gate blocked at 18.11. CAT trailing stop intact; no manual adjustment needed (below +15% / $1,017 threshold).
+- **Thesis check (CAT):** INTACT. BofA PT $930 / MS PT $915 / JPM PT $1,125. Valuation ceiling debate near current price; trailing stop at $838.22 protects downside. WTI ~$97–100 ongoing headwind.
+- **Next:** If VIX drops below 17 post-CPI + core ≤0.3% confirmed + SPX holds → evaluate GEV entry at live open price (stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 used; full capacity for post-CPI window.
