@@ -246,11 +246,6 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 | Thu May 7 | MCD, Airbnb, DDOG, TTD, Coinbase, DIS | **FOMC decision** |
 | Fri May 8 | **NFP April** 8:30am ET | — |
 
-### Sector Momentum YTD
-- Leading: Energy +22% (Q1), Healthcare, Consumer Staples, Industrials
-- Mixed: Energy fading (Hormuz partially open; Goldman $90 downgrade)
-- Lagging: Financials -8.7%, Consumer Disc -5.0%, Tech -4.1%
-
 ### Trade Ideas
 1. **CAT (Caterpillar)** — ⚠ PRICE CORRECTION: closed $889 May 1 (prior logs had ~$935 — incorrect). Thesis intact: Q1 beat (rev $17.4B +22%, EPS $5.54 +30%), guidance raised; Morgan Stanley doubled PT $430→$915 (upgrade to Equal-Weight); BofA PT $930; AI data-center power gen new revenue driver; Industrials leading sector. Entry: limit $893 Mon (skip if gap-opens >$910); stop $804 (10% trail GTC on fill); target $1,072 (+20%); R:R ~2:1. CAVEAT: FOMC May 6-7 = rate binary 2 days post-entry; CAT at P/E 44x / +32% YTD is high-beta to rate surprise.
 2. **PLTR — WATCHLIST ONLY** — ⚠ PRICE CORRECTION: current ~$141 (prior log $90-95 zone was incorrect). Binary AMC Mon; ±10.55% expected move; 10-quarter beat streak; avg PT $191 (35% upside). DO NOT enter pre-earnings. If beat + orderly pullback Tue → evaluate $140-145 entry; 10% trail GTC; target +20%. FOMC Wed = added day-after risk.
@@ -1135,5 +1130,43 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
 ### No Actions Taken
 - No positions cut. No stops adjusted. No new entries.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-12 — Pre-Market Research
+
+### Account Snapshot
+- Equity: $100,673.56 | Cash: $84,965.56 (84.4%) | BP: $185,639.12
+- Daytrade count: 0 | Weekly trades: 0/3
+- Positions: CAT 17sh @ $884.38 avg | Current $924 | Unrealized +$673.56 (+4.48%) | Day −$47.43 (−0.30%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC | HWM $931.35 | Stop $838.22 ✓
+
+### Market Context
+- WTI: ~$97–100/bbl (elevated; Iran/Hormuz geopolitical tension ongoing)
+- Brent: ~$104.97/bbl (+0.73%)
+- SPX: 7,412.84 (record close Mon May 11; chipmaker-led; futures slightly up pre-CPI)
+- VIX: 18.41 (+7.10%) — GATE BLOCKED ✗ (requires <17)
+- Primary catalyst: **April CPI 8:30 AM ET** — Consensus: core +0.3% MoM / +2.7% YoY; headline +3.7–3.8% YoY. Hot print (core ≥0.4%) = rate-hike risk, broad sell-off. PIMCO flagging cuts off table, hikes back on agenda if energy bleeds into core.
+- Earnings today BMO: limited large-caps; **AAPL AMC tonight** (key sentiment read for tech/broader market)
+- Also this week: PPI Wed; CEG earnings (nuclear/AI power) — highlighted as SPX resilience test
+- CAT news: BofA raised PT to $930 (energy outlook); Morgan Stanley upgraded to Equal Weight, PT $915; JPM PT $1,125 (Overweight) — new PTs near/below HWM $931.35; valuation ceiling debate; thesis intact
+- GEV: ~$1,075 (May 12 range $1,031–$1,086) | Q1 EPS $17.44 beat; orders +71% organically; power orders +59%; electrification +86%; backlog +$13B; Blue Energy gas+nuclear data-center deal; up 65–71% YTD
+
+### Trade Ideas
+1. **HOLD CAT** — Thesis intact ($63B backlog, AI power demand, Q1 EPS beat). Stop $838.22 above entry; no manual action. Valuation ceiling note: BofA $930 / MS $915 near current price; trailing stop protects downside.
+2. **GEV — Post-CPI gate** — Current ~$1,075 (in entry zone $1,042–1,100). Gate conditions: core CPI ≤0.3% + VIX <17 + SPX holds → enter; stop ~$990 GTC trail; target ~$1,250–1,320; ~9sh (~9.5% equity). Q1 beat + record backlog support thesis.
+3. **CEG — Post-CPI watchlist** — Nuclear/AI power diversifier; earnings this week; entry only if CPI benign + VIX <17 + positive earnings reaction; size ~10% equity.
+
+### Risk Factors
+- **CPI hot print (CRITICAL):** Core ≥0.4% = rate-hike fears return; kills all entry gates; could compress CAT multiple
+- **VIX elevated 18.41 (HIGH):** All new entry gates blocked; spike >20 = hold all cash
+- **Oil/Iran (HIGH):** WTI $97–100 / Brent $105 on Hormuz disruption; direct CAT margin headwind; persistent
+- **CAT valuation ceiling (MEDIUM):** BofA $930 / MS $915 near current price; institutional sellers may cap upside; trailing stop protects
+- **AAPL AMC (LOW-MEDIUM):** Miss could reset tech/broad sentiment into Wed open
+
+### Decision
+**HOLD** — VIX 18.41 (gate blocked ✗) + CPI binary at 8:30 AM ET block all new entries. CAT trailing stop intact and above entry; no manual action needed. GEV at $1,075 is in entry zone on price, but macro gates not cleared. Preserve 0/3 weekly trade capacity for post-CPI window. Reassess immediately post-CPI 8:30 AM ET: if core ≤0.3% + VIX <17 + SPX holds → evaluate GEV entry at ~$1,042–1,100 (stop ~$990 GTC trail, ~9sh, ~9.5% equity).
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
