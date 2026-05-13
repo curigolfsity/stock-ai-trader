@@ -168,5 +168,15 @@ No positions yet. Bot launches tomorrow.
 - **SPX:** 7,425.67 (+0.36%) ✓
 - **GEV:** After-hours quote $1,030–1,138 spread; live open price TBD. Entry zone $1,042–1,100 — price gate potentially in range but macro gates not cleared
 - **Action:** No trades. VIX gate blocked at 18.11. CAT trailing stop intact; no manual adjustment needed (below +15% / $1,017 threshold).
-- **Thesis check (CAT):** INTACT. BofA PT $930 / MS PT $915 / JPM PT $1,125. Valuation ceiling debate near current price; trailing stop at $838.22 protects downside. WTI ~$97–100 ongoing headwind.
 - **Next:** If VIX drops below 17 post-CPI + core ≤0.3% confirmed + SPX holds → evaluate GEV entry at live open price (stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 used; full capacity for post-CPI window.
+
+---
+
+### May 13 — EOD Snapshot (Day 8, Wednesday)
+**Portfolio:** $100,327.95 | **Cash:** $84,965.56 (84.7%) | **Day P&L:** -$143.99 (-0.14%) | **Phase P&L:** +$327.95 (+0.33%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $903.67 | -0.93% | +$327.95 (+2.18%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Day 8 closed with CAT pulling back to $903.67 (-0.93%) from $912.14, resulting in a small -$143.99 (-0.14%) day loss entirely attributed to CAT's intraday retreat. No trade-specific catalysts; broad session weakness. Phase P&L holds at +$327.95 (+0.33%) vs. $100,000 starting equity — position remains profitable above entry. Trailing stop HWM locked at $931.35, stop at $838.22 (well above $884.38 entry; protecting breakeven+ floor). No trades entered this week (0/3); full capacity available. VIX remained elevated (18+) throughout the week blocking GEV entry. Next catalyst: monitor VIX for sub-17 window to evaluate GEV entry ($1,042–1,100 zone, ~9sh, stop ~$990 GTC trail).
