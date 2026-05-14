@@ -194,3 +194,14 @@ No positions yet. Bot launches tomorrow.
 - **GEV:** $1,062 (day range $1,047–$1,085) — in entry zone ($1,042–1,100) ✓ on price; VIX gate blocked ✗
 - **Action:** No trades. No stop adjustments. Hold CAT.
 - **Next:** VIX sub-17 sustained close → re-evaluate GEV entry ($1,042–1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.
+
+---
+
+### May 14 — EOD Snapshot (Day 9, Thursday)
+**Portfolio:** $100,491.49 | **Cash:** $84,965.56 (84.6%) | **Day P&L:** +$163.54 (+0.16%) | **Phase P&L:** +$491.49 (+0.49%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $913.29 | +1.22% | +$491.49 (+3.27%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Day 9 closed with CAT at $913.29 (+1.22%), recovering all of yesterday's pullback and advancing phase P&L to +$491.49 (+0.49%) vs. $100,000 starting equity. Day gain of +$163.54 (+0.16%) driven entirely by CAT alongside broad market strength (SPX ~7,508, Nasdaq +1.03%). Trailing stop HWM locked at $931.35; stop at $838.22 — protecting breakeven+ floor well above $884.38 entry. No trades entered this week (0/3); full capacity remains. VIX ~17.90 all session — GEV entry gate blocked throughout. Continue monitoring for VIX sub-17 sustained close to re-evaluate GEV ($1,042–1,100 zone, ~9sh, stop ~$990 GTC trail).
