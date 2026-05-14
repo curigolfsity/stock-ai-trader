@@ -180,3 +180,17 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $903.67 | -0.93% | +$327.95 (+2.18%) | $838.22 (10% trail, HWM $931.35) |
 
 **Notes:** Day 8 closed with CAT pulling back to $903.67 (-0.93%) from $912.14, resulting in a small -$143.99 (-0.14%) day loss entirely attributed to CAT's intraday retreat. No trade-specific catalysts; broad session weakness. Phase P&L holds at +$327.95 (+0.33%) vs. $100,000 starting equity — position remains profitable above entry. Trailing stop HWM locked at $931.35, stop at $838.22 (well above $884.38 entry; protecting breakeven+ floor). No trades entered this week (0/3); full capacity available. VIX remained elevated (18+) throughout the week blocking GEV entry. Next catalyst: monitor VIX for sub-17 window to evaluate GEV entry ($1,042–1,100 zone, ~9sh, stop ~$990 GTC trail).
+
+---
+
+### Midday Scan — 2026-05-14
+
+- **Account:** Equity ~$100,534 | Cash $84,965.56 (84.5%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $915.785 (+1.49% intraday from $902.30; +3.55% unrealized from $884.38 entry) — no −7% trigger; below +15% tightening threshold ($1,017)
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ (HWM locked — price below prior HWM; stop cannot advance)
+- **VIX:** ~17.90 (conflicting intraday data: 16.99–17.90; conservative read = GATE BLOCKED ✗)
+- **SPX:** ~7,508 (+0.86% intraday); Nasdaq +1.03%; broad-based strength
+- **Thesis check (CAT):** INTACT. +1.49% intraday consistent with broad market strength. No new negative catalysts. Evercore $1,103 / JPM $1,125 PTs unchanged. Insider sale (May 11 Fassino 16,283sh) noted but not thesis-breaking.
+- **GEV:** $1,062 (day range $1,047–$1,085) — in entry zone ($1,042–1,100) ✓ on price; VIX gate blocked ✗
+- **Action:** No trades. No stop adjustments. Hold CAT.
+- **Next:** VIX sub-17 sustained close → re-evaluate GEV entry ($1,042–1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.

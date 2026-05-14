@@ -1218,3 +1218,12 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — VIX 17.99 (gate blocked ✗) + PPI shock (+6.0% YoY worst since Dec 2022) block all new entries. CAT trailing stop intact above entry; no manual adjustment needed (below +15% / $1,017 tightening threshold). Weekly capacity: 0/3. Monitor: VIX sub-17 + jobless claims print for potential GEV entry trigger.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — Midday Scan 2026-05-14
+
+- **SPX:** ~7,508 (+0.86% intraday); Nasdaq +1.03%; Russell 2000 +0.67% — broad-based strength
+- **VIX:** Conflicting intraday reads (16.99–17.90 across sources); conservative read ~17.90 — gate BLOCKED ✗; not confirmed cleanly below 17
+- **CAT:** $915.785 (+1.49% intraday) — riding broad strength; trailing stop HWM $931.35 / stop $838.22 unchanged; no manual action needed
+- **GEV:** $1,062 (range $1,047–$1,085) — in price entry zone ✓; 28 analyst buys, avg PT $1,206; VIX gate prevents entry
+- **No action taken.** VIX gate ambiguous; PPI shock still fresh; patience rule applies.
+- **Next trigger:** VIX confirmed close <17 + SPX holds → evaluate GEV entry at next pre-market ($1,042–1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity).
