@@ -426,11 +426,11 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Sector momentum YTD:** Comms +4.5% ▲, Energy +3.3% ▲, Consumer Staples +1.2%, Real Estate +0.9%, Financials +0.9%, Industrials +0.2%, Materials -1.7% ▼; S&P 500 +5.1% YTD; IT + Comms leading earnings growth; Healthcare earnings declining
 
 ### CAT Position Check
-- Entry $884.38; current $874.81; unrealized -1.08% — no -7% cut trigger
+- Entry $884.38; current $874.81; unrealized -1.08% — no -7% cut trigger (threshold ~$822)
 - HWM $880.39; stop $792.35 — valid; no tightening needed (not at +15% = $1,017)
-- Q1 thesis intact: rev $17.41B (+22%), EPS $5.54 (+30%), $63B backlog (+79% YoY), Power Gen +41%; JPM PT $1,125 (OW), BofA $930, MS $915; 15 Buy/Strong Buy
-- Bear case: tariff headwind $710M Q1; stock +190% 1yr; some "Hold for now" at current levels
-- **Action: HOLD. Thesis intact.**
+- No new negative CAT-specific news today; day range $869.59–$892.03; thesis intact
+- TIKR bull case $932; consensus $874; 15 Buy/Strong Buy
+- **Action: HOLD. Stop valid.**
 
 ### Trade Ideas
 1. **PLTR — Watchlist tonight** — Reports AMC; 10-quarter beat streak; 96% EPS beat probability; options ±9–10%. DO NOT enter pre-earnings. If beat + orderly Tue AM gap (<+15%): evaluate $148–155 entry; stop 10% GTC; target +20% (~$178–186); R:R ~2:1. If miss or gap >+15%: skip.
@@ -1168,5 +1168,53 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
 ### Decision
 **HOLD** — VIX 18.41 (gate blocked ✗) + CPI binary at 8:30 AM ET block all new entries. CAT trailing stop intact and above entry; no manual action needed. GEV at $1,075 is in entry zone on price, but macro gates not cleared. Preserve 0/3 weekly trade capacity for post-CPI window. Reassess immediately post-CPI 8:30 AM ET: if core ≤0.3% + VIX <17 + SPX holds → evaluate GEV entry at ~$1,042–1,100 (stop ~$990 GTC trail, ~9sh, ~9.5% equity).
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-14 — Pre-Market Research
+
+### Account Snapshot
+- Equity: $100,316.56 | Cash: $84,965.56 (84.7%) | BP: $185,282.12
+- Daytrade count: 0 | Weekly trades: 0/3
+- Positions: CAT 17sh @ $884.38 avg | Current $903.00 | Unrealized +$316.56 (+2.11%) | Day +$11.90 (+0.08%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC | HWM $931.35 | Stop $838.22 ✓
+
+### Market Context
+- WTI: ~$101.54/bbl | Brent: ~$105.87/bbl (elevated; Iran/Hormuz disruption ongoing)
+- SPX futures: +0.12% premarket (muted positive; Wall Street +0.59% Wed close, Nasdaq +1.2%)
+- VIX: 17.99 (May 13 close) — GATE BLOCKED ✗ (requires <17)
+- PPI April (released May 13): **+1.4% MoM / +6.0% YoY** — massive shock vs. 4.9% expected; largest 12-month since Dec 2022; core PPI +1.0% MoM vs. +0.4% expected; driven by energy +7.8% (gasoline +15.6%)
+- Jobless Claims today 8:30 AM ET (last reading: 200K initial claims)
+- Sector momentum YTD leaders: Semiconductors > Energy > Defense > Industrials > Healthcare
+- AI infrastructure spend accelerating: NVDA/CSCO leading; hyperscaler capex guides higher
+
+### CAT Update
+- Current: $902.91 (May 14 range $897–$923) | Trailing stop $838.22 intact (HWM $931.35)
+- Evercore ISI raised PT to $1,103 from $878 (Outperform) — bullish
+- Morgan Stanley upgraded to Equal Weight, PT $915 (from Underweight/$430)
+- **Insider sale alert:** Group President Fassino sold 16,283sh for $14.9M on May 11 — notable, monitor; not thesis-breaking
+- Thesis INTACT: Q1 22% revenue growth, record backlog, raised full-year guidance; AI power/data center demand
+
+### GEV Update
+- GEV May 13 close: $1,059.25 (−1.26%); 28 analyst buys, avg PT $1,206
+- Price in entry zone ($1,042–1,100) ✓ on price — but VIX gate blocked ✗ + PPI shock = macro gates not cleared
+- Entry thesis unchanged: orders +71% organically, backlog +$13B, up 71% YTD
+
+### Trade Ideas
+1. **HOLD CAT** — Stop $838.22 protecting +2.11% gain. Evercore $1,103 / JPM $1,125 PTs. Monitor insider sale. No action.
+2. **GEV — Watchlist** — $1,059 in price zone; VIX + PPI block entry. Conditions: VIX <17 + macro stabilization; stop ~$990 GTC trail; target ~$1,250; ~9sh (~9.5% equity).
+3. **NVDA — Radar only** — AI leader YTD; not actionable while VIX gate blocked.
+
+### Risk Factors
+- **PPI shock (CRITICAL):** +6.0% YoY / core +1.0% MoM = stagflation signal; Fed rate-hike fears reignited; risk-off pressure
+- **VIX 17.99 (HIGH):** All new entry gates blocked; spike >20 = tighten all vigilance
+- **Oil elevated (HIGH):** WTI $101+ / Brent $106+; Iran/Hormuz; CAT margin headwind persists
+- **Jobless Claims 8:30 AM ET (MEDIUM):** High print = labor weakness; low = stagflation confirmed (no cuts + slow economy)
+- **CAT insider sale (MEDIUM):** 16,283sh / $14.9M sold May 11; monitor institutional signal; does not break thesis
+
+### Decision
+**HOLD** — VIX 17.99 (gate blocked ✗) + PPI shock (+6.0% YoY worst since Dec 2022) block all new entries. CAT trailing stop intact above entry; no manual adjustment needed (below +15% / $1,017 tightening threshold). Weekly capacity: 0/3. Monitor: VIX sub-17 + jobless claims print for potential GEV entry trigger.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
