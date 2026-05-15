@@ -217,3 +217,13 @@ No positions yet. Bot launches tomorrow.
 - **Action:** No trades. All entry gates blocked — VIX 17.26 ✗ | SPX futures −1.05% risk-off ✗ | Hot CPI +0.4% MoM / PPI +6.0% YoY stagflation combo ✗ | New Fed Chair Warsh Day 1 uncertainty ✗
 - **Thesis check (CAT):** INTACT. Q1 beat ($63B backlog, EPS +30%), AI power/data center demand, multiple analyst upgrades (Baird $1,165, Truist $1,043, Evercore $1,103). Intraday pullback = broad risk-off, no CAT-specific negative. Stop protecting breakeven+ floor.
 - **Next trigger:** VIX sustained close <17 + SPX holds + GEV ≤$1,100 → evaluate GEV entry (stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.
+
+### Midday Scan — 2026-05-15
+
+- **Account:** Equity ~$99,994 | Cash $84,966 | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $884.03 (−3.93% intraday from $920.22; −0.04% unrealized from $884.38 entry) — no −7% trigger; no tightening threshold reached (+15% = $1,017)
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ (HWM locked; price at/below entry; stop cannot advance)
+- **Action:** No trades. No stop adjustments.
+- **Thesis check (CAT):** INTACT. −3.93% intraday is macro-driven, not CAT-specific. All negative factors are pre-documented: insider selling (known since May 11), Resource Industries margin compression (known from Q1), stagflation (CPI/PPI documented). Positive offset: Empire State Mfg May +19.6 (4-yr high) — supports industrial demand. SPX recovered to +0.86% midday. Analyst PTs unchanged: Baird $1,165 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / JPM $1,125. No new thesis-breaking catalyst.
+- **VIX:** 17.90 — GEV entry gate BLOCKED ✗
+- **Next:** VIX sustained close <17 + SPX holds + GEV ≤$1,100 → evaluate GEV entry (stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.

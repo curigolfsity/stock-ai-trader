@@ -1280,4 +1280,21 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — VIX 17.26 (gate blocked ✗) + SPX futures −1.05% (risk-off Friday) + hot CPI/PPI combo + new Fed Chair uncertainty block all new entries. CAT trailing stop intact and protecting breakeven+ floor well above $884.38 entry. Full weekly trade capacity (0/3) preserved. Next trigger: VIX sustained close <17 + SPX holds + GEV ≤$1,100 → evaluate GEV entry (stop ~$990 GTC trail, ~9sh).
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — Midday Scan 2026-05-15
+
+- **SPX:** 7,508 (+0.86% midday) — fully recovered from −1.05% premarket futures; broad strength
+- **VIX:** 17.90 — still above 17 gate; GEV entry BLOCKED ✗
+- **Empire State Mfg (May 2026):** +19.6 — highest in 4 years. Strong positive for industrial end markets and CAT thesis.
+- **Industrial Production (April 2026):** 97.9156 (index 2017=100); updated today; expansion territory.
+- **CAT:** $884.03 (−3.93% intraday; −0.04% unrealized from $884.38 entry) | Trading range today: $880.21–$910.00
+  - Intraday decline drivers: macro stagflation (CPI/PPI), insider selling pattern (all pre-documented), Industrial sector down 1.93%; CAT underperforming sector by ~1.73%
+  - No new CAT-specific fundamental negative. Evercore $1,103 Outperform / Baird $1,165 / JPM $1,125 PTs all maintained.
+  - Trailing stop HWM $931.35 / stop $838.22 intact. Price near entry ($884.38); stop protects floor.
+  - **Thesis: INTACT.** Empire State Mfg at 4-yr high directly supports CAT industrial demand. SPX recovery confirms macro panic did not sustain.
+- **GEV:** ~$1,062–$1,093 range today; VIX gate prevents entry. Price approaching top of $1,042–1,100 zone — if VIX clears, may need to widen ceiling or accept entry at current market.
+- **No action taken.** No positions cut. No stops adjusted. No new entries.
+- **Next trigger:** VIX confirmed close <17 + SPX holds → evaluate GEV entry (stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **Next trigger:** VIX confirmed close <17 + SPX holds → evaluate GEV entry at next pre-market ($1,042–1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity).
