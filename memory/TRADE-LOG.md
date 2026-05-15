@@ -227,3 +227,14 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. −3.93% intraday is macro-driven, not CAT-specific. All negative factors are pre-documented: insider selling (known since May 11), Resource Industries margin compression (known from Q1), stagflation (CPI/PPI documented). Positive offset: Empire State Mfg May +19.6 (4-yr high) — supports industrial demand. SPX recovered to +0.86% midday. Analyst PTs unchanged: Baird $1,165 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / JPM $1,125. No new thesis-breaking catalyst.
 - **VIX:** 17.90 — GEV entry gate BLOCKED ✗
 - **Next:** VIX sustained close <17 + SPX holds + GEV ≤$1,100 → evaluate GEV entry (stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.
+
+---
+
+### May 15 — EOD Snapshot (Day 10, Friday)
+**Portfolio:** $99,998.32 | **Cash:** $84,965.56 (85.0%) | **Day P&L:** -$610.98 (-0.61%) | **Phase P&L:** -$1.68 (-0.00%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $884.28 | -3.91% | -$1.68 (-0.01%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Day 10 (end of Week 2) closed with CAT at $884.28, essentially at break-even vs. $884.38 entry (-3.91% intraday, -$1.68 unrealized). Sharp intraday drawdown was macro-driven: stagflation combo (CPI +0.4% MoM / PPI +6.0% YoY), new Fed Chair Warsh Day 1 uncertainty, and broad risk-off — no CAT-specific negative catalyst. Portfolio equity dipped marginally below $100K start to $99,998.32. Trailing stop intact at $838.22 (HWM $931.35, 10% GTC) — price well above stop; manual cut threshold at -7% ($822.47) not breached. No trades entered this week (0/3); full weekly capacity carries into next week. VIX >17 all week — GEV entry gate blocked throughout. Phase P&L -$1.68 (-0.00%) entering Week 3. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Thesis intact.
