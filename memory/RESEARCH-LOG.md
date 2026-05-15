@@ -1226,4 +1226,58 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **CAT:** $915.785 (+1.49% intraday) — riding broad strength; trailing stop HWM $931.35 / stop $838.22 unchanged; no manual action needed
 - **GEV:** $1,062 (range $1,047–$1,085) — in price entry zone ✓; 28 analyst buys, avg PT $1,206; VIX gate prevents entry
 - **No action taken.** VIX gate ambiguous; PPI shock still fresh; patience rule applies.
+- **Next trigger:** VIX confirmed close <17 + SPX holds → evaluate GEV entry at next pre-market ($1,042–1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.
+
+---
+
+## 2026-05-15 — Pre-Market Research
+
+### Account Snapshot
+- Equity: $100,384.56 | Cash: $84,965.56 (84.6%) | BP: $185,350.12
+- Daytrade count: 0 | Weekly trades: 0/3 (new week — full capacity)
+- Positions: CAT 17sh @ $884.38 avg | Current $907.00 | Day −1.44% (−$224.74) | Unrealized +$384.56 (+2.56%)
+- Open orders: 1c43ebd9 — CAT trailing stop 10% GTC | HWM $931.35 | Stop $838.22 ✓
+
+### Market Context
+- **WTI:** ~$104.81/bbl | **Brent:** ~$106.89/bbl — elevated; Hormuz disruption; Trump-Xi discussed Strait on May 14
+- **SPX futures:** ~7,446.75 (−1.05% premarket) after SPX closed at record 7,501.24 Thu; Nasdaq ATH 26,635 Thu
+- **VIX:** 17.26 (May 14 close) — GATE BLOCKED ✗ (need <17 for new entries)
+- **CPI April (May 12 print):** Headline +0.6% MoM / +3.8% YoY (above 0.6%/3.7% consensus); Core +0.4% MoM / +2.8% YoY — HOT; above Fed 2% target; energy +3.8%, shelter +0.6%, food +0.5%
+- **PPI April (May 13):** +6.0% YoY — massive stagflation shock; core PPI +1.0% MoM
+- **Today's releases (May 15):** Empire State Mfg (8:30 AM) | Industrial Production + Capacity Utilization (9:15 AM)
+- **Fed leadership:** Powell term ENDS today; Kevin Warsh confirmed May 13 (54–45 vote); takes chair at June 16–17 FOMC — policy uncertainty elevated
+- **Trump-Xi summit (May 14–15 Beijing):** Cook, Musk, Jensen Huang in delegation; US cleared 10 Chinese firms for H200 chips — AI/tech tailwind; Hormuz discussed
+- **Earnings before open:** MSFT reported Q3 2026 before open; ~98 reports today total
+- **Sector momentum YTD leaders:** Semiconductors > Energy > Defense > Industrials | Laggards: Consumer Discretionary, REITs, Utilities
+
+### CAT Update
+- Current: $907.00 (−1.44% today premarket/early; from $920.22 last close)
+- Trailing stop 1c43ebd9 intact: HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ (no manual action needed — price below HWM; stop cannot advance)
+- **New analyst moves:** BofA raised PT to $930 | Baird raised PT to $1,165 (Outperform) | Truist raised PT to $1,043 (Buy) | Morgan Stanley upgraded to Equal Weight PT $915 | Evercore $1,103 (Outperform)
+- **Insider activity (ongoing):** CAO Schaupp sold 360sh at $906; prior Fassino 16,283sh ($14.9M) May 11 — multiple executives selling; not thesis-breaking but pattern worth monitoring
+- Thesis INTACT: Q1 beat, $63B backlog, AI power/data center demand, reshoring beneficiary; industrials sector leader YTD (+53%)
+
+### GEV Update
+- Current: ~$1,093.60 (May 14 range $1,049–$1,094.47); +65% YTD
+- Q1 2026: EPS $17.44 vs. $1.95 est (792% surprise); revenue $9.34B vs. $9.25B est; orders +71% organically; electrification backlog +$13B; data center bookings $2.4B
+- Price pushing to TOP of our entry zone ($1,042–$1,100) — zone may break to upside; reassess entry parameters if VIX clears
+- VIX gate blocked ✗; all macro gates not cleared
+
+### Trade Ideas
+1. **HOLD CAT** — Stop $838.22 protects +2.56% unrealized gain; −1.44% premarket pull well above stop. Thesis intact. No action.
+2. **GEV — Watchlist** — $1,094 nearing top of $1,042–$1,100 entry zone. If VIX clears <17 sustained, entry up to $1,100 valid; stop ~$990 GTC trail; target ~$1,260–$1,320 (+15–20%); ~9sh (~9.5% equity). Price zone may break — be ready to adjust ceiling or pass.
+3. **NVDA — Radar** — H200 China chip deal approved; +15% monthly rally; AI leadership. Entry blocked by VIX gate. Watch for post-VIX entry setup.
+
+### Risk Factors
+- **VIX 17.26 (HIGH):** All new entry gates blocked; -1.05% SPX futures = risk-off Friday
+- **CPI + PPI combo (HIGH):** Core CPI +0.4% MoM + PPI +6.0% YoY = stagflation signal; Fed rate cuts pushed further out; bond yields rising
+- **New Fed Chair Warsh (HIGH):** Day 1 today — unknown policy stance vs. Powell; market pricing uncertainty; hawkish reputation vs. rate-cut expectations
+- **Oil elevated (MEDIUM):** WTI $104/Brent $107; Hormuz disruption; CAT margin headwind persists
+- **CAT insider selling (MEDIUM):** Multiple execs selling; does not break thesis but warrants monitoring
+- **Empire State + Industrial Production (MEDIUM):** 8:30/9:15 AM binary; weak read = stagflation signal compounded
+
+### Decision
+**HOLD** — VIX 17.26 (gate blocked ✗) + SPX futures −1.05% (risk-off Friday) + hot CPI/PPI combo + new Fed Chair uncertainty block all new entries. CAT trailing stop intact and protecting breakeven+ floor well above $884.38 entry. Full weekly trade capacity (0/3) preserved. Next trigger: VIX sustained close <17 + SPX holds + GEV ≤$1,100 → evaluate GEV entry (stop ~$990 GTC trail, ~9sh).
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **Next trigger:** VIX confirmed close <17 + SPX holds → evaluate GEV entry at next pre-market ($1,042–1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity).
