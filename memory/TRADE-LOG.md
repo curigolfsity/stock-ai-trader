@@ -238,3 +238,16 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $884.28 | -3.91% | -$1.68 (-0.01%) | $838.22 (10% trail, HWM $931.35) |
 
 **Notes:** Day 10 (end of Week 2) closed with CAT at $884.28, essentially at break-even vs. $884.38 entry (-3.91% intraday, -$1.68 unrealized). Sharp intraday drawdown was macro-driven: stagflation combo (CPI +0.4% MoM / PPI +6.0% YoY), new Fed Chair Warsh Day 1 uncertainty, and broad risk-off — no CAT-specific negative catalyst. Portfolio equity dipped marginally below $100K start to $99,998.32. Trailing stop intact at $838.22 (HWM $931.35, 10% GTC) — price well above stop; manual cut threshold at -7% ($822.47) not breached. No trades entered this week (0/3); full weekly capacity carries into next week. VIX >17 all week — GEV entry gate blocked throughout. Phase P&L -$1.68 (-0.00%) entering Week 3. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Thesis intact.
+
+---
+
+## Week of 2026-05-18
+
+### Market-Open Scan — 2026-05-18 (Day 11, Monday)
+
+- **Account:** Equity $100,036.06 | Cash $84,965.56 (84.9%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $886.50 (−0.20% intraday; +$36.06 / +0.24% unrealized from $884.38 entry) — no −7% trigger; below +15% tightening threshold ($1,017)
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE (price below HWM; stop cannot advance)
+- **GEV gate check:** VIX 18.99 ✗ | SPX futures −0.58% risk-off ✗ | UAE Barakah drone strike / WTI $107.75 geopolitical uncertainty ✗ → **SKIPPED**
+- **Action:** No trades. All new entry gates blocked. CAT thesis intact; stop intact; no manual adjustment needed.
+- **Next:** VIX sustained close <17 + SPX stabilizes → evaluate GEV entry ($1,042–$1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity). Watch NVDA Q1 earnings May 20 for semi/tech sentiment read-through. Retail sales + Walmart May 21.
