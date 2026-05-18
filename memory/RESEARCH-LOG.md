@@ -1372,3 +1372,66 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **Next trigger:** NVDA Q1 earnings May 20 (consensus EPS $1.76, rev $78.75B, DC growth ~60%+) — primary semi/tech sentiment read-through. VIX sustained close <17 + SPX stabilizes → evaluate GEV entry ($1,042–$1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+---
+
+### Pre-Market Research — 2026-05-19 (Day 12, Tuesday)
+
+#### Account Snapshot
+- **Equity:** $99,476.93 | **Cash:** $84,965.56 (85.4%) | **Daytrade count:** 0 | **Weekly trades:** 0/3
+- **CAT:** 17sh @ $884.38 avg | Last close $853.61 | Unrealized −$523.07 (−3.48%)
+- **Trailing stop:** 1c43ebd9 | HWM $931.35 | Stop $838.22 | Buffer: $15.39 (1.80% above stop) ⚠️
+- **Manual cut threshold (−7%):** $822.47 — not breached
+- **CAT dividend payable today:** $1.51/sh × 17sh = +$25.67 (record date Apr 20)
+
+#### Market Context
+- **WTI:** ~$106 | **Brent:** ~$107.71 (fell from $109.26 — US proposed temporary Iran oil sanctions waiver per Iranian media; US unconfirmed)
+- **SPX:** 7,383.25 (May 18 close); prior session −1.24%; pre-open direction unclear
+- **VIX:** 18.99 (May 18 close; prior 18.43) — GATE BLOCKED ✗ (need sustained close <17)
+- **Oil driver:** UAE Barakah drone strikes ongoing; US-Iran 30-day MOU talks; deal = oil crash risk; no deal + escalation = $110+ oil
+
+#### Today's Catalysts (May 19)
+- **HD before open:** consensus EPS $3.41 / $41.54B rev (+4.2% YoY); Pro comps + housing rate sensitivity read
+- **Housing Starts + Building Permits (April):** macro print for Industrials/CAT demand thesis
+- **NVDA earnings tomorrow** (May 20 AH): consensus $1.78 EPS / $79.17B rev; DC ~$73B; Q2 guidance ~$87B; 20% monthly run = high bar; binary ±5–10% event
+- **FOMC minutes tomorrow** (May 20): rate-cut timeline signal
+- **US-Iran negotiations:** temporary sanctions waiver proposed → oil reversal risk if deal progresses
+
+#### Sector Momentum YTD 2026
+- Leaders: Energy +26% > Materials > Consumer Staples > Industrials > Utilities > Healthcare
+- Laggards: Technology −1.51% | Communications — megacap AI underperforming
+
+#### Held Ticker Updates
+
+**CAT — $853.61 (May 18 close)**
+- ⚠️ Stop buffer thin: $853.61 vs stop $838.22 = $15.39 gap (1.80%) — any morning selloff risks trigger
+- Dividend $1.51/sh payable today — no effect on stop order
+- CFO transition: Bonfield retiring Oct 1; Epley effective May 1 — succession noted, not thesis-breaking
+- Insider selling: Johnson 6,196sh + Schaupp 360sh (May 14) + Fassino 16,283sh (May 11) — three execs in one week; accelerating
+- Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930 / MS $915 (EW) — unchanged
+- **Thesis: INTACT.** Q1 $17.42B rev (+22% YoY), EPS $5.54 beat, $63B backlog, AI power/DC demand, reshoring. Selloff = macro risk-off, not CAT-specific.
+- **Action: HOLD.** No manual cut warranted. GTC stop at $838.22 protecting floor.
+
+**GEV — ~$1,049 (fell −4.33% May 18 despite Q1 beat)**
+- Q1 actual: EPS $2.01 vs $1.67 est; rev $9.34B +16% YoY; backlog $163B; new orders $13B
+- FY2026 guidance raised: rev $44.5–$45.5B; FCF $6.5–$7.5B; $200B backlog target pulled to 2027
+- Sell-the-news on risk-off day; still in lower end of $1,042–$1,100 entry zone
+- All gates blocked: VIX 18.99 ✗ | risk-off ✗ | oil uncertainty ✗
+
+#### Trade Ideas
+1. **HOLD CAT** — Stop $838.22 intact; manual cut $822.47 not triggered. Buffer thin — monitor intraday. No action unless price triggers GTC stop or hits $822.47.
+2. **GEV Watchlist** — Fundamentals excellent (big beat + guide raise). Entry zone $1,042–$1,100; stop ~$990 GTC trail; ~9sh (~9.5% equity). Wait for VIX sustained close <17 + SPX stabilizes.
+3. **Energy (XOM/CVX) Radar only** — YTD +26% leader; oil $106+. NOT actioning — sanctions waiver deal = oil crash risk; VIX blocks all entries; chasing spike = low R:R.
+
+#### Risk Factors
+- **CAT stop buffer THIN (HIGH):** $15.39 gap → morning risk-off could trigger $838.22 GTC stop
+- **VIX 18.99 (HIGH):** All new entry gates blocked
+- **NVDA earnings binary (MEDIUM):** May 20 AH; miss = tech/semi/Industrials selloff
+- **US-Iran deal uncertainty (MEDIUM):** Waiver proposed but unconfirmed; deal = oil crash; no deal + escalation = $110+ oil
+- **HD + Housing Starts today (MEDIUM):** Negative surprises = continued risk-off pressure
+- **Insider selling acceleration (MEDIUM):** Three CAT execs in one week — monitor
+- **FOMC minutes tomorrow (LOW–MEDIUM):** Hawkish language = rate-cut delay = risk-off spike
+
+#### Decision
+**HOLD** — VIX 18.99 ✗ blocks all new entries. CAT thesis intact; stop buffer thin ($15.39) — watch intraday. No new positions. Weekly capacity 0/3 preserved. Next: NVDA May 20 for tech read-through; VIX sustained <17 + SPX stabilizes → evaluate GEV ($1,042–$1,100, stop ~$990 GTC trail, ~9sh).
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
