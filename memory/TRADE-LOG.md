@@ -262,3 +262,14 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. −2.79% intraday is macro-driven, not CAT-specific. All negative factors pre-documented: insider selling, Resource Ind. margins (−39% op profit / −700bps), oil headwind. No new fundamental negative. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Stop at $838.22 protecting floor.
 - **GEV:** VIX 18.43 ✗ | SPX risk-off ✗ | Oil surging ✗ → all gates blocked; no entry.
 - **Next:** NVDA Q1 earnings May 20 (consensus ~60%+ DC growth, EPS $1.76, rev $78.75B) — watch for semi/tech sentiment read-through to Industrials. VIX sustained close <17 + SPX stabilizes → evaluate GEV ($1,042–$1,100, stop ~$990 GTC trail, ~9sh).
+
+---
+
+### May 18 — EOD Snapshot (Day 11, Monday)
+**Portfolio:** $99,598.31 | **Cash:** $84,965.56 (85.3%) | **Day P&L:** -$400.01 (-0.40%) | **Phase P&L:** -$401.69 (-0.40%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $859.75 | -3.22% | -$418.69 (-2.79%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Day 11 (Monday, start of Week 3) closed deep in risk-off as the UAE Barakah drone strike escalation drove WTI to ~$107–109 and Brent to $109.26 (+3.35%), pressuring CAT via input-cost headwinds and broad industrial selloff. CAT dropped -3.22% to $859.75, pushing unrealized P&L to -$418.69 (-2.79%) — still well above the -7% manual cut threshold ($822.47) and the trailing stop at $838.22 (2.5% buffer). Phase P&L slipped into negative territory at -$401.69 (-0.40%) vs. $100,000 starting equity. No trades entered this week (0/3); all new-position gates remain blocked (VIX 18.43, oil surge, geopolitical uncertainty). CAT thesis intact — weakness is macro-driven, not fundamental; analyst PTs unchanged (Baird $1,165 / JPM $1,125 / Evercore $1,103). Primary catalyst: NVDA Q1 earnings May 20 — a strong AI/semiconductor beat could restore sentiment and support CAT's AI power-gen thesis.
