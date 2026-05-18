@@ -1297,4 +1297,63 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **Next trigger:** VIX confirmed close <17 + SPX holds → evaluate GEV entry (stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-18 — Pre-market Research
+
+### Account
+- **Equity:** $100,013.96 | **Cash:** $84,965.56 (84.9%) | **Buying power:** $184,979.52
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 (new week — full capacity)
+- **Long market value:** $15,048.40
+- **Position:** CAT 17sh @ $884.38 avg | Current $885.20 | Unrealized +$13.96 (+0.09%)
+- **Trailing stop (1c43ebd9):** HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓
+
+### Market Context
+- **WTI:** ~$107.75/bbl (+2.21%) | **Brent:** ~$111.27/bbl (+1.84%) — surging on UAE Barakah nuclear plant drone strike (May 17 overnight); 2-week high
+- **SPX futures:** −42.75 pts (−0.58%) premarket — risk-off Monday open
+- **VIX:** 18.99 (+3.04%) — GATE BLOCKED ✗ (need sustained close <17 for new entries)
+- **Today's catalysts (May 18):**
+  - UAE Barakah Nuclear Plant drone attack (May 17): third UAV hit generator outside inner perimeter, sparked fire; no radiation leak, no injuries — but oil spiked and Iran war escalation fears elevated
+  - Trump admin allowed lapse of sanctions waiver on Russian seaborne oil (India buyers cut off) — supply tightening
+  - ~50 earnings scheduled today; Baidu (BIDU) notable before open
+  - NVDA Q1 earnings Wednesday May 20 — biggest single event for tech this week (consensus ~60%+ data center growth, EPS $1.76 on $78.75B revenue)
+  - Walmart reports May 21; retail sales Thursday
+- **Earnings before open:** Baidu (BIDU) + ~50 other reports; no major S&P 500 names confirmed pre-open
+- **Economic releases today (May 18):** No major scheduled releases — next key data Housing Starts/Building Permits April (May 21)
+- **Sector momentum YTD 2026:** Leaders: Energy > Materials > Consumer Staples > Industrials > Utilities > Healthcare | Laggards: Technology, Communications (megacap growth underperforming — reversal from 2025 leadership)
+
+### Held Ticker Updates
+
+**CAT — $885.20 (premarket; last close $888.31)**
+- Intraday change: −0.35% premarket; unrealized +$13.96 (+0.09%) from $884.38 entry
+- Trailing stop intact: HWM $931.35 / stop $838.22 — price well above stop; no manual action needed
+- Insider selling continued (May 14): Group President Denise Johnson sold 6,196sh (~$5.64M) + CAO Schaupp 360sh ($326K) — ongoing multi-exec selling pattern; does not break thesis, but accelerating
+- Oil at $107 WTI = margin headwind (fuel costs, energy-intensive operations)
+- Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / BofA $930 / MS $915 (EW)
+- **Thesis: INTACT.** Q1 beat, $63B backlog, AI power/data center demand, reshoring beneficiary. Risk-off today is macro (oil spike, Iran), not CAT-specific.
+
+**GEV — $1,049.23 (May 17 close); predicted open ~$1,051**
+- Fell −3.79% Friday (broad risk-off); now trading near lower end of our $1,042–$1,100 entry zone
+- Price in zone ✓ on price alone | VIX 18.99 ✗ | SPX futures −0.58% ✗ | Oil spike macro uncertainty ✗
+- All entry gates blocked; watchlist status maintained. Zone integrity ($1,042–$1,100) still valid.
+
+### Trade Ideas
+1. **HOLD CAT** — Stop $838.22 protecting breakeven+ floor. No manual action needed (price >$46 above stop). Thesis intact. VIX blocks all new entries anyway. No action.
+2. **GEV — Watchlist** — Price at lower end of $1,042–$1,100 zone but macro gates all blocked (VIX 18.99, risk-off open, oil spike). If VIX clears <17 sustained post-Iran-noise settling → re-evaluate. Stop ~$990 GTC trail, ~9sh (~9.5% equity). Target ~$1,260–$1,320 (+20% from mid-zone).
+3. **Energy (XOM/CVX) — Radar only** — WTI $107+, Barakah escalation, Hormuz risk + sanctions waiver lapse = sustained oil bid. Sector leader YTD. **Not actioning today** — chasing a spike is low-R:R; no pre-researched entry/stop/target; would require adding a new sector under VIX-blocked conditions. Monitor for consolidation entry if oil theme persists post-VIX normalization.
+
+### Risk Factors
+- **Iran war / UAE drone strike (HIGH):** Escalation risk; oil >$107 = stagflation compounded; any Hormuz closure = severe market disruption
+- **VIX 18.99 (HIGH):** All new entry gates blocked; elevated fear premium
+- **SPX futures −0.58% (MEDIUM):** Risk-off Monday; tech + growth names under pressure
+- **NVDA earnings May 20 (MEDIUM):** Binary event ±5% potential; China market effectively lost (Huang confirmed no NVDA share); H200 cleared for 10 Chinese firms partial offset; drives broad tech/semi volatility
+- **CAT insider selling accelerating (MEDIUM):** Johnson 6,196sh + Schaupp 360sh May 14 follows Fassino 16,283sh May 11 — three execs in one week
+- **Russian oil sanctions waiver lapse (MEDIUM):** Supply tightening → sustained $100+ oil = stagflation amplifier → rate-cut timeline pushed further out
+- **No economic releases today (LOW):** Quiet calendar; next landmines: Housing Starts May 21
+
+### Decision
+**HOLD** — All new entry gates blocked: VIX 18.99 ✗ + SPX futures −0.58% risk-off ✗ + oil spike geopolitical uncertainty ✗. CAT trailing stop intact at $838.22, price $885.20, thesis intact. New week = 0/3 trades used, full capacity preserved. Next trigger: VIX sustained close <17 + SPX stabilizes → evaluate GEV entry ($1,042–$1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity). Watch NVDA earnings May 20 for semi/tech sector read.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **Next trigger:** VIX confirmed close <17 + SPX holds → evaluate GEV entry at next pre-market ($1,042–1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity).
