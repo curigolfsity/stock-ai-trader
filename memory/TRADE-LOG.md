@@ -251,3 +251,14 @@ No positions yet. Bot launches tomorrow.
 - **GEV gate check:** VIX 18.99 ✗ | SPX futures −0.58% risk-off ✗ | UAE Barakah drone strike / WTI $107.75 geopolitical uncertainty ✗ → **SKIPPED**
 - **Action:** No trades. All new entry gates blocked. CAT thesis intact; stop intact; no manual adjustment needed.
 - **Next:** VIX sustained close <17 + SPX stabilizes → evaluate GEV entry ($1,042–$1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity). Watch NVDA Q1 earnings May 20 for semi/tech sentiment read-through. Retail sales + Walmart May 21.
+
+### Midday Scan — 2026-05-18
+
+- **Account:** Equity ~$99,646 | Cash $84,965.56 (85.3%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $863.56 (−2.79% intraday from $888.31; −2.35% unrealized from $884.38 entry) — no −7% trigger ($822.47); no tightening threshold reached (+15% = $1,017)
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE (price below HWM; stop locked; buffer $25.34 above stop)
+- **Market:** SPX −1.24% | VIX 18.43 | Brent $109.26 (+3.35%) — broad risk-off; oil surging on UAE Barakah drone escalation + Russian sanctions waiver lapse
+- **Action:** No trades. No stop adjustments.
+- **Thesis check (CAT):** INTACT. −2.79% intraday is macro-driven, not CAT-specific. All negative factors pre-documented: insider selling, Resource Ind. margins (−39% op profit / −700bps), oil headwind. No new fundamental negative. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Stop at $838.22 protecting floor.
+- **GEV:** VIX 18.43 ✗ | SPX risk-off ✗ | Oil surging ✗ → all gates blocked; no entry.
+- **Next:** NVDA Q1 earnings May 20 (consensus ~60%+ DC growth, EPS $1.76, rev $78.75B) — watch for semi/tech sentiment read-through to Industrials. VIX sustained close <17 + SPX stabilizes → evaluate GEV ($1,042–$1,100, stop ~$990 GTC trail, ~9sh).

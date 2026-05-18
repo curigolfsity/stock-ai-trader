@@ -1357,3 +1357,18 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **Next trigger:** VIX confirmed close <17 + SPX holds → evaluate GEV entry at next pre-market ($1,042–1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity).
+
+### Afternoon Addendum — Midday Scan 2026-05-18
+
+- **SPX:** −1.24% (−92.74 pts) — broad risk-off selloff; SPX Supertrend indicator flipped red
+- **VIX:** 18.43 (↑ from 18.99 premarket; +6.78% on day) — all new entry gates blocked ✗
+- **Brent:** $109.26 (+3.35%) | WTI estimate ~$107+ — oil surging further on UAE Barakah escalation + Russian sanctions waiver lapse (supply tightening)
+- **CAT:** $863.56 (−2.79% intraday; −2.35% unrealized from $884.38 entry) — no −7% cut trigger; trailing stop 1c43ebd9 / HWM $931.35 / stop $838.22 / buffer $25.34 above stop — INTACT
+  - No new CAT-specific negative catalyst; all drivers pre-documented (macro/oil/insider selling)
+  - Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020
+  - **Thesis: INTACT.** HOLD.
+- **GEV:** Not checked intraday (all macro gates blocked; price tracking not actioned)
+- **No action taken.** No positions cut. No stops adjusted. No new entries.
+- **Next trigger:** NVDA Q1 earnings May 20 (consensus EPS $1.76, rev $78.75B, DC growth ~60%+) — primary semi/tech sentiment read-through. VIX sustained close <17 + SPX stabilizes → evaluate GEV entry ($1,042–$1,100, stop ~$990 GTC trail, ~9sh, ~9.5% equity). Weekly capacity 0/3 — full.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
