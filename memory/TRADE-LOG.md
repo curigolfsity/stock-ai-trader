@@ -273,3 +273,17 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $859.75 | -3.22% | -$418.69 (-2.79%) | $838.22 (10% trail, HWM $931.35) |
 
 **Notes:** Day 11 (Monday, start of Week 3) closed deep in risk-off as the UAE Barakah drone strike escalation drove WTI to ~$107–109 and Brent to $109.26 (+3.35%), pressuring CAT via input-cost headwinds and broad industrial selloff. CAT dropped -3.22% to $859.75, pushing unrealized P&L to -$418.69 (-2.79%) — still well above the -7% manual cut threshold ($822.47) and the trailing stop at $838.22 (2.5% buffer). Phase P&L slipped into negative territory at -$401.69 (-0.40%) vs. $100,000 starting equity. No trades entered this week (0/3); all new-position gates remain blocked (VIX 18.43, oil surge, geopolitical uncertainty). CAT thesis intact — weakness is macro-driven, not fundamental; analyst PTs unchanged (Baird $1,165 / JPM $1,125 / Evercore $1,103). Primary catalyst: NVDA Q1 earnings May 20 — a strong AI/semiconductor beat could restore sentiment and support CAT's AI power-gen thesis.
+
+---
+
+### Market-Open Scan — 2026-05-19 (Day 12, Tuesday)
+
+- **Account:** Equity $99,483.56 | Cash $84,965.56 (85.4%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $854.00 (−1.15% from $863.95 prior close; −3.44% unrealized from $884.38 entry) — no −7% trigger ($822.47 threshold)
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE | Buffer: $15.78 (1.85%) ⚠️ CRITICALLY THIN
+- **⚠️ GAP-DOWN RISK:** CAT after-hours bid $812.25 (May 18 20:00 ET) — sits BELOW stop $838.22. If CAT opens ≤$838.22, GTC trailing stop triggers as market sell; fill price = wherever CAT opens (could be ~$812 or lower)
+- **GEV:** After-hours bid $956.34 — below revised entry zone ($1,000–$1,060) ✗
+- **VIX:** 17.82 (May 18 close) — new-entry gate BLOCKED ✗ (need sustained close <17)
+- **Action:** No trades. All entry gates blocked — VIX 17.82 ✗ | GEV below zone ✗ | war/oil risk-off ✗. CAT GTC stop protecting floor; monitor intraday for gap-down trigger.
+- **Thesis check (CAT):** INTACT. $854 close = macro risk-off (UAE Barakah escalation, oil 84% YTD); no CAT-specific negative. Q1 $63B backlog / EPS beat / AI power-gen thesis unchanged. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. If stop triggers at open, position exits automatically; no manual action required unless fill confirmed below $822.47 (manual cut already superseded by GTC stop activation).
+- **Next:** NVDA Q1 earnings tonight (May 20 AH) — beat = relief rally + CAT support; miss = broad selloff. FOMC minutes May 20. VIX sustained <17 + SPX stabilizes + GEV $1,000–$1,060 → evaluate GEV entry (~9sh, stop ~$910 GTC trail).
