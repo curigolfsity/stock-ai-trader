@@ -1501,3 +1501,12 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — VIX 17.82 ✗ (need <17; trending down). CAT stop buffer critically thin ($14.78); watching HD + housing at open. No manual cut warranted ($853 > $822.47). Weekly capacity 0/3 fully preserved. Next: NVDA May 20 AH + FOMC minutes → sentiment pivot; VIX sustained <17 + SPX stabilizes → evaluate GEV entry ($1,000–$1,060 revised zone, stop ~$910 GTC trail, ~9sh, ~9.5% equity).
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — 2026-05-19 Midday
+
+- **CAT:** $855.85 | Day low $845.55 — stop $838.22 NOT triggered; buffer narrowed to $7.33 (0.87%) at intraday low, recovered to $17.63 (2.06%); −3.23% unrealized; no −7% trigger
+- **Market:** SPX −0.32% | VIX ~17.82 (unchanged from prior close) | WTI ~$108.09 (oil re-surging; Iran conflict ongoing)
+- **No new CAT-specific catalysts.** Dividend $1.51/sh paid today. Weakness = macro only.
+- **GEV:** ~$1,040–$1,060 range; VIX gate blocked ✗
+- **Stop survived.** No trades. No adjustments.
+- **Tomorrow binary:** NVDA Q1 earnings AH (EPS $1.78 est / rev $79.17B) + FOMC minutes — beat = risk-on + CAT relief; miss = stop vigilance heightened.

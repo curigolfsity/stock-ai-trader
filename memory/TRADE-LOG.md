@@ -287,3 +287,14 @@ No positions yet. Bot launches tomorrow.
 - **Action:** No trades. All entry gates blocked — VIX 17.82 ✗ | GEV below zone ✗ | war/oil risk-off ✗. CAT GTC stop protecting floor; monitor intraday for gap-down trigger.
 - **Thesis check (CAT):** INTACT. $854 close = macro risk-off (UAE Barakah escalation, oil 84% YTD); no CAT-specific negative. Q1 $63B backlog / EPS beat / AI power-gen thesis unchanged. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. If stop triggers at open, position exits automatically; no manual action required unless fill confirmed below $822.47 (manual cut already superseded by GTC stop activation).
 - **Next:** NVDA Q1 earnings tonight (May 20 AH) — beat = relief rally + CAT support; miss = broad selloff. FOMC minutes May 20. VIX sustained <17 + SPX stabilizes + GEV $1,000–$1,060 → evaluate GEV entry (~9sh, stop ~$910 GTC trail).
+
+### Midday Scan — 2026-05-19
+
+- **Account:** Equity ~$99,484 | Cash $84,966 (85.4%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $855.85 (−0.94% intraday from $863.95; −3.23% unrealized from $884.38 entry) — no −7% trigger ($822.47); ⚠️ day low $845.55 = only $7.33 / 0.87% above stop; stop survived
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API)
+- **Market:** SPX −0.32% | VIX ~17.82 | WTI ~$108.09 — risk-off; US-Iran conflict ongoing; oil re-surging
+- **Action:** No trades. No stop adjustments. GTC stop order intact.
+- **Thesis check (CAT):** INTACT. Decline macro-driven — oil surge, Iran escalation, broad SPX weakness. No CAT-specific negative catalyst. Q1 $63B backlog / EPS $5.54 beat / AI power-gen thesis unchanged. Dividend $1.51/sh paid today (+$25.67 cash credit). Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **GEV:** VIX 17.82 ✗ | all new-entry gates blocked. Price ~$1,040–$1,060.
+- **Next:** NVDA Q1 earnings May 20 AH (consensus EPS $1.78 / rev $79.17B) + FOMC minutes May 20 = primary binary. Beat → relief rally + CAT support; miss → stop vigilance. VIX sustained <17 + SPX stabilizes → evaluate GEV ($1,000–$1,060, stop ~$910 GTC trail, ~9sh).
