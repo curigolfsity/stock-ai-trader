@@ -1435,3 +1435,69 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — VIX 18.99 ✗ blocks all new entries. CAT thesis intact; stop buffer thin ($15.39) — watch intraday. No new positions. Weekly capacity 0/3 preserved. Next: NVDA May 20 for tech read-through; VIX sustained <17 + SPX stabilizes → evaluate GEV ($1,042–$1,100, stop ~$990 GTC trail, ~9sh).
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-19 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $99,466.56 | **Cash:** $84,965.56 (85.4%) | **Buying power:** $184,432.12 | **Daytrade count:** 0 | **Weekly trades:** 0/3
+- **CAT:** 17sh @ $884.38 avg | Live price $853.00 | Unrealized −$533.44 (−3.55%)
+- **Trailing stop:** 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ | Buffer: $14.78 (1.73%) ⚠️ CRITICALLY THIN
+- **Manual cut threshold (−7%):** $822.47 — not breached
+- **CAT dividend $1.51/sh × 17sh = +$25.67 payable today (record date Apr 20)**
+
+### Market Context
+- **WTI:** ~$105–106 (eased from $108+ highs; US eased Iranian oil sanctions narrowly — "stranded at sea" barrels only)
+- **Brent:** ~$107–109 (was $111 May 15; Strait of Hormuz closure = IEA "largest supply disruption in history"; oil up ~84% YTD)
+- **SPX futures:** ~7,383–7,385 (flat to slightly positive; "market wavers amid conflicting war reports")
+- **VIX:** 17.82 (May 18 close; down from 18.99) — GATE BLOCKED ✗ (need sustained close <17; trending down)
+- **Treasury yields:** 2Y >4.0% | 10Y >4.50% | 30Y >5.0% — sustained yield pressure
+- **Today's catalysts:**
+  - HD Q1 2026 earnings BEFORE OPEN: consensus EPS $3.41 / $41.53B rev (slight miss likely per Zacks ESPN −0.34%); housing/rate sensitivity read; HD −21% past year
+  - Housing Starts + Building Permits 08:30 ET
+  - New Residential Construction 08:30 ET; NAR Pending Home Sales 10:00 ET
+  - War progress reports (conflicting): oil pulled back; any confirmation = risk-off reversal
+  - NVDA Q1 earnings TOMORROW (May 20 AH): consensus EPS $1.78 / $79.17B rev; DC ~$73B; Q2 guide ~$87B — binary ±5–10% event
+  - FOMC minutes TOMORROW (May 20): rate-cut timeline signal
+- **Sector momentum (updated May 2026):**
+  - Leaders: Consumer Staples (XLP), Industrials (XLI), Materials (XLB +22% YTD dominant), Energy (XLE)
+  - Laggards: Technology (XLK), Communications (XLC), Consumer Discretionary (XLY), Financials (XLF)
+  - S&P 500 +10% YTD; 85% driven by TMT megacaps (only 10 names = 78% of gains)
+
+### Held Ticker Updates
+
+**CAT — $853.00 (live pre-market)**
+- ⚠️ Stop buffer CRITICALLY THIN: $853.00 vs stop $838.22 = $14.78 gap (1.73%) — one bad print could trigger GTC
+- Tariff headwind NEW: $700M projected Q2 2026 alone; full-year $2.2–$2.4B impact — significant margin drag
+- Thesis still intact: Q1 $17.42B rev (+22% YoY), EPS $5.54 beat, $63B backlog, AI power/DC demand, reshoring
+- Insider selling (ongoing): Johnson + Schaupp (May 14) + Fassino (May 11) — three execs, three weeks accelerating
+- Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930 / MS $915 (EW)
+- HD earnings + housing data = direct macro read for CAT industrial demand thesis
+- **Action: HOLD.** GTC stop at $838.22 active. Monitor intraday — any sharp open triggers reassessment.
+
+**GEV — ~$1,011 (May 18/19)**
+- Slipped BELOW entry zone ($1,042–$1,100); range May 18: $980.14–$1,057
+- Q1 actual (massive beat): EPS $17.44 vs $1.95 est; rev $9.34B +17% YoY; orders +71% organic
+- Backlog +$13B QoQ; data center orders Q1 2026 > all of 2025 combined; FY rev guide raised $44.5–$45.5B
+- All gates blocked: VIX 17.82 ✗ | price below zone ✗ | war risk-off ✗
+- Entry zone reassessment needed if VIX clears: price now $1,011 → revised zone $1,000–$1,060
+
+### Trade Ideas
+1. **HOLD CAT** — GTC stop $838.22 active; buffer critically thin $14.78. No action unless stop triggers or price hits manual cut $822.47.
+2. **GEV Watch (revised zone)** — Price $1,011, below prior zone. Fundamentals exceptional. VIX <17 sustained + price recovery → entry $1,000–$1,060; stop ~$910 GTC trail; ~9sh.
+3. **No new positions** — VIX gate blocks all entries; war uncertainty; thin buffer on existing position.
+
+### Risk Factors
+- **CAT stop buffer CRITICAL (HIGH):** $14.78 gap (1.73%) — HD miss or housing miss = intraday trigger risk
+- **2026 Iran war / Strait of Hormuz (HIGH):** IEA largest supply disruption in history; oil 84% YTD; escalation = $120+; ceasefire = oil crash
+- **NVDA binary tomorrow (MEDIUM):** Miss = broad selloff; beat = relief rally + CAT support
+- **Yield pressure sustained (MEDIUM):** 10Y >4.50%, 30Y >5.0% — no near-term cut catalyst
+- **HD + housing data (MEDIUM):** Weak print = Industrials/CAT risk-off; housing comps weak
+- **Tariff headwind CAT (MEDIUM):** $700M Q2 alone; analyst PT cuts risk if Q2 margins disappoint
+- **Insider selling acceleration (MEDIUM):** Three CAT execs in consecutive weeks
+
+### Decision
+**HOLD** — VIX 17.82 ✗ (need <17; trending down). CAT stop buffer critically thin ($14.78); watching HD + housing at open. No manual cut warranted ($853 > $822.47). Weekly capacity 0/3 fully preserved. Next: NVDA May 20 AH + FOMC minutes → sentiment pivot; VIX sustained <17 + SPX stabilizes → evaluate GEV entry ($1,000–$1,060 revised zone, stop ~$910 GTC trail, ~9sh, ~9.5% equity).
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
