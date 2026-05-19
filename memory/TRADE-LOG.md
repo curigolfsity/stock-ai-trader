@@ -298,3 +298,14 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. Decline macro-driven — oil surge, Iran escalation, broad SPX weakness. No CAT-specific negative catalyst. Q1 $63B backlog / EPS $5.54 beat / AI power-gen thesis unchanged. Dividend $1.51/sh paid today (+$25.67 cash credit). Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
 - **GEV:** VIX 17.82 ✗ | all new-entry gates blocked. Price ~$1,040–$1,060.
 - **Next:** NVDA Q1 earnings May 20 AH (consensus EPS $1.78 / rev $79.17B) + FOMC minutes May 20 = primary binary. Beat → relief rally + CAT support; miss → stop vigilance. VIX sustained <17 + SPX stabilizes → evaluate GEV ($1,000–$1,060, stop ~$910 GTC trail, ~9sh).
+
+---
+
+### May 19 — EOD Snapshot (Day 12, Tuesday)
+**Portfolio:** $99,625.21 | **Cash:** $84,965.56 (85.3%) | **Day P&L:** +$26.90 (+0.03%) | **Phase P&L:** -$374.79 (-0.37%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $862.33 | -0.19% | -$374.79 (-2.49%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Day 12 closed with CAT at $862.33, modestly off from the $863.95 prior close (−0.19%), as oil-driven risk-off (WTI ~$108 / Brent ~$109, UAE Barakah escalation) continued to weigh on Industrials throughout the session. Despite a harrowing intraday low of $845.55 — just $7.33 above the trailing stop at $838.22 — the position held and the GTC stop was never triggered. Portfolio equity ended slightly positive at +$26.90 (+0.03%) for the day, almost entirely explained by the $1.51/share CAT dividend (+$25.67 cash credit) offsetting the −$27.54 intraday P&L erosion. Trailing stop order 1c43ebd9 remains ACTIVE (HWM $931.35, stop $838.22, buffer $24.11). No trades entered today (0/3 this week); all new-entry gates remain blocked (VIX ~17.82 ✗, oil surge ✗, geopolitical uncertainty ✗). Phase P&L: −$374.79 (−0.37%) vs. $100,000 starting equity. Primary binary tomorrow: NVDA Q1 earnings (May 20 AH, consensus EPS $1.78 / rev $79.17B) + FOMC minutes — a strong beat could restore AI/industrial sentiment and provide CAT relief; a miss would heighten stop vigilance.
