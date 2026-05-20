@@ -1564,3 +1564,14 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — VIX 17.80 ✗ (gate blocked; need sustained close <17). CAT stop $838.22 intact; buffer 3.09% comfortable vs. yesterday's 1.73%. No new positions. Weekly capacity 0/3 fully preserved. Primary binary tonight: NVDA Q1 AH + FOMC minutes 2PM. Beat + dovish FOMC = risk-on relief; evaluate GEV $1,000–$1,060 entry if VIX drops below 17 post-NVDA.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — 2026-05-20 Midday
+
+- **CAT:** $876.13 | +1.86% intraday (from $860.15 close) | −0.93% unrealized | Stop $838.22 buffer $37.91 (4.32%) — comfortable recovery from yesterday's critical lows
+- **Market:** SPX +0.9% | Dow +501 (+1%) | Nasdaq +1.3% | VIX 18.06 — relief rally on oil pullback (Middle East peace optimism)
+- **Oil:** WTI easing from $108+ highs — margin tailwind developing for CAT ✓
+- **FOMC minutes (2PM):** Rates held 3.50–3.75%; Miran voted cut; 3 members had hike concerns but did not vote for one — neutral-hawkish; no immediate catalyst for risk-off
+- **No new CAT-specific catalysts.** Recovery macro-driven (oil down, broad risk-on). Thesis unchanged.
+- **GEV:** VIX 18.06 ✗ — entry gate still blocked despite market strength
+- **NVDA AH tonight** (est. EPS $1.76 / rev ~$79B, +80% YoY): options imply ~$350B cap swing. Beat + strong Blackwell guide → AI power-gen thesis re-affirmed → CAT support; watch VIX for drop <17 post-print. Miss → stop vigilance on CAT ($838.22).
+- **No trades. No adjustments.**

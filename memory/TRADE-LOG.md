@@ -309,3 +309,16 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $862.33 | -0.19% | -$374.79 (-2.49%) | $838.22 (10% trail, HWM $931.35) |
 
 **Notes:** Day 12 closed with CAT at $862.33, modestly off from the $863.95 prior close (−0.19%), as oil-driven risk-off (WTI ~$108 / Brent ~$109, UAE Barakah escalation) continued to weigh on Industrials throughout the session. Despite a harrowing intraday low of $845.55 — just $7.33 above the trailing stop at $838.22 — the position held and the GTC stop was never triggered. Portfolio equity ended slightly positive at +$26.90 (+0.03%) for the day, almost entirely explained by the $1.51/share CAT dividend (+$25.67 cash credit) offsetting the −$27.54 intraday P&L erosion. Trailing stop order 1c43ebd9 remains ACTIVE (HWM $931.35, stop $838.22, buffer $24.11). No trades entered today (0/3 this week); all new-entry gates remain blocked (VIX ~17.82 ✗, oil surge ✗, geopolitical uncertainty ✗). Phase P&L: −$374.79 (−0.37%) vs. $100,000 starting equity. Primary binary tomorrow: NVDA Q1 earnings (May 20 AH, consensus EPS $1.78 / rev $79.17B) + FOMC minutes — a strong beat could restore AI/industrial sentiment and provide CAT relief; a miss would heighten stop vigilance.
+
+---
+
+### Midday Scan — 2026-05-20
+
+- **Account:** Equity ~$99,671 | Cash $84,966 (85.3%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $876.13 (+1.86% intraday from $860.15; −0.93% unrealized from $884.38 entry) — no −7% trigger ($822.47); buffer $37.91 (4.32%) vs stop $838.22 ✓ — significantly improved from yesterday's critical low
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API)
+- **Market:** SPX +0.9% | Dow +501 pts (+1%) | Nasdaq +1.3% | VIX 18.06 | Oil falling on Middle East peace optimism → WTI easing from $108 highs — broad relief rally
+- **Action:** No trades. No stop adjustments.
+- **Thesis check (CAT):** INTACT. +1.86% intraday on broad market strength + oil pullback (margin tailwind). No new CAT-specific negative catalysts. FOMC minutes (2PM): rates held; neutral-hawkish tone (Miran voted cut; 3 members had hike concerns). Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **VIX:** 18.06 — GEV entry gate BLOCKED ✗ (need sustained close <17)
+- **Next:** NVDA Q1 earnings AH tonight (EPS est $1.76 / rev ~$79B, +80% YoY) = primary binary. Beat + strong guide → AI power-gen thesis re-affirmed → CAT support + evaluate GEV $1,000–$1,060 if VIX drops <17. Miss → stop vigilance on CAT. Weekly capacity 0/3 — full.
