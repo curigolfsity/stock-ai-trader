@@ -322,3 +322,14 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. +1.86% intraday on broad market strength + oil pullback (margin tailwind). No new CAT-specific negative catalysts. FOMC minutes (2PM): rates held; neutral-hawkish tone (Miran voted cut; 3 members had hike concerns). Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
 - **VIX:** 18.06 — GEV entry gate BLOCKED ✗ (need sustained close <17)
 - **Next:** NVDA Q1 earnings AH tonight (EPS est $1.76 / rev ~$79B, +80% YoY) = primary binary. Beat + strong guide → AI power-gen thesis re-affirmed → CAT support + evaluate GEV $1,000–$1,060 if VIX drops <17. Miss → stop vigilance on CAT. Weekly capacity 0/3 — full.
+
+---
+
+### May 20 — EOD Snapshot (Day 13, Wednesday)
+**Portfolio:** $99,845.49 | **Cash:** $84,965.56 (85.1%) | **Day P&L:** +$220.28 (+0.22%) | **Phase P&L:** -$154.51 (-0.15%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $875.29 | +1.76% | -$154.51 (-1.03%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Day 13 closed with CAT recovering +1.76% to $875.29 on broad market relief (SPX +0.9%, Dow +501 pts, Nasdaq +1.3%) as oil eased from $108 highs on Middle East peace optimism and FOMC minutes confirmed rates on hold (neutral-hawkish; Miran voted cut, 3 members had hike concerns). Portfolio equity improved to $99,845.49 with phase P&L narrowing to -$154.51 (-0.15%) — closing back in on the $100K starting baseline. Trailing stop order 1c43ebd9 remains ACTIVE (HWM $931.35, stop $838.22, buffer $37.07 / 4.24% from current price) — meaningfully healthier than yesterday's critical $7.33 buffer. No trades entered today (0/3 this week); all new-entry gates remain blocked (VIX 18.06 ✗, geopolitical uncertainty ✗). Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Primary binary tonight: NVDA Q1 earnings AH (EPS est $1.76 / rev ~$79B) — strong beat would re-affirm AI power-gen thesis and support CAT; could open GEV evaluation window if VIX drops below 17. Tomorrow: Walmart earnings + retail sales data (May 21) — consumer/industrial sentiment read-through.
