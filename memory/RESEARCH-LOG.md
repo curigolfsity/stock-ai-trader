@@ -1510,3 +1510,57 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **GEV:** ~$1,040–$1,060 range; VIX gate blocked ✗
 - **Stop survived.** No trades. No adjustments.
 - **Tomorrow binary:** NVDA Q1 earnings AH (EPS $1.78 est / rev $79.17B) + FOMC minutes — beat = risk-on + CAT relief; miss = stop vigilance heightened.
+
+---
+
+## Week of 2026-05-20
+
+### Pre-Market Research — 2026-05-20 (Day 13, Wednesday)
+
+#### Account Snapshot
+- **Equity:** $99,670.56 | **Cash:** $84,965.56 (85.3%) | **Daytrade count:** 0 | **Weekly trades:** 0/3
+- **CAT:** 17sh | Price $865.00 | Entry $884.38 | Unrealized: −$329.44 (−2.19%) | Intraday: +$82.45 (+0.56%)
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE | Buffer: $26.78 (3.09%) — improved from yesterday's critical low
+
+#### Market Context
+- **WTI:** ~$103/barrel (eased from $108); **Brent:** ~$110–111/barrel — Strait of Hormuz disruption ongoing; IEA "largest supply disruption in history"
+- **S&P 500 premarket:** ~7,353–7,377 (−0.35% to −0.67%); risk-off tone persists
+- **VIX:** 17.66–18.35 range today (opened 18.01); futures ~17.80 — **GATE BLOCKED ✗** (need sustained close <17)
+- **Fed funds rate:** 3.50–3.75% (held at Apr 29 meeting)
+
+#### Today's Catalysts
+- **NVDA Q1 FY2027 earnings AH (tonight):** EPS est $1.78 (+120% YoY) / rev est $79.2B (+79.5% YoY); Blackwell ramp strong; China export restriction ~$1B revenue hit; potential $355B market cap swing ±5–10%; BINARY EVENT — critical sentiment pivot for semi/AI/industrials
+- **FOMC minutes 2:00 PM ET:** Apr 28–29 meeting; rate held at 3.50–3.75%; watching for rate-cut timeline language → yields + equity reaction
+- **106 economic events / 41 earnings reports today**; busy macro day
+- **Geopolitical:** UAE Barakah / Iran conflict ongoing; oil volatile
+
+#### Held Ticker Updates
+**CAT — $865.00 (live)**
+- Buffer 3.09% ($26.78) — improved from May 19 critical low; stop $838.22 intact
+- Thesis still intact: Q1 $17.4B rev (+22% YoY), EPS $5.54 beat, $63B backlog, AI power/DC demand
+- ⚠️ Insider selling accelerating: Denise Johnson (Group President) sold 12,605sh / $11.4M on May 15 — largest single exec sale; 3+ exec sales in 3 weeks
+- Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / MS $915 (upgraded to EW from UW) / BofA $930
+- Tariff headwind: ~$700M Q2 2026 alone / $2.2–2.4B full-year
+- **NVDA beat tonight = AI power-gen thesis re-affirmed → CAT relief; miss = stop vigilance**
+
+**GEV — ~$1,000–$1,060 zone (est.)**
+- All gates still blocked: VIX 17.80 ✗ | geopolitical uncertainty ✗
+- Fundamentals exceptional: Q1 EPS $17.44 vs $1.95 est; DC orders > all of FY2025; backlog +$13B QoQ
+
+#### Trade Ideas
+1. **HOLD CAT** — stop $838.22 active; buffer 3.09%; thesis intact despite insider selling; no manual action required; watch FOMC 2PM + NVDA AH
+2. **GEV watch** — revised entry zone $1,000–$1,060; stop ~$910 GTC trail (~9sh, ~9.5% equity); VIX <17 sustained + post-NVDA clarity needed first
+3. **No new positions** — VIX 17.80 ✗ gate blocked; NVDA binary risk tonight; geopolitical oil uncertainty
+
+#### Risk Factors
+- **NVDA earnings binary tonight (HIGH):** Miss = broad selloff + CAT stop pressure; beat = relief rally + AI thesis re-affirmed
+- **FOMC minutes 2PM (MEDIUM-HIGH):** Hawkish tone = yields spike + equity risk-off; dovish = relief
+- **CAT insider selling (MEDIUM):** 3+ execs in 3 weeks including Group President $11.4M sale — worth monitoring for thesis change
+- **Brent $110–111 / oil surge (MEDIUM):** Strait of Hormuz disruption ongoing; input-cost headwind for CAT
+- **Tariff drag CAT (MEDIUM):** $700M Q2 alone; analyst PT cuts possible if Q2 margins disappoint
+- **VIX 17.80 — sustained above 17 (MEDIUM):** All new-position gates blocked until sustained close <17
+
+#### Decision
+**HOLD** — VIX 17.80 ✗ (gate blocked; need sustained close <17). CAT stop $838.22 intact; buffer 3.09% comfortable vs. yesterday's 1.73%. No new positions. Weekly capacity 0/3 fully preserved. Primary binary tonight: NVDA Q1 AH + FOMC minutes 2PM. Beat + dovish FOMC = risk-on relief; evaluate GEV $1,000–$1,060 entry if VIX drops below 17 post-NVDA.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
