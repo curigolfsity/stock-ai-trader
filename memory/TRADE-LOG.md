@@ -347,3 +347,14 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. NVDA beat re-affirms AI data-center power-gen demand. Oil declining = Q2 margin headwind partially reversing. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930.
 - **Action:** No trades. All new-entry gates blocked (VIX ✗). CAT stop buffer improved to 2.98%; no manual adjustment needed (below +15% / $1,017 tightening threshold).
 - **Next:** If VIX closes <17 today (WMT/DE beats + oil decline + Iran deal progress) → evaluate GEV entry tomorrow AM ($1,000–$1,060; stop ~$910 GTC trail; ~9sh; ~9.3% equity; target ~$1,200–1,270 (+20%); R:R ~2:1). Weekly capacity 0/3 — full.
+
+### Midday Scan — 2026-05-21
+
+- **Account:** Equity ~$99,668 | Cash $84,965.56 (85.3%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $864.87 (−0.88% intraday; −2.21% unrealized from $884.38 entry) — no −7% trigger ($822.47); buffer $26.65 (3.08%) above stop $838.22 ✓
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API)
+- **Market:** SPX +1.08% (7,432.97) | VIX 17.44 (unchanged from prior close) — GEV entry gate BLOCKED ✗ (need sustained close <17)
+- **Action:** No trades. No stop adjustments.
+- **Thesis check (CAT):** INTACT. −0.88% intraday = NVDA sell-the-news (−2% AH) spillover into Industrials; no CAT-specific negative. Power & Energy segment +41% YoY confirmed; 2GW single-campus DC generator order secured — AI power-gen thesis strengthening. Oil WTI ~$98–99 declining = Q2 margin tailwind developing. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930.
+- **GEV:** VIX 17.44 ✗ — entry gate blocked; price ~$1,000–$1,060 zone; watching for VIX sustained close <17.
+- **Next:** VIX close <17 today → evaluate GEV entry tomorrow AM ($1,000–$1,060; stop ~$910 GTC trail; ~9sh; ~9.3% equity; target ~$1,200–1,270 (+20%); R:R ~2:1). Weekly capacity 0/3 — full.

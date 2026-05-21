@@ -1636,3 +1636,19 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — VIX 17.44 blocks all new entries (gate <17 required). CAT stop buffer healthy at 4.34%; oil decline toward $98 is a developing margin tailwind. Primary watch today: if VIX closes <17 (Iran deal momentum + WMT/DE beats + oil decline compounding) → GEV entry tomorrow AM becomes live at $1,000–$1,060. Weekly capacity: 0/3 — full. No chasing NVDA sell-off or new Industrials position without VIX clearing first.
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — native fallback)_
+
+### Afternoon Addendum — Midday Scan 2026-05-21
+
+- **SPX:** +1.08% (7,432.97) — broad rally; market absorbing NVDA sell-the-news well
+- **VIX:** 17.44 (unchanged from prior close; still above <17 gate) — GEV entry BLOCKED ✗
+- **CAT:** $864.87 (−0.88% intraday; −2.21% unrealized from $884.38 entry) | Trailing stop HWM $931.35 / stop $838.22 ✓ ACTIVE | Buffer $26.65 (3.08%)
+  - Intraday weakness = NVDA sell-the-news Industrials drag, not CAT-specific
+  - Power & Energy segment +41% YoY; 2GW single-campus DC generator order confirmed — thesis strengthening
+  - Oil WTI ~$98–99 (sub-$100) = developing Q2 margin tailwind
+  - Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930
+  - **Thesis: INTACT.** HOLD.
+- **GEV:** VIX 17.44 ✗ — price ~$1,000–$1,060; all macro gates blocked; no entry.
+- **No action taken.** No positions cut. No stops adjusted. No new entries.
+- **Next trigger:** VIX sustained close <17 today → evaluate GEV entry tomorrow AM ($1,000–$1,060; stop ~$910 GTC trail; ~9sh; ~9.3% equity; target ~$1,200–1,270 (+20%); R:R ~2:1). Weekly capacity 0/3 — full.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
