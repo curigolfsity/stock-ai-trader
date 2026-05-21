@@ -358,3 +358,14 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. −0.88% intraday = NVDA sell-the-news (−2% AH) spillover into Industrials; no CAT-specific negative. Power & Energy segment +41% YoY confirmed; 2GW single-campus DC generator order secured — AI power-gen thesis strengthening. Oil WTI ~$98–99 declining = Q2 margin tailwind developing. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930.
 - **GEV:** VIX 17.44 ✗ — entry gate blocked; price ~$1,000–$1,060 zone; watching for VIX sustained close <17.
 - **Next:** VIX close <17 today → evaluate GEV entry tomorrow AM ($1,000–$1,060; stop ~$910 GTC trail; ~9sh; ~9.3% equity; target ~$1,200–1,270 (+20%); R:R ~2:1). Weekly capacity 0/3 — full.
+
+---
+
+### May 21 — EOD Snapshot (Day 14, Thursday)
+**Portfolio:** $99,702.35 | **Cash:** $84,965.56 (85.2%) | **Day P&L:** -$143.14 (-0.14%) | **Phase P&L:** -$297.65 (-0.30%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $866.87 | -0.65% | -$297.65 (-1.98%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Day 14 closed with CAT at $866.87 (−0.65%), as NVDA earnings sell-the-news spillover (stock −2% AH despite massive beat: EPS $1.87 vs $1.77 est, Rev $81.62B vs $79.18B, Q2 guide $89.1–92.8B) continued to weigh on Industrials. Portfolio equity fell to $99,702.35, nudging phase P&L to −$297.65 (−0.30%) vs. $100,000 starting equity. Day loss of −$143.14 (−0.14%) entirely driven by CAT's session decline. Trailing stop order 1c43ebd9 remains ACTIVE (HWM $931.35, stop $838.22, buffer $28.65 / 3.31%) — well above the manual cut threshold ($822.47). No trades entered today (0/3 this week); VIX held at 17.44 throughout the session, keeping the GEV entry gate blocked ✗. CAT thesis intact: Power & Energy segment +41% YoY, 2GW single-campus DC generator order secured, oil WTI ~$98–99 declining = Q2 margin tailwind developing. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930. Next catalyst: VIX sustained close <17 → evaluate GEV entry ($1,000–$1,060, stop ~$910 GTC trail, ~9sh, ~9.3% equity, target ~$1,200–1,270 (+20%), R:R ~2:1). Weekly capacity 0/3 — full into Friday.
