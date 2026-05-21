@@ -1575,3 +1575,64 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **GEV:** VIX 18.06 ✗ — entry gate still blocked despite market strength
 - **NVDA AH tonight** (est. EPS $1.76 / rev ~$79B, +80% YoY): options imply ~$350B cap swing. Beat + strong Blackwell guide → AI power-gen thesis re-affirmed → CAT support; watch VIX for drop <17 post-print. Miss → stop vigilance on CAT ($838.22).
 - **No trades. No adjustments.**
+
+---
+
+## 2026-05-21 — Pre-Market Research
+
+### Account
+- **Equity:** $99,862.49 | **Cash:** $84,965.56 (85.1%) | **Buying power:** $184,828.05
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 (full capacity)
+- **CAT:** 17sh @ $884.38 avg | Live $876.29 | Unrealized −$137.51 (−0.92%)
+- **Trailing stop (1c43ebd9):** HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ | Buffer: $38.07 (4.34%)
+
+### Market Context
+- **WTI:** ~$99.38 (premarket; May 20 close $98.26 — fell >5% as Trump said US-Iran deal "in final stages"; sub-$100 first time in weeks)
+- **Brent:** ~$106.10 (premarket; May 20 close $105.02; down from $111 highs)
+- **S&P 500 futures:** +0.11% (~7,460) — mild positive open; NVDA beat providing floor; Walmart/Deere BMO providing direction
+- **VIX:** 17.44 (May 20 close; −3.43% day) — **GATE BLOCKED ✗** (need sustained close <17; trending down — closest it's been to opening since oil/Iran spike)
+- **Today's catalysts:**
+  - **NVDA Q1 FY2027 beat (AMC May 20):** EPS $1.87 vs $1.77 est; Rev $81.62B vs $79.18B est (+85% YoY); DC $75.2B (+92% YoY); Q2 guide $89.1–92.8B vs $87.3B est — strong beat, but stock −2% AH (sell the news after +20% monthly rally)
+  - **WMT Q1 BMO today:** Est. EPS $0.66 / $174.57B rev (+5.4% YoY); consumer spending health read; key for macro tone
+  - **DE Q2 BMO today:** Est. EPS $5.74 / $11.53B rev; agricultural/construction equipment — direct Industrials thesis read-through for CAT
+  - **Trump "final stages" Iran deal:** WTI fell >5% to $98 on May 20; deal scenario → Brent ~$80 by year-end; no-deal/collapse → $200/bbl binary; uncertainty is paramount
+  - **Figma "beat and raise":** Software positive; Bill Ackman new MS stake (valuation note)
+- **Earnings BMO:** WMT, DE, RL, ROST, ZM, DECK
+- **Economic calendar today:** Jobless Claims 8:30 AM ET | Philly Fed Mfg | PMI Composite Flash | Housing Starts/Permits | Kansas City Fed Mfg
+- **Sector momentum YTD:** Materials (+22%) | Energy | Consumer Staples | Industrials Leading | Technology, Communications, Consumer Discretionary Lagging
+
+### Held Ticker Updates
+
+**CAT — $876.29 (live; day range $857.06–$877.76)**
+- Buffer $38.07 (4.34%) vs stop $838.22 — comfortable; well above critical zone
+- Oil falling toward $98-99 = direct CAT margin tailwind (reverses 3-week headwind; Q2 $700M tariff drag partially offset)
+- NVDA beat re-affirms AI data-center power generation demand — CAT Power & Energy segment thesis intact
+- Insider selling pattern ongoing (Fassino, Johnson, Schaupp — documented in prior logs); not thesis-breaking
+- Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930
+- **Thesis: INTACT.** Q1 $17.4B rev (+22% YoY), EPS $5.54, $63B backlog. Oil decline = margin improvement catalyst.
+- **Action: HOLD.** Stop auto-advancing when CAT exceeds HWM $931.35; no manual action needed.
+
+**GEV — ~$1,011–1,032 (May 21 range $1,004.50–$1,041.99; prior close $1,011.80)**
+- Hovering at/below revised entry zone ($1,000–$1,060)
+- Q1 beat exceptionally strong (EPS $17.44 vs $1.95 est; DC orders > all FY2025; backlog +$13B QoQ); FY2026 guide raised to $44.5–45.5B rev
+- VIX 17.44 → gate blocked ✗; price within reach of zone ✓
+- If VIX closes <17 today → evaluate entry tomorrow AM ($1,000–$1,060; stop ~$910 GTC trail; ~9sh; ~9.5% equity; target ~$1,200–1,270 (+20%); R:R ~2:1)
+
+### Trade Ideas
+1. **HOLD CAT** — Stop buffer healthy; oil decline = margin tailwind developing; NVDA beat sustains AI power-gen thesis. No action.
+2. **GEV — Active watch, gate nearly cleared** — VIX 17.44 is closest to <17 in 10+ days. WMT/DE beats + oil decline + Iran deal progress could push VIX below 17 today. Entry zone $1,000–$1,060; stop ~$910 GTC trail (~12% below $1,032); target ~$1,200–1,270 (+20%); ~9sh (~9.3% equity); R:R ~2:1. **Trigger: VIX close <17 today → enter tomorrow AM if price in zone.**
+3. **DE — Watchlist post-earnings** — Q2 BMO today; if strong beat + positive reaction, note for potential week-ahead entry as Industrials diversifier. VIX gate blocks today regardless. Sector concentration risk: already long CAT (Industrials); would need meaningful differentiation in thesis (agri vs. construction/power). Size limit: ~9–10% equity.
+
+### Risk Factors
+- **Iran deal binary (HIGH):** Trump "final stages" but Iran response previously called "stupid/unacceptable" by Trump; deal = oil to $80 (massive CAT margin tailwind; VIX drop; risk-on); collapse/escalation = $200/bbl (VIX spike; stop vigilance on CAT $838.22)
+- **NVDA sell-the-news (MEDIUM):** −2% AH after +20% monthly rally; if negative momentum extends today, tech/semis drag could spill into Industrials
+- **VIX 17.44 (MEDIUM):** Gate blocked; spike >19 on bad data = hold all cash; continued trending down = GEV window opening
+- **WMT + DE earnings (MEDIUM):** Misses → consumer/industrial weakness; market-wide pressure
+- **Jobless Claims 8:30 AM ET (MEDIUM):** High reading = demand slowdown; low = potential stagflation (no cuts + slowing growth)
+- **CAT insider selling (LOW-MEDIUM):** Pattern documented (3 execs, 3 weeks); not thesis-breaking; worth monitoring
+- **CAT tariff drag (LOW-MEDIUM):** $700M Q2; oil drop partially offsets; full-year $2.2–2.4B known/embedded
+
+### Decision
+**HOLD** — VIX 17.44 blocks all new entries (gate <17 required). CAT stop buffer healthy at 4.34%; oil decline toward $98 is a developing margin tailwind. Primary watch today: if VIX closes <17 (Iran deal momentum + WMT/DE beats + oil decline compounding) → GEV entry tomorrow AM becomes live at $1,000–$1,060. Weekly capacity: 0/3 — full. No chasing NVDA sell-off or new Industrials position without VIX clearing first.
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — native fallback)_
