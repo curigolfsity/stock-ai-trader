@@ -333,3 +333,17 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $875.29 | +1.76% | -$154.51 (-1.03%) | $838.22 (10% trail, HWM $931.35) |
 
 **Notes:** Day 13 closed with CAT recovering +1.76% to $875.29 on broad market relief (SPX +0.9%, Dow +501 pts, Nasdaq +1.3%) as oil eased from $108 highs on Middle East peace optimism and FOMC minutes confirmed rates on hold (neutral-hawkish; Miran voted cut, 3 members had hike concerns). Portfolio equity improved to $99,845.49 with phase P&L narrowing to -$154.51 (-0.15%) — closing back in on the $100K starting baseline. Trailing stop order 1c43ebd9 remains ACTIVE (HWM $931.35, stop $838.22, buffer $37.07 / 4.24% from current price) — meaningfully healthier than yesterday's critical $7.33 buffer. No trades entered today (0/3 this week); all new-entry gates remain blocked (VIX 18.06 ✗, geopolitical uncertainty ✗). Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Primary binary tonight: NVDA Q1 earnings AH (EPS est $1.76 / rev ~$79B) — strong beat would re-affirm AI power-gen thesis and support CAT; could open GEV evaluation window if VIX drops below 17. Tomorrow: Walmart earnings + retail sales data (May 21) — consumer/industrial sentiment read-through.
+
+---
+
+### Market-Open Scan — 2026-05-21 (Day 14, Thursday)
+
+- **Account:** Equity $99,653.56 | Cash $84,965.56 (85.3%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $864.00 (−0.98% intraday from $872.56; −2.30% unrealized from $884.38 entry) — no −7% trigger ($822.47 threshold); buffer $25.78 (2.98%) above stop
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE
+- **NVDA Q1 beat (AMC May 20):** EPS $1.87 vs $1.77 est; Rev $81.62B vs $79.18B est (+85% YoY); DC $75.2B (+92%); Q2 guide $89.1–92.8B vs $87.3B est — strong beat; stock −2% AH (sell-the-news after +20% monthly rally)
+- **WTI:** ~$98–99 (sub-$100 first time in weeks; Trump "Iran deal in final stages" → >5% oil decline May 20) — direct CAT margin tailwind developing
+- **VIX:** 17.44 (May 20 close) — GEV entry gate BLOCKED ✗ (need sustained close <17; trending down, closest in 10+ days)
+- **Thesis check (CAT):** INTACT. NVDA beat re-affirms AI data-center power-gen demand. Oil declining = Q2 margin headwind partially reversing. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930.
+- **Action:** No trades. All new-entry gates blocked (VIX ✗). CAT stop buffer improved to 2.98%; no manual adjustment needed (below +15% / $1,017 tightening threshold).
+- **Next:** If VIX closes <17 today (WMT/DE beats + oil decline + Iran deal progress) → evaluate GEV entry tomorrow AM ($1,000–$1,060; stop ~$910 GTC trail; ~9sh; ~9.3% equity; target ~$1,200–1,270 (+20%); R:R ~2:1). Weekly capacity 0/3 — full.
