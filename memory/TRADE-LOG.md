@@ -369,3 +369,25 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $866.87 | -0.65% | -$297.65 (-1.98%) | $838.22 (10% trail, HWM $931.35) |
 
 **Notes:** Day 14 closed with CAT at $866.87 (−0.65%), as NVDA earnings sell-the-news spillover (stock −2% AH despite massive beat: EPS $1.87 vs $1.77 est, Rev $81.62B vs $79.18B, Q2 guide $89.1–92.8B) continued to weigh on Industrials. Portfolio equity fell to $99,702.35, nudging phase P&L to −$297.65 (−0.30%) vs. $100,000 starting equity. Day loss of −$143.14 (−0.14%) entirely driven by CAT's session decline. Trailing stop order 1c43ebd9 remains ACTIVE (HWM $931.35, stop $838.22, buffer $28.65 / 3.31%) — well above the manual cut threshold ($822.47). No trades entered today (0/3 this week); VIX held at 17.44 throughout the session, keeping the GEV entry gate blocked ✗. CAT thesis intact: Power & Energy segment +41% YoY, 2GW single-campus DC generator order secured, oil WTI ~$98–99 declining = Q2 margin tailwind developing. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930. Next catalyst: VIX sustained close <17 → evaluate GEV entry ($1,000–$1,060, stop ~$910 GTC trail, ~9sh, ~9.3% equity, target ~$1,200–1,270 (+20%), R:R ~2:1). Weekly capacity 0/3 — full into Friday.
+
+---
+
+## Week of 2026-05-22
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $931.35; stop $838.22) | Q1 beat (rev +22%, EPS +30%), Industrials leading sector, AI data-center power gen, oil WTI declining = Q2 margin tailwind | ~$1,061 (+20%) | 2:1 |
+
+### Market-Open Scan — 2026-05-22 (Day 15, Friday — pre-Memorial Day)
+
+- **Account:** Equity $99,762.19 | Cash $84,965.56 (85.2%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $870.39 (+0.51% intraday from $865.95 prior close; −1.58% unrealized from $884.38 entry) — no −7% trigger ($822.47); buffer $32.17 (3.71%) above stop $838.22 ✓
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API)
+- **VIX:** ~17.26 — GEV entry gate BLOCKED ✗ (need sustained close <17)
+- **GEV:** ~$1,066.58 (−4.68% yesterday) — at top of / slightly above entry zone ($1,000–$1,060) ✗
+- **Market context:** SPX futures +0.39%; Iran deal near "one-page MOU" (not finalized); Kevin Warsh sworn in as Fed Chair today (hawkish lean, policy uncertainty); WTI ~$96.35 (accelerating lower on Iran deal momentum = CAT Q2 margin tailwind)
+- **Action:** No trades. All new-entry gates blocked — VIX ✗ | GEV price above zone ✗ | Friday pre-long-weekend = patience.
+- **Thesis check (CAT):** INTACT. Oil WTI sub-$100 and falling accelerates Q2 margin tailwind. NVDA beat re-affirms AI power-gen demand. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930. Stop protecting floor well above manual cut threshold.
+- **Next trigger:** Post-Memorial Day (Tue May 26): if VIX closes <17 + GEV ≤$1,060 → evaluate GEV entry (~9sh, stop ~$910 GTC trail, ~9.3% equity, target ~$1,200–1,270 (+20%), R:R ~2:1). Also watch MU (Samsung strike through June 7, ~3% global memory supply impact) if Tech sector improves. Weekly capacity 0/3 — full; resets next week.
