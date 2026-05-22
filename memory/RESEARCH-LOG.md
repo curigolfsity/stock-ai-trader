@@ -1704,4 +1704,22 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
+---
+
+### Midday Scan — 2026-05-22 (Day 15, Friday)
+
+- **Account:** Equity ~$100,033 | Cash $84,965.56 (84.9%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $886.65 (+2.39% intraday from $865.95; **+0.26% unrealized** from $884.38 entry — first time positive) — no −7% trigger ($822.47); buffer $48.43 (5.47%) above stop $838.22 ✓ — healthiest buffer in 2+ weeks
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE
+- **Market:** SPX 7,445.72 (+0.17%) | **VIX 16.76 (−3.9%) — CONFIRMED BELOW 17** | WTI $98.32 (still sub-$100)
+- **Action:** No trades. No stop adjustments.
+- **Thesis check (CAT):** INTACT. +2.39% intraday driven by broad market recovery and VIX compression. No CAT-specific negative catalyst. Oil sub-$100 = Q2 margin tailwind developing. Known headwind: tariff costs ~$700M Q2 (priced in). Insider selling noted (minor) — no thesis impact. Stop buffer 5.47% = comfortably healthy.
+- **GEV gate update — BOTH GATES NOW MET:**
+  - VIX 16.76 ✓ (confirmed below 17 for first time)
+  - GEV $1,038.91 ✓ (range $1,035–$1,061 intraday; inside $1,000–$1,060 entry zone)
+  - Friday + Memorial Day weekend = NO ENTRY TODAY (patience rule)
+  - **Tuesday May 26 (market open): LIVE GEV entry if price holds ≤$1,060 and VIX re-confirms <17**
+  - Plan: ~9sh @ market open, stop ~$910 GTC trail 10%, equity ~9.3%, target ~$1,200–1,270 (+20%), R:R ~2:1
+- **Next:** Tuesday May 26 AM — GEV entry evaluation first priority. Weekly capacity resets (0/3). CAT trailing stop continues GTC; no manual action needed.
+
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
