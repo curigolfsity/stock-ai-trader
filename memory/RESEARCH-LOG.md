@@ -1652,3 +1652,56 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — native fallback)_
 - **Next trigger:** VIX sustained close <17 today → evaluate GEV entry tomorrow AM ($1,000–$1,060; stop ~$910 GTC trail; ~9sh; ~9.3% equity; target ~$1,200–1,270 (+20%); R:R ~2:1). Weekly capacity 0/3 — full.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-22 — Pre-Market Research (Day 15, Friday)
+
+### Account Snapshot
+- **Equity:** $99,694.19 | **Cash:** $84,965.56 (85.2%) | **Daytrade count:** 0 | **Weekly trades:** 0/3 (week ends today)
+- **Buying power:** $184,659.75 (2× margin, paper)
+- **CAT:** 17sh @ $884.38 entry | Current $866.39 (+$0.44 intraday) | Unrealized −$305.81 (−2.03%) | Stop $838.22 (10% trail, HWM $931.35) | Buffer $28.17 (3.25%) ✓
+
+### Market Context
+- **WTI:** ~$96.35 (−2% from prior; sub-$100 on Iran deal momentum — direct CAT margin tailwind accelerating)
+- **Brent:** ~$102.58 (−2%)
+- **SPX futures:** +0.39% | 78% Polymarket probability of higher open
+- **VIX:** ~17.26 — approaching <17 gate; borderline; not confirmed below
+- **Kevin Warsh sworn in as Fed Chair today** — replaces Powell; rates unlikely to fall in 2026; hawkish lean; early policy signals unknown; market headwind uncertainty
+- **Iran deal:** US-Iran near "one-page MOU" to end war; Rubio "encouraging signs"; Trump threatened to resume military action if Iran stalls — deal not finalized; primary oil binary ongoing
+- **Univ of Michigan Consumer Sentiment (final May):** Due today — consumer confidence read-through for Industrials demand
+- **CAVA +7.5%** on earnings beat (same-store sales +~10%); **MU +3%** on Samsung worker strike (June 7 through, ~3% global memory supply impacted)
+- **Sector momentum:** Materials +22% YTD leads; Healthcare surprising top performer (safety); Tech cooling after AI run; Energy lagging; SPX ~+8.5% YTD
+
+### Positions / Watch
+**CAT — $866.39**
+- Intraday +$0.44; thesis intact
+- Oil WTI $96.35 = accelerating Q2 margin tailwind (down from $108 two days ago)
+- NVDA sell-the-news drag fading; AI power-gen thesis re-affirmed by NVDA beat
+- Stop buffer $28.17 (3.25%) — healthy; no adjustment needed (below +15% / $1,017 tightening threshold)
+- Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930
+
+**GEV — ~$1,066.58 (−4.68% today)**
+- Down sharply today — now approaching entry zone ($1,000–$1,060) from above
+- VIX ~17.26 — gate technically not confirmed below 17; Friday = no chasing
+- **Evaluate Monday AM:** if VIX closes below 17 today and price pulls back into $1,000–$1,060, GEV entry live next week (stop ~$910 GTC trail, ~9sh, ~9.3% equity, target ~$1,200–1,270, R:R ~2:1)
+
+### Trade Ideas
+1. **HOLD CAT** — Oil accelerating lower (WTI $96); stop buffer healthy; thesis intact. No action.
+2. **GEV — Gate nearly open, evaluate Monday** — VIX 17.26 borderline; price $1,066 slightly above zone; −4.68% today pulls it toward range. Friday = patience. If VIX closes <17 + price ≤$1,060 → enter Monday AM.
+3. **MU — Watchlist (new)** — Samsung workers strike through June 7 (~3% global memory supply); MU +3% today; if sustained momentum + Tech sector improves → potential diversification trade next week. Evaluate alongside GEV (one at a time, capacity permitting).
+
+### Risk Factors
+- **Kevin Warsh / Fed uncertainty (HIGH):** New chair takes over today; hawkish signals → no 2026 cuts → headwind for multiples; market needs to reprice if Warsh signals independence from Trump
+- **Iran deal not finalized (HIGH):** "One-page MOU" still being negotiated; Trump threatened to resume military action; deal collapse = oil back above $100, VIX spike, stop vigilance on CAT $838.22
+- **VIX borderline (MEDIUM):** 17.26 approaching gate; need confirmed close <17 for GEV entry — Friday volatility could go either way
+- **Warsh day-one statement (MEDIUM):** Any hawkish surprise at swearing-in ceremony = risk-off; VIX spike
+- **CAT buffer 3.25% (MEDIUM):** Narrower than ideal; sustained Industrials weakness below $855 would tighten stop urgency (still $16.78 above manual cut $822.47)
+- **Friday light-volume (LOW):** Thinner markets into Memorial Day weekend (May 25 holiday — US markets closed); positions held over weekend carry Iran deal binary risk
+
+### Decision
+**HOLD** — VIX ~17.26 (gate not confirmed below 17); Friday = patience > activity; GEV above entry zone. New week (Tue May 26 post-holiday) = primary action window. CAT stop healthy; oil decline building tailwind. No new entries today.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
