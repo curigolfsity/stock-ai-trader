@@ -391,3 +391,14 @@ No positions yet. Bot launches tomorrow.
 - **Action:** No trades. All new-entry gates blocked — VIX ✗ | GEV price above zone ✗ | Friday pre-long-weekend = patience.
 - **Thesis check (CAT):** INTACT. Oil WTI sub-$100 and falling accelerates Q2 margin tailwind. NVDA beat re-affirms AI power-gen demand. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930. Stop protecting floor well above manual cut threshold.
 - **Next trigger:** Post-Memorial Day (Tue May 26): if VIX closes <17 + GEV ≤$1,060 → evaluate GEV entry (~9sh, stop ~$910 GTC trail, ~9.3% equity, target ~$1,200–1,270 (+20%), R:R ~2:1). Also watch MU (Samsung strike through June 7, ~3% global memory supply impact) if Tech sector improves. Weekly capacity 0/3 — full; resets next week.
+
+---
+
+### May 22 — EOD Snapshot (Day 15, Friday)
+**Portfolio:** $100,030.62 | **Cash:** $84,965.56 (84.9%) | **Day P&L:** +$343.91 (+0.34%) | **Phase P&L:** +$30.62 (+0.03%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $886.18 | +2.34% | +$30.62 (+0.20%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Day 15 (Friday, pre-Memorial Day long weekend) closed positive with CAT rallying +2.34% to $886.18 on continued oil decline (WTI ~$96 on Iran deal near "one-page MOU") and broad market stability (SPX +0.39% futures at open). Portfolio crossed back above $100K ($100,030.62) — first time since Day 2 — with phase P&L turning modestly positive at +$30.62 (+0.03%) vs. $100,000 starting equity. Trailing stop order 1c43ebd9 remains ACTIVE (HWM $931.35, stop $838.22, buffer $47.97 / 5.41%) — healthiest stop buffer in two weeks heading into the 3-day weekend gap. No trades entered this week (0/3 full capacity); VIX ~17.26 kept all new-entry gates blocked throughout. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930. Thesis intact. Next trigger (post-Memorial Day, Tue May 27): if VIX closes <17 + GEV ≤$1,060 → evaluate GEV entry (~9sh, stop ~$910 GTC trail, ~9.3% equity, target ~$1,200–1,270 (+20%), R:R ~2:1).
