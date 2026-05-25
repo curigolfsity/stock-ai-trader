@@ -1723,3 +1723,56 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **Next:** Tuesday May 26 AM — GEV entry evaluation first priority. Weekly capacity resets (0/3). CAT trailing stop continues GTC; no manual action needed.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-05-25 — Pre-Market Research (Day 16, Memorial Day — Markets CLOSED. First trading day: Tue May 26)
+
+### Account Snapshot
+- **Equity:** $99,923.69 | **Cash:** $84,965.56 (85.0%) | **Buying power:** $184,889.25
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 — **FULL CAPACITY RESETS THIS WEEK**
+- **CAT:** 17sh @ $884.38 entry | Last price $879.89 | Unrealized −$76.31 (−0.51%) | Stop $838.22 (10% trail GTC, HWM $931.35) | Buffer $41.67 (4.73%) ✓
+
+### Market Context
+- **WTI:** ~$92 | **Brent:** ~$95.43 — fell 5–6% today on Iran deal optimism; Trump: "isn't fully negotiated"; Strait of Hormuz blockade continues until deal complete — binary risk live
+- **VIX:** 16.76 (May 22 last close) — **CONFIRMED below 17** ✓
+- **SPX:** Markets closed (Memorial Day); last close May 22 saw DOW/SPX at record highs; SPX ~+8.5% YTD
+- **Kevin Warsh (Fed Chair week 1):** Hawkish lean; early policy signals this week = market-moving risk; no 2026 rate cuts expected
+- **Economic calendar (key this week):**
+  - Tue May 26: Consumer Confidence
+  - Wed May 27: New Home Sales; earnings DKS, MRVL, CRM, SNPS, SNOW
+  - Thu May 28: **GDP Q1 2nd estimate + PCE Deflator (KEY macro)**; earnings DELL, DLTR, BBY, COST, ADSK, MDB, GAP
+- **Sector momentum:** Materials +22% YTD (leads); Healthcare top performer (safety bid); Industrials solid; Tech cooling
+
+### Positions / Watch
+**CAT — $879.89 (last)**
+- Unrealized −0.51%; thesis intact and strengthening
+- Oil WTI now ~$92 — sharpest Q2 margin tailwind yet; further upside if Iran deal closes
+- Insider: Group President Denise Johnson sold 12,605sh (~$11.4M) — notable; not a thesis-breaker but monitor for follow-on
+- Stop buffer $41.67 (4.73%) — healthy; no adjustment needed (below +15% / $1,017 tightening threshold)
+- PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / Morgan Stanley $915 (upgraded EW from UW)
+
+**GEV — ~$1,035 (as of May 24)**
+- **BOTH ENTRY GATES MET ✓**
+  - VIX 16.76 ✓ (confirmed below 17)
+  - GEV ~$1,035 ✓ (inside $1,000–$1,060 entry zone)
+- **Plan:** Execute Tue May 26 market open IF (a) VIX re-confirms <17 + (b) price ≤$1,060
+  - ~9sh @ market, stop ~$910 GTC trail 10%, cost ~$9,315 (~9.3% equity), target ~$1,200–1,270 (+20%), R:R ~2:1
+  - Catalyst: AI power-grid infrastructure demand; gas turbine backlog; Energy sector recovering
+
+### Trade Ideas
+1. **GEV — CONDITIONAL TRADE Tue AM** — All gates open; strongest setup since tracking; execute at open if gates hold ✓
+2. **HOLD CAT** — Oil declining to $92; thesis strengthening; stop healthy; no action
+3. **MU — Watchlist only** — Samsung strike ongoing (June 7); Tech cooling; evaluate only post-GEV fill if capacity allows
+
+### Risk Factors
+- **Iran deal binary (HIGH):** Deal collapse = oil back >$100, VIX spike, stop scrutiny on CAT $838.22
+- **PCE / GDP Thu May 28 (HIGH):** Hot PCE → hawkish repricing → sell-off risk; monitor pre/post-release
+- **Warsh / Fed week 1 (HIGH):** Any hawkish surprise → VIX spike → delay or skip GEV entry
+- **CAT insider sale (MEDIUM):** $11.4M sale by Group President; monitor for follow-on
+- **VIX re-confirmation (MEDIUM):** Must confirm <17 on Tue open before GEV entry; if spikes → delay
+
+### Decision
+**CONDITIONAL TRADE** — GEV entry live Tue May 26 open. Verify at open: VIX <17 + GEV ≤$1,060 → execute. CAT: HOLD. MU: watchlist.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
