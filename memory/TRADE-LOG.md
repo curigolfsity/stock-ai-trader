@@ -445,3 +445,14 @@ No positions yet. Bot launches tomorrow.
   4. If CAT stop triggers AND VIX spikes → hold GEV entry until VIX re-confirms <17
 
 ### Weekly Trade Count: 0 confirmed (week of 2026-05-26)
+
+---
+
+### May 25 — EOD Snapshot (Memorial Day — No Trading)
+**Portfolio:** $99,923.69 | **Cash:** $84,965.56 (85.0%) | **Day P&L:** -$106.93 (-0.11%) | **Phase P&L:** -$76.31 (-0.08%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $879.89 | — (holiday) | -$76.31 (-0.51%) | $838.22 (10% trail, HWM $931.35) |
+
+**Notes:** Memorial Day — no regular trading session. Portfolio equity settled at $99,923.69, reflecting CAT's after-hours price of $879.89 vs. the May 22 regular close of $886.18 (−$6.29/sh × 17 = −$106.93 day drift). The ⚠️ gap-down risk flagged in the pre-market scan remains live: CAT AH bid $831.36 sits below the trailing stop at $838.22; if CAT opens ≤$838.22 on Tue May 26, GTC order 1c43ebd9 auto-triggers as a market sell. Trailing stop (HWM $931.35, stop $838.22, 10% trail) confirmed ACTIVE via orders API. No trades today (0/3 this week). GEV conditional buy remains queued for Tue May 26 open: VIX 16.76 ✓ (last close May 22) | GEV ~$1,038.74 ✓ (in $1,000–$1,060 zone). Phase P&L: −$76.31 (−0.08%) vs. $100,000 starting equity.
