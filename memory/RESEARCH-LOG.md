@@ -1776,3 +1776,9 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **CONDITIONAL TRADE** — GEV entry live Tue May 26 open. Verify at open: VIX <17 + GEV ≤$1,060 → execute. CAT: HOLD. MU: watchlist.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Midday Scan — 2026-05-25 (Memorial Day — Markets CLOSED)
+
+- **Live Alpaca check:** CAT $879.89 | trailing stop 1c43ebd9 ✓ ACTIVE | HWM $931.35 | Stop $838.215 | unrealized −0.51% — no −7% trigger
+- **Action:** No trades. No stop changes. Markets closed.
+- **Status:** Thesis intact. GEV conditional entry confirmed for Tue May 26 open (VIX <17 ✓, GEV ~$1,035 ≤$1,060 ✓). Monitor CAT gap-down risk at open (AH bid $831.36 — below stop).

@@ -429,4 +429,19 @@ No positions yet. Bot launches tomorrow.
   3. If CAT triggers stop at open → confirm fill, remove position from log, update cash
   4. After fills → append to TRADE-LOG + commit
 
+### Midday Scan — 2026-05-25 (Memorial Day — Markets CLOSED)
+
+- **Account:** Equity $99,923.69 | Cash $84,966 (85.0%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $879.89 (last regular close May 22; −0.51% unrealized from $884.38 entry) — no −7% trigger ($822.47); stop buffer $41.67 (4.73%) ✓ HEALTHY
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API)
+- **⚠️ GAP-DOWN RISK (carried from pre-market):** CAT AH bid $831.36 — below stop $838.22; if CAT opens ≤$838.22 on Tue May 26, GTC stop triggers as market sell; fill likely ~$831 or lower (extended_hours: false — no pre-market trigger)
+- **Action:** No trades. Markets closed (Memorial Day). No stop adjustments.
+- **Thesis check (CAT):** INTACT. Oil WTI ~$92 = largest Q2 margin tailwind to date. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / Morgan Stanley $915.
+- **GEV:** ~$1,035 | both entry gates met ✓ (VIX 16.76 <17 ✓; price ≤$1,060 ✓) — conditional buy live for Tue May 26
+- **Tue May 26 checklist:**
+  1. Re-verify VIX <17 + GEV ≤$1,060 at open
+  2. If both ✓ → BUY GEV 9sh market (day TIF) → immediately place 10% trailing stop GTC (~$910)
+  3. If CAT opens ≤$838.22 → stop auto-triggers; confirm fill; log exit + update cash
+  4. If CAT stop triggers AND VIX spikes → hold GEV entry until VIX re-confirms <17
+
 ### Weekly Trade Count: 0 confirmed (week of 2026-05-26)
