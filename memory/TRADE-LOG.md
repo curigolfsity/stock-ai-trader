@@ -401,4 +401,32 @@ No positions yet. Bot launches tomorrow.
 |--------|--------|-------|-------|---------|----------------|------|
 | CAT | 17 | $884.38 | $886.18 | +2.34% | +$30.62 (+0.20%) | $838.22 (10% trail, HWM $931.35) |
 
-**Notes:** Day 15 (Friday, pre-Memorial Day long weekend) closed positive with CAT rallying +2.34% to $886.18 on continued oil decline (WTI ~$96 on Iran deal near "one-page MOU") and broad market stability (SPX +0.39% futures at open). Portfolio crossed back above $100K ($100,030.62) — first time since Day 2 — with phase P&L turning modestly positive at +$30.62 (+0.03%) vs. $100,000 starting equity. Trailing stop order 1c43ebd9 remains ACTIVE (HWM $931.35, stop $838.22, buffer $47.97 / 5.41%) — healthiest stop buffer in two weeks heading into the 3-day weekend gap. No trades entered this week (0/3 full capacity); VIX ~17.26 kept all new-entry gates blocked throughout. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930. Thesis intact. Next trigger (post-Memorial Day, Tue May 27): if VIX closes <17 + GEV ≤$1,060 → evaluate GEV entry (~9sh, stop ~$910 GTC trail, ~9.3% equity, target ~$1,200–1,270 (+20%), R:R ~2:1).
+**Notes:** Day 15 (Friday, pre-Memorial Day long weekend) closed positive with CAT rallying +2.34% to $886.18 on continued oil decline (WTI ~$96 on Iran deal near "one-page MOU") and broad market stability (SPX +0.39% futures at open). Portfolio crossed back above $100K ($100,030.62) — first time since Day 2 — with phase P&L turning modestly positive at +$30.62 (+0.03%) vs. $100,000 starting equity. Trailing stop order 1c43ebd9 remains ACTIVE (HWM $931.35, stop $838.22, buffer $47.97 / 5.41%) — healthiest stop buffer in two weeks heading into the 3-day weekend gap. No trades entered this week (0/3 full capacity); VIX ~17.26 kept all new-entry gates blocked throughout. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930. Thesis intact. Next trigger (post-Memorial Day, Tue May 26): if VIX closes <17 + GEV ≤$1,060 → evaluate GEV entry (~9sh, stop ~$910 GTC trail, ~9.3% equity, target ~$1,200–1,270 (+20%), R:R ~2:1).
+
+---
+
+## Week of 2026-05-26
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $931.35; stop $838.22) | Q1 beat (rev +22%, EPS +30%), Industrials leading, AI data-center power gen, oil WTI ~$96 = Q2 margin tailwind | ~$1,061 (+20%) | 2:1 |
+
+### Market-Open Scan — 2026-05-25 (Memorial Day — Markets CLOSED)
+
+- **Account:** Equity $99,923.69 | Cash $84,965.56 (85.0%) | Daytrade count: 0 | Weekly trades: 0/3 (resets this week)
+- **CAT:** $879.89 (last regular close May 22; −0.51% unrealized from $884.38 entry) — no −7% trigger ($822.47)
+- **⚠️ CAT after-hours bid $831.36 — BELOW trailing stop $838.22:** Gap-down risk on Tue May 26 open; if CAT opens ≤$838.22, GTC stop triggers as market sell; fill could be ~$831 or lower. Stop is extended_hours:false so no pre-market trigger.
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE
+- **GEV:** ~$1,038.74 (inside $1,000–$1,060 entry zone ✓) | Blue Energy 2.5GW nuclear+gas deal announced | Avg PT $1,217 (28 Buy, 0 Sell)
+- **VIX:** 16.76 (last close May 22) — **CONFIRMED below 17 ✓**
+- **Oil:** WTI ~$96.60 / Brent ~$103.54 (May 22 close); Iran deal progress but unresolved on Hormuz tolls + uranium stockpile; deal binary live
+- **Action:** No trades (market closed). GEV conditional buy queued for Tue May 26 open.
+- **Tue May 26 plan:**
+  1. Re-verify VIX <17 + GEV ≤$1,060 at open
+  2. If gates hold → BUY GEV 9sh market order (day TIF) → immediately place 10% trailing stop GTC (~$910 area)
+  3. If CAT triggers stop at open → confirm fill, remove position from log, update cash
+  4. After fills → append to TRADE-LOG + commit
+
+### Weekly Trade Count: 0 confirmed (week of 2026-05-26)
