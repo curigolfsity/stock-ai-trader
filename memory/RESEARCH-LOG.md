@@ -1845,3 +1845,10 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **TRADE** — Execute GEV 9sh at market open IF: (a) open price ≤$1,060 ✓ AND (b) VIX <17 at open ✓. Both gates confirmed in pre-market. CAT: HOLD. MU: watchlist.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — 2026-05-26 Midday Scan
+
+- **GEV intraday:** +3.34% to $1,073.40 (range $1,045–$1,092). New hydropower units order in India (energy storage). Nuclear resurgence / AI data-center power demand narrative confirmed. Trailing stop placed midday (order d169532a; HWM $1,073.39; stop $966.05 — was missing from market-open scan).
+- **CAT intraday:** +2.57% to $902.46. Record $63B backlog and Power Generation segment strength re-cited. ATH $931.35 (May 7); unrealized +2.05%. Thesis intact.
+- **Market:** SPX 7,473+ | VIX 16.68 | WTI ~$91–92 (Iran deal extension framework binary)
+- **No new positions entered.** Both stops confirmed active. Macro binary: Q1 GDP 2nd estimate + April PCE Thu May 28.

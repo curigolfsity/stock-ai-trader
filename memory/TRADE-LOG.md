@@ -449,14 +449,13 @@ No positions yet. Bot launches tomorrow.
 | Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
 | 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $931.35; stop $838.22) | Q1 beat (rev +22%, EPS +30%), Industrials leading, AI data-center power gen, oil WTI ~$91 = Q2 margin tailwind | ~$1,061 (+20%) | 2:1 |
-| 2026-05-26 | GEV | LONG | 9 | PENDING FILL | ORDER SUBMITTED (b5675641); fills at 9:30 AM ET | 10% GTC — place immediately on fill confirmation | AI power-grid infrastructure demand, gas turbine backlog, Blue Energy 2.5GW nuclear+gas deal, Avg PT $1,217 (28 Buy, 0 Sell), Energy sector +22% YTD | ~$1,250 (+20%) | 2:1 |
+| 2026-05-26 | GEV | LONG | 9 | $1,060.47 | FILLED | 10% GTC (order d169532a; HWM $1,073.39; stop $966.05) | AI power-grid infrastructure demand, gas turbine backlog, Blue Energy 2.5GW nuclear+gas deal, hydropower India order, Avg PT $1,217 (28 Buy, 0 Sell), Energy sector +22% YTD | ~$1,272 (+20%) | 2:1 |
 
-**POST-FILL ACTIONS (after 9:30 AM ET):**
-1. Confirm fill: `bash scripts/alpaca.sh orders open`
-2. Get fill price from `filled_avg_price`
-3. Place 10% trailing stop GTC: `bash scripts/alpaca.sh order '{"symbol":"GEV","qty":"9","side":"sell","type":"trailing_stop","trail_percent":"10","time_in_force":"gtc"}'`
-4. Update this row with actual fill price and stop level
-5. Send ClickUp notification: `bash scripts/clickup.sh "GEV 9sh filled @$X — AI power-grid / gas turbine backlog / Blue Energy 2.5GW deal; 10% trailing stop GTC placed"`
+**POST-FILL ACTIONS — COMPLETED (midday scan 2026-05-26):**
+- ✅ Fill confirmed: GEV 9sh @ $1,060.47 (order b5675641 filled 2026-05-26 13:35 UTC)
+- ✅ 10% trailing stop GTC placed: order d169532a | HWM $1,073.39 | Stop $966.05
+- ✅ Open positions table updated with actual fill price and stop level
+- ✅ ClickUp notification sent
 
 ### Market-Open Scan — 2026-05-26 (Day 16, Tue — Post-Memorial Day)
 
@@ -467,7 +466,22 @@ No positions yet. Bot launches tomorrow.
 - **Action:** GEV 9sh market order submitted (order b5675641-dcc8-4dee-97f7-672ea2b99a91) at 12:41 UTC (8:41 AM ET) — pending fill at 9:30 AM ET market open. 10% trailing stop GTC to be placed immediately on fill confirmation.
 - **Gate validation:** Total positions after fill = 2 ≤ 6 ✓ | Weekly trades 1/3 ✓ | Position cost ~$9,400 (9.4% equity) ≤ 20% ✓ | Catalyst documented ✓ | PDT count 0 ✓
 
-### Weekly Trade Count: 1 pending (GEV order b5675641 submitted — fills at market open)
+### Weekly Trade Count: 1 confirmed (GEV 9sh filled $1,060.47 — 2026-05-26)
+
+---
+
+### Midday Scan — 2026-05-26
+
+- **Account:** Equity $100,419.46 | Cash $75,421.33 | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $902.46 (+2.05% unrealized from $884.38 entry; +2.57% intraday) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE
+- **GEV:** $1,073.40 (+1.22% unrealized from $1,060.47 fill; +3.34% intraday) — no −7% trigger ($986.24); below +15% tightening threshold ($1,219) ✓
+- **⚠️ GEV trailing stop PLACED:** order d169532a | HWM $1,073.39 | Stop $966.05 | Trail 10% GTC ✓ — was missing from market-open scan; placed at midday
+- **Action taken:** GEV 10% trailing stop GTC placed (order d169532a). No losers to cut. No stop tightenings (both positions below +15% thresholds). No new trades.
+- **Thesis check (CAT):** INTACT. Record $63B backlog / EPS +30% / AI power-gen demand. Oil WTI ~$91 = Q2 margin tailwind accelerating. Baird $1,165 / Evercore $1,103 / JPM $1,125 / Citi $1,020 unchanged. No new negative catalyst.
+- **Thesis check (GEV):** INTACT + strengthening. New hydropower units order in India (energy storage optionality). Nuclear resurgence + AI data-center power demand narrative confirmed. Blue Energy 2.5GW nuclear+gas deal intact. GEV +3.34% intraday = market re-rating thesis.
+- **Tighten triggers:** CAT → $1,017 (+15%) = 7% trail; GEV → $1,219 (+15%) = 7% trail. Neither reached.
+- **Next:** CAT: monitor for $1,017 tighten trigger. GEV: hold with 10% stop in place. PCE + Q1 GDP 2nd estimate Thu May 28 = primary macro risk. Weekly capacity 2/3 remaining. MU watchlist if Tech sector improves post-macro data.
 
 ---
 
