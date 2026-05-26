@@ -470,6 +470,18 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 26 — EOD Snapshot (Day 16, Tuesday)
+**Portfolio:** $100,448.94 | **Cash:** $75,421.33 (75.1%) | **Day P&L:** +$525.25 (+0.53%) | **Phase P&L:** +$448.94 (+0.45%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $904.43 | +2.79% | +$340.78 (+2.27%) | $838.22 (10% trail, HWM $931.35) |
+| GEV | 9 | $1,060.47 | $1,072.14 | +3.22% | +$105.03 (+1.10%) | $972.34 (10% trail, HWM $1,080.38) |
+
+**Notes:** Day 16 (post-Memorial Day) delivered the strongest session in two weeks as both positions advanced on broad market momentum. GEV was filled at the open at $1,060.47 (9 shares, weekly trade 1/3) with a 10% trailing stop GTC immediately placed; by close GEV had rallied +3.22% to $1,072.14, auto-advancing the trailing stop HWM to $1,080.38 (stop $972.34). The gap-down risk flagged over the holiday weekend for CAT did not materialize — CAT opened above $892 and closed at $904.43 (+2.79%), with trailing stop HWM still locked at $931.35 / stop $838.22 (well above entry). Portfolio crossed $100K comfortably to $100,448.94, with phase P&L turning solidly positive at +$448.94 (+0.45%). Cash deployed expanded to 24.9% (~$25K across 2 positions). Tighten triggers remain: CAT $1,017 (+15%) → 7% trail; GEV $1,219 (+15%) → 7% trail. PCE + Q1 GDP 2nd estimate Thu May 28 = primary macro risk next. Weekly capacity 2/3 remaining.
+
+---
+
 ### Midday Scan — 2026-05-26
 
 - **Account:** Equity $100,419.46 | Cash $75,421.33 | Daytrade count: 0 | Weekly trades: 1/3
