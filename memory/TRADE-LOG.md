@@ -444,7 +444,30 @@ No positions yet. Bot launches tomorrow.
   3. If CAT opens ≤$838.22 → stop auto-triggers; confirm fill; log exit + update cash
   4. If CAT stop triggers AND VIX spikes → hold GEV entry until VIX re-confirms <17
 
-### Weekly Trade Count: 0 confirmed (week of 2026-05-26)
+### Open Positions (updated)
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $931.35; stop $838.22) | Q1 beat (rev +22%, EPS +30%), Industrials leading, AI data-center power gen, oil WTI ~$91 = Q2 margin tailwind | ~$1,061 (+20%) | 2:1 |
+| 2026-05-26 | GEV | LONG | 9 | PENDING FILL | ORDER SUBMITTED (b5675641); fills at 9:30 AM ET | 10% GTC — place immediately on fill confirmation | AI power-grid infrastructure demand, gas turbine backlog, Blue Energy 2.5GW nuclear+gas deal, Avg PT $1,217 (28 Buy, 0 Sell), Energy sector +22% YTD | ~$1,250 (+20%) | 2:1 |
+
+**POST-FILL ACTIONS (after 9:30 AM ET):**
+1. Confirm fill: `bash scripts/alpaca.sh orders open`
+2. Get fill price from `filled_avg_price`
+3. Place 10% trailing stop GTC: `bash scripts/alpaca.sh order '{"symbol":"GEV","qty":"9","side":"sell","type":"trailing_stop","trail_percent":"10","time_in_force":"gtc"}'`
+4. Update this row with actual fill price and stop level
+5. Send ClickUp notification: `bash scripts/clickup.sh "GEV 9sh filled @$X — AI power-grid / gas turbine backlog / Blue Energy 2.5GW deal; 10% trailing stop GTC placed"`
+
+### Market-Open Scan — 2026-05-26 (Day 16, Tue — Post-Memorial Day)
+
+- **Account:** Equity $100,129.56 | Cash $84,965.56 (84.9%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $892.00 (+1.38% from $879.89 last close; +0.86% unrealized from $884.38 entry) — gap-down risk DID NOT TRIGGER; stop buffer $53.78 (6.02%) ✓ HEALTHY
+- **Trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE
+- **GEV:** Last close $1,039.80; after-hours spread $999/1,089 (stale pre-market data); expected market open ~$1,045; pre-market research confirmed VIX 16.68 ✓ + price ≤$1,060 ✓
+- **Action:** GEV 9sh market order submitted (order b5675641-dcc8-4dee-97f7-672ea2b99a91) at 12:41 UTC (8:41 AM ET) — pending fill at 9:30 AM ET market open. 10% trailing stop GTC to be placed immediately on fill confirmation.
+- **Gate validation:** Total positions after fill = 2 ≤ 6 ✓ | Weekly trades 1/3 ✓ | Position cost ~$9,400 (9.4% equity) ≤ 20% ✓ | Catalyst documented ✓ | PDT count 0 ✓
+
+### Weekly Trade Count: 1 pending (GEV order b5675641 submitted — fills at market open)
 
 ---
 
