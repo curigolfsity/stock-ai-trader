@@ -1782,3 +1782,66 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **Live Alpaca check:** CAT $879.89 | trailing stop 1c43ebd9 ✓ ACTIVE | HWM $931.35 | Stop $838.215 | unrealized −0.51% — no −7% trigger
 - **Action:** No trades. No stop changes. Markets closed.
 - **Status:** Thesis intact. GEV conditional entry confirmed for Tue May 26 open (VIX <17 ✓, GEV ~$1,035 ≤$1,060 ✓). Monitor CAT gap-down risk at open (AH bid $831.36 — below stop).
+
+---
+
+## Pre-Market Research — 2026-05-26 (Day 16, Tue — Post-Memorial Day)
+
+### Account Snapshot
+- **Equity:** $100,182.26 | **Cash:** $84,965.56 (84.8%) | **Daytrade count:** 0 | **Weekly trades:** 0/3 (resets this week)
+- **Long market value:** $15,216.70 | **Buying power:** $92,573.91 (non-marginable)
+
+### Positions
+| Ticker | Shares | Entry | Current | Unreal P&L | Stop |
+|--------|--------|-------|---------|------------|------|
+| CAT | 17 | $884.38 | $895.10 | +$182.26 (+1.21%) | $838.22 (10% trail, HWM $931.35) |
+
+- **CAT gap-down risk from Memorial Day: DID NOT TRIGGER** — opened strongly above stop $838.22
+- Trailing stop 1c43ebd9 ✓ ACTIVE | HWM $931.35 | Stop $838.215 | buffer $56.88 (6.37%)
+
+### Market Context
+- **WTI:** ~$91–92 / **Brent:** $98.11 (+0.89%) — Iran ceasefire framework being negotiated (2-month extension; US lifts blockade ↔ Iran reopens Strait of Hormuz); fresh US military ops in southern Iran keep deal binary LIVE
+- **S&P 500:** 7,473.47 (+0.37% intraday) — broad market positive post-holiday
+- **VIX:** 16.68 (−0.12%) ✓ **BELOW 17 — GEV entry gate CONFIRMED**
+- **Consumer confidence:** Released today (May 26)
+- **Q1 GDP 2nd estimate + April PCE:** May 28 — key macro risk for Thu
+
+### Earnings / Calendar
+- **Today (May 26):** AutoZone (AZO), Zscaler (ZS) — not in portfolio
+- **May 28 (Thu):** Q1 GDP 2nd estimate + April PCE (HIGH RISK — hot readings = hawkish repricing)
+- **Mid-June FOMC:** Warsh policy projections = elevated hawkish risk
+
+### CAT Thesis Check
+- Price $895.10 vs. target ~$1,061 (+20%): 18.5% upside remaining ✓
+- New headwinds: UBS → Sell, $700M Q2 tariff cost headwind flagged
+- Thesis INTACT (oil ~$91 = strong Q2 margin tailwind); tariff concerns offset by commodity deflation
+- Stop buffer healthy (6.37%); HWM $931.35 — not yet at +15%/$1,017 tightening threshold
+- Avg analyst PT ~$920 (28 Buy, 2 Sell) — mixed but thesis holds
+
+### GEV Status — BOTH GATES MET ✓
+- VIX 16.68 ✓ (< 17)
+- GEV last close $1,038.74; expected open ~$1,045 ✓ (≤ $1,060 gate)
+- Catalyst: AI power-grid infrastructure; gas turbine backlog; Energy sector +22% YTD
+- **Plan: BUY 9sh @ market open** (contingent on open price ≤$1,060 + VIX <17 at open confirmation)
+  - Cost ~$9,405 (~9.4% equity) ✓ | Stop ~10% trail GTC (~$940 area) | Target ~$1,200–1,270 (+20%) | R:R ~2:1
+
+### Sector Momentum
+- **Leading (own/target):** Energy +22% YTD ✓ | Industrials solid ✓ | Materials +22% YTD ✓
+- **Lagging (avoid):** Tech cooling ✗ | Financials ✗ | Discretionary ✗
+
+### Trade Ideas
+1. **GEV — EXECUTE at open** — All gates met; strongest setup tracked; 9sh market order → immediate 10% GTC trail stop; confirm price ≤$1,060 at open tick
+2. **CAT — HOLD** — Thesis intact; oil tailwind accelerating; tariff headwind partially offset; no action
+3. **MU — Watchlist only** — Samsung strike ongoing through June 7; Tech cooling; evaluate only if GEV fills and capacity allows
+
+### Risk Factors
+- **Iran deal binary (HIGH):** Fresh US military ops in southern Iran; deal collapse = WTI back >$100, VIX spike → GEV entry skip if VIX ≥17
+- **PCE + GDP May 28 (HIGH):** Hot readings = hawkish repricing; plan for potential VIX spike Thu
+- **GEV open price (MEDIUM):** If opens >$1,060, skip entry; do NOT chase above gate
+- **CAT tariff headwind (MEDIUM):** $700M Q2 est. — monitor earnings guidance revision risk
+- **UBS/MS downgrades on CAT (LOW):** Both called before latest oil decline; thesis absorbs
+
+### Decision
+**TRADE** — Execute GEV 9sh at market open IF: (a) open price ≤$1,060 ✓ AND (b) VIX <17 at open ✓. Both gates confirmed in pre-market. CAT: HOLD. MU: watchlist.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
