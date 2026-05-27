@@ -1852,3 +1852,53 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **CAT intraday:** +2.57% to $902.46. Record $63B backlog and Power Generation segment strength re-cited. ATH $931.35 (May 7); unrealized +2.05%. Thesis intact.
 - **Market:** SPX 7,473+ | VIX 16.68 | WTI ~$91–92 (Iran deal extension framework binary)
 - **No new positions entered.** Both stops confirmed active. Macro binary: Q1 GDP 2nd estimate + April PCE Thu May 28.
+
+---
+
+## 2026-05-27 — Pre-market Research (Day 17, Wednesday)
+
+### Account
+- **Equity:** $100,743.51 | **Cash:** $75,421.33 (74.9%) | **Buying power:** $88,082.42 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 (GEV filled May 26)
+- **Phase P&L:** +$743.51 (+0.74%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|---------|----------------|------------|
+| CAT | 17 | $884.38 | $916.15 | +$540.11 (+3.59%) | $838.22 trail 10% GTC (HWM $931.35) |
+| GEV | 9 | $1,060.47 | $1,083.07 | +$203.40 (+2.13%) | $972.34 trail 10% GTC (HWM $1,080.38, auto-advancing) |
+
+- **CAT trailing stop:** order 1c43ebd9 | ACTIVE ✓ | Buffer $77.93 (8.5%) | Tighten trigger: $1,017.04 (+15%)
+- **GEV trailing stop:** order d169532a | ACTIVE ✓ | Buffer $110.73 (10.2%) | Tighten trigger: $1,219.54 (+15%)
+- **No stop tightening needed today** — neither position at +15% threshold
+
+### Market Context
+- **WTI:** ~$94 | **Brent:** $99.18 (−0.41% premarket May 27) — Iran ceasefire negotiations ongoing; oil price binary
+- **S&P 500:** 7,473+ (May 26 close); futures modestly positive premarket
+- **VIX:** ~16.75-16.81 — still below 17 ✓
+- **Earnings today (May 27):** DKS, MRVL, CRM, SNPS, SNOW — none in portfolio; MRVL/CRM AI-related → monitor reaction
+- **Economic calendar today:** April new home sales (lower priority)
+- **⚠️ TOMORROW May 28 (HIGH RISK):** Q1 GDP 2nd estimate + April PCE — Q1 advance PCE was 4.5% (hot); 2nd estimate could confirm/revise up → hawkish repricing + VIX spike
+- **Sector momentum:** Energy +22% YTD ✓ | Industrials solid ✓ | Tech cooling ✗ | S&P 500 YTD +9.7%
+- **Kevin Warsh (new Fed chair, sworn in May 22):** Markets pricing rates on hold through 2026, possible hike 2027; hawkish uncertainty elevated
+
+### Thesis Checks
+- **CAT:** INTACT. +3.05% May 26; Q1 rev +22% / EPS +30% / backlog $63B. Oil ~$94 = Q2 margin tailwind accelerating. Tariff headwind on Resource Industries (−39% segment profit Q1) — absorbed by commodity deflation and power generation demand. No negative catalyst.
+- **GEV:** INTACT + strengthening. +5.31% May 26; India hydropower order (new). 124% YoY surge. Dividend $0.50 ex-date Jun 16 2026. 28 Buy / 0 Sell. AI data-center power demand + nuclear resurgence narrative confirmed.
+
+### Trade Ideas
+1. **MRVL** — Reports today (May 27) after close; AI chip/networking pure play; monitor post-earnings gap for potential entry Thu/Fri if beat + Tech sector turns; **not today — too much pre-PCE risk**
+2. **XOM** — Energy +22% YTD; oil ~$94-99; AI data center power demand; portfolio diversifier; entry $105-110 zone; stop 10% trail; target +20%; evaluate post-PCE May 28
+3. **GEV add** — Strongest thesis; consider adding 5sh post-PCE if VIX stays <17; concentration risk = defer until after macro data clears
+
+### Risk Factors
+- **⚠️ PCE + Q1 GDP 2nd estimate TOMORROW May 28 (HIGH):** Q1 PCE advance 4.5% — if confirmed/revised up → hawkish repricing, VIX spike → hold all entries until data clears
+- **Warsh Fed hawkish signals (MEDIUM-HIGH):** Rate hike 2027 increasingly priced; dampens growth multiples for industrials/tech
+- **Iran deal binary (MEDIUM):** Collapse = WTI >$100 (CAT tailwind; broad market headwind); status fluid
+- **CAT Resource Industries (MEDIUM):** −39% segment profit Q1 from tariff costs; Q2 guidance revision risk
+- **MRVL/CRM earnings miss (LOW for portfolio):** No direct exposure; Tech cooling = indirect sentiment drag
+
+### Decision
+**HOLD** — No new trades ahead of critical PCE + GDP 2nd estimate tomorrow (May 28). Both positions healthy with active stops. PCE 4.5% advance = elevated risk of hawkish repricing; patience warranted. Re-evaluate entry candidates (XOM, MRVL post-earnings) after May 28 data clears. Weekly capacity 2/3 remaining.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
