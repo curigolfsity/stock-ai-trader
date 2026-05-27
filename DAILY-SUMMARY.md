@@ -14,3 +14,11 @@ Decision: HOLD
 Ideas: GEV watch $1,066 (near entry zone, VIX borderline), MU +3% Samsung strike play
 Market: SPX futures +0.39%, VIX ~17.26, Oil WTI $96.35
 Risks: Warsh Fed sworn in today (hawkish/unknown); Iran deal not finalized (oil binary); Friday light volume before Memorial Day weekend
+
+---
+## 2026-05-27 10:13 UTC (notification fallback — network restricted)
+Pre-market 2026-05-27
+Decision: HOLD
+Ideas: MRVL watch post-earnings gap, XOM Energy +22% YTD post-PCE entry
+Market: SPX futures ~flat, VIX 16.75, Oil WTI ~$94 / Brent $99.18
+Risks: PCE+GDP 2nd est TOMORROW (Q1 PCE 4.5% hot) — no new entries today
