@@ -531,3 +531,15 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. −0.61% intraday = pre-PCE/GDP positioning (May 28 binary). No CAT-specific negative catalyst. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
 - **Thesis check (GEV):** INTACT. −2.25% intraday = profit-taking after +5.31% yesterday; no new fundamental negative catalyst. Mild insider (chief accounting officer) share sale and institutional stake-trimming flagged but not thesis-breaking. AI power-grid demand / gas turbine backlog / India hydropower order / 28 Buy 0 Sell consensus all unchanged.
 - **Next:** PCE + Q1 GDP 2nd estimate tomorrow May 28 8:30 AM ET = primary binary. Hold both positions through data release.
+
+---
+
+### May 27 — EOD Snapshot (Day 17, Wednesday)
+**Portfolio:** $100,265.61 | **Cash:** $75,421.33 (75.2%) | **Day P&L:** -$183.33 (-0.18%) | **Phase P&L:** +$265.61 (+0.27%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $909.94 | +0.15% | +$434.54 (+2.89%) | $838.22 (10% trail, HWM $931.35) |
+| GEV | 9 | $1,060.47 | $1,041.70 | -2.69% | -$168.93 (-1.77%) | $972.34 (10% trail, HWM $1,080.38) |
+
+**Notes:** Day 17 closed with a mixed session: CAT edged up +0.15% to $909.94, continuing its recovery toward the HWM, while GEV extended its pullback -2.69% to $1,041.70 as profit-taking following Tuesday's +5.31% surge persisted alongside a mild insider share sale (chief accounting officer) and institutional stake-trimming — neither thesis-breaking. Net day loss of -$183.33 (-0.18%) driven entirely by GEV's drawdown outweighing CAT's small gain. Phase P&L holds positive at +$265.61 (+0.27%) vs. $100,000 starting equity. Both trailing stops ACTIVE and healthy: CAT stop $838.22 (HWM $931.35, buffer $71.72 / 7.88%); GEV stop $972.34 (HWM $1,080.38, buffer $69.36 / 6.66%) — GEV above the -7% cut threshold ($986.24). No trades today (0); weekly count 1/3. Primary binary tomorrow: PCE April + Q1 GDP 2nd estimate (8:30 AM ET) — benign print (core PCE ≤0.3% MoM) + VIX stays <17 + SPX holds → evaluate potential 3rd position or GEV add; hot print → tighten stop vigilance on both.
