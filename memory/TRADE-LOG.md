@@ -505,3 +505,17 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.38 | $879.89 | — (holiday) | -$76.31 (-0.51%) | $838.22 (10% trail, HWM $931.35) |
 
 **Notes:** Memorial Day — no regular trading session. Portfolio equity settled at $99,923.69, reflecting CAT's after-hours price of $879.89 vs. the May 22 regular close of $886.18 (−$6.29/sh × 17 = −$106.93 day drift). The ⚠️ gap-down risk flagged in the pre-market scan remains live: CAT AH bid $831.36 sits below the trailing stop at $838.22; if CAT opens ≤$838.22 on Tue May 26, GTC order 1c43ebd9 auto-triggers as a market sell. Trailing stop (HWM $931.35, stop $838.22, 10% trail) confirmed ACTIVE via orders API. No trades today (0/3 this week). GEV conditional buy remains queued for Tue May 26 open: VIX 16.76 ✓ (last close May 22) | GEV ~$1,038.74 ✓ (in $1,000–$1,060 zone). Phase P&L: −$76.31 (−0.08%) vs. $100,000 starting equity.
+
+---
+
+### Market-Open Scan — 2026-05-27 (Day 17, Wednesday)
+
+- **Account:** Equity $100,548.99 | Cash $75,421.33 (75.0%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $913.48 (+0.54% intraday; +3.29% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE (price below HWM; stop locked; buffer $75.26 / 8.2%)
+- **GEV:** $1,066.50 (−0.37% intraday; +0.57% unrealized from $1,060.47 entry) — no −7% trigger ($986.24); below +15% tightening threshold ($1,219) ✓
+- **GEV trailing stop:** order d169532a | HWM $1,080.38 | Stop $972.34 | Trail 10% GTC ✓ ACTIVE (price below HWM; stop locked; buffer $94.16 / 8.8%)
+- **Action:** No trades. No stop adjustments. All new-entry gates blocked — PCE + Q1 GDP 2nd estimate tomorrow (May 28) = HIGH risk binary; patience warranted.
+- **Thesis check (CAT):** INTACT. Oil WTI ~$94 = Q2 margin tailwind. Q1 $63B backlog / EPS +30% unchanged. No new negative catalyst. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Thesis check (GEV):** INTACT. India hydropower order (new). 28 Buy / 0 Sell consensus. Dividend $0.50 ex-date Jun 16. AI data-center power demand + nuclear resurgence narrative confirmed.
+- **Next trigger:** Post-PCE May 28 8:30 AM ET: if core PCE ≤0.3% MoM + VIX stays <17 + SPX holds → evaluate XOM ($105–110 zone, stop ~$95 GTC trail, ~12sh, ~12% equity) or GEV add (5sh post-PCE if VIX <17). Weekly capacity 2/3 remaining.
