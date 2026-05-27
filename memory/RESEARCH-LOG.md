@@ -1779,6 +1779,7 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
 ### Midday Scan — 2026-05-25 (Memorial Day — Markets CLOSED)
 
+
 - **Live Alpaca check:** CAT $879.89 | trailing stop 1c43ebd9 ✓ ACTIVE | HWM $931.35 | Stop $838.215 | unrealized −0.51% — no −7% trigger
 - **Action:** No trades. No stop changes. Markets closed.
 - **Status:** Thesis intact. GEV conditional entry confirmed for Tue May 26 open (VIX <17 ✓, GEV ~$1,035 ≤$1,060 ✓). Monitor CAT gap-down risk at open (AH bid $831.36 — below stop).
@@ -1902,3 +1903,9 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — No new trades ahead of critical PCE + GDP 2nd estimate tomorrow (May 28). Both positions healthy with active stops. PCE 4.5% advance = elevated risk of hawkish repricing; patience warranted. Re-evaluate entry candidates (XOM, MRVL post-earnings) after May 28 data clears. Weekly capacity 2/3 remaining.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — 2026-05-27 Midday Scan
+
+- **GEV intraday:** −2.25% to $1,046.41 (stop $972.34; buffer 7.1%). Opened −3.16% on profit-taking after +5.31% May 26 session. No new fundamental negative — pure valuation re-evaluation post-rally; minor insider (chief accounting officer share sale mid-May) and some institutional stake-trimming flagged but not thesis-breaking. AI power-grid demand / gas turbine backlog / India hydropower order / 28 Buy 0 Sell consensus / nuclear resurgence narrative all unchanged.
+- **CAT intraday:** −0.61% to $902.98 (stop $838.22; buffer 7.2%). Macro-driven pre-PCE/GDP positioning; no CAT-specific negative. Analyst PTs unchanged.
+- **No actions taken.** Both stops ACTIVE. PCE + Q1 GDP 2nd estimate May 28 8:30 AM ET = primary binary tomorrow.

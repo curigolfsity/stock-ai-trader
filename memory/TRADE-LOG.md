@@ -519,3 +519,15 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. Oil WTI ~$94 = Q2 margin tailwind. Q1 $63B backlog / EPS +30% unchanged. No new negative catalyst. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
 - **Thesis check (GEV):** INTACT. India hydropower order (new). 28 Buy / 0 Sell consensus. Dividend $0.50 ex-date Jun 16. AI data-center power demand + nuclear resurgence narrative confirmed.
 - **Next trigger:** Post-PCE May 28 8:30 AM ET: if core PCE ≤0.3% MoM + VIX stays <17 + SPX holds → evaluate XOM ($105–110 zone, stop ~$95 GTC trail, ~12sh, ~12% equity) or GEV add (5sh post-PCE if VIX <17). Weekly capacity 2/3 remaining.
+
+### Midday Scan — 2026-05-27
+
+- **Account:** Equity ~$100,190 | Cash $75,421.33 (75.3%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $902.98 (−0.61% intraday from $908.55; +2.10% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE | buffer $64.77 (7.2%)
+- **GEV:** $1,046.41 (−2.25% intraday from $1,070.47; −1.33% unrealized from $1,060.47 entry) — no −7% trigger ($986.24); below +15% tightening threshold ($1,219) ✓
+- **GEV trailing stop:** order d169532a | HWM $1,080.38 | Stop $972.342 | Trail 10% GTC ✓ ACTIVE | buffer $74.07 (7.1%)
+- **Action:** No trades. No stop adjustments.
+- **Thesis check (CAT):** INTACT. −0.61% intraday = pre-PCE/GDP positioning (May 28 binary). No CAT-specific negative catalyst. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Thesis check (GEV):** INTACT. −2.25% intraday = profit-taking after +5.31% yesterday; no new fundamental negative catalyst. Mild insider (chief accounting officer) share sale and institutional stake-trimming flagged but not thesis-breaking. AI power-grid demand / gas turbine backlog / India hydropower order / 28 Buy 0 Sell consensus all unchanged.
+- **Next:** PCE + Q1 GDP 2nd estimate tomorrow May 28 8:30 AM ET = primary binary. Hold both positions through data release.
