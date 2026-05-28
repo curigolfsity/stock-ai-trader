@@ -1909,3 +1909,57 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **GEV intraday:** −2.25% to $1,046.41 (stop $972.34; buffer 7.1%). Opened −3.16% on profit-taking after +5.31% May 26 session. No new fundamental negative — pure valuation re-evaluation post-rally; minor insider (chief accounting officer share sale mid-May) and some institutional stake-trimming flagged but not thesis-breaking. AI power-grid demand / gas turbine backlog / India hydropower order / 28 Buy 0 Sell consensus / nuclear resurgence narrative all unchanged.
 - **CAT intraday:** −0.61% to $902.98 (stop $838.22; buffer 7.2%). Macro-driven pre-PCE/GDP positioning; no CAT-specific negative. Analyst PTs unchanged.
 - **No actions taken.** Both stops ACTIVE. PCE + Q1 GDP 2nd estimate May 28 8:30 AM ET = primary binary tomorrow.
+
+---
+
+## 2026-05-28 — Pre-market Research (Day 18, Thursday)
+
+### Account
+- **Equity:** $100,132.43 | **Cash:** $75,421.33 (75.3%) | **Buying power:** $87,776.88 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 | **Phase P&L:** +$132.43 (+0.13%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|---------|----------------|------------|
+| CAT | 17 | $884.38 | $908.30 | +$406.66 (+2.71%) | $838.22 trail 10% GTC (HWM $931.35) |
+| GEV | 9 | $1,060.47 | $1,030.00 | −$274.23 (−2.87%) | $972.34 trail 10% GTC (HWM $1,080.38) |
+
+- **CAT trailing stop:** order 1c43ebd9 | ACTIVE ✓ | Buffer $70.08 (7.71%) | Tighten trigger: $1,017 (+15%)
+- **GEV trailing stop:** order d169532a | ACTIVE ✓ | Buffer $57.66 (5.59%) ⚠️ THIN | Manual cut at $986.24 (−7% from entry) — trails ahead of stop at $972.34
+
+### Market Context
+- **WTI:** ~$61–62 (plunged −6% May 27 = Iran peace deal optimism / supply fears easing) — significant drop from $94 prior session
+- **Brent:** $96.30 (+2.13% May 28 premarket)
+- **Note:** WTI/Brent spread widening; Iran ceasefire narrative driving supply expectations; oil price volatility elevated
+- **S&P 500 futures:** 7,538.50 premarket (range 7,532–7,551) — SPX EW and DJIA hitting fresh ATH; strong buy signal; Iran peace hopes primary driver
+- **VIX:** ~17.26 (May monthly avg FRED) — borderline at/above 17 trade gate; precise intraday level uncertain pre-open
+- **⚠️ 8:30 AM ET TODAY (CRITICAL BINARY):** April PCE + Q1 GDP 2nd estimate
+  - BofA forecast: core PCE +0.3% MoM (3.3% YoY) | headline +0.4% MoM (3.8% YoY)
+  - Q1 GDP advance was 2.0% annualized (Q1 PCE deflator was a hot 4.5%)
+  - Benign print (core ≤0.3%) → rally continuation; hot print (>0.3%) → hawkish repricing, VIX spike
+- **Earnings before open:** COST (Costco), DELL (Dell Technologies), DLTR (Dollar Tree), NTAP (NetApp)
+  - DELL = AI infra bellwether; beat could lift sentiment for GEV and broader AI power theme
+  - COST = consumer sentiment gauge; not portfolio-relevant
+- **Sector momentum YTD:** Materials +22% ✓ | Energy: strong ✓ | Healthcare: top performer (defensive) | Tech: cooling ✗ | S&P 500 ~+8.5% YTD
+
+### Thesis Checks
+- **CAT:** INTACT. $908.30 (−0.18% premarket). Q1 EPS +30%, revenue +22%, backlog $63B, Power Generation +41%. CAT up 32% in 2026. WTI drop to ~$61–62 is a modest headwind vs. $94 prior — Power Generation segment (data centers / AI) remains dominant catalyst. No new negative catalyst. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **GEV:** INTACT — but price under pressure. $1,030 (−2.87% from entry). Q1 EPS $17.44 (massive beat vs. $1.67 est.), backlog $163B, orders +71% YoY (book-to-bill 2.0), gas turbine fleet 4M commercial hours milestone. 28 Buy / 0 Sell consensus, avg PT $1,217. Dividend $0.50 ex-date Jun 16. ⚠️ Stop buffer only 5.59% — post-PCE volatility risk is real; manual cut rule at $986.24 triggers before trailing stop at $972.34.
+
+### Trade Ideas
+1. **XOM** — Energy +22% YTD; WTI ~$61–62 (pullback from $94 = entry opportunity or thesis risk?); AI data-center power demand; portfolio diversifier; evaluate post-PCE ONLY if core ≤0.3% + VIX <17 + SPX holds; entry $105–110 zone; stop 10% trail GTC; ~12sh (~12% equity); target +20%
+2. **DELL** — Reporting BMO today; AI infrastructure pure play (servers, storage); potential post-earnings gap entry if strong beat confirmed; Tech cooling = sector headwind; speculative; skip if Tech sector doesn't confirm
+3. **GEV add** — 5sh add post-PCE if VIX <17 + GEV holds above $1,000 + thesis confirmed; concentration risk (position grows to ~14sh / ~$14k / ~14% equity); deferred until price stabilizes and PCE clears
+
+### Risk Factors
+- **⚠️ PCE binary (CRITICAL):** Core PCE BofA forecast +0.3% MoM — at or above = hawkish repricing, VIX spike; NO new trades until 8:30 AM ET print clears
+- **⚠️ GEV stop buffer (HIGH):** Only $57.66 (5.59%) from $1,030 to trailing stop $972.34; manual cut rule at $986.24 sits above the stop — if GEV drops to $986.24, cut manually BEFORE stop triggers
+- **Iran deal binary (MEDIUM):** Collapse → WTI reversal above $100; progress → oil lower; both scenarios create portfolio uncertainty
+- **VIX borderline (MEDIUM):** Monthly avg ~17.26; trade gate is VIX <17; may not clear new-entry gate today depending on intraday level post-PCE
+- **WTI collapse (MEDIUM):** Dropped from ~$94 to ~$61–62 — significant; reduces CAT Energy/Resource margin tailwind but Power Generation (data centers) unaffected; XOM thesis weakened slightly
+- **DELL miss (LOW):** No direct exposure; AI infra miss would dampen GEV/CAT sentiment indirectly
+
+### Decision
+**HOLD** — Await PCE + Q1 GDP 2nd estimate at 8:30 AM ET. Hard gate: no new positions until data clears. ⚠️ Monitor GEV closely — drop to $986.24 triggers manual cut rule (notify immediately). Post-PCE re-evaluation: if core PCE ≤0.3% + VIX <17 + SPX holds → evaluate XOM entry (12sh, ~12% equity). Weekly capacity 2/3 remaining. Patience > activity.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
