@@ -549,6 +549,19 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (GEV):** INTACT but monitoring stop buffer. −2.97% unrealized; 28 Buy / 0 Sell; gas turbine backlog; AI power-grid demand confirmed. Manual cut at $986.24 remains above stop $972.34. Iran +3% oil is mild indirect tailwind for power generation sector.
 - **Next:** Post-open re-evaluate: if PCE confirmed ≤0.3% + VIX sustains <17 + SPX holds → revisit XOM with correct live price (~$152); recalculate position size (~$12K / ~$152 ≈ 79sh too large at 12% — revise to ~8sh at $152 ≈ $1,216 = 1.2% or confirm equity math). Watch GEV stop buffer throughout session.
 
+### Midday Scan — 2026-05-28
+
+- **Account:** Equity ~$99,928 | Cash $75,421.33 | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $904.07 (−0.64% intraday from $909.93; +2.23% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE | buffer $65.85 (7.27%)
+- **GEV:** $1,015.27 (−1.61% intraday from $1,031.89; −4.26% unrealized from $1,060.47 entry) — no −7% manual cut trigger ($986.24); stop buffer $42.93 (4.23%) ⚠️ THIN
+- **GEV trailing stop:** order d169532a | HWM $1,080.38 | Stop $972.34 | Trail 10% GTC ✓ ACTIVE | buffer $42.93 (4.23%) ⚠️
+- **PCE April (8:30 AM ET):** Core +0.2% MoM (vs. +0.3% est) ✓ BENIGN | Headline +0.4% MoM (vs. +0.5% est) ✓ — both below consensus; risk-on signal; no hawkish repricing
+- **Action:** No trades. No stop adjustments. No losers to cut (CAT +2.23%; GEV −4.26%, above −7% rule). No tightening triggers (both below +15%).
+- **Thesis check (CAT):** INTACT. Q1 $63B backlog / EPS +30% / AI power-gen unchanged. WTI ~$61–62 (Power Generation demand unaffected; energy-input margin tailwind). Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Thesis check (GEV):** INTACT + STRENGTHENING. UBS upgrade today: $1,400 PT (electrification supercycle; $163B backlog; AI data-center power demand cited). 28 Buy / 0 Sell consensus. Dividend $0.50 ex-date Jun 16. PCE benign = risk-on environment should support recovery. Manual cut rule at $986.24 — GEV at $1,015.27 ($28.97 / 2.85% cushion above trigger). ⚠️ Monitor closely rest of session.
+- **Next:** Hold both positions through session close. GEV: monitor for drift toward $986.24 manual cut level. PCE benign + UBS upgrade are tailwinds for afternoon recovery. Post-close: evaluate XOM ($152 live price; ~8sh; ~12% equity) or GEV add (5sh) if VIX confirms <17 at EOD and GEV stabilizes above $1,000.
+
 ---
 
 ### May 27 — EOD Snapshot (Day 17, Wednesday)

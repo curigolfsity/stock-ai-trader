@@ -1963,3 +1963,11 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — Await PCE + Q1 GDP 2nd estimate at 8:30 AM ET. Hard gate: no new positions until data clears. ⚠️ Monitor GEV closely — drop to $986.24 triggers manual cut rule (notify immediately). Post-PCE re-evaluation: if core PCE ≤0.3% + VIX <17 + SPX holds → evaluate XOM entry (12sh, ~12% equity). Weekly capacity 2/3 remaining. Patience > activity.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — 2026-05-28 Midday Scan
+
+- **PCE April (8:30 AM ET — CONFIRMED):** Core +0.2% MoM (vs. +0.3% est) ✓ BENIGN | Headline +0.4% MoM (vs. +0.5% est) ✓ | Core YoY 3.3% (in-line) | Headline YoY 3.8% (matched est, highest since May 2023). Both prints below consensus — no hawkish repricing; risk-on signal confirmed. PCE gate met for new entries post-print.
+- **GEV:** UBS $1,400 PT upgrade (electrification supercycle; $163B backlog; AI data-center power demand cited) — thesis strengthening significantly. Live price $1,015.27 (−4.26% unrealized); manual cut rule at $986.24 (buffer $28.97 / 2.85% ⚠️); trailing stop $972.34 ACTIVE.
+- **CAT:** $904.07 (−0.64% intraday; +2.23% unrealized). Thesis intact. Stop buffer 7.27% ✓ HEALTHY.
+- **No actions taken.** Both stops ACTIVE. Hold through session close. Monitor GEV for drift toward $986.24.
+- **Post-PCE next trigger:** If GEV stabilizes above $1,000 + VIX confirms <17 → evaluate GEV 5sh add OR XOM entry (live price ~$152, recalculate equity %) at tomorrow's pre-market scan.
