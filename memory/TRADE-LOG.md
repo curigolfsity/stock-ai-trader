@@ -573,3 +573,15 @@ No positions yet. Bot launches tomorrow.
 | GEV | 9 | $1,060.47 | $1,041.70 | -2.69% | -$168.93 (-1.77%) | $972.34 (10% trail, HWM $1,080.38) |
 
 **Notes:** Day 17 closed with a mixed session: CAT edged up +0.15% to $909.94, continuing its recovery toward the HWM, while GEV extended its pullback -2.69% to $1,041.70 as profit-taking following Tuesday's +5.31% surge persisted alongside a mild insider share sale (chief accounting officer) and institutional stake-trimming — neither thesis-breaking. Net day loss of -$183.33 (-0.18%) driven entirely by GEV's drawdown outweighing CAT's small gain. Phase P&L holds positive at +$265.61 (+0.27%) vs. $100,000 starting equity. Both trailing stops ACTIVE and healthy: CAT stop $838.22 (HWM $931.35, buffer $71.72 / 7.88%); GEV stop $972.34 (HWM $1,080.38, buffer $69.36 / 6.66%) — GEV above the -7% cut threshold ($986.24). No trades today (0); weekly count 1/3. Primary binary tomorrow: PCE April + Q1 GDP 2nd estimate (8:30 AM ET) — benign print (core PCE ≤0.3% MoM) + VIX stays <17 + SPX holds → evaluate potential 3rd position or GEV add; hot print → tighten stop vigilance on both.
+
+---
+
+### May 28 — EOD Snapshot (Day 18, Thursday)
+**Portfolio:** $99,627.47 | **Cash:** $75,421.33 (75.7%) | **Day P&L:** -$638.14 (-0.64%) | **Phase P&L:** -$372.53 (-0.37%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $893.42 | -1.81% | +$153.70 (+1.02%) | $838.22 (10% trail, HWM $931.35) |
+| GEV | 9 | $1,060.47 | $1,001.65 | -2.93% | -$529.43 (-5.55%) | $972.34 (10% trail, HWM $1,080.38) |
+
+**Notes:** Day 18 closed down -$638.14 (-0.64%) as both positions fell on Iran geopolitical risk-off (Revolutionary Guard retaliation against US airstrikes near Hormuz; oil +3%), offsetting an otherwise bullish PCE print (core +0.2% MoM vs. +0.3% est — both headline and core below consensus). CAT declined -1.81% to $893.42 but remains +1.02% unrealized from entry; trailing stop order 1c43ebd9 ACTIVE (HWM $931.35, stop $838.22, buffer $55.21 / 6.18% — healthy). GEV extended its post-entry pullback -2.93% to $1,001.65, now -5.55% unrealized from the $1,060.47 fill; trailing stop order d169532a ACTIVE (HWM $1,080.38, stop $972.34, buffer $29.31 / 2.93%) — ⚠️ GEV sits only $15.41 (1.54%) above the -7% manual cut trigger ($986.24); monitor closely at Friday open. UBS PT $1,400 (electrification supercycle, $163B backlog, AI data-center power demand) reaffirms thesis — weakness is macro-driven, not fundamental. No trades today; weekly count 1/3. Phase P&L: -$372.53 (-0.37%) vs. $100,000 starting equity. Friday plan: if GEV drifts toward $986.24 at open → manual cut; if GEV stabilizes + VIX <17 → hold; evaluate XOM at live price (~$152) only if VIX sustains <17.
