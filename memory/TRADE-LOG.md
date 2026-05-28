@@ -532,6 +532,23 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (GEV):** INTACT. −2.25% intraday = profit-taking after +5.31% yesterday; no new fundamental negative catalyst. Mild insider (chief accounting officer) share sale and institutional stake-trimming flagged but not thesis-breaking. AI power-grid demand / gas turbine backlog / India hydropower order / 28 Buy 0 Sell consensus all unchanged.
 - **Next:** PCE + Q1 GDP 2nd estimate tomorrow May 28 8:30 AM ET = primary binary. Hold both positions through data release.
 
+### Market-Open Scan — 2026-05-28 (Day 18, Thursday — pre-open 08:36 ET)
+
+- **Account:** Equity $99,999.33 | Cash $75,421.33 (75.4%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $901 (−0.98% intraday from $909.94; +1.88% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE | buffer $62.78 (6.97%)
+- **GEV:** $1,029 (−1.21% intraday from $1,041.70; −2.97% unrealized from $1,060.47 entry) — no −7% trigger ($986.24); stop buffer $56.66 (5.50%) ⚠️ THIN
+- **GEV trailing stop:** order d169532a | HWM $1,080.38 | Stop $972.34 | Trail 10% GTC ✓ ACTIVE | buffer $56.66 / 5.50% ⚠️
+- **VIX pre-market:** 16.86 (< 17 ✓ — gate met for first time)
+- **SPX futures:** −0.1% (slightly negative; PCE print reaction not yet confirmed post-open)
+- **PCE April (8:30 AM ET, just released):** Actual print NOT confirmed via search — data too fresh; consensus was core +0.30% MoM
+- **Macro context:** Iran Revolutionary Guard retaliated after US airstrikes (drone site near Hormuz) → oil +3% → risk-off pre-open
+- **XOM considered — BLOCKED:** Research entry zone $105–110 vs. live Alpaca quote bid $148 / ask $157 (~42% discrepancy); same price-data error pattern as GEV on May 8. Cannot safely size or risk-manage trade. Skipped.
+- **Action:** No trades. Both GTC stops ACTIVE. No tighten triggers reached. Monitor GEV: manual cut rule triggers at $986.24 (before trailing stop $972.34).
+- **Thesis check (CAT):** INTACT. Q1 $63B backlog / EPS +30% unchanged. Oil WTI dropped to ~$61–62 May 27 (Power & Energy AI data-center demand unaffected; margin tailwind on energy inputs). Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Thesis check (GEV):** INTACT but monitoring stop buffer. −2.97% unrealized; 28 Buy / 0 Sell; gas turbine backlog; AI power-grid demand confirmed. Manual cut at $986.24 remains above stop $972.34. Iran +3% oil is mild indirect tailwind for power generation sector.
+- **Next:** Post-open re-evaluate: if PCE confirmed ≤0.3% + VIX sustains <17 + SPX holds → revisit XOM with correct live price (~$152); recalculate position size (~$12K / ~$152 ≈ 79sh too large at 12% — revise to ~8sh at $152 ≈ $1,216 = 1.2% or confirm equity math). Watch GEV stop buffer throughout session.
+
 ---
 
 ### May 27 — EOD Snapshot (Day 17, Wednesday)
