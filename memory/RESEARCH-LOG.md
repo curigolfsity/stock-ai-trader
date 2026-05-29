@@ -1971,3 +1971,51 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **CAT:** $904.07 (−0.64% intraday; +2.23% unrealized). Thesis intact. Stop buffer 7.27% ✓ HEALTHY.
 - **No actions taken.** Both stops ACTIVE. Hold through session close. Monitor GEV for drift toward $986.24.
 - **Post-PCE next trigger:** If GEV stabilizes above $1,000 + VIX confirms <17 → evaluate GEV 5sh add OR XOM entry (live price ~$152, recalculate equity %) at tomorrow's pre-market scan.
+
+---
+
+## 2026-05-29 — Pre-market Research (Day 19, Friday)
+
+### Account
+- **Equity:** $99,673.61 | **Cash:** $75,421.33 (75.7%) | **Buying power:** $87,547.47 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 | **Phase P&L:** −$326.39 (−0.33%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|---------|----------------|------------|
+| CAT | 17 | $884.38 | $897.77 | +$227.65 (+1.51%) | $838.22 trail 10% GTC (HWM $931.35) |
+| GEV | 9 | $1,060.47 | $998.91 | −$554.04 (−5.81%) ⚠️ | $972.34 trail 10% GTC (HWM $1,080.38) |
+
+- **CAT trailing stop:** order 1c43ebd9 | ACTIVE ✓ | Buffer $59.55 (6.63%) | Tighten trigger: $1,017 (+15%)
+- **GEV trailing stop:** order d169532a | ACTIVE ✓ | Buffer $26.57 (2.66%) ⚠️ CRITICAL | Manual cut at $986.24 (−7% from entry) — buffer from current only $12.67 (1.27%) ⚠️⚠️
+
+### Market Context
+- **WTI:** ~$89–92 (sharp reversal upward; Iran negotiations deadlocked + fresh US strikes near Hormuz feared → supply disruption premium re-building)
+- **Brent:** ~$91–94 (climbing toward $97; Iran risk-off bid)
+- **S&P 500 futures:** ~7,585 (ESM26, roughly flat to slightly positive; SPX closed 7,561 on May 28; AI software tailwind from MSFT/ORCL/PLTR +3–4%)
+- **VIX:** 15.74 (May 28 close) ✓ BELOW 17 GATE — new-entry gate cleared
+- **Today's catalysts:** Iran situation fluid (ceasefire extension vs. fresh strike reports = conflicting signals; oil bid elevated); AI software momentum (MSFT/ORCL/PLTR +3–4% = indirect GEV/CAT data-center tailwind); bearish GEV analyst note (May 28: "hyper-growth expectations disconnected from physical limits")
+- **Earnings before open:** ~4 reports (names unconfirmed); no major AI/energy names identified
+- **Economic calendar:** No major releases identified for May 29 — relatively quiet macro day
+- **Sector momentum YTD 2026:** Energy +34.1% ✓✓ | Technology +19.3% ✓ | Materials +10.5% ✓ | Industrials (CAT/GEV) strong
+
+### Thesis Checks
+- **CAT:** INTACT. $897.77 pre-mkt (+1.51% unrealized). Q1 EPS +30%, revenue +22%, backlog $63B, Power Generation +41%, $10.2B data-center sales. WTI ~$90 = Energy/Power Generation tailwind restored. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020; avg analyst PT $920. Risk: Group President insider sale $11.4M on May 14; tariff headwind (Resource Industries profit −39%).
+- **GEV:** THESIS UNDER PRESSURE. $998.91 pre-mkt (−5.81% unrealized). ⚠️ Buffer to manual cut ($986.24) = only $12.67. Bearish analyst report May 28: valuation reflects "hyper-growth" vs. physical business limits; Wind segment losses widening ($250–350M tariff impact); institutional + insider selling noted. BULL case intact (orders +71%, backlog $163B, UBS PT $1,400, AI power-grid demand, avg PT $1,211 from 28-Buy/0-Sell consensus) but near-term price action is deteriorating.
+
+### Trade Ideas
+1. **XOM** — Energy +34.1% YTD; WTI ~$90-92 and rising on Iran risk; AI data-center power demand; diversifies portfolio away from GEV concentration; entry: verify live price (prior $152 estimate — confirm at open); stop 10% trail GTC; ~$10K size (~10% equity); target +20%. ✅ Aligns with sector momentum. ⚠️ GATE: only initiate after GEV situation resolves at open; Friday + Iran binary = elevated weekend risk.
+2. **GEV add** — SKIP. −5.81% unrealized, approaching −7% cut, bearish analyst report, institutional/insider selling, Wind losses. No add until price recovers above $1,020+ and thesis stabilizes.
+3. **MSFT** — AI infra +3–4% surge; but Tech sector cooling relative to Energy; no current catalyst specific enough to justify a new position. SKIP.
+
+### Risk Factors
+- **⚠️ GEV cut trigger (CRITICAL):** Current $998.91 is only $12.67 from −7% manual cut at $986.24. Any gap-down or morning sell-off could trigger. Monitor first 15 min of open closely.
+- **Iran binary (HIGH):** Contradictory signals (ceasefire extension vs. fresh strikes). Oil elevated $90–94. A deal = oil collapses, CAT energy tailwind evaporates. No deal/escalation = oil spikes $97+, energy sector surges but equity risk-off.
+- **GEV thesis erosion (MEDIUM-HIGH):** Bearish analyst note + Wind losses + institutional selling. Not yet a broken thesis (orders/backlog remain exceptional) but price action corroborates caution.
+- **Friday positioning (MEDIUM):** Traders book gains/cut risk into weekend; Iran weekend risk = volatility amplifier. New entries on Fridays carry 2-day gap risk.
+- **CAT insider selling (LOW):** Group President $11.4M sale on May 14. Not thesis-breaking but warrants monitoring for follow-on selling.
+
+### Decision
+**HOLD** — Primary watchpoint: GEV at open. If GEV drifts to $986.24 → manual cut immediately (do not wait for trailing stop at $972.34). CAT: hold, thesis intact, stop healthy. No new positions today — Friday + Iran risk + GEV uncertainty = patience warranted. **XOM evaluation deferred to next week** if GEV situation resolves (cut or stabilizes). Weekly capacity: 2/3 remaining. Patience > activity.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
