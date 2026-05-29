@@ -585,3 +585,18 @@ No positions yet. Bot launches tomorrow.
 | GEV | 9 | $1,060.47 | $1,001.65 | -2.93% | -$529.43 (-5.55%) | $972.34 (10% trail, HWM $1,080.38) |
 
 **Notes:** Day 18 closed down -$638.14 (-0.64%) as both positions fell on Iran geopolitical risk-off (Revolutionary Guard retaliation against US airstrikes near Hormuz; oil +3%), offsetting an otherwise bullish PCE print (core +0.2% MoM vs. +0.3% est — both headline and core below consensus). CAT declined -1.81% to $893.42 but remains +1.02% unrealized from entry; trailing stop order 1c43ebd9 ACTIVE (HWM $931.35, stop $838.22, buffer $55.21 / 6.18% — healthy). GEV extended its post-entry pullback -2.93% to $1,001.65, now -5.55% unrealized from the $1,060.47 fill; trailing stop order d169532a ACTIVE (HWM $1,080.38, stop $972.34, buffer $29.31 / 2.93%) — ⚠️ GEV sits only $15.41 (1.54%) above the -7% manual cut trigger ($986.24); monitor closely at Friday open. UBS PT $1,400 (electrification supercycle, $163B backlog, AI data-center power demand) reaffirms thesis — weakness is macro-driven, not fundamental. No trades today; weekly count 1/3. Phase P&L: -$372.53 (-0.37%) vs. $100,000 starting equity. Friday plan: if GEV drifts toward $986.24 at open → manual cut; if GEV stabilizes + VIX <17 → hold; evaluate XOM at live price (~$152) only if VIX sustains <17.
+
+---
+
+### Market-Open Scan — 2026-05-29 (Day 19, Friday)
+
+- **Account:** Equity $99,541.28 | Cash $75,421.33 (75.8%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $888.35 (+0.07% intraday from $887.67; +0.45% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE | Buffer $50.13 (5.65%)
+- **GEV:** $1,002.00 (+0.60% intraday from $996.00; −5.51% unrealized from $1,060.47 entry) ⚠️ | Stop $972.34 (HWM $1,080.38) | Buffer $29.66 (2.96%) | ⚠️⚠️ Manual cut at $986.24 — only $15.76 (1.57%) cushion
+- **GEV trailing stop:** order d169532a | HWM $1,080.38 | Stop $972.342 | Trail 10% GTC ✓ ACTIVE
+- **VIX:** 15.74 (May 28 close) ✓ gate met | WTI ~$90–92 (rebounding on Iran deal stall + fresh US strike reports)
+- **Action:** No trades. Research decision: HOLD — Friday + Iran binary + GEV critically close to −7% cut trigger. No new positions. XOM deferred to next week.
+- **Thesis check (CAT):** INTACT. Q1 EPS +30%, rev +22%, $63B backlog, Power Generation +41%. Oil ~$90 = partial Q2 margin tailwind. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Stop buffer healthy.
+- **Thesis check (GEV):** INTACT but under pressure. Bearish analyst note May 28 ("hyper-growth disconnected from physical limits"); Wind losses $250–350M tariff impact; institutional/insider selling noted. Bull case intact (orders +71%, $163B backlog, UBS PT $1,400, 28 Buy/0 Sell). ⚠️ If GEV drifts to $986.24 intraday → manual cut immediately; do not wait for trailing stop at $972.34.
+- **Next trigger (next week):** If GEV stabilizes above $1,000 + VIX <17 + Iran situation resolves → evaluate XOM at live open price (~9–10sh, stop 10% GTC trail, ~9–10% equity). Weekly capacity 2/3 remaining.
