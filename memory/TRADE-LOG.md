@@ -626,3 +626,15 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. Q1 EPS +30%, rev +22%, $63B backlog, Power Generation +41%, $10.2B data-center sales. Intraday −0.90% is macro-driven Iran risk-off, not CAT-specific. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
 - **Phase P&L:** −$944.37 (−0.94%) vs. $100,000 starting equity
 - **Next (week of 2026-06-02):** Evaluate XOM at live open price (Energy +34.1% YTD; VIX ✓ <17; entry ~$150–155 live confirm; stop 10% GTC trail; ~9–10sh; ~9–10% equity; target +20%). Iran resolution needed before entry to reduce weekend gap risk. Weekly capacity 2/3 remaining (resets next week → 0/3).
+
+---
+
+### May 29 — EOD Snapshot (Day 19, Friday)
+**Portfolio:** $98,956.35 | **Cash:** $84,160.65 (85.1%) | **Day P&L:** −$519.37 (−0.52%) | **Phase P&L:** −$1,043.65 (−1.04%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $870.42 | −1.94% | −$237.36 (−1.58%) | $838.22 (10% trail, HWM $931.35) |
+| GEV | 9 | $1,060.47 | EXITED @ $971.04 | — | −$804.87 (−8.43%) realized | — |
+
+**Notes:** Day 19 (end of Week 4) marked the forced GEV exit via trailing stop at 10:24 AM ET — order d169532a triggered, 9sh filled at $971.04 avg, realized P&L −$804.87 (−8.43%). GEV dropped rapidly through both the manual cut level ($986.24) and the GTC trailing stop ($972.34) in quick succession; the gap through the manual cut level cost ~$136.80 in additional loss vs. rule trigger. Root cause: continuation of post-entry deterioration driven by a bearish analyst note ("hyper-growth disconnected from physical limits"), Wind segment losses ($250–350M tariff impact), institutional/insider selling, and Friday Iran risk-off (WTI +3% on Revolutionary Guard retaliation). Lesson logged: with stop buffer <3%, manual cut should be executed at the open rather than relying on the automatic stop. CAT held at $870.42 (−1.94% on the day; stop buffer $32.20 / 3.70% — healthy). Portfolio ends Week 4 at $98,956.35 — Phase P&L −$1,043.65 (−1.04%) vs. $100,000 starting equity. Cash deployed back to 14.9% (1 open position). Weekly trade count 1/3 (buy counts; exit does not). Next week (2026-06-02): reassess XOM at live open price (~$150–155; ~9–10sh; stop 10% GTC trail; ~9–10% equity; target +20%) if VIX sustains <17 and Iran situation stabilizes; Iran resolution is the key pre-condition to avoid weekend gap risk repeating.
