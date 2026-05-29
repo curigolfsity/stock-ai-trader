@@ -43,3 +43,4 @@ Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 - Up >= +20%: tighten trail to 5%
 - Up >= +15%: tighten trail to 7%
 - 2 consecutive failed trades in a sector: exit all sector positions
+- Overnight stop buffer < 3%: execute manual cut at the open — do not monitor intraday

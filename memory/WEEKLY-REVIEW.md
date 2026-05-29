@@ -95,3 +95,60 @@ Template for each entry:
 
 ### Overall Grade: C+
 Rule adherence A, risk management A, relative performance D (bot -0.16% vs SPX +1.5%). Excellent discipline, meaningful alpha drag from concentration and VIX gate timing in a semis/tech-led week.
+
+---
+
+## Week ending 2026-05-29
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,129.56 (Mon May 26 open) |
+| Ending portfolio | $99,003.69 (Fri May 29 live) |
+| Week return | -$1,125.87 (-1.12%) |
+| S&P 500 week | +0.9% (~7,501 → ~7,570; 9th consecutive week of gains) |
+| Bot vs S&P | -2.02% |
+| Trades | 1 (W:0 / L:1 / open:1) |
+| Win rate | 0% (0/1 closed trades) |
+| Best trade | N/A |
+| Worst trade | GEV -$804.87 (-8.43%) |
+| Profit factor | 0.00 |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| GEV | $1,060.47 (May 26) | $971.04 (May 29) | -$804.87 (-8.43%) | Trailing stop d169532a triggered 10:24 AM ET; dropped through manual cut ($986.24) and trailing stop ($972.34) in same move; ~$136.80 avoidable slippage vs. manual cut rule |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CAT | $884.38 | $873.12 | -$191.40 (-1.27%) | $838.22 (10% trail GTC, HWM $931.35) |
+
+### What Worked
+- Trailing stop auto-executed GEV exit (order d169532a) without manual intervention — risk infrastructure functioned correctly
+- GEV entry gate checks were sound at initiation: VIX 16.76 ✓, price $1,060.47 in zone ✓, Blue Energy 2.5GW catalyst documented ✓, 28 Buy / 0 Sell consensus ✓
+- CAT thesis intact through macro volatility — stop buffer $34.90 (4.0%) protected; no fundamental break; analyst PTs unchanged
+- XOM deferred to next week rather than chasing into Iran uncertainty — patience preserved capital
+- Post-GEV exit cash restored to 85.1% ($84,161) — dry powder available for next catalyst window
+
+### What Didn't Work
+- Manual cut rule violated at Friday open — GEV stop buffer was <3% ($29.66 / 2.96%) at open; rule required manual cut immediately; instead waited; GEV gapped through manual cut level ($986.24) and trailing stop ($972.34) in one move; cost ~$136.80 avoidable loss
+- GEV held into multi-compounding-headwinds: bearish analyst note May 28 + Wind segment tariff losses ($250-350M) + 3 insider/institutional selling signals + Iran Revolutionary Guard retaliation risk-off — each "not thesis-breaking" individually, collectively too many red flags
+- CAT also down -1.94% on the week (closed Friday at $873.12), adding unrealized drag alongside GEV realized loss
+- Bot underperformed S&P 500 by -2.02% — worst weekly relative performance of the challenge
+- Iran risk-off (WTI +3% on May 28-29 Revolutionary Guard retaliation) created simultaneous headwind for both positions
+
+### Key Lessons
+- **3% buffer rule is mandatory, not advisory:** When overnight stop buffer < 3%, plan the exit for the opening print — intraday recovery is wishful thinking; the move will gap through the trigger before action is possible
+- Compounding headwinds (analyst note + insider selling + sector pressure + geopolitical binary) warrant immediate re-evaluation, not a "monitor" decision — one headwind is thesis-watch; three or more is a sell signal
+- Post-entry bearish catalyst within 48 hours (analyst note May 28 on position opened May 26) = immediate reassessment, not a "hold and see"
+
+### Adjustments for Next Week
+- **3% buffer protocol added to TRADING-STRATEGY.md** — if overnight stop buffer < 3%, execute manual cut at the open; no exceptions
+- XOM: if VIX <17 + Iran situation stabilizes → evaluate 8-9sh at live open price ~$150-155 (stop 10% GTC trail, ~9% equity, target +20%); Iran resolution is pre-condition to avoid repeat gap-down scenario
+- CAT: trailing stop $838.22 (HWM $931.35) — hold; tighten to 7% trail if CAT reclaims $1,017 (+15%)
+- GEV sector (Energy/Power): first failed trade logged; one more consecutive failure = sector exit rule triggers per strategy
+- Entry timing: prefer Tuesday/Wednesday entries; avoid initiating positions on Fridays or directly into known geopolitical binary events
+
+### Overall Grade: D+
+Rule adherence C (manual cut protocol violated), risk management B (stop system worked; sizing correct), relative performance D (bot -1.12% vs SPX +0.9% = -2.02% gap). GEV loss is primary driver; entry process was sound but multiple compounding headwinds were individually dismissed; manual cut failure was costly and avoidable.
