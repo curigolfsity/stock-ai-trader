@@ -600,3 +600,29 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. Q1 EPS +30%, rev +22%, $63B backlog, Power Generation +41%. Oil ~$90 = partial Q2 margin tailwind. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Stop buffer healthy.
 - **Thesis check (GEV):** INTACT but under pressure. Bearish analyst note May 28 ("hyper-growth disconnected from physical limits"); Wind losses $250–350M tariff impact; institutional/insider selling noted. Bull case intact (orders +71%, $163B backlog, UBS PT $1,400, 28 Buy/0 Sell). ⚠️ If GEV drifts to $986.24 intraday → manual cut immediately; do not wait for trailing stop at $972.34.
 - **Next trigger (next week):** If GEV stabilizes above $1,000 + VIX <17 + Iran situation resolves → evaluate XOM at live open price (~9–10sh, stop 10% GTC trail, ~9–10% equity). Weekly capacity 2/3 remaining.
+
+---
+
+### GEV EXIT — Trailing Stop Triggered 2026-05-29 (10:24 AM ET)
+
+- **Order d169532a FILLED:** 9sh @ $971.04 avg | 2026-05-29 14:24 UTC
+- **Stop trigger:** $972.342 (10% trail GTC; HWM $1,080.38)
+- **Entry:** $1,060.47 (2026-05-26) | **Realized P&L: −$804.87 (−8.43%)**
+- **Slippage:** Stop price $972.34 → fill $971.04 = $1.30/sh below trigger (normal market-order slippage)
+- **Note:** GEV fell through manual cut level ($986.24) without manual intervention — stock dropped rapidly from $1,002 open through both the manual cut trigger and the trailing stop in quick succession; automatic GTC order executed the exit
+- **Cause:** Continuation of post-entry deterioration; bearish analyst note (May 28: "hyper-growth disconnected from physical limits"); Wind segment losses ($250–350M tariff impact); institutional/insider selling; Friday Iran risk-off selling; stock confirmed ~$967 by midday (down 2.91% on the day)
+- **Lesson:** With buffer this thin (<3%), manual cut should have been executed at $986.24 at the open rather than relying on automatic stop; intraday gap through manual cut level = $136.80 additional loss vs. rule trigger
+
+---
+
+### Midday Scan — 2026-05-29
+
+- **Account:** Equity $99,055.63 | Cash $84,160.65 (84.9%) | Daytrade count: 0 | Weekly trades: 1/3
+- **GEV:** ❌ EXITED — trailing stop d169532a triggered 10:24 AM ET; 9sh filled @ $971.04; realized P&L −$804.87 (−8.43%); position closed (see exit note above)
+- **CAT:** $876.42 (−1.27% intraday from $887.67; −0.90% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE | Buffer $38.20 (4.36%)
+- **Market:** GEV ~$967 (−2.91%); Iran ceasefire stalling + fresh US strike reports = oil bid elevated ($90–92 WTI); Friday risk-off positioning
+- **Action:** No new trades. GEV stop already executed automatically. No −7% cut trigger on CAT. No stop tightenings (CAT −0.90% unrealized, well below +15% = $1,017).
+- **Thesis check (CAT):** INTACT. Q1 EPS +30%, rev +22%, $63B backlog, Power Generation +41%, $10.2B data-center sales. Intraday −0.90% is macro-driven Iran risk-off, not CAT-specific. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Phase P&L:** −$944.37 (−0.94%) vs. $100,000 starting equity
+- **Next (week of 2026-06-02):** Evaluate XOM at live open price (Energy +34.1% YTD; VIX ✓ <17; entry ~$150–155 live confirm; stop 10% GTC trail; ~9–10sh; ~9–10% equity; target +20%). Iran resolution needed before entry to reduce weekend gap risk. Weekly capacity 2/3 remaining (resets next week → 0/3).

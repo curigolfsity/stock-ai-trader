@@ -2019,3 +2019,10 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — Primary watchpoint: GEV at open. If GEV drifts to $986.24 → manual cut immediately (do not wait for trailing stop at $972.34). CAT: hold, thesis intact, stop healthy. No new positions today — Friday + Iran risk + GEV uncertainty = patience warranted. **XOM evaluation deferred to next week** if GEV situation resolves (cut or stabilizes). Weekly capacity: 2/3 remaining. Patience > activity.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — 2026-05-29 Midday Scan
+
+- **GEV STOPPED OUT (10:24 AM ET):** Trailing stop d169532a triggered; 9sh filled @ $971.04; realized P&L −$804.87 (−8.43%). Stock confirmed ~$967 midday (down 2.91%). Pre-market buffer of $12.67 to manual cut ($986.24) proved too thin — stock gapped through both the manual cut trigger and trailing stop in rapid succession at open. Thesis (AI power-grid, $163B backlog, 28 Buy/0 Sell) was not broken fundamentally, but technical price action confirmed deterioration following bearish analyst note + Wind losses + institutional selling. Automatic stop executed exit.
+- **CAT:** $876.42 (−0.90% unrealized; −1.27% intraday). Thesis INTACT. Data center demand narrative unchanged; analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Trailing stop 1c43ebd9 ACTIVE (HWM $931.35, stop $838.22, buffer 4.36%). Iran risk-off driving intraday weakness — no CAT-specific negative.
+- **Account:** Equity $99,055.63 | Cash $84,160.65 (84.9%) | Phase P&L −$944.37 (−0.94%)
+- **Next week trigger:** Evaluate XOM (Energy +34.1% YTD; live price ~$150–155; stop 10% GTC trail; ~9–10sh) if VIX confirms <17 at Monday open + Iran situation clarifies over weekend.
