@@ -2026,3 +2026,51 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **CAT:** $876.42 (−0.90% unrealized; −1.27% intraday). Thesis INTACT. Data center demand narrative unchanged; analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Trailing stop 1c43ebd9 ACTIVE (HWM $931.35, stop $838.22, buffer 4.36%). Iran risk-off driving intraday weakness — no CAT-specific negative.
 - **Account:** Equity $99,055.63 | Cash $84,160.65 (84.9%) | Phase P&L −$944.37 (−0.94%)
 - **Next week trigger:** Evaluate XOM (Energy +34.1% YTD; live price ~$150–155; stop 10% GTC trail; ~9–10sh) if VIX confirms <17 at Monday open + Iran situation clarifies over weekend.
+
+---
+
+## 2026-06-01 — Pre-market Research (Day 20, Monday — Week 5)
+
+### Account
+- **Equity:** $99,002.45 | **Cash:** $84,160.64 (85.0%) | **Buying power:** $91,581.54 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 (reset) | **Phase P&L:** −$997.55 (−1.00%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Last Close | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|------------|----------------|------------|
+| CAT | 17 | $884.38 | $873.05 | −$192.63 (−1.28%) | $838.22 trail 10% GTC (HWM $931.35) |
+
+- **CAT trailing stop:** order 1c43ebd9 | ACTIVE ✓ | Buffer $34.83 (3.99%) | Tighten trigger: $1,017 (+15%) | Shareholder meeting June 10
+- **GEV:** EXITED 2026-05-29; realized P&L −$804.87 (−8.43%)
+
+### Market Context
+- **WTI:** ~$86–89/bbl (range $86.35–$89.02; down from prior-week $90–92 on Iran peace optimism)
+- **Brent:** ~$91–94/bbl (open $93.37; range $91.44–$94.10)
+- **S&P 500 futures (ESM26):** 7,608.50 (+0.17%, ~+0.3%); extending May record rally
+- **VIX:** 15.32 (May 29 close) ✓ BELOW 17 GATE — new-entry gate cleared
+- **Today's key releases:** ISM Manufacturing PMI May at 10:00 AM ET (actual 52.7 vs. 53.1 est — slight miss, still expansionary); S&P Global PMI Manufacturing final at 9:45 AM ET; Construction Spending at 10:00 AM ET
+- **Week's big events:** HPE earnings today (pre-open); CrowdStrike, Palo Alto, Broadcom earnings mid-week; May payrolls (NFP) Friday June 5 8:30 AM ET
+- **Catalysts:** Iran peace optimism; AI momentum (NVDA/DELL/PLTR); Exxon oil inventory warning (bullish medium-term for oil prices); Energy +34.5% YTD remains #1 sector
+- **Sector momentum YTD 2026:** Energy +34.5% ✓✓ | Industrials +12% ✓ | Technology +10.6% ✓
+
+### Thesis Check — CAT
+- **INTACT.** $873.05 (−1.28% unrealized). Q1 EPS +30%, rev +22%, $63B backlog, Power Generation +41%, $10.2B data-center sales. BofA raised PT to $930 (energy infrastructure outlook). Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930.
+- ⚠️ Stop buffer $34.83 / 3.99% — above 3% overnight cut threshold ✓ but slim; monitor for drift toward $838.22.
+- WTI easing to ~$87 is a mild headwind vs. $90+, but Power Generation and data-center demand thesis unchanged.
+
+### Trade Ideas
+1. **XOM (PRIORITY)** — Energy +34.5% YTD #1; WTI $87+ elevated (Exxon warned oil inventories dangerously low → price spike risk); Mizuho PT $175 / Barclays PT $182 vs. last close ~$145.48 (~19–25% upside); Iran peace = modest oil headwind offset by inventory warning; VIX 15.32 ✓; weekly 0/3. Entry: live confirm at open (~$144–147); ~9–10sh (~$1,300–$1,470; ~13–15% equity); stop 10% GTC trail; target $174+ (+20%). ✅ All buy-side gates clearable.
+2. **CAT add** — SKIP. −1.28% unrealized; no add into red until recovery above entry $884.38. Thesis intact, WTI softness mild headwind.
+3. **CRWD/PANW** — Earnings this week; no pre-event entry (gap risk). Monitor for post-earnings setup.
+
+### Risk Factors
+- **CAT stop buffer (MEDIUM):** Buffer 3.99% ($34.83); ISM soft print may pressure industrials at open. Watch first 30 min.
+- **ISM Manufacturing miss (MEDIUM):** 52.7 vs. 53.1 est — slight miss may weigh on CAT and manufacturing names.
+- **Oil softening (MEDIUM):** WTI $87–88 down from $90–92 on Iran peace; XOM near-term headwind; offset by inventory warning and structural supply constraints.
+- **NFP Friday (LOW-MEDIUM):** May jobs June 5 = rate expectations risk; hot print = risk-off.
+- **Week 5 overactivity risk (LOW):** Capacity 0/3 resets — discipline required; only trade with clear gate passage.
+
+### Decision
+**TRADE — XOM at live open price.** VIX 15.32 ✓, Energy #1 YTD, weekly capacity 0/3, Exxon inventory warning = medium-term bull thesis, analyst PTs $175–$182 from ~$145. Entry gate: verify live price at open; stop 10% trail GTC (entry × 0.90); ~9–10sh; max 15% equity. Do NOT enter if VIX opens >17 or WTI breaks below $82. CAT: HOLD — thesis intact, stop buffer adequate.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
