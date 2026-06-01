@@ -638,3 +638,42 @@ No positions yet. Bot launches tomorrow.
 | GEV | 9 | $1,060.47 | EXITED @ $971.04 | — | −$804.87 (−8.43%) realized | — |
 
 **Notes:** Day 19 (end of Week 4) marked the forced GEV exit via trailing stop at 10:24 AM ET — order d169532a triggered, 9sh filled at $971.04 avg, realized P&L −$804.87 (−8.43%). GEV dropped rapidly through both the manual cut level ($986.24) and the GTC trailing stop ($972.34) in quick succession; the gap through the manual cut level cost ~$136.80 in additional loss vs. rule trigger. Root cause: continuation of post-entry deterioration driven by a bearish analyst note ("hyper-growth disconnected from physical limits"), Wind segment losses ($250–350M tariff impact), institutional/insider selling, and Friday Iran risk-off (WTI +3% on Revolutionary Guard retaliation). Lesson logged: with stop buffer <3%, manual cut should be executed at the open rather than relying on the automatic stop. CAT held at $870.42 (−1.94% on the day; stop buffer $32.20 / 3.70% — healthy). Portfolio ends Week 4 at $98,956.35 — Phase P&L −$1,043.65 (−1.04%) vs. $100,000 starting equity. Cash deployed back to 14.9% (1 open position). Weekly trade count 1/3 (buy counts; exit does not). Next week (2026-06-02): reassess XOM at live open price (~$150–155; ~9–10sh; stop 10% GTC trail; ~9–10% equity; target +20%) if VIX sustains <17 and Iran situation stabilizes; Iran resolution is the key pre-condition to avoid weekend gap risk repeating.
+
+---
+
+## Week of 2026-06-01
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $931.35; stop $838.22) | Q1 beat (rev +22%, EPS +30%), Industrials leading, AI data-center power gen, $10.2B DC sales | ~$1,061 (+20%) | 2:1 |
+| 2026-06-01 | XOM | LONG | 10 | $147.484 | FILLED | 10% GTC (order 55419969; HWM $148.80; stop $133.92) | Energy #1 YTD (+34.5%), Exxon oil inventory warning (dangerously low), WTI $87+, Mizuho PT $175 / Barclays PT $182, Q2 dividend $1.03 payable Jun 10 | ~$177 (+20%) | 2:1 |
+
+**Tighten trail:** CAT → 7% at $1,017 (+15%), 5% at $1,061 (+20%). XOM → 7% at $169.61 (+15%), 5% at $176.98 (+20%).
+**Cut rule:** CAT manual cut at $822.47 (−7%). XOM manual cut at $137.16 (−7% from entry).
+
+### Market-Open Scan — 2026-06-01 (Day 20, Monday — Week 5)
+
+- **Account:** Equity ~$99,002 | Cash $82,686 | Daytrade count: 0 | Weekly trades: 0→1/3
+- **XOM FILL:** 10sh @ $147.484 (order ddde9a5d; 2026-06-01 ~09:30 ET open) — VIX 15.32 ✓ | Energy #1 YTD ✓ | weekly 0/3 ✓ | all buy-side gates cleared
+- **CAT:** ~$873 (−1.28% unrealized) — no −7% trigger; stop buffer ~4% ✓; ISM slight miss (52.7 vs 53.1 est) = expected mild headwind
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE
+- **Action:** XOM 10sh market order filled at open. ⚠️ XOM 10% trailing stop NOT placed at open — corrected at midday scan (see below).
+
+### Weekly Trade Count: 1 confirmed (XOM 10sh filled 2026-06-01 @ $147.484)
+
+---
+
+### Midday Scan — 2026-06-01
+
+- **Account:** Equity $98,765.13 | Cash $82,685.80 | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $858.27 (−2.01% on day; −2.95% unrealized from $884.38 entry) — no −7% trigger ($822.47); stop buffer ⚠️ $20.05 / 2.34% CRITICALLY THIN
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.22 | Trail 10% GTC ✓ ACTIVE (buffer $20.05 — below 3% threshold ⚠️)
+- **XOM:** $148.74 (+2.39% on day; +0.85% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **⚠️ XOM TRAILING STOP PLACED (RULE CORRECTION):** order 55419969 | HWM $148.80 | Stop $133.92 | Trail 10% GTC ✓ — was missing at open; placed at midday
+- **Action:** Placed XOM 10% trailing stop GTC (order 55419969). No losers cut. No stop tightenings needed (CAT −2.95% unrealized; XOM +0.85% unrealized — both well below +15% thresholds).
+- **Thesis check (CAT):** INTACT. −2.95% unrealized / −2.01% on day = ISM Manufacturing slight miss (52.7 vs. 53.1 est) driving broad industrial weakness; no CAT-specific negative catalyst. Q1 EPS +30% / rev +22% / $63B backlog / Analyst avg PT $920+ unchanged. Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 all unchanged. ⚠️ Stop buffer 2.34% intraday — if CAT closes today at current levels (buffer remains <3%), execute manual cut at 2026-06-02 open per strategy overnight-buffer rule.
+- **Thesis check (XOM):** INTACT + strengthening. +2.39% on day = Energy sector leadership sustained (+34.5% YTD). Q2 dividend $1.03/sh payable Jun 10 (ex-date approaching). Venezuela oil fields deal advancing, $20B 2026 buyback, $145B cumulative surplus cash plan through 2030. Mizuho PT $175 / Barclays PT $182. No new negative catalysts.
+- **Phase P&L:** −$1,234.87 (−1.23%) vs. $100,000 starting equity
+- **Next:** ⚠️ CAT overnight buffer — monitor close; if buffer remains <3% at EOD → manual cut at 2026-06-02 open. XOM: hold with 10% GTC stop in place. Weekly capacity 2/3 remaining. NFP May June 5 (8:30 AM ET) = primary macro binary next week.
