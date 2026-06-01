@@ -22,3 +22,11 @@ Decision: HOLD
 Ideas: MRVL watch post-earnings gap, XOM Energy +22% YTD post-PCE entry
 Market: SPX futures ~flat, VIX 16.75, Oil WTI ~$94 / Brent $99.18
 Risks: PCE+GDP 2nd est TOMORROW (Q1 PCE 4.5% hot) — no new entries today
+
+---
+## 2026-06-01 10:12 UTC (fallback — no notification service configured)
+Pre-market 2026-06-01
+Decision: TRADE (XOM at open)
+Ideas: XOM ~$145 energy/inventory bull (Mizuho PT $175, Barclays $182), CAT HOLD thesis intact
+Market: SPX futures +0.17% (7608), VIX 15.32, Oil WTI $87-88
+Risks: ISM slight miss (52.7), oil softening Iran peace, NFP Friday
