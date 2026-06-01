@@ -677,3 +677,15 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (XOM):** INTACT + strengthening. +2.39% on day = Energy sector leadership sustained (+34.5% YTD). Q2 dividend $1.03/sh payable Jun 10 (ex-date approaching). Venezuela oil fields deal advancing, $20B 2026 buyback, $145B cumulative surplus cash plan through 2030. Mizuho PT $175 / Barclays PT $182. No new negative catalysts.
 - **Phase P&L:** −$1,234.87 (−1.23%) vs. $100,000 starting equity
 - **Next:** ⚠️ CAT overnight buffer — monitor close; if buffer remains <3% at EOD → manual cut at 2026-06-02 open. XOM: hold with 10% GTC stop in place. Weekly capacity 2/3 remaining. NFP May June 5 (8:30 AM ET) = primary macro binary next week.
+
+---
+
+### Jun 01 — EOD Snapshot (Day 20, Monday)
+**Portfolio:** $98,860.59 | **Cash:** $82,685.80 (83.6%) | **Day P&L:** −$95.76 (−0.10%) | **Phase P&L:** −$1,139.41 (−1.14%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $863.95 | −1.36% | −$347.25 (−2.31%) | $838.22 (10% trail, HWM $931.35) |
+| XOM | 10 | $147.484 | $148.76 | +2.41% | +$12.76 (+0.87%) | $134.43 (10% trail, HWM $149.37) |
+
+**Notes:** Day 20 opened Week 5 with a new XOM position (10sh filled @ $147.484 at the open, weekly trade 1/3) and ended slightly negative as CAT's −1.36% session more than offset XOM's intraday gain. XOM closed at $148.76 (+2.41% from its prior close of $145.26; +0.87% from fill), with the 10% trailing stop GTC (order 55419969) placed at midday and auto-advanced to HWM $149.37 / stop $134.43. XOM thesis intact: Energy sector #1 YTD (+34.5%), $20B 2026 buyback, Q2 dividend $1.03/sh payable Jun 10 (ex-date approaching), Mizuho PT $175 / Barclays PT $182, Venezuela oil deal advancing. CAT extended its drawdown to $863.95 (−2.31% unrealized from $884.38 entry); trailing stop HWM locked at $931.35, stop $838.22 — buffer $25.73 / 2.97% ⚠️ CRITICALLY THIN for overnight. Strategy rule: if CAT stop buffer remains <3% at Tue Jun 02 open, execute manual cut per overnight-buffer rule. Phase P&L: −$1,139.41 (−1.14%) vs. $100,000 starting equity. Weekly trades: 1/3 (XOM entry). NFP May due Jun 5 (8:30 AM ET) = primary macro binary.
