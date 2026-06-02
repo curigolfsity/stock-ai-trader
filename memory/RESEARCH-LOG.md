@@ -2074,3 +2074,52 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **TRADE — XOM at live open price.** VIX 15.32 ✓, Energy #1 YTD, weekly capacity 0/3, Exxon inventory warning = medium-term bull thesis, analyst PTs $175–$182 from ~$145. Entry gate: verify live price at open; stop 10% trail GTC (entry × 0.90); ~9–10sh; max 15% equity. Do NOT enter if VIX opens >17 or WTI breaks below $82. CAT: HOLD — thesis intact, stop buffer adequate.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+
+---
+
+## 2026-06-02 — Pre-market Research (Day 21, Tuesday — Week 5)
+
+### Account
+- **Equity:** $98,972.80 | **Cash:** $82,685.80 (83.5%) | **Buying power:** $90,829.30 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 (XOM Jun 1) | **Phase P&L:** −$1,027.20 (−1.03%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|---------|----------------|------------|
+| CAT | 17 | $884.38 | $871.00 | −$227.44 (−1.51%) | $838.22 trail 10% GTC (HWM $931.35) — buffer $32.78 / 3.76% ✓ |
+| XOM | 10 | $147.484 | $148.00 | +$5.16 (+0.35%) | $134.63 trail 10% GTC (HWM $149.59) — buffer 9.03% ✓ |
+
+- **CAT manual cut trigger:** $822.47. Buffer 3.76% — above 3% overnight threshold ✓ (no manual cut at open today)
+- **XOM manual cut trigger:** $137.16. Thesis intact + strengthening.
+
+### Market Context
+- **WTI:** ~$91.50–$92.65/bbl — elevated; Iran peace talks collapsed (Tehran suspended comms with Washington; Iran allies threatening Strait of Hormuz + Bab el-Mandeb closure)
+- **Brent:** ~$94.58/bbl (−0.42%), holding near $95; Exxon SVP warned oil could hit $160 on critically low global inventories
+- **S&P 500:** Record close June 1; futures positive continuation; VIX 16.05 (June 1 close, +4.77%) — below 17 gate ✓ but rising on Iran escalation
+- **VIX:** 16.05 — new-entry gate technically clear; geopolitical risk warrants caution
+- **Today's releases (June 2):** JOLTS Job Openings 10:00 AM ET; ISM Services PMI 10:00 AM ET; Dollar General (DG) earnings pre-open
+- **Big week events:** AVGO earnings Wed after close; PANW earnings Wed; **NFP May — Friday Jun 5 8:30 AM ET** (primary macro binary)
+- **Sector YTD 2026:** Technology +32–33% ✓✓ | Energy +26–34% ✓✓ | Industrials +9–11% ✓
+
+### Thesis Check
+- **CAT:** INTACT. $871 (+0.65% premarket vs. $865.36 last close). Q1 EPS +30%, rev +22%, $63B backlog, data-center demand. Analyst avg PT $920.14 (28 analysts, avg "Buy"). Shareholder meeting June 10. Buffer 3.76% — safe for hold.
+- **XOM:** INTACT + strengthening. Exxon SVP warned oil → $160/bbl on inventory crunch. Iran Hormuz closure threat = direct upside catalyst. Mizuho PT $175, Barclays PT $182. Q2 dividend $1.03/sh Jun 10 (ex-date approaching). WTI $92 elevated and rising vs. last week's $87–88.
+
+### Trade Ideas
+1. **CAT — HOLD.** No add into red (−1.51% unrealized). Thesis intact; data-center + power-gen demand unbroken. Hold stop 1c43ebd9.
+2. **XOM — HOLD.** Thesis strengthening daily. Iran escalation = Hormuz risk = oil spike potential. Hold stop 55419969. Do NOT add (already 10sh; position sizing adequate).
+3. **AVGO — WATCH post-earnings.** Reports Wed after close. AI/data-center chip momentum; Q1 S&P EPS growth +29% = strong earnings season backdrop. No pre-event entry (gap risk). Evaluate Thu morning if beat + bullish guidance.
+4. **Energy adjacency (CVX / OXY) — LOW PRIORITY.** Would add Energy sector concentration risk with XOM already held. Pass unless oil breaks $100.
+
+### Risk Factors
+- **Iran escalation (HIGH):** Tehran suspended US comms; Hormuz + Bab el-Mandeb closure threat = oil spike scenario → short-term positive for XOM but risk-off for equities broadly
+- **VIX rising (MEDIUM):** 16.05 (+4.77%); elevated from 15.32 Mon; approaching 17 gate; new positions need clear catalyst
+- **JOLTS/ISM Services (MEDIUM):** Soft prints = labor market softening signal → rate-cut expectations shift; hot = rate-hike risk; either scenario creates volatility pre-NFP
+- **CAT stop buffer (LOW-MEDIUM):** 3.76% — above threshold; if ISM Services miss pressures industrials, monitor buffer during session
+- **NFP Friday (MEDIUM):** May payrolls = Fed policy catalyst; hot = risk-off; weak = recession fear. Avoid new entries until after Friday
+
+### Decision
+**HOLD** — Both positions intact; no new entries today. VIX 16.05 rising + Iran escalation + JOLTS/ISM binary + NFP Friday = elevated noise; patience > activity. Monitor CAT buffer intraday (alert if drops below $841 / buffer <3%). XOM thesis strengthening — hold with conviction. Weekly capacity 2/3 remaining; reserve for post-AVGO setup Thu if earnings beat (catalyst + momentum check required). Next evaluation: Thu pre-market after AVGO/PANW earnings.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
