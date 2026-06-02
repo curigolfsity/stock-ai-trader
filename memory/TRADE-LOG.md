@@ -718,3 +718,15 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (XOM):** INTACT + strengthening. XOM making new session highs (HWM auto-advanced to $150.42). Iran escalation (Tehran suspended US comms; Hormuz closure threat) = sustained oil bid WTI ~$92. Q2 dividend $1.03/sh payable Jun 10 (ex-date approaching). Mizuho PT $175 / Barclays PT $182.
 - **Macro:** JOLTS April 7.6M ✓ (solid labor market; hires 5.1M, separations 5.0M) | ISM Services May — releases Jun 3 (pre-market log incorrectly cited Jun 2) | VIX ~16.05, gate clear ✓
 - **Next:** AVGO earnings Wed Jun 3 after close → evaluate Thu AM if beat + guide ✓ + VIX <17 + SPX holds. NFP May Fri Jun 5 8:30 AM ET = primary binary. Weekly capacity 2/3 remaining.
+
+---
+
+### Jun 02 — EOD Snapshot (Day 21, Tuesday)
+**Portfolio:** $99,610.45 | **Cash:** $82,685.80 (83.0%) | **Day P&L:** +$749.86 (+0.76%) | **Phase P&L:** −$389.55 (−0.39%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $907.15 | +4.83% | +$387.11 (+2.58%) | $838.22 (10% trail, HWM $931.35) |
+| XOM | 10 | $147.484 | $150.31 | +0.62% | +$28.26 (+1.92%) | $135.75 (10% trail, HWM $150.83) |
+
+**Notes:** Day 21 closed up solidly as both positions advanced on broad market strength. CAT surged +4.83% to $907.15 — its best single-day gain in two weeks — driven by the JOLTS April beat (7.6M job openings) confirming the industrial capex cycle and erasing the Monday ISM-miss drag; trailing stop HWM remains locked at $931.35 / stop $838.22 (buffer $68.93 / 7.60% — healthiest level in several sessions). XOM added +0.62% to $150.31 with the trailing stop HWM auto-advancing to $150.83 / stop $135.747 as XOM made new session highs; Iran escalation (Tehran suspended US comms, Hormuz closure threat) sustaining the oil bid (WTI ~$92) and Q2 dividend $1.03/sh payable Jun 10 provide near-term support. Day P&L +$749.86 (+0.76%) — best day since May 26. Phase P&L narrows to −$389.55 (−0.39%) vs. $100,000 starting equity. No trades today; weekly count 1/3. Next catalysts: ISM Services May (Jun 3 pre-open) + AVGO earnings (Jun 3 AH) → evaluate AVGO Thu AM if beat + guide ✓ + VIX <17 + SPX holds. NFP May Fri Jun 5 8:30 AM ET = primary macro gate before any new entry.
