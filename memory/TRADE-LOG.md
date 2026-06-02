@@ -705,3 +705,16 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. $873.15 (+0.90% intraday recovery). Q1 EPS +30%, rev +22%, $63B backlog, data-center power-gen demand. Analyst avg PT $920.14 (28 analysts). CAT Shareholder Meeting Jun 10. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
 - **Thesis check (XOM):** INTACT + strengthening. Exxon SVP warned oil → $160/bbl on inventory crunch. Iran Hormuz closure threat = direct upside catalyst. Mizuho PT $175 / Barclays PT $182. Q2 dividend $1.03/sh payable Jun 10 (ex-date approaching). WTI ~$92 elevated.
 - **Next trigger:** Post-AVGO Thu AM: if beat + guidance ✓ + VIX <17 + SPX holds → evaluate AVGO entry (catalyst + momentum check required). NFP Fri Jun 5 = dominant gate. Weekly capacity 2/3 remaining.
+
+### Midday Scan — 2026-06-02
+
+- **Account:** Equity ~$99,559 | Cash $82,685.80 (83.1%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $904.45 (+4.52% intraday from $865.36; +2.27% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE | Buffer $66.23 / 7.32% ✓ HEALTHY
+- **XOM:** $149.75 (+0.25% intraday from $149.38; +1.54% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $150.42 (auto-advanced from $149.59) | Stop $135.378 (auto-advanced from $134.631) | Trail 10% GTC ✓ ACTIVE | Buffer $14.37 / 9.59% ✓
+- **Action:** No trades. No manual stop adjustments. No losers to cut. No tightening triggers reached. XOM stop auto-advanced correctly ✓.
+- **Thesis check (CAT):** INTACT. +4.52% intraday driven by JOLTS April beat (7.6M job openings; labor market strength = industrial capex cycle intact). No new negative catalyst. Q1 EPS +30% / rev +22% / $63B backlog / AI power-gen demand unchanged. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Thesis check (XOM):** INTACT + strengthening. XOM making new session highs (HWM auto-advanced to $150.42). Iran escalation (Tehran suspended US comms; Hormuz closure threat) = sustained oil bid WTI ~$92. Q2 dividend $1.03/sh payable Jun 10 (ex-date approaching). Mizuho PT $175 / Barclays PT $182.
+- **Macro:** JOLTS April 7.6M ✓ (solid labor market; hires 5.1M, separations 5.0M) | ISM Services May — releases Jun 3 (pre-market log incorrectly cited Jun 2) | VIX ~16.05, gate clear ✓
+- **Next:** AVGO earnings Wed Jun 3 after close → evaluate Thu AM if beat + guide ✓ + VIX <17 + SPX holds. NFP May Fri Jun 5 8:30 AM ET = primary binary. Weekly capacity 2/3 remaining.

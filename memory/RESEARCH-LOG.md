@@ -2123,3 +2123,12 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — Both positions intact; no new entries today. VIX 16.05 rising + Iran escalation + JOLTS/ISM binary + NFP Friday = elevated noise; patience > activity. Monitor CAT buffer intraday (alert if drops below $841 / buffer <3%). XOM thesis strengthening — hold with conviction. Weekly capacity 2/3 remaining; reserve for post-AVGO setup Thu if earnings beat (catalyst + momentum check required). Next evaluation: Thu pre-market after AVGO/PANW earnings.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### 2026-06-02 — Afternoon Addendum (Midday Scan)
+
+- **CAT +4.52% intraday** — JOLTS April 7.6M job openings (above expectations; labor market strength = industrial capex cycle read-through) + Q1 beat thesis continuation. No new negative catalyst. Thesis INTACT.
+- **ISM Services (May)** — correction: releases Jun 3, not Jun 2 as noted in morning research. Prior reading (Apr): 53.6 (expansion).
+- **JOLTS April (released Jun 2, 10 AM ET):** 7.6M job openings (strong; hires 5.1M, separations 5.0M, quits 3.0M, layoffs 1.7M) — healthy labor market; no recession signal; supportive backdrop for Industrials.
+- **XOM** — HWM auto-advanced to $150.42 on new session high. Iran escalation (Tehran suspended US comms; Hormuz closure threat) sustaining oil bid WTI ~$92. Q2 dividend $1.03/sh payable Jun 10. Thesis INTACT + strengthening.
+- **No action taken.** Both positions profitable, both stops healthy, no tighten thresholds reached.
+- **Next gate:** AVGO earnings Wed Jun 3 AH → assess Thu AM pre-market. NFP May Fri Jun 5 = primary binary.
