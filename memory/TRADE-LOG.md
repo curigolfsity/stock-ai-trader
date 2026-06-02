@@ -689,3 +689,19 @@ No positions yet. Bot launches tomorrow.
 | XOM | 10 | $147.484 | $148.76 | +2.41% | +$12.76 (+0.87%) | $134.43 (10% trail, HWM $149.37) |
 
 **Notes:** Day 20 opened Week 5 with a new XOM position (10sh filled @ $147.484 at the open, weekly trade 1/3) and ended slightly negative as CAT's −1.36% session more than offset XOM's intraday gain. XOM closed at $148.76 (+2.41% from its prior close of $145.26; +0.87% from fill), with the 10% trailing stop GTC (order 55419969) placed at midday and auto-advanced to HWM $149.37 / stop $134.43. XOM thesis intact: Energy sector #1 YTD (+34.5%), $20B 2026 buyback, Q2 dividend $1.03/sh payable Jun 10 (ex-date approaching), Mizuho PT $175 / Barclays PT $182, Venezuela oil deal advancing. CAT extended its drawdown to $863.95 (−2.31% unrealized from $884.38 entry); trailing stop HWM locked at $931.35, stop $838.22 — buffer $25.73 / 2.97% ⚠️ CRITICALLY THIN for overnight. Strategy rule: if CAT stop buffer remains <3% at Tue Jun 02 open, execute manual cut per overnight-buffer rule. Phase P&L: −$1,139.41 (−1.14%) vs. $100,000 starting equity. Weekly trades: 1/3 (XOM entry). NFP May due Jun 5 (8:30 AM ET) = primary macro binary.
+
+---
+
+### Market-Open Scan — 2026-06-02 (Day 21, Tuesday — Week 5)
+
+- **Account:** Equity $99,016.20 | Cash $82,685.80 (83.5%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $873.15 (+0.90% intraday from $865.36 prior close; −1.27% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE | Buffer $34.93 / 4.00% ✓ (overnight <3% warning CLEARED — CAT opened above $865.36 prior close)
+- **XOM:** $148.69 (−0.46% intraday from $149.38 prior close; +0.82% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $149.59 | Stop $134.631 | Trail 10% GTC ✓ ACTIVE | Buffer $14.06 / 9.46% ✓
+- **VIX:** 16.05 (Jun 1 close, +4.77% on day — rising on Iran escalation; gate technically clear but approaching 17)
+- **Macro context:** Iran peace talks collapsed (Tehran suspended comms with Washington); Hormuz + Bab el-Mandeb closure threat; JOLTS + ISM Services 10 AM ET; AVGO earnings Wed after close; NFP May → Fri Jun 5 = primary binary
+- **Action:** No trades. Both GTC stops ACTIVE. No tighten triggers reached (CAT $1,017 / XOM $169.61). Research decision: HOLD.
+- **Thesis check (CAT):** INTACT. $873.15 (+0.90% intraday recovery). Q1 EPS +30%, rev +22%, $63B backlog, data-center power-gen demand. Analyst avg PT $920.14 (28 analysts). CAT Shareholder Meeting Jun 10. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Thesis check (XOM):** INTACT + strengthening. Exxon SVP warned oil → $160/bbl on inventory crunch. Iran Hormuz closure threat = direct upside catalyst. Mizuho PT $175 / Barclays PT $182. Q2 dividend $1.03/sh payable Jun 10 (ex-date approaching). WTI ~$92 elevated.
+- **Next trigger:** Post-AVGO Thu AM: if beat + guidance ✓ + VIX <17 + SPX holds → evaluate AVGO entry (catalyst + momentum check required). NFP Fri Jun 5 = dominant gate. Weekly capacity 2/3 remaining.
