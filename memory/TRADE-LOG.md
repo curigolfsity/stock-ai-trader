@@ -730,3 +730,19 @@ No positions yet. Bot launches tomorrow.
 | XOM | 10 | $147.484 | $150.31 | +0.62% | +$28.26 (+1.92%) | $135.75 (10% trail, HWM $150.83) |
 
 **Notes:** Day 21 closed up solidly as both positions advanced on broad market strength. CAT surged +4.83% to $907.15 — its best single-day gain in two weeks — driven by the JOLTS April beat (7.6M job openings) confirming the industrial capex cycle and erasing the Monday ISM-miss drag; trailing stop HWM remains locked at $931.35 / stop $838.22 (buffer $68.93 / 7.60% — healthiest level in several sessions). XOM added +0.62% to $150.31 with the trailing stop HWM auto-advancing to $150.83 / stop $135.747 as XOM made new session highs; Iran escalation (Tehran suspended US comms, Hormuz closure threat) sustaining the oil bid (WTI ~$92) and Q2 dividend $1.03/sh payable Jun 10 provide near-term support. Day P&L +$749.86 (+0.76%) — best day since May 26. Phase P&L narrows to −$389.55 (−0.39%) vs. $100,000 starting equity. No trades today; weekly count 1/3. Next catalysts: ISM Services May (Jun 3 pre-open) + AVGO earnings (Jun 3 AH) → evaluate AVGO Thu AM if beat + guide ✓ + VIX <17 + SPX holds. NFP May Fri Jun 5 8:30 AM ET = primary macro gate before any new entry.
+
+---
+
+### Market-Open Scan — 2026-06-03 (Day 22, Wednesday — Week 5)
+
+- **Account:** Equity $99,598.22 | Cash $82,685.80 (83.1%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $906.26 (−0.39% intraday from $909.81; +2.47% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE | Buffer $68.05 / 7.50% ✓ HEALTHY
+- **XOM:** $150.60 (+0.70% intraday from $149.56; +2.11% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $150.83 | Stop $135.747 | Trail 10% GTC ✓ ACTIVE | Buffer $15.05 / 9.99% ✓ (price below HWM; stop locked until new session high)
+- **Action:** No trades. Both stops ACTIVE and confirmed via orders API.
+- **Rule checks (STEP 3):** HOLD decision from today's research — AVGO binary AH + ADP 8:15 AM ET + ISM Services 10:00 AM ET + NFP Fri Jun 5 all block new entries. No buy-side gate evaluation needed.
+- **Thesis check (CAT):** INTACT. Q1 EPS +30%, rev +22%, $63B backlog, Power Gen +41%, AI data-center demand. Full-year guidance raised. Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Buffer healthy.
+- **Thesis check (XOM):** INTACT + strengthening. WTI ~$95 elevated on Iran risk premium. Exxon SVP $160 oil warning intact. Q2 dividend $1.03/sh payable Jun 10 (ex-date imminent). Mizuho PT $175 / Barclays PT $182. Stop auto-advance expected if XOM sets new session high above $150.83.
+- **Today's events:** ADP Employment 8:15 AM ET | ISM Services PMI 10:00 AM ET | Factory Orders 10:00 AM ET | Fed Beige Book 2:00 PM ET | **AVGO earnings AH** (consensus EPS $2.40 +52%, rev $22B +47%, AI chip $10.7B +140%; ±8% implied move)
+- **Next trigger:** Post-AVGO Thu AM: if beat + bullish AI guidance + VIX <17 + SPX holds → evaluate AVGO entry (momentum + position-size check required). NFP Fri Jun 5 = primary macro gate. Weekly capacity 2/3 remaining.
