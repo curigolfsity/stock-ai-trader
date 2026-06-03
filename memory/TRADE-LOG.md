@@ -746,3 +746,16 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (XOM):** INTACT + strengthening. WTI ~$95 elevated on Iran risk premium. Exxon SVP $160 oil warning intact. Q2 dividend $1.03/sh payable Jun 10 (ex-date imminent). Mizuho PT $175 / Barclays PT $182. Stop auto-advance expected if XOM sets new session high above $150.83.
 - **Today's events:** ADP Employment 8:15 AM ET | ISM Services PMI 10:00 AM ET | Factory Orders 10:00 AM ET | Fed Beige Book 2:00 PM ET | **AVGO earnings AH** (consensus EPS $2.40 +52%, rev $22B +47%, AI chip $10.7B +140%; ±8% implied move)
 - **Next trigger:** Post-AVGO Thu AM: if beat + bullish AI guidance + VIX <17 + SPX holds → evaluate AVGO entry (momentum + position-size check required). NFP Fri Jun 5 = primary macro gate. Weekly capacity 2/3 remaining.
+
+### Midday Scan — 2026-06-03
+
+- **Account:** Equity $100,007.56 | Cash $82,685.80 (82.7%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $928.01 (+2.00% intraday; +4.93% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $936.71 (NEW PHASE HIGH — auto-advanced from $931.35) | Stop $843.039 (auto-advanced from $838.22) | Trail 10% GTC ✓ ACTIVE | Buffer $84.97 / 9.15% ✓ VERY HEALTHY
+- **XOM:** $154.275 (+3.15% intraday; +4.61% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.385 (auto-advanced from $150.83) | Stop $138.947 (auto-advanced from $135.747) | Trail 10% GTC ✓ ACTIVE | Buffer $15.33 / 9.93% ✓ HEALTHY
+- **Action:** No trades. No manual stop adjustments. Both stops auto-advanced correctly (stops only moved up) ✓. No losers to cut. No tightening thresholds reached.
+- **Thesis check (CAT):** INTACT. +2.00% intraday = continuation of Q1 beat narrative (EPS +30%, $63B backlog, Power Gen +41%). Broad infrastructure investment cycle tailwind. CAT setting new phase HWM at $936.71 — highest price since entry. AVGO AH tonight is AI chip read-through; strong beat would further reinforce power-gen demand thesis. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. No new negative catalyst.
+- **Thesis check (XOM):** INTACT + STRENGTHENING. +3.15% intraday driven by Iran talks collapse — Tehran halted negotiations through mediators (Tasnim: blaming ceasefire breakdown + fresh Lebanon clashes); WTI surging +7% to ~$93–95; Brent +4–5% to ~$97–98. HWM auto-advancing to $154.385. Q2 dividend $1.03/sh payable Jun 10 (ex-date imminent — near-term support). Exxon SVP $160 oil inventory warning still on table. Mizuho PT $175 / Barclays PT $182.
+- **Tighten triggers:** CAT → $1,017 (+15%) | XOM → $169.61 (+15%) — neither reached today.
+- **Next:** Post-AVGO Thu AM: if beat + bullish AI guide + VIX <17 + SPX holds → evaluate AVGO entry. NFP May Fri Jun 5 8:30 AM ET = primary macro gate. Weekly capacity 2/3 remaining.

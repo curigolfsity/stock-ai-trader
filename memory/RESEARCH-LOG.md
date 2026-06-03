@@ -2184,3 +2184,11 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — Both positions profitable (+2.55% each unrealized). VIX 15.77 ✓ declining. AVGO binary tonight (±8%) + ADP/ISM today + NFP Friday = elevated event risk; patience > activity. Hold both stops (CAT 1c43ebd9, XOM 55419969). Weekly capacity 2/3 remaining — reserve for post-AVGO evaluation Thu AM only if beat + bullish AI guidance confirmed.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — 2026-06-03 Midday Scan
+
+- **CAT $928.01 (+2.00% intraday; +4.93% unrealized):** Phase HWM just set at $936.71 — new position high, above prior $931.35 phase high. Trailing stop auto-advanced to $843.04. Continuation of Q1 beat / infrastructure + AI power-gen thesis. No new negative catalyst. AVGO AH tonight = AI chip read-through for data-center demand.
+- **XOM $154.28 (+3.15% intraday; +4.61% unrealized):** Iran talks formally collapsed — Tehran halted negotiations via mediators (blaming ceasefire breakdown + fresh Lebanon clashes); WTI +7% to ~$93–95; Brent +4–5% to ~$97–98. Trailing stop HWM auto-advanced to $154.385 / stop $138.947. Q2 dividend $1.03 payable Jun 10 (ex-date imminent). Direct upside catalyst intact.
+- **Account equity: $100,007.56** — back above $100K.
+- **No action taken.** No cuts. No manual stop tightenings. Both stops auto-advancing correctly (stops only moved up) ✓.
+- **Next gate:** Post-AVGO Thu AM (EPS $2.40 est / rev $22B / AI chip $10.7B) → if beat + guide ✓ + VIX <17 + SPX holds → evaluate AVGO entry. NFP May Fri Jun 5 = primary macro binary. Weekly capacity 2/3 remaining.
