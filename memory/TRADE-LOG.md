@@ -759,3 +759,15 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (XOM):** INTACT + STRENGTHENING. +3.15% intraday driven by Iran talks collapse — Tehran halted negotiations through mediators (Tasnim: blaming ceasefire breakdown + fresh Lebanon clashes); WTI surging +7% to ~$93–95; Brent +4–5% to ~$97–98. HWM auto-advancing to $154.385. Q2 dividend $1.03/sh payable Jun 10 (ex-date imminent — near-term support). Exxon SVP $160 oil inventory warning still on table. Mizuho PT $175 / Barclays PT $182.
 - **Tighten triggers:** CAT → $1,017 (+15%) | XOM → $169.61 (+15%) — neither reached today.
 - **Next:** Post-AVGO Thu AM: if beat + bullish AI guide + VIX <17 + SPX holds → evaluate AVGO entry. NFP May Fri Jun 5 8:30 AM ET = primary macro gate. Weekly capacity 2/3 remaining.
+
+---
+
+### Jun 03 — EOD Snapshot (Day 22, Wednesday)
+**Portfolio:** $99,977.07 | **Cash:** $82,685.80 (82.7%) | **Day P&L:** +$366.62 (+0.37%) | **Phase P&L:** −$22.93 (−0.02%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $927.01 | +1.89% | +$724.73 (+4.82%) | $843.04 (10% trail, HWM $936.71) |
+| XOM | 10 | $147.484 | $153.215 | +2.44% | +$57.31 (+3.89%) | $139.41 (10% trail, HWM $154.90) |
+
+**Notes:** Day 22 closed with both positions advancing on strong sector momentum. CAT added +1.89% to $927.01 — the trailing stop HWM set a new all-time phase high at $936.71 (auto-advanced from $931.35) with stop auto-advancing to $843.04; the position is now +4.82% unrealized with an 8.8% buffer above the stop. XOM surged +2.44% to $153.215 on Iran talks collapse (Tehran halted negotiations; WTI +7% to ~$93–95), with the trailing stop HWM advancing to $154.90 / stop $139.41. Phase P&L recovered to near-flat at −$22.93 (−0.02%) vs. $100,000 starting equity — best phase reading in two weeks. Both trailing stops healthy: CAT buffer $83.97 / 9.07%; XOM buffer $13.81 / 9.01%. No trades today (0); weekly count 1/3 (capacity 2/3 remaining). Tighten triggers intact: CAT $1,017 (+15%) → 7% trail; XOM $169.61 (+15%) → 7% trail — neither reached. Primary catalyst tonight: AVGO earnings AH (consensus EPS $2.40 +52%, rev $22B +47%, AI chip $10.7B +140%; ±8% implied move) — beat + bullish AI guide + VIX <17 + SPX holds → evaluate AVGO entry Thu AM. NFP May Fri Jun 5 8:30 AM ET = dominant macro gate before any new position.
