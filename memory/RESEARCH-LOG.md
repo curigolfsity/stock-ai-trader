@@ -2132,3 +2132,55 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **XOM** — HWM auto-advanced to $150.42 on new session high. Iran escalation (Tehran suspended US comms; Hormuz closure threat) sustaining oil bid WTI ~$92. Q2 dividend $1.03/sh payable Jun 10. Thesis INTACT + strengthening.
 - **No action taken.** Both positions profitable, both stops healthy, no tighten thresholds reached.
 - **Next gate:** AVGO earnings Wed Jun 3 AH → assess Thu AM pre-market. NFP May Fri Jun 5 = primary binary.
+
+---
+
+## 2026-06-03 — Pre-market Research (Day 22, Wednesday — Week 5)
+
+### Account
+- **Equity:** $99,615.84 | **Cash:** $82,685.80 (83.0%) | **Buying power:** $91,150.82 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 (XOM Jun 1) | **Phase P&L:** −$384.16 (−0.38%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|---------|----------------|------------|
+| CAT | 17 | $884.38 | $906.92 | +$383.20 (+2.55%) | $838.215 trail 10% GTC (HWM $931.35) — buffer $68.71 / 7.57% ✓ |
+| XOM | 10 | $147.484 | $151.24 | +$37.56 (+2.55%) | $135.747 trail 10% GTC (HWM $150.83) — ⚠️ current > HWM; stop auto-advances at open |
+
+- **CAT trailing stop:** order 1c43ebd9 | HWM $931.35 | Stop $838.215 | Trail 10% GTC ✓ ACTIVE | Buffer 7.57% ✓ HEALTHY
+- **XOM trailing stop:** order 55419969 | HWM $150.83 | Stop $135.747 | Trail 10% GTC ✓ ACTIVE | Note: XOM premarket $151.24 > HWM $150.83 → auto-advance expected at open; projected new stop ~$136.12
+
+### Market Context
+- **WTI:** ~$95/bbl — 3rd straight session higher; Iran geopolitical risk premium sustained; Exxon SVP $160 inventory warning still on table
+- **Brent:** ~$96.89/bbl (+0.93%) — elevated; peace-talk uncertainty maintaining oil bid
+- **S&P 500:** Closed 7,609.78 on Jun 2 — first ever close above 7,600; AI/chip momentum leading; futures slightly positive premarket
+- **VIX:** 15.77 (Jun 2 close, −1.74%) — new-entry gate clear ✓; declining from 16.05 Monday high
+- **Today's releases (Jun 3):** ADP Employment 8:15 AM ET | ISM Services PMI 10:00 AM ET | Factory Orders 10:00 AM ET | Fed Beige Book 2:00 PM ET
+- **Earnings today:** **AVGO (Broadcom) AH** — consensus EPS $2.40 (+52% YoY), revenue $22B (+47% YoY), AI segment $10.7B (+140% YoY); options imply ±8% move
+- **Friday:** NFP May (Jun 5, 8:30 AM ET) = primary macro binary this week
+- **Sector YTD 2026:** Energy ✓ Leading | Industrials ✓ Leading | Materials ✓ Leading (+22%) | Technology recovering strongly on AI momentum (+32–33% YTD)
+
+### Thesis Check — CAT
+- **INTACT + UPGRADED.** $906.92 (+2.55% unrealized). CAT +51% YTD — management raised full-year 2026 guidance (low double-digit growth), confirming data center power-gen + construction + mining demand cycle intact. Q1 EPS +30%, rev +22%, $63B backlog. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020 / BofA $930.
+- Stop buffer 7.57% ✓ HEALTHY. No action needed.
+
+### Thesis Check — XOM
+- **INTACT + STRENGTHENING.** $151.24 (+2.55% unrealized). WTI ~$95 as Iran peace talks remain uncertain. XOM redomiciling to Texas; Permian/Guyana production ramping; Pioneer merger integration. Q2 dividend $1.03/sh payable Jun 10 (ex-date imminent = near-term support). Mizuho PT $175 / Barclays PT $182.
+- HWM auto-advance expected at open (premarket $151.24 > HWM $150.83).
+
+### Trade Ideas
+1. **CAT — HOLD.** Up 2.55% unrealized; full-year guidance raised; data-center + power-gen thesis confirmed. Buffer 7.57% ✓. No action.
+2. **XOM — HOLD.** Oil bid strengthening ($95 WTI); Iran risk premium intact; dividend ex-date Jun 10 = near-term support. HWM auto-advancing. No action.
+3. **AVGO — WATCH post-AH earnings.** Reports tonight. Consensus: EPS $2.40 (+52%), rev $22B (+47%), AI chip rev $10.7B (+140%). Implied ±8% move. IF beat + bullish AI guide + VIX <17 + SPX holds → evaluate Thu AM pre-market. No pre-event entry today; gap risk too high before NFP Friday.
+
+### Risk Factors
+- **AVGO ±8% implied move (MEDIUM):** Binary tonight; miss = semis/tech pressure; limited CAT/XOM read-through but could weigh broadly
+- **ADP + ISM Services (MEDIUM):** Dual data releases today; soft prints = rate-cut narrative; hot = rate-hike risk; intraday volatility expected around 8:15 and 10:00 AM ET
+- **Iran escalation (MEDIUM):** Oil bid at $95 = XOM positive, but actual Hormuz closure = broader risk-off
+- **NFP Friday (HIGH):** May payrolls = Fed catalyst; avoid new entry until after Jun 5 (exception: exceptional AVGO setup only)
+- **CAT pullback (LOW):** −0.32% intraday from $909.81 close; buffer 7.57% ✓; noise only
+
+### Decision
+**HOLD** — Both positions profitable (+2.55% each unrealized). VIX 15.77 ✓ declining. AVGO binary tonight (±8%) + ADP/ISM today + NFP Friday = elevated event risk; patience > activity. Hold both stops (CAT 1c43ebd9, XOM 55419969). Weekly capacity 2/3 remaining — reserve for post-AVGO evaluation Thu AM only if beat + bullish AI guidance confirmed.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
