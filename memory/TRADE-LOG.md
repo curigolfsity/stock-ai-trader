@@ -641,6 +641,22 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Midday Scan — 2026-06-04
+
+- **Account:** Equity ~$100,117 | Cash $82,685.80 (82.6%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $935.34 (+0.99% intraday from $926.18; +5.76% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $936.71 | Stop $843.039 | Trail 10% GTC ✓ ACTIVE | Buffer $92.30 / 9.87% ✓ VERY HEALTHY (price within $1.37 of new phase HWM — auto-advance imminent)
+- **XOM:** $153.00 (+0.31% intraday from $152.53; +3.74% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer $13.59 / 8.88% ✓ HEALTHY
+- **Action:** No trades. No stop adjustments. No losers cut. No tightening triggers reached.
+- **Thesis check (CAT):** INTACT. +0.99% intraday holding up well despite AVGO −12% premarket drag on semis/tech — industrial thesis decoupled from chip sentiment. Q1 EPS +30%, rev +22%, $63B backlog, Power Gen +41%, full-year guidance raised (low double-digit growth). Analyst PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Thesis check (XOM):** INTACT + strengthening. WTI ~$93–95 sustained; Iran risk premium intact (Hormuz closure threat unresolved). Q2 dividend $1.03/sh payable Jun 10 (ex-date imminent = near-term price support). Mizuho PT $175 / Barclays PT $182 / JPM PT $170 unchanged.
+- **AVGO context:** −12% premarket on Jun 3 AH earnings (EPS $2.44 ✓ slight beat; rev $22.19B slight miss; Q3 guidance above consensus but not enough; Hock Tan did NOT raise $100B AI chip target). No entry per gate check — momentum broken, SPX futures −0.43%, NFP tomorrow.
+- **Phase P&L:** +$117 (+0.12%) vs. $100,000 starting equity
+- **Next trigger:** NFP May Fri Jun 5 8:30 AM ET = primary macro binary. Strong print (≥100K + VIX <17 + SPX holds) → evaluate 3rd position (Energy adjacency or industrial). CAT: tighten trigger $1,017 (+15%) → 7% trail. XOM: tighten trigger $169.61 (+15%) → 7% trail. Weekly capacity 2/3 remaining.
+
+---
+
 ## Week of 2026-06-01
 
 ### Open Positions
