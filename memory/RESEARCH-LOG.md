@@ -2192,3 +2192,63 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **Account equity: $100,007.56** — back above $100K.
 - **No action taken.** No cuts. No manual stop tightenings. Both stops auto-advancing correctly (stops only moved up) ✓.
 - **Next gate:** Post-AVGO Thu AM (EPS $2.40 est / rev $22B / AI chip $10.7B) → if beat + guide ✓ + VIX <17 + SPX holds → evaluate AVGO entry. NFP May Fri Jun 5 = primary macro binary. Weekly capacity 2/3 remaining.
+
+---
+
+## 2026-06-04 — Pre-market Research (Day 23, Thursday — Week 5)
+
+### Account
+- **Equity:** $99,788.92 | **Cash:** $82,685.80 (82.9%) | **Buying power:** $91,237.36 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 (XOM Jun 1) | **Phase P&L:** −$211.08 (−0.21%) vs. $100,000 start
+- **Day P&L (overnight):** −$167.24 (−0.17%) vs. yesterday close $99,956.16
+
+### Positions
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|-----------|----------------|------------|
+| CAT | 17 | $884.38 | $916.06 | +$538.58 (+3.58%) | $843.039 trail 10% GTC (HWM $936.71) — buffer $73.02 / 7.97% ✓ |
+| XOM | 10 | $147.484 | $153.01 | +$55.26 (+3.75%) | $139.41 trail 10% GTC (HWM $154.90) — buffer $13.60 / 8.89% ✓ |
+
+- **CAT trailing stop:** order 1c43ebd9 | HWM $936.71 | Stop $843.039 | Trail 10% GTC ✓ ACTIVE | Buffer 7.97% ✓ HEALTHY
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer 8.89% ✓ HEALTHY
+
+### Market Context
+- **WTI:** ~$93.64–$96.04/bbl (session range); Brent $96.97/bbl (−0.86%) — Iran risk premium intact; elevated for 3rd straight session
+- **S&P 500 futures (ESM26):** ~7,538.50 (−0.43% to −0.44% premarket) — risk-off open expected driven by AVGO earnings disappointment + Iran tensions + bond yield pressure
+- **VIX:** ~15–16 range (mid-15 as of early Jun 2026 per latest data); gate technically clear <17, but elevated risk sentiment today
+- **Today's releases (Jun 4):** Weekly Jobless Claims 8:30 AM ET
+- **Tomorrow (Jun 5):** **NFP May payrolls 8:30 AM ET** = primary macro binary this week
+- **Sector YTD 2026:** Energy ✓ Leading (+24% XOM YTD) | Industrials ✓ Leading (CAT +51% YTD) | Technology recovering on AI momentum but AVGO miss creating near-term drag
+
+### AVGO Earnings Debrief (Jun 3 AH) — WATCH → NO ENTRY
+- **EPS:** $2.44 vs. $2.40 est ✓ (beat +1.7%)
+- **Revenue:** $22.19B vs. $22.27B est ✗ (slight miss)
+- **AI Revenue:** $10.8B (+doubled YoY) vs. $10.7B est ✓
+- **Q3 guidance:** ~$32.4B vs. $29.77B est (above consensus, but market wanted more)
+- **Disappointment:** CEO Hock Tan did NOT raise full-year $100B AI chip target; infrastructure software $7.18B vs. $7.32B est (miss)
+- **After hours:** −7.6% | **Premarket Jun 4:** −12% (trading ~$405–$496 range)
+- **AVGO entry gate FAILS:** Momentum broken (−12% premarket); SPX futures −0.43%; revenue + software miss; guidance raised but not enough. NO ENTRY ✗
+
+### Thesis Check — CAT
+- **INTACT.** Premarket $916.06 (−1.09% from $926.18 close; AVGO-related tech/industrial sentiment drag). No new negative catalyst for CAT directly. Q1 EPS +30%, rev +22%, $63B backlog, Power Gen +41%, full-year guidance raised (low double-digit growth), tariff reductions supportive. Virtual Annual Shareholder Meeting Jun 10 = upcoming catalyst.
+- Stop buffer 7.97% ✓ HEALTHY. No action needed.
+
+### Thesis Check — XOM
+- **INTACT + STRENGTHENING.** Premarket $153.01 (+0.31% intraday; +3.75% unrealized). WTI $93–96/bbl elevated on Iran risk premium (Hormuz closure threat unresolved). XOM +24% YTD vs. SPX ~+10%. Q2 dividend $1.03/sh payable Jun 10 (ex-date imminent = near-term support). Permian + Guyana production ramping; Pioneer integration. JPM PT $170.
+- HWM $154.90 — stop expected to auto-advance if XOM sets new session high today. No manual action needed.
+
+### Trade Ideas
+1. **CAT — HOLD.** +3.58% unrealized; thesis intact; AVGO miss creates sector noise but no CAT-specific negative. Buffer 7.97% ✓. No action. Shareholder meeting Jun 10.
+2. **XOM — HOLD.** +3.75% unrealized; oil bid sustained ($93–96 WTI); Iran risk premium intact; dividend ex-date imminent. Buffer 8.89% ✓. No action.
+3. **AVGO — NO ENTRY.** Buy-side gate failed on multiple counts: −12% premarket, revenue miss, software miss, guidance upside not sufficient, SPX futures red, NFP tomorrow. Pass completely.
+
+### Risk Factors
+- **AVGO −12% premarket (HIGH):** Semis/tech drag; potential risk-off sentiment spreading to SPX; could pressure CAT intraday via industrial/tech crossover sentiment
+- **SPX futures −0.43% (MEDIUM):** Weak open expected; monitor CAT buffer closely if selling intensifies (alert level: $843 — stop trigger)
+- **NFP Friday (HIGH):** May payrolls tomorrow 8:30 AM ET = dominant macro binary; no new entries until after Fri print regardless of other setups
+- **Iran escalation (MEDIUM):** WTI elevated sustains XOM bid, but actual Hormuz closure = broader risk-off scenario
+- **XOM stop buffer tightening (LOW):** $13.60 / 8.89% — healthy but thinner than CAT; auto-advance expected if XOM sets new session high today
+
+### Decision
+**HOLD** — AVGO −12% premarket (entry gate failed) + SPX futures −0.43% + NFP tomorrow = no new entries today. Both positions profitable, both stops healthy. Weekly capacity 2/3 remaining — reserve for post-NFP evaluation Fri/Mon. Patience > activity.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
