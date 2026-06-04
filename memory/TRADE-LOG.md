@@ -787,3 +787,15 @@ No positions yet. Bot launches tomorrow.
 | XOM | 10 | $147.484 | $153.215 | +2.44% | +$57.31 (+3.89%) | $139.41 (10% trail, HWM $154.90) |
 
 **Notes:** Day 22 closed with both positions advancing on strong sector momentum. CAT added +1.89% to $927.01 — the trailing stop HWM set a new all-time phase high at $936.71 (auto-advanced from $931.35) with stop auto-advancing to $843.04; the position is now +4.82% unrealized with an 8.8% buffer above the stop. XOM surged +2.44% to $153.215 on Iran talks collapse (Tehran halted negotiations; WTI +7% to ~$93–95), with the trailing stop HWM advancing to $154.90 / stop $139.41. Phase P&L recovered to near-flat at −$22.93 (−0.02%) vs. $100,000 starting equity — best phase reading in two weeks. Both trailing stops healthy: CAT buffer $83.97 / 9.07%; XOM buffer $13.81 / 9.01%. No trades today (0); weekly count 1/3 (capacity 2/3 remaining). Tighten triggers intact: CAT $1,017 (+15%) → 7% trail; XOM $169.61 (+15%) → 7% trail — neither reached. Primary catalyst tonight: AVGO earnings AH (consensus EPS $2.40 +52%, rev $22B +47%, AI chip $10.7B +140%; ±8% implied move) — beat + bullish AI guide + VIX <17 + SPX holds → evaluate AVGO entry Thu AM. NFP May Fri Jun 5 8:30 AM ET = dominant macro gate before any new position.
+
+---
+
+### Jun 04 — EOD Snapshot (Day 23, Thursday)
+**Portfolio:** $100,256.51 | **Cash:** $82,685.80 (82.5%) | **Day P&L:** +$279.44 (+0.28%) | **Phase P&L:** +$256.51 (+0.26%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $943.72 | +1.89% | +$1,008.71 (+6.71%) | $849.47 (10% trail, HWM $943.86) |
+| XOM | 10 | $147.484 | $152.56 | +0.02% | +$50.76 (+3.44%) | $139.41 (10% trail, HWM $154.90) |
+
+**Notes:** Day 23 closed with both positions holding up well despite AVGO's post-earnings selloff (−12% pre-market on Jun 4; EPS slight beat but rev miss + Hock Tan did not raise $100B AI target dragged semis/tech). CAT continued its advance to $943.72 (+1.89%), setting yet another new all-time phase HWM at $943.86 (auto-advanced from $936.71) with stop auto-advancing to $849.47 — a new phase high for the stop as well. CAT unrealized P&L crossed +$1,000 (+6.71%) for the first time, still well below the +15% tightening threshold ($1,017). XOM was essentially flat on the day (+0.02% at $152.56) as the Iran risk premium held (WTI ~$93–95); HWM locked at $154.90 / stop $139.41. Phase P&L turned solidly positive at +$256.51 (+0.26%) — first meaningfully positive phase reading since Day 16. No trades today (0); weekly count 1/3 (capacity 2/3). Tighten triggers: CAT $1,017 (+15%) → 7% trail; XOM $169.61 (+15%) → 7% trail — neither reached. Primary binary tomorrow: NFP May (Jun 5 8:30 AM ET) — strong print (≥100K + VIX <17 + SPX holds) → evaluate 3rd position (energy adjacency or second industrial).
