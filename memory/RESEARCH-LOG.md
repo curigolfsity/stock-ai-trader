@@ -2252,3 +2252,54 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — AVGO −12% premarket (entry gate failed) + SPX futures −0.43% + NFP tomorrow = no new entries today. Both positions profitable, both stops healthy. Weekly capacity 2/3 remaining — reserve for post-NFP evaluation Fri/Mon. Patience > activity.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-06-05 — Pre-market Research (Day 24, Friday — Week 5)
+
+### Account
+- **Equity:** $100,103.80 | **Cash:** $82,685.80 (82.6%) | **Buying power:** $91,394.80 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 (XOM Jun 1) | **Phase P&L:** +$103.80 (+0.10%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|-----------|----------------|------------|
+| CAT | 17 | $884.38 | $935.00 | +$860.56 (+5.72%) | $852.147 trail 10% GTC (HWM $946.83) — buffer $82.85 / 8.86% ✓ |
+| XOM | 10 | $147.484 | $152.30 | +$48.16 (+3.27%) | $139.41 trail 10% GTC (HWM $154.90) — buffer $12.89 / 8.46% ✓ |
+
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 (auto-advanced from $943.86) | Stop $852.147 (auto-advanced from $849.47) | Trail 10% GTC ✓ ACTIVE | Buffer 8.86% ✓ HEALTHY
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer 8.46% ✓ HEALTHY
+
+### Market Context
+- **WTI:** ~$93–95/bbl | **Brent:** ~$95.25/bbl (+0.23%) — Iran risk premium intact; oil +4%+ on week despite brief peace-deal-hope pullback; US-Iran talks deadlocked
+- **S&P 500 futures (ESM26):** ~7,550.75 (−0.10% premarket) — essentially flat ahead of NFP binary; geopolitical (Iran) + NFP uncertainty limiting conviction
+- **VIX:** ~16.50 (+2.74%) — slightly elevated; below 17 gate but close; NFP-driven hedging active around 8:30 AM ET
+- **Today's primary release:** **NFP May payrolls 8:30 AM ET** — consensus +85K (vs. +115K April); miss = risk-off / rate-cut narrative; beat = hawkish Fed tilt; primary gate before any new entry
+- **No major earnings pre-market today** — AVGO (−15%), CRWD (−9%), PETCO (−12%) from Thu AH weighing on sentiment
+- **Sector YTD 2026:** Energy ✓ Leading (+34.5%) | Technology +24.6% | Industrials +12.8% — energy dominance intact; AI power-gen / data-center capex supporting Industrials
+
+### Thesis Check — CAT
+- **INTACT.** $935.00 premarket (−0.58% from $940.48 Thu close). Q1 EPS +30%, rev +22%, $63B backlog, Power Gen +41%, full-year guidance raised. Virtual Annual Shareholder Meeting **Jun 10** = near-term catalyst. CAT trailing stop HWM auto-advanced to $946.83 / stop $852.147. Tighten trigger: $1,017 (+15%). Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- Buffer $82.85 / 8.86% ✓ HEALTHY. No action needed.
+
+### Thesis Check — XOM
+- **INTACT + STRENGTHENING.** $152.30 premarket (+0.17% from $152.04 Thu close). Brent $95.25 / WTI ~$93–95 — Iran deadlock sustained; Exxon exec Chapman: Brent could spike to $150–160/bbl on inventory crunch. Q2 dividend $1.03/sh payable **Jun 10** (ex-date imminent). XOM +24% YTD vs. SPX ~+10%. Mizuho PT $175 / Barclays PT $182 / JPM PT $170.
+- HWM locked at $154.90; stop auto-advances on new session high. Buffer $12.89 / 8.46% ✓ HEALTHY.
+
+### Trade Ideas
+1. **CAT — HOLD.** +5.72% unrealized; thesis intact; Shareholder Meeting Jun 10 catalyst pending. No action.
+2. **XOM — HOLD.** +3.27% unrealized; oil bid sustained; Iran deadlock = elevated premium; dividend ex-date Jun 10 = near-term support. No action.
+3. **Post-NFP 3rd position (WATCHLIST — Mon conditional):** If NFP +100K+ AND VIX <17 AND SPX holds → evaluate energy adjacency (OXY, MPC) or AI power-gen industrial (GEV, ETN) next week Mon open. Do NOT enter today — wait for confirmed post-print market reaction.
+
+### Risk Factors
+- **NFP binary (HIGH):** May payrolls +85K consensus at 8:30 AM ET; soft print (<60K) = risk-off / CAT stop vigilance; strong beat (>130K) = hawkish Fed repricing; wait for post-print dust to settle
+- **VIX 16.50 (MEDIUM):** Near 17 gate; NFP volatility spike could breach — no new entries above 17
+- **Iran escalation (MEDIUM):** Hormuz closure unresolved; actual closure = broader risk-off despite XOM oil tailwind
+- **Semis/tech overhang (LOW):** AVGO −15% / CRWD −9% Thu AH; limited CAT/XOM read-through but SPX sentiment drag
+- **CAT stop (LOW):** Buffer $82.85 / 8.86% ✓ — alert level $852.15
+- **XOM stop (LOW):** Buffer $12.89 / 8.46% ✓ — alert level $139.41; auto-advance expected on new session high
+
+### Decision
+**HOLD** — NFP binary at 8:30 AM ET (consensus +85K; outcome unknown) + VIX 16.50 (near 17 gate) = no new entries today. Both positions profitable, both stops healthy, both theses intact. Weekly capacity 2/3 remaining (week ends today) — reserve for Mon post-NFP evaluation. Patience > activity. Watch CAT stop $852.147 and XOM stop $139.41 intraday.
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
