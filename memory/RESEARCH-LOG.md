@@ -2303,3 +2303,11 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 **HOLD** — NFP binary at 8:30 AM ET (consensus +85K; outcome unknown) + VIX 16.50 (near 17 gate) = no new entries today. Both positions profitable, both stops healthy, both theses intact. Weekly capacity 2/3 remaining (week ends today) — reserve for Mon post-NFP evaluation. Patience > activity. Watch CAT stop $852.147 and XOM stop $139.41 intraday.
 
 _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Afternoon Addendum — 2026-06-05 Midday Scan
+
+- **NFP May CONFIRMED:** +172K (vs. +85K consensus) — massive beat; unemployment 4.3% (unch.); wages +0.3% MoM / +3.4% YoY (in-line); prior revisions +93K combined. Strongest labor print since April; prior months all revised higher.
+- **CAT $920.28 (−2.15% intraday; +4.06% unrealized):** NFP beat caused hawkish repricing (Fed on hold → rate-sensitive growth stocks pressured). Not CAT-specific. Stop HWM $946.83 / stop $852.147 / buffer 7.40% ✓ HEALTHY. Thesis INTACT.
+- **XOM $150.27 (−1.16% intraday; +1.89% unrealized):** Normal profit-taking after Thursday's strong close. Iran deadlock + NFP demand outlook sustain oil bid ($93–95 WTI). Q2 dividend $1.03 payable Jun 10. Stop HWM $154.90 / stop $139.41 / buffer 7.23% ✓ HEALTHY. Thesis INTACT + STRENGTHENING.
+- **No action taken.** No cuts. No stop tightenings. Both stops confirmed ACTIVE via Alpaca orders API.
+- **Next week trigger (Mon Jun 8):** Weekly capacity resets 0/3. If VIX <17 + SPX holds + Iran situation stable → evaluate 3rd position: OXY / MPC (energy adjacency) or ETN / GEV re-entry (AI power-gen industrial). Tighten triggers remain: CAT $1,017 (+15%) → 7% trail; XOM $169.61 (+15%) → 7% trail.

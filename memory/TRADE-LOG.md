@@ -799,3 +799,19 @@ No positions yet. Bot launches tomorrow.
 | XOM | 10 | $147.484 | $152.56 | +0.02% | +$50.76 (+3.44%) | $139.41 (10% trail, HWM $154.90) |
 
 **Notes:** Day 23 closed with both positions holding up well despite AVGO's post-earnings selloff (−12% pre-market on Jun 4; EPS slight beat but rev miss + Hock Tan did not raise $100B AI target dragged semis/tech). CAT continued its advance to $943.72 (+1.89%), setting yet another new all-time phase HWM at $943.86 (auto-advanced from $936.71) with stop auto-advancing to $849.47 — a new phase high for the stop as well. CAT unrealized P&L crossed +$1,000 (+6.71%) for the first time, still well below the +15% tightening threshold ($1,017). XOM was essentially flat on the day (+0.02% at $152.56) as the Iran risk premium held (WTI ~$93–95); HWM locked at $154.90 / stop $139.41. Phase P&L turned solidly positive at +$256.51 (+0.26%) — first meaningfully positive phase reading since Day 16. No trades today (0); weekly count 1/3 (capacity 2/3). Tighten triggers: CAT $1,017 (+15%) → 7% trail; XOM $169.61 (+15%) → 7% trail — neither reached. Primary binary tomorrow: NFP May (Jun 5 8:30 AM ET) — strong print (≥100K + VIX <17 + SPX holds) → evaluate 3rd position (energy adjacency or second industrial).
+
+---
+
+### Midday Scan — 2026-06-05 (NFP Day)
+
+- **Account:** Equity ~$99,833 | Cash $82,685.80 (82.9%) | Daytrade count: 0 | Weekly trades: 1/3 (week ends today)
+- **NFP May (8:30 AM ET — CONFIRMED):** +172K (vs. +85K consensus) — massive beat; unemployment 4.3% (unchanged); wages +0.3% MoM (in-line), +3.4% YoY; prior months revised up +93K combined (March +29K, April +64K). Strongest labor print since April.
+- **CAT:** $920.28 (−2.15% intraday from $940.48; +4.06% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE | Buffer $68.13 / 7.40% ✓ HEALTHY
+- **XOM:** $150.27 (−1.16% intraday from $152.04; +1.89% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer $10.86 / 7.23% ✓ HEALTHY
+- **Action:** No trades. No cuts. No stop tightenings. Both GTC stops confirmed ACTIVE via orders API.
+- **Thesis check (CAT):** INTACT. NFP +172K confirms industrial capex cycle — strong employment = sustained construction, mining, and data-center infrastructure spending. Intraday −2.15% = hawkish Fed repricing (no rate cuts = expensive-growth headwind) not CAT-specific. Q1 EPS +30%, $63B backlog, Power Gen +41%, full-year guidance raised unchanged. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Shareholder Meeting Jun 10.
+- **Thesis check (XOM):** INTACT. NFP strength = robust oil demand outlook. WTI ~$93–95 Iran risk premium intact; US-Iran talks remain deadlocked. Q2 dividend $1.03/sh payable Jun 10 (ex-date imminent = near-term support). Mizuho PT $175 / Barclays PT $182 / JPM PT $170 unchanged. Intraday −1.16% = normal profit-taking after Thursday's strong close.
+- **Post-NFP gate check (3rd position):** NFP +172K ✓ | VIX ~15–16 (estimated clear ✓) | SPX reaction pending settlement | Weekly capacity 2/3 remaining but week ends today → evaluate Monday open for OXY / MPC / ETN / GEV re-entry if VIX <17 + SPX holds.
+- **Next:** Mon Jun 8 pre-market: re-evaluate 3rd position with fresh weekly capacity (0/3 reset). CAT tighten trigger $1,017 (+15%); XOM tighten trigger $169.61 (+15%) — neither reached today.
