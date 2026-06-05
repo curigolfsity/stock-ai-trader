@@ -815,3 +815,15 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (XOM):** INTACT. NFP strength = robust oil demand outlook. WTI ~$93–95 Iran risk premium intact; US-Iran talks remain deadlocked. Q2 dividend $1.03/sh payable Jun 10 (ex-date imminent = near-term support). Mizuho PT $175 / Barclays PT $182 / JPM PT $170 unchanged. Intraday −1.16% = normal profit-taking after Thursday's strong close.
 - **Post-NFP gate check (3rd position):** NFP +172K ✓ | VIX ~15–16 (estimated clear ✓) | SPX reaction pending settlement | Weekly capacity 2/3 remaining but week ends today → evaluate Monday open for OXY / MPC / ETN / GEV re-entry if VIX <17 + SPX holds.
 - **Next:** Mon Jun 8 pre-market: re-evaluate 3rd position with fresh weekly capacity (0/3 reset). CAT tighten trigger $1,017 (+15%); XOM tighten trigger $169.61 (+15%) — neither reached today.
+
+---
+
+### Jun 05 — EOD Snapshot (Day 24, Friday)
+**Portfolio:** $99,607.68 | **Cash:** $82,685.80 (83.0%) | **Day P&L:** −$648.83 (−0.65%) | **Phase P&L:** −$392.32 (−0.39%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $906.99 | −3.56% | +$384.39 (+2.56%) | $852.15 (10% trail, HWM $946.83) |
+| XOM | 10 | $147.484 | $150.26 | −1.17% | +$27.76 (+1.88%) | $139.41 (10% trail, HWM $154.90) |
+
+**Notes:** Day 24 (NFP Friday) closed down as the strong NFP print (+172K vs +85K consensus) triggered hawkish Fed repricing — rate-cut expectations pushed further out, pressuring rate-sensitive industrials and energy. CAT fell −3.56% to $906.99 from yesterday's $943.72 close; the position intraday set a new phase HWM at $946.83 (stop auto-advanced to $852.15 from $849.47) before the selloff — stop buffer now 6.05% (tighter than ideal but above the 7% soft threshold at peak intraday HWM). XOM slipped −1.17% to $150.26 with stop locked at $139.41 / HWM $154.90 (buffer 7.22%); Iran risk premium (WTI ~$93–95) and the imminent Jun 10 dividend ($1.03/sh) limit downside. Both trailing stops ACTIVE and confirmed via orders API. No trades today (0); weekly count 1/3 (2/3 capacity unused this week). Phase P&L: −$392.32 (−0.39%) vs. $100,000 starting equity. New week starts Mon Jun 8 with fresh 0/3 weekly capacity → evaluate 3rd position (OXY/MPC/ETN/GEV) if VIX <17 + SPX holds at open. CAT tighten trigger $1,017 (+15%) → 7% trail; XOM tighten trigger $169.61 (+15%) → 7% trail — neither reached.
