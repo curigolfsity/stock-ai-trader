@@ -152,3 +152,61 @@ Rule adherence A, risk management A, relative performance D (bot -0.16% vs SPX +
 
 ### Overall Grade: D+
 Rule adherence C (manual cut protocol violated), risk management B (stop system worked; sizing correct), relative performance D (bot -1.12% vs SPX +0.9% = -2.02% gap). GEV loss is primary driver; entry process was sound but multiple compounding headwinds were individually dismissed; manual cut failure was costly and avoidable.
+
+---
+
+## Week ending 2026-06-05
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,002 (Mon Jun 1 open) |
+| Ending portfolio | $99,557 (Fri Jun 5 live) |
+| Week return | +$555 (+0.56%) |
+| S&P 500 week | +1.6% (9th consecutive weekly gain; multiple record highs) |
+| Bot vs S&P | -1.04% |
+| Trades | 1 (W:0 / L:0 / open:2) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CAT | $884.38 | $903.76 | +$329 (+2.19%) | $852.15 (10% trail GTC, HWM $946.83) |
+| XOM | $147.484 | $150.74 | +$33 (+2.21%) | $139.41 (10% trail GTC, HWM $154.90) |
+
+### What Worked
+- XOM entry (Jun 1) executed cleanly: all buy-side gates cleared (VIX 15.32 ✓, Energy #1 YTD +34.5% ✓, catalyst documented ✓); filled @ $147.484 at open
+- Both trailing stops auto-advanced correctly — CAT HWM set new all-time phase high $946.83 (Thu Jun 4); XOM HWM advanced to $154.90; no manual intervention needed
+- CAT +4.83% on Tue Jun 2 (JOLTS April beat 7.6M) confirmed industrial capex cycle thesis — largest single-day gain since May 26
+- XOM Iran risk premium + Q2 dividend $1.03/sh payable Jun 10 providing near-term price floor; -1.17% NFP selloff muted vs broad market
+- Phase P&L recovered from -$1.04% (end of Week 4) to +0.56% for the week; narrowed overall phase deficit to -$443
+
+### What Didn't Work
+- NFP strong beat (+172K vs +85K est) triggered hawkish Fed repricing on Jun 5 — rate-cut expectations pushed further out; CAT -3.56%, XOM -1.17% on the day; erased Thursday's gains
+- XOM trailing stop not placed at open on Jun 1 — corrected at midday; same process failure as GEV on May 26; created a ~3-hour risk window without stop coverage
+- Bot underperformed S&P 500 by -1.04% for the week — AVGO -12.6% dragged tech/semis while industrial/energy held; S&P breadth was tech-led
+- Phase P&L still negative (-$443 / -0.44%) after 5 weeks; CAT has been held for 24 sessions with +2.19% unrealized net of all volatility
+- 2/3 weekly trade capacity unused — XOM was the only entry; no 3rd position established despite NFP ✓ and VIX clear
+
+### Key Lessons
+- Trailing stop placement is a T+0 mandatory action at fill confirmation, not a midday task — the same process failure (GEV May 26, XOM Jun 1) has now occurred twice; requires checklist-gate enforcement before any other midday action
+- NFP hawkish repricing is a predictable risk: strong print → rate-cut delay → expensive industrials/energy sell pressure post-open; do not add positions on NFP day regardless of gate checks
+- CAT HWM $946.83 = stop now $852.15; 6.05% buffer is below the 7% soft threshold created at peak intraday; tighten trigger ($1,017 / +15% → 7% trail) remains active and is the next key decision point
+
+### Adjustments for Next Week
+- Trailing stop checklist: place stop immediately on fill — verify via orders API before proceeding to any other action; no exceptions
+- 3rd position (Mon Jun 8 open, fresh 0/3 capacity): candidates OXY / MPC / ETN / GEV re-entry; gates → VIX <17 + SPX holds + catalyst documented + position cost ≤20%
+- CAT: tighten trigger $1,017 (+15%) → 7% trail; monitor CAT Shareholder Meeting Jun 10 for any capital allocation signals
+- XOM: Q2 dividend $1.03/sh ex-date approaching Jun 10 (payable Jun 10) — ex-div price adjustment expected; hold through; tighten trigger $169.61 (+15%) → 7% trail
+- Avoid new entries on NFP days — strong-print hawkish-repricing drag is predictable; wait for post-print settlement before adding capital
+
+### Overall Grade: B-
+Rule adherence B (XOM stop placement delayed — repeated process failure; no other violations), risk management A (both stops healthy, HWMs advancing, no manual cuts needed, buffers above 3% threshold), relative performance C (bot +0.56% vs SPX +1.6% = -1.04% gap; NFP hawkish close weighed on industrials/energy; phase P&L improving but still negative).
