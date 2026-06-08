@@ -877,3 +877,16 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (OXY):** ENTERING. OXY is an E&P company with highest beta to WTI among majors — direct beneficiary of Iran geopolitical oil premium. Energy sector #1 YTD (+34.5%). Iran-Israel ceasefire broke down (direct missile exchange first since April); Hormuz closure risk elevated = structural oil premium floor. OPEC+ +188K bpd from July is minor supply offset vs. Iran risk. OXY target $68.93 (+20%); R:R ~2:1; tighten at $66.06 (+15%) → 7% trail; manual cut at $53.42 (−7%).
 - **Tighten triggers:** CAT $1,017 (+15%) | XOM $169.61 (+15%) | OXY $66.06 (+15%) — none reached.
 - **Weekly capacity:** 1/3 used (2/3 remaining). Total deployed: ~27% ($26,870 across 3 positions).
+
+---
+
+### Jun 08 — EOD Snapshot (Day 25, Monday)
+**Portfolio:** $99,768.16 | **Cash:** $73,782.60 (73.9%) | **Day P&L:** +$210.40 (+0.21%) | **Phase P&L:** −$231.84 (−0.23%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $913.06 | +0.97% | +$487.49 (+3.24%) | $852.15 (10% trail, HWM $946.83) |
+| OXY | 155 | $57.44 | $57.72 | +1.38% | +$42.63 (+0.48%) | $52.00 (10% trail, HWM $57.78) |
+| XOM | 10 | $147.484 | $151.78 | +1.24% | +$42.96 (+2.91%) | $139.41 (10% trail, HWM $154.90) |
+
+**Notes:** Day 25 opened Week 6 with a new OXY position (155sh filled intraday @ $57.44 after gates cleared: VIX ~15.77 ✓, WTI >$92 ✓, energy names settled post-gap ✓) as the Iran-Israel ceasefire breakdown — direct missile exchange, first since April — drove WTI +3.4% to $93.63 and Brent +4.9% to $97.68. OXY is an E&P with the highest beta to WTI among large-caps, giving direct exposure to the Iran oil premium at 8.93% equity (order e14e30ad fill; trailing stop GTC order e58bdb3e placed immediately; HWM $57.78, stop $52.00). All three positions closed positive: CAT +0.97% to $913.06 recovering from Friday's NFP selloff (trailing stop HWM $946.83, stop $852.15, buffer ~6.7%); XOM +1.24% to $151.78 with Iran risk premium intact and Q2 dividend $1.03/sh payable Jun 10 providing near-term floor (stop HWM $154.90, stop $139.41, buffer 8.1%). Phase P&L −$231.84 (−0.23%) vs. $100,000 starting equity; portfolio deployed ~26.1% across 3 positions, $73,782.60 cash remaining. Weekly trades 1/3 (2/3 remaining). Tighten triggers: CAT $1,017 (+15%); XOM $169.61 (+15%); OXY $66.06 (+15%) — none reached. Tomorrow: CAT Virtual Shareholder Meeting Jun 10 (imminent catalyst); XOM ex-dividend Jun 10 ($1.03/sh = +$10.30 cash); monitor OXY HWM advance as energy bid holds.
