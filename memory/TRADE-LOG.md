@@ -838,9 +838,10 @@ No positions yet. Bot launches tomorrow.
 |------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
 | 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $946.83; stop $852.147) | Q1 beat (rev +22%, EPS +30%), Industrials leading, AI data-center power gen, $10.2B DC sales | ~$1,061 (+20%) | 2:1 |
 | 2026-06-01 | XOM | LONG | 10 | $147.484 | FILLED | 10% GTC (order 55419969; HWM $154.90; stop $139.41) | Energy #1 YTD (+34%+), Iran-Israel ceasefire breakdown = oil premium, Exxon $160 oil warning, Mizuho PT $175 / Barclays PT $182, Q2 dividend $1.03 payable Jun 10 | ~$177 (+20%) | 2:1 |
+| 2026-06-08 | OXY | LONG | 155 | $57.44 | FILLED | 10% GTC (order e58bdb3e; HWM $57.435; stop $51.69) | Energy #1 YTD (+34.5%), Iran-Israel ceasefire breakdown = sustained oil premium, E&P high beta to WTI, OPEC+ +188K bpd July increase minor vs. Iran risk premium | ~$68.93 (+20%) | 2:1 |
 
-**Tighten trail:** CAT → 7% at $1,017 (+15%), 5% at $1,061 (+20%). XOM → 7% at $169.61 (+15%), 5% at $176.98 (+20%).
-**Cut rule:** CAT manual cut at $822.47 (−7%). XOM manual cut at $137.16 (−7% from entry).
+**Tighten trail:** CAT → 7% at $1,017 (+15%), 5% at $1,061 (+20%). XOM → 7% at $169.61 (+15%), 5% at $176.98 (+20%). OXY → 7% at $66.06 (+15%), 5% at $68.93 (+20%).
+**Cut rule:** CAT manual cut at $822.47 (−7%). XOM manual cut at $137.16 (−7%). OXY manual cut at $53.42 (−7%).
 
 ### Market-Open Scan — 2026-06-08 (Day 25, Monday — Week 6)
 
@@ -857,3 +858,22 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. Q1 EPS +30%, rev +22%, $63B backlog, Power Gen +41%, full-year guidance raised. Virtual Shareholder Meeting Jun 10 = imminent catalyst. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Buffer 7.68% ✓.
 - **Thesis check (XOM):** INTACT + STRONGLY REINFORCED. Iran-Israel direct missile exchange = maximum oil geopolitical premium. WTI $93.63 / Brent $97.68. Q2 dividend $1.03/sh payable Jun 10. Mizuho PT $175 / Barclays PT $182. HWM $154.90; stop $139.41 — expect auto-advance if XOM sets new session high today. Buffer 7.80% ✓.
 - **Next intraday trigger:** If WTI holds >$92 AND XOM/energy names settle (no reversal) AND live OXY price confirmed → evaluate OXY entry (~155sh at ~$58, stop 10% GTC trail, ~9% equity, target +20%). If VIX spikes >17 → abort all new entries. CAT tighten trigger $1,017 (+15%); XOM tighten trigger $169.61 (+15%) — neither reached.
+
+### Midday Scan — 2026-06-08
+
+- **Account:** Equity ~$99,659 | Cash ~$73,783 | Daytrade count: 0 | Weekly trades: 0→1/3
+- **CAT:** $908.97 (+0.52% intraday from $904.28; +2.78% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE | Buffer $56.82 / 6.25% ⚠ (soft alert; monitoring — no hard rule breach)
+- **XOM:** $151.65 (+1.15% intraday from $149.92; +2.82% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer $12.24 / 8.07% ✓ HEALTHY (price below HWM; stop locked until new session high)
+- **OXY ENTRY EXECUTED — intraday gate conditions met at 12:07 PM ET:**
+  - Gates cleared: VIX ~15.77 ✓ | WTI >$92 ✓ | XOM/energy holding midday ✓ | Mid-morning settlement passed ✓ | Live price confirmed $57.44 ✓
+  - **Fill:** 155sh @ $57.44 (order e14e30ad; filled 2026-06-08 16:09 UTC / 12:09 PM ET)
+  - **10% trailing stop GTC placed:** order e58bdb3e | HWM $57.435 | Stop $51.69 | Trail 10% GTC ✓
+  - Cost: $8,903.20 (8.93% equity) ✓ | Weekly trade 1/3 ✓
+- **Action:** OXY 155sh entry + 10% trailing stop placed. No losers cut. No stop tightenings (all positions below +15% thresholds).
+- **Thesis check (CAT):** INTACT. Q1 EPS +30%, rev +22%, $63B backlog, Power Gen +41%. Virtual Shareholder Meeting Jun 10 = imminent catalyst. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Stop buffer soft-alert (6.25%) — monitoring; hard cut threshold ($822.47) not threatened.
+- **Thesis check (XOM):** INTACT + STRONGLY REINFORCED. Iran-Israel direct missile exchange = maximum oil premium sustained through midday. WTI ~$93-94 / Brent ~$97-98. Q2 dividend $1.03/sh payable Jun 10 = near-term floor. Mizuho PT $175 / Barclays PT $182. Stop auto-advance expected on new session high above $154.90.
+- **Thesis check (OXY):** ENTERING. OXY is an E&P company with highest beta to WTI among majors — direct beneficiary of Iran geopolitical oil premium. Energy sector #1 YTD (+34.5%). Iran-Israel ceasefire broke down (direct missile exchange first since April); Hormuz closure risk elevated = structural oil premium floor. OPEC+ +188K bpd from July is minor supply offset vs. Iran risk. OXY target $68.93 (+20%); R:R ~2:1; tighten at $66.06 (+15%) → 7% trail; manual cut at $53.42 (−7%).
+- **Tighten triggers:** CAT $1,017 (+15%) | XOM $169.61 (+15%) | OXY $66.06 (+15%) — none reached.
+- **Weekly capacity:** 1/3 used (2/3 remaining). Total deployed: ~27% ($26,870 across 3 positions).
