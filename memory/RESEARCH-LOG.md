@@ -2311,3 +2311,58 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 - **XOM $150.27 (−1.16% intraday; +1.89% unrealized):** Normal profit-taking after Thursday's strong close. Iran deadlock + NFP demand outlook sustain oil bid ($93–95 WTI). Q2 dividend $1.03 payable Jun 10. Stop HWM $154.90 / stop $139.41 / buffer 7.23% ✓ HEALTHY. Thesis INTACT + STRENGTHENING.
 - **No action taken.** No cuts. No stop tightenings. Both stops confirmed ACTIVE via Alpaca orders API.
 - **Next week trigger (Mon Jun 8):** Weekly capacity resets 0/3. If VIX <17 + SPX holds + Iran situation stable → evaluate 3rd position: OXY / MPC (energy adjacency) or ETN / GEV re-entry (AI power-gen industrial). Tighten triggers remain: CAT $1,017 (+15%) → 7% trail; XOM $169.61 (+15%) → 7% trail.
+
+---
+
+## 2026-06-08 — Pre-market Research (Day 25, Monday — Week 6)
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Account
+- **Equity:** $99,764.10 | **Cash:** $82,685.80 (82.9%) | **Buying power:** $91,224.95 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 (RESET — new week) | **Phase P&L:** −$235.90 (−0.24%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|-----------|----------------|------------|
+| CAT | 17 | $884.38 | $915.00 | +$520.56 (+3.46%) | $852.147 trail 10% GTC (HWM $946.83) — buffer $62.85 / 6.87% ⚠ |
+| XOM | 10 | $147.484 | $152.33 | +$48.46 (+3.29%) | $139.41 trail 10% GTC (HWM $154.90) — buffer $12.92 / 8.49% ✓ |
+
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE | Buffer 6.87% ⚠ (slightly below 7% soft threshold — monitoring; not a hard rule)
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer 8.49% ✓ HEALTHY
+
+### Market Context
+- **WTI:** $93.63/bbl (+3.41%) — Iran-Israel direct missile exchange (first attacks since April ceasefire) reigniting geopolitical premium; Brent spiked 4.4% to $97.15+
+- **Brent:** $97.68/bbl (+4.93%) — Brent futures +3.18% at $96.05 / WTI +3.46% at $93.67; OPEC+ also approved +188K bpd from July (supply offset)
+- **S&P 500 futures (ESM26):** ~7,419.75 (~+0.22% lean) — slight positive despite geopolitical tension; prediction markets 55% up-open (low conviction, thin volume)
+- **VIX:** ~15.77 ✓ BELOW 17 gate — favorable; NFP hawkish repricing absorbed last week
+- **Today's primary catalyst:** Iran-Israel missile exchange (Israel struck western/central Iran after Iran fired missiles; ceasefire broke down). First direct exchange since April truce. Raising Strait of Hormuz closure risk.
+- **Earnings pre-market today:** Campbell's (CPB) — not market-moving for our positions
+- **Economic calendar today:** Light — no CPI/PPI/FOMC/jobs data; 49 events but no tier-1 macro releases
+- **This week:** CAT Virtual Shareholder Meeting **Jun 10** (8am CDT) | XOM Q2 dividend $1.03/sh payable **Jun 10** | OPEC+ supply increase from July now confirmed
+
+### Sector YTD 2026
+- Energy ✓ Leading (+34%+ YTD) | Materials +22% | Technology cooling | Industrials solid (+13%) | Healthcare defensive outperformer
+
+### Thesis Check — CAT
+- **INTACT.** $915.00 premarket (+1.19% from $904.28 last close). Q1 EPS +30%, rev +22%, $63B backlog, Power Gen +41%, full-year guidance raised. Virtual Shareholder Meeting **Jun 10** = imminent catalyst. Stop buffer 6.87% — slightly below soft 7% threshold but no -7% loss trigger ($822.47 is the hard cut). Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- Action: HOLD. Monitor stop buffer — if CAT pulls back toward $900, buffer compresses further.
+
+### Thesis Check — XOM
+- **INTACT + STRONGLY REINFORCED.** $152.33 premarket (+1.61% from $149.92 last close). Iran-Israel missile exchange = direct ceasefire breakdown = maximum geopolitical oil premium. WTI $93.63 / Brent $97.68. XOM up sharply; if price > $154.90 (current HWM) today, stop auto-advances. Q2 dividend $1.03/sh payable **Jun 10** (ex-date imminent = near-term floor). Mizuho PT $175 / Barclays PT $182. OPEC+ +188K bpd from July = minor headwind vs. Iran supply risk.
+- Action: HOLD. Watch for new session high > $154.90 → stop auto-advance.
+
+### Trade Ideas
+1. **CAT — HOLD.** Jun 10 Shareholder Meeting imminent. AI data center + Power Gen narrative intact. Monitor stop buffer (currently 6.87% — soft alert). No action.
+2. **XOM — HOLD + HWM watch.** Iran-Israel strike = oil premium extension. If XOM > $154.90 today → stop auto-advances (new HWM). Q2 dividend payable Jun 10. Thesis strongest it has been. No action — let stop manage itself.
+3. **3rd position (WATCHLIST — OXY or MPC):** Weekly capacity 0/3 ✓ | VIX 15.77 (<17 gate ✓) | Energy leading ✓. But oil already up 3–5% at open on fear spike — chasing is poor entry discipline. Wait for mid-morning: if WTI settles above $92 and XOM/oil names hold gains → evaluate OXY or MPC entry with a 9–10% trailing stop and position ≤20% of equity (~$2,000 size). Entry target: intraday pullback after the spike settles. Do NOT buy the open spike.
+
+### Risk Factors
+- **Iran-Israel escalation (HIGH):** Ceasefire broke down → direct missile exchange. Risk: broader regional war / Strait of Hormuz closure → risk-off SPX selloff even as oil spikes. XOM benefits but CAT suffers.
+- **OPEC+ supply increase (MEDIUM):** +188K bpd from July approved — supply expansion could cap WTI medium-term, reducing XOM upside after the initial spike.
+- **CAT stop buffer (MEDIUM):** 6.87% buffer below soft 7% threshold. CAT at $915; HWM $946.83 with stop $852.147. If hawkish-repricing pressure resumes (rate-sensitive industrial selloff), buffer could compress to stop ($852.15).
+- **Oil spike entry timing (MEDIUM):** Entering energy names on a 4–5% gap-up open is poor discipline. Any 3rd position must wait for intraday settlement.
+- **VIX near 17 (LOW):** 15.77 currently — healthy, but a geopolitical escalation could spike VIX above 17 quickly.
+
+### Decision
+**HOLD** — Both positions profitable, both stops ACTIVE. Iran-Israel catalyst strongly reinforces XOM thesis; no new positions at the open gap-up (discipline: never chase a spike). Weekly capacity reset to 0/3 ✓. VIX <17 ✓. If WTI holds above $92 and XOM/energy settle mid-morning, re-evaluate OXY or MPC entry intraday. CAT Shareholder Meeting Jun 10 and XOM dividend Jun 10 both argue for holding through this week. Patience > activity.
