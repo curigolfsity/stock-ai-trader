@@ -827,3 +827,33 @@ No positions yet. Bot launches tomorrow.
 | XOM | 10 | $147.484 | $150.26 | −1.17% | +$27.76 (+1.88%) | $139.41 (10% trail, HWM $154.90) |
 
 **Notes:** Day 24 (NFP Friday) closed down as the strong NFP print (+172K vs +85K consensus) triggered hawkish Fed repricing — rate-cut expectations pushed further out, pressuring rate-sensitive industrials and energy. CAT fell −3.56% to $906.99 from yesterday's $943.72 close; the position intraday set a new phase HWM at $946.83 (stop auto-advanced to $852.15 from $849.47) before the selloff — stop buffer now 6.05% (tighter than ideal but above the 7% soft threshold at peak intraday HWM). XOM slipped −1.17% to $150.26 with stop locked at $139.41 / HWM $154.90 (buffer 7.22%); Iran risk premium (WTI ~$93–95) and the imminent Jun 10 dividend ($1.03/sh) limit downside. Both trailing stops ACTIVE and confirmed via orders API. No trades today (0); weekly count 1/3 (2/3 capacity unused this week). Phase P&L: −$392.32 (−0.39%) vs. $100,000 starting equity. New week starts Mon Jun 8 with fresh 0/3 weekly capacity → evaluate 3rd position (OXY/MPC/ETN/GEV) if VIX <17 + SPX holds at open. CAT tighten trigger $1,017 (+15%) → 7% trail; XOM tighten trigger $169.61 (+15%) → 7% trail — neither reached.
+
+---
+
+## Week of 2026-06-08
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $946.83; stop $852.147) | Q1 beat (rev +22%, EPS +30%), Industrials leading, AI data-center power gen, $10.2B DC sales | ~$1,061 (+20%) | 2:1 |
+| 2026-06-01 | XOM | LONG | 10 | $147.484 | FILLED | 10% GTC (order 55419969; HWM $154.90; stop $139.41) | Energy #1 YTD (+34%+), Iran-Israel ceasefire breakdown = oil premium, Exxon $160 oil warning, Mizuho PT $175 / Barclays PT $182, Q2 dividend $1.03 payable Jun 10 | ~$177 (+20%) | 2:1 |
+
+**Tighten trail:** CAT → 7% at $1,017 (+15%), 5% at $1,061 (+20%). XOM → 7% at $169.61 (+15%), 5% at $176.98 (+20%).
+**Cut rule:** CAT manual cut at $822.47 (−7%). XOM manual cut at $137.16 (−7% from entry).
+
+### Market-Open Scan — 2026-06-08 (Day 25, Monday — Week 6)
+
+- **Account:** Equity $99,888.80 | Cash $82,685.80 (82.8%) | Daytrade count: 0 | Weekly trades: 0/3 (reset)
+- **CAT:** $923.00 (+2.07% on day from $904.28; +4.37% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API) | Buffer $70.85 / 7.68% ✓ HEALTHY
+- **XOM:** $151.20 (+0.85% on day from $149.92; +2.52% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API) | Buffer $11.79 / 7.80% ✓ HEALTHY
+- **Iran-Israel:** Ceasefire broke down — direct missile exchange (first since April truce); WTI +3.4% ($93.63) / Brent +4.9% ($97.68); Strait of Hormuz closure risk elevated. XOM thesis maximally reinforced.
+- **VIX:** ~15.77 ✓ gate met | **SPX futures:** ~+0.22% lean (low conviction)
+- **OXY watchlist:** Stale quote (Jun 5 AH: bid $54.41 / ask $60.67); live open price unavailable — cannot safely size or risk-manage at open ✗
+- **MPC watchlist:** Stale quote (Jun 5 AH: bid $246.34 / ask $283.05); live open price unavailable — cannot safely size or risk-manage at open ✗
+- **Action:** No trades. Research decision: HOLD at open — do not chase 3–5% oil spike (strategy rule: never chase a gap-up); OXY/MPC deferred to intraday evaluation once live prices confirmed and energy names settle.
+- **Thesis check (CAT):** INTACT. Q1 EPS +30%, rev +22%, $63B backlog, Power Gen +41%, full-year guidance raised. Virtual Shareholder Meeting Jun 10 = imminent catalyst. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Buffer 7.68% ✓.
+- **Thesis check (XOM):** INTACT + STRONGLY REINFORCED. Iran-Israel direct missile exchange = maximum oil geopolitical premium. WTI $93.63 / Brent $97.68. Q2 dividend $1.03/sh payable Jun 10. Mizuho PT $175 / Barclays PT $182. HWM $154.90; stop $139.41 — expect auto-advance if XOM sets new session high today. Buffer 7.80% ✓.
+- **Next intraday trigger:** If WTI holds >$92 AND XOM/energy names settle (no reversal) AND live OXY price confirmed → evaluate OXY entry (~155sh at ~$58, stop 10% GTC trail, ~9% equity, target +20%). If VIX spikes >17 → abort all new entries. CAT tighten trigger $1,017 (+15%); XOM tighten trigger $169.61 (+15%) — neither reached.
