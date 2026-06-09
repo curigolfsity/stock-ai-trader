@@ -890,3 +890,22 @@ No positions yet. Bot launches tomorrow.
 | XOM | 10 | $147.484 | $151.78 | +1.24% | +$42.96 (+2.91%) | $139.41 (10% trail, HWM $154.90) |
 
 **Notes:** Day 25 opened Week 6 with a new OXY position (155sh filled intraday @ $57.44 after gates cleared: VIX ~15.77 ✓, WTI >$92 ✓, energy names settled post-gap ✓) as the Iran-Israel ceasefire breakdown — direct missile exchange, first since April — drove WTI +3.4% to $93.63 and Brent +4.9% to $97.68. OXY is an E&P with the highest beta to WTI among large-caps, giving direct exposure to the Iran oil premium at 8.93% equity (order e14e30ad fill; trailing stop GTC order e58bdb3e placed immediately; HWM $57.78, stop $52.00). All three positions closed positive: CAT +0.97% to $913.06 recovering from Friday's NFP selloff (trailing stop HWM $946.83, stop $852.15, buffer ~6.7%); XOM +1.24% to $151.78 with Iran risk premium intact and Q2 dividend $1.03/sh payable Jun 10 providing near-term floor (stop HWM $154.90, stop $139.41, buffer 8.1%). Phase P&L −$231.84 (−0.23%) vs. $100,000 starting equity; portfolio deployed ~26.1% across 3 positions, $73,782.60 cash remaining. Weekly trades 1/3 (2/3 remaining). Tighten triggers: CAT $1,017 (+15%); XOM $169.61 (+15%); OXY $66.06 (+15%) — none reached. Tomorrow: CAT Virtual Shareholder Meeting Jun 10 (imminent catalyst); XOM ex-dividend Jun 10 ($1.03/sh = +$10.30 cash); monitor OXY HWM advance as energy bid holds.
+
+---
+
+### Midday Scan — 2026-06-09
+
+- **Account:** Equity ~$99,115 | Cash $73,782.60 (74.4%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $893.35 (−2.43% intraday from $915.64; +1.01% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE | Buffer $41.20 / 4.61% ⚠ (monitoring; no hard rule breach)
+- **OXY:** $55.90 (−2.75% intraday from $57.48; −2.68% unrealized from $57.44 entry) — no −7% trigger ($53.42); below +15% tightening threshold ($66.06) ✓
+- **OXY trailing stop:** order e58bdb3e | HWM $57.925 | Stop $52.1325 | Trail 10% GTC ✓ ACTIVE | Buffer $3.77 / 6.74% ✓ HEALTHY
+- **XOM:** $148.13 (−2.39% intraday from $151.75; +0.44% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer $8.72 / 5.89% ⚠ (below 7% soft threshold; ex-div Jun 10 narrows further to ~$7.69 / 5.23%)
+- **Action:** No trades. No losers cut. No stop tightenings. All 3 GTC stops ACTIVE (confirmed via orders API).
+- **Market context:** All three down on macro — Trump de-escalation comments softening Iran oil premium today (WTI easing from $93.63 → ~$91–92); VIX ~19 elevated ahead of CPI May binary tomorrow (Jun 10 8:30 AM ET). No position-specific thesis-breaking catalyst.
+- **Thesis check (CAT):** INTACT. Q1 EPS +30%, $63B backlog, AI data-center power gen, full-year guidance raised. Virtual Shareholder Meeting tomorrow Jun 10 (8am CDT) = imminent positive catalyst. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Intraday weakness = broad risk-off, not CAT-specific.
+- **Thesis check (OXY):** INTACT. Iran-Israel ceasefire still broken (direct missile exchange Jun 8 unresolved). WTI $91+ = oil premium intact. Trump de-escalation comments are softening (not eliminating) the premium. OXY at −2.68% unrealized remains well above −7% manual cut ($53.42). E&P high-beta thesis holds. OXY ex-div Jun 10 ($0.26/sh) = minor floor support tomorrow.
+- **Thesis check (XOM):** INTACT. Iran deadlock persists; WTI $91+ sustained. Ex-dividend Jun 10 ($1.03/sh = $10.30 cash credit). ⚠️ Post-ex-div stop buffer will compress to ~$7.69 / 5.23% — stops do NOT auto-adjust for dividends; monitor at Jun 10 open. Mizuho PT $175 / Barclays PT $182 unchanged.
+- **No new entries:** VIX ~19 (above 17 gate) blocks all new positions. Weekly capacity 2/3 remaining but gate not met.
+- **Next trigger:** CPI May tomorrow Jun 10 8:30 AM ET = dominant binary. Benign (core ≤0.3% MoM) + VIX drops below 17 → evaluate 4th position at midday or next-day pre-market. Hot print → heighten stop vigilance on all 3 positions (CAT most rate-sensitive). CAT Shareholder Meeting Jun 10 8am CDT simultaneously.
