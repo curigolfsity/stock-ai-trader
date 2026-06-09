@@ -909,3 +909,16 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (XOM):** INTACT. Iran deadlock persists; WTI $91+ sustained. Ex-dividend Jun 10 ($1.03/sh = $10.30 cash credit). ⚠️ Post-ex-div stop buffer will compress to ~$7.69 / 5.23% — stops do NOT auto-adjust for dividends; monitor at Jun 10 open. Mizuho PT $175 / Barclays PT $182 unchanged.
 - **No new entries:** VIX ~19 (above 17 gate) blocks all new positions. Weekly capacity 2/3 remaining but gate not met.
 - **Next trigger:** CPI May tomorrow Jun 10 8:30 AM ET = dominant binary. Benign (core ≤0.3% MoM) + VIX drops below 17 → evaluate 4th position at midday or next-day pre-market. Hot print → heighten stop vigilance on all 3 positions (CAT most rate-sensitive). CAT Shareholder Meeting Jun 10 8am CDT simultaneously.
+
+---
+
+### Jun 09 — EOD Snapshot (Day 26, Tuesday)
+**Portfolio:** $99,501.87 | **Cash:** $73,782.59 (74.1%) | **Day P&L:** −$273.50 (−0.27%) | **Phase P&L:** −$498.13 (−0.50%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $913.45 | −0.24% | +$494.21 (+3.29%) | $852.15 (10% trail, HWM $946.83) |
+| OXY | 155 | $57.44 | $56.165 | −2.29% | −$197.63 (−2.22%) | $52.13 (10% trail, HWM $57.925) |
+| XOM | 10 | $147.484 | $148.67 | −2.03% | +$11.86 (+0.80%) | $139.41 (10% trail, HWM $154.90) |
+
+**Notes:** Day 26 closed with all three positions off their intraday lows but still negative, as Trump de-escalation comments softened the Iran oil premium (WTI easing from $93.63 → ~$91–92) and elevated VIX (~19) ahead of the CPI May binary (Jun 10 8:30 AM ET) kept risk-off pressure across Energy and Industrials. CAT showed the sharpest intraday recovery — from a midday low of $893.35 (−2.43%) all the way back to $913.45 (−0.24%) at close, recovering ~92% of intraday losses; thesis intact (Q1 EPS +30%, $63B backlog, AI power-gen, Shareholder Meeting tomorrow Jun 10 8am CDT = imminent catalyst). OXY continued to underperform, dropping −2.29% to $56.165 as the softening oil bid hit E&P hardest; unrealized −2.22% from $57.44 entry, stop $52.13 (HWM $57.925), buffer $4.04 (7.18%) — healthy. XOM fell −2.03% to $148.67; ⚠️ ex-dividend tomorrow Jun 10 ($1.03/sh = $10.30 cash credit) — stock will trade ~$1.03 lower at open; effective stop buffer will compress from $9.26 to ~$8.23 (5.54%); GTC stop at $139.41 does NOT auto-adjust for dividends. All three trailing stops ACTIVE and confirmed via orders API; all positions above manual cut thresholds. No trades today (0); weekly count 1/3 (2/3 remaining). Phase P&L −$498.13 (−0.50%) vs. $100,000 starting equity. Dominant binary tomorrow: CPI May 8:30 AM ET — benign (core ≤0.3% MoM) + VIX drops <17 → evaluate 4th position at midday; hot print → heighten stop vigilance on all 3, especially OXY if Iran premium fully unwinds.
