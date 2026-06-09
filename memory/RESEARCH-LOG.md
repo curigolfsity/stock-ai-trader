@@ -2366,3 +2366,62 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
 ### Decision
 **HOLD** — Both positions profitable, both stops ACTIVE. Iran-Israel catalyst strongly reinforces XOM thesis; no new positions at the open gap-up (discipline: never chase a spike). Weekly capacity reset to 0/3 ✓. VIX <17 ✓. If WTI holds above $92 and XOM/energy settle mid-morning, re-evaluate OXY or MPC entry intraday. CAT Shareholder Meeting Jun 10 and XOM dividend Jun 10 both argue for holding through this week. Patience > activity.
+
+---
+
+## 2026-06-09 — Pre-market Research (Day 26, Tuesday — Week 6)
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Account
+- **Equity:** $99,765.59 | **Cash:** $73,782.59 (73.9%) | **Buying power (non-marginable):** $86,774.09
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 (OXY entry Jun 8) | **Phase P&L:** −$234.41 (−0.23%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|---------|----------------|------------|
+| CAT | 17 | $884.38 | $921.80 | +$636.16 (+4.23%) | $852.147 trail 10% GTC (HWM $946.83) — buffer $69.65 / 7.56% ✓ |
+| OXY | 155 | $57.44 | $56.82 | −$96.10 (−1.08%) | $52.1325 trail 10% GTC (HWM $57.925) — buffer $4.69 / 8.25% ✓ |
+| XOM | 10 | $147.484 | $150.53 | +$30.46 (+2.07%) | $139.41 trail 10% GTC (HWM $154.90) — buffer $11.12 / 7.39% ✓ |
+
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE
+- **OXY trailing stop:** order e58bdb3e | HWM $57.925 | Stop $52.1325 | Trail 10% GTC ✓ ACTIVE
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE
+
+### Market Context
+- **WTI:** ~$91–93/bbl — fading from yesterday's $93.63 high on Trump de-escalation comments; still elevated vs. pre-Iran-strike levels
+- **Brent:** ~$93–94/bbl — similarly easing from $97.68 peak
+- **S&P 500 futures (ESM26):** +0.71% — strong chip-led rebound (89% Polymarket probability of up open); SPX closed ~7,405 Monday
+- **VIX:** ~19.04 (prev close ~21.51) ⚠ ABOVE 17 GATE → NO new entries today; VIX elevated = uncertainty/risk-off regime
+- **Today's primary catalysts:** Trump de-escalation comments softening Iran oil premium; chip stock rebound (Nasdaq +0.79% futures); CPI report Wednesday Jun 10 (major binary — energy prices up ~18% YoY in April; hot print risk)
+- **Earnings before open today:** SJM (J.M. Smucker), United Natural Foods, Vail Resorts, Caseys — none relevant to holdings
+- **Economic calendar:** No tier-1 data today. **CRITICAL THIS WEEK:** May CPI Wednesday Jun 10 (8:30 AM ET), May PPI Thursday Jun 11
+- **Sector momentum YTD:** Energy #1 (+34.5%) ✓ | Technology #2 (accelerating; chips rebounding) | Industrials +9–11% | Energy still leading
+
+### Thesis Check — CAT
+- **INTACT.** $921.80 current (+0.67% from $915.64 last close). Q1 EPS +30% ($5.54 adj EPS vs $4.62 est), rev +22%, $63B backlog, Power Gen +41%; AI data-center collaboration with Microsoft/NVIDIA/Nscale (1.35 GW West Virginia). **Virtual Shareholder Meeting tomorrow Jun 10 (8am CDT)** = imminent catalyst. Stop buffer 7.56% ✓ HEALTHY. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Action:** HOLD. Monitor for break above HWM $946.83 → stop auto-advances.
+
+### Thesis Check — XOM
+- **INTACT.** $150.53 current (−0.80% intraday from $151.75 — Trump de-escalation slight oil softness). Iran-Israel ceasefire still broken; WTI still $91+; Hormuz closure risk reduced but not eliminated. **Ex-dividend Jun 10 ($1.03/sh)** — stock will trade ~$1 lower at open tomorrow; stop locked at $139.41 (buffer $11.12 / 7.39% ✓). Mizuho PT $175 / Barclays PT $182. ExxonMobil Sr VP warns WTI could hit $160.
+- **Action:** HOLD. Note ex-dividend tomorrow — stock will open ex-div; stop does NOT advance for div adjustment. Buffer remains healthy.
+
+### Thesis Check — OXY
+- **MONITORING.** $56.82 (−1.08% from $57.44 entry; −$96.10 unrealized). Entered Jun 8 at peak Iran spike — partial unwind today on Trump de-escalation comments. Manual cut threshold $53.42 (−7%) not reached. Stop HWM $57.925, stop $52.1325; buffer $4.69 / 8.25% ✓. **Ex-dividend Jun 10 ($0.26/sh)** — minor floor support. OXY is highest-beta WTI play; most vulnerable to Iran de-escalation thesis erosion. Thesis: Iran-Israel still unresolved, WTI still $91+ = premium intact.
+- **Action:** HOLD. If WTI breaks below $88 convincingly AND Iran talks resume → reassess OXY thesis. Not there yet.
+
+### Trade Ideas
+1. **CAT — HOLD.** Shareholder Meeting Jun 10 tomorrow = imminent positive catalyst. AI power-gen narrative strengthening. Stop buffer 7.56% ✓. No action.
+2. **XOM — HOLD.** Ex-dividend Jun 10 ($1.03/sh) = slight open gap-down tomorrow; not a sell signal. Iran premium reduced but not eliminated. Buffer 7.39% ✓. No action.
+3. **OXY — HOLD/MONITOR.** Recently entered; Iran thesis softening slightly on Trump comments. WTI still $91+ = thesis intact at current level. Ex-dividend Jun 10 ($0.26). Manual cut at $53.42. No action today.
+4. **4th position — BLOCKED.** VIX ~19 (>17 gate) → no new entries. Weekly capacity 2/3 remaining but gate not met. If VIX drops below 17 post-CPI Wednesday with benign print → re-evaluate.
+
+### Risk Factors
+- **VIX ~19 (HIGH):** Above 17 gate = no new entries. Elevated uncertainty from CPI Wednesday + Iran situation = continue elevated until resolved.
+- **CPI May (Wednesday Jun 10 — HIGH):** Hot print (energy prices +18% YoY in April; elevated in May) = hawkish Fed repricing; rate-sensitive names (CAT) pressured; OXY/XOM benefit from energy-driven inflation but broader risk-off could overwhelm.
+- **Iran de-escalation (MEDIUM):** Trump comments softening oil premium today; if formal ceasefire resumes → WTI -5-10% → OXY closest to -7% cut trigger.
+- **Ex-dividend effect (MEDIUM):** Both XOM (−$1.03) and OXY (−$0.26) go ex-div Jun 10 — stops do NOT auto-adjust for dividends; stops will appear closer post-div but buffer remains unchanged in real terms.
+- **CAT stop buffer (LOW):** 7.56% buffer — healthy; CPI hawkish repricing is key downside risk for industrials.
+
+### Decision
+**HOLD** — VIX ~19 blocks all new entries. CPI Wednesday binary = patience. All 3 positions above their manual cut thresholds; all stops ACTIVE. CAT Shareholder Meeting Jun 10 and XOM/OXY ex-dividends Jun 10 argue for holding through tomorrow's events before any reassessment. Weekly capacity 2/3 remaining but VIX gate prevents deployment. Patience > activity.
