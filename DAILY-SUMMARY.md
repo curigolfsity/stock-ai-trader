@@ -30,3 +30,11 @@ Decision: TRADE (XOM at open)
 Ideas: XOM ~$145 energy/inventory bull (Mizuho PT $175, Barclays $182), CAT HOLD thesis intact
 Market: SPX futures +0.17% (7608), VIX 15.32, Oil WTI $87-88
 Risks: ISM slight miss (52.7), oil softening Iran peace, NFP Friday
+
+---
+## 2026-06-10 10:08 UTC (fallback — ntfy 403)
+Pre-market 2026-06-10
+Decision: HOLD
+Ideas: CAT HOLD (stop buffer 4.90% watch CPI), OXY HOLD/WATCH (Iran ceasefire WTI -3.6% thesis stressed), XOM HOLD (ex-div $1.03 today)
+Market: SPX futures +0.71%, VIX ~19.2 (above 17 gate), WTI $88.05 (-3.56%)
+Risks: CPI May 8:30am ET (4.2% YoY est = 3yr high), Iran ceasefire unwinding OXY thesis, CAT stop buffer 4.90% pre-CPI
