@@ -963,3 +963,16 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (XOM):** INTACT. Ex-div $1.03 today is mechanical; stock +1.77% above prior close. Guyana 900K bpd / LNG Golden Pass / Mizuho PT $175 / Barclays PT $182. Buffer 8.01% ✓.
 - **Phase P&L:** ~−$933 (−0.93%) vs. $100,000 starting equity
 - **Next:** If CAT stop $852.147 triggers → confirm fill, remove position, update cash. If CAT holds → buffer recovery possible on CPI core-benign narrative. PPI May Thu Jun 11 8:30 AM ET = next macro binary. VIX ~19 blocks new entries. OXY: maintain WTI $85 hard watch.
+
+---
+
+### Jun 10 — EOD Snapshot (Day 27, Wednesday)
+**Portfolio:** $98,785.95 | **Cash:** $73,782.59 (74.7%) | **Day P&L:** −$800.89 (−0.80%) | **Phase P&L:** −$1,214.05 (−1.21%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $857.83 | −6.22% | −$451.33 (−3.00%) | $852.15 (10% trail, HWM $946.83) |
+| OXY | 155 | $57.44 | $57.47 | +1.63% | +$4.65 (+0.05%) | $52.61 (10% trail, HWM $58.46) |
+| XOM | 10 | $147.484 | $151.24 | +1.57% | +$37.56 (+2.55%) | $139.41 (10% trail, HWM $154.90) |
+
+**Notes:** Day 27 was the worst session of the phase. CAT cratered −6.22% to $857.83 as the stagflation headline (CPI +4.2% YoY, 3-year high driven by energy costs) overwhelmed the benign core print (+0.2% MoM vs +0.3% est); the Virtual Shareholder Meeting (8am CDT) was routine with no negative news. The GTC trailing stop at $852.147 (HWM $946.83) now carries only a $5.68 / 0.66% buffer — the thinnest of the entire phase — and remains the sole guard; no preemptive exit warranted. OXY defied the energy-selloff narrative, recovering +1.63% to $57.47 with the HWM auto-advancing to $58.46 (stop $52.61, buffer 8.52% ✓), as WTI held ~$89–90 above the $85 thesis-break threshold on sustained Iran risk premium. XOM closed +1.57% to $151.24 on the same oil bid; both XOM ($1.03/sh = +$10.30 cash) and OXY ($0.26/sh = +$40.30 cash) went ex-dividend today. No trades entered; weekly count 1/3 (2/3 remaining). Phase P&L deepened to −$1,214.05 (−1.21%) — worst phase reading to date. ⚠ Critical watch: if CAT opens below $852.15 pre-market, GTC stop auto-triggers at market open. Primary binary tomorrow: PPI May (Jun 11 8:30 AM ET) — benign print alongside today's core CPI softness could fuel a CAT relief rally; hot print heightens stop risk. VIX ~19 blocks all new entries.
