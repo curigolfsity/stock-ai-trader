@@ -2425,3 +2425,72 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
 ### Decision
 **HOLD** — VIX ~19 blocks all new entries. CPI Wednesday binary = patience. All 3 positions above their manual cut thresholds; all stops ACTIVE. CAT Shareholder Meeting Jun 10 and XOM/OXY ex-dividends Jun 10 argue for holding through tomorrow's events before any reassessment. Weekly capacity 2/3 remaining but VIX gate prevents deployment. Patience > activity.
+
+---
+
+## 2026-06-10 — Pre-market Research (Day 27, Wednesday — Week 6)
+
+_Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
+
+### Account
+- **Equity:** $99,249.61 | **Cash:** $73,782.59 (74.3%) | **Buying power (non-marginable):** $86,516.10
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 (OXY entry Jun 8) | **Phase P&L:** −$750.39 (−0.75%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (HWM) |
+|--------|--------|-------|---------|----------------|------------|
+| CAT | 17 | $884.38 | $896.06 | +$198.58 (+1.32%) | $852.147 trail 10% GTC (HWM $946.83) — buffer $43.91 / 4.90% ⚠⚠ |
+| OXY | 155 | $57.44 | $56.40 | −$161.20 (−1.81%) | $52.1325 trail 10% GTC (HWM $57.925) — buffer $4.27 / 7.57% ✓ |
+| XOM | 10 | $147.484 | $149.20 | +$17.16 (+1.16%) | $139.41 trail 10% GTC (HWM $154.90) — buffer $9.79 / 6.56% ⚠ (→ ~5.73% post-ex-div) |
+
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE
+- **OXY trailing stop:** order e58bdb3e | HWM $57.925 | Stop $52.1325 | Trail 10% GTC ✓ ACTIVE
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE
+- **Deployed:** $25,467.02 / $99,249.61 = 25.7% (below 75–85% target — VIX gate blocking new entries)
+
+### Market Context
+- **WTI:** ~$88.05 (−3.56% from ~$91.31 prior) — Iran-Israel halt attacks; oil premium UNWINDING. Down sharply from $93.63 peak (Jun 8).
+- **Brent:** ~$93–94/bbl — Iran-Israel signaled halt to attacks; fragile ceasefire, "door open to resumption"
+- **S&P 500 futures (ESM26):** +0.71% | Nasdaq 100 futures: +1.40% — chip-led rebound bid intact
+- **VIX:** ~19.08–19.38 ⚠ ABOVE 17 GATE → no new entries
+- **Today's primary catalyst:** **CPI May 8:30 AM ET — DOMINANT BINARY.** Consensus: +0.5% MoM headline / +4.2% YoY (3-year high driven by Iran energy premium in April/May) / core +0.3% MoM. Hot print → hawkish Fed repricing; CAT (rate-sensitive) most vulnerable. Benign print → VIX could fall below 17 gate → re-evaluate 4th position at midday.
+- **CAT Shareholder Meeting:** Virtual, 8am CDT today — routine annual meeting; no earnings or strategic announcement expected; minor positive optics.
+- **Ex-dividends today:** XOM $1.03/sh → $10.30 cash credit; OXY $0.26/sh → $40.30 cash credit. GTC stops do NOT auto-adjust; buffer appears narrower but unchanged in real terms.
+- **Earnings before open:** Chewy (CHWY) — no relevance to holdings.
+- **Sector momentum YTD:** Energy #1 (+26.8%) | Technology #2 (+24.6%) | Industrials +12.8% — Energy still leading despite Iran de-escalation
+
+### Thesis Checks
+**CAT — INTACT / STOP BUFFER ELEVATED CONCERN:**
+- $896.06 current (−2.04% today); entry $884.38, unrealized +1.32%.
+- Buffer 4.90% ⚠⚠ — below 7% soft threshold. Pre-CPI weakness + rate-sensitivity = elevated downside risk today.
+- Manual cut $822.47 (−7% from entry) not threatened; stop $852.147 triggers first.
+- Thesis: Q1 EPS +30%, $63B backlog, AI power-gen (Microsoft/NVIDIA/Nscale 1.35 GW West Virginia), full-year guidance raised. All-time high $931.35 May 7. New CFO Kyle Epley. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103. INTACT.
+- Action: HOLD. Let stop protect. No preemptive exit. Watch CPI reaction closely at 8:30 AM.
+
+**OXY — THESIS STRESSED / MONITORING:**
+- $56.40 current (−1.81% from $57.44 entry; −0.27% today). Ex-div $0.26 today.
+- Buffer 7.57% ✓. Manual cut $53.42 not reached.
+- ⚠ Iran-Israel halted attacks (Jun 9) → oil premium directly unwinding. WTI now $88.05 vs. $93.63 at OXY entry. Core thesis was Iran-Israel WTI premium. Barclays Overweight upgrade / PT $72 (from $59) = structural bull case; new CEO Richard Jackson; sold chemicals division for $5.8B debt reduction; Trinidad deepwater expansion with XOM.
+- Thesis: STRESSED NOT BROKEN. WTI $88 still elevated vs. pre-conflict (~$75). Ceasefire is fragile ("door open to resumption"). If WTI breaks $85 convincingly and ceasefire holds → thesis broken, close immediately regardless of P&L.
+- Action: HOLD/MONITOR. Hard watch: WTI $85 = thesis-break trigger for OXY.
+
+**XOM — INTACT:**
+- $149.20 current (+1.16% unrealized); ex-dividend $1.03/sh today → stock opens ~$1.03 lower → effective post-div buffer ~5.73% ⚠.
+- Iran de-escalation reduces oil premium but XOM thesis not dependent on Iran spike alone: Guyana 900K bpd, LNG Golden Pass, 43 consecutive years dividend growth, $4.9B buybacks Q1, Q1 adj EPS $1.16 (+15% vs est). Mizuho PT $175 / Barclays PT $182.
+- Action: HOLD. Post-div price dip is mechanical, not a sell signal. Buffer narrows but remains above −7% manual cut ($137.16).
+
+### Trade Ideas
+1. **CAT — HOLD.** Stop buffer 4.90% is the risk. CPI binary = single biggest determinant. If CPI benign and CAT recovers above $915 → buffer health restored. If hot + CAT breaks $880 → stop at $852.15 becomes real. Do not preemptively cut.
+2. **OXY — HOLD with hard watch at WTI $85.** Iran de-escalation is the key variable. Barclays upgrade and structural balance-sheet improvement limit downside thesis. Ex-div $0.26 minor positive today.
+3. **XOM — HOLD.** Ex-div mechanics are noise. Core thesis intact. Post-div buffer ~5.73% — healthy enough.
+4. **4th position (SMCI / NVDA / energy mid-cap) — BLOCKED.** VIX ~19 >17 gate. Re-evaluate post-CPI if VIX drops below 17. Candidates: SMCI (AI server buildout), FANG (E&P with superior Permian/LNG mix vs OXY at lower oil price sensitivity), or ADD to XOM if oil thesis intact post-CPI.
+
+### Risk Factors
+- **CPI May hot print (HIGH):** 4.2% YoY expected — three-year high. Hot = hawkish Fed repricing = CAT (industrial/rate-sensitive) most at risk; stop buffer 4.90% means ~$44 downside before stop trigger.
+- **Iran oil premium unwind (HIGH):** WTI -3.56% to $88 directly pressures OXY. Manual cut $53.42 not reached; thesis stressed. Further ceasefire progress → WTI could test $83–85 → thesis-break territory.
+- **CAT stop buffer (HIGH today):** 4.90% buffer pre-CPI is the most acute tactical risk. If CPI hot + broad selloff: CAT could test $852 stop. Not a reason to exit — it's a reason to be alert.
+- **XOM ex-div mechanics (LOW):** Price opens ~$1.03 lower; stop does not adjust; buffer compresses from 6.56% to ~5.73%. Thesis-driven HOLD.
+- **VIX elevated (MEDIUM):** ~19 gate prevents deployment of $73.8K cash. Patience > deployment.
+
+### Decision
+**HOLD** — All three positions held. VIX ~19 blocks all new entries. CPI May at 8:30 AM ET is the dominant binary; hot print most likely scenario given Iran energy premium in April/May. CAT stop buffer (4.90%) is the primary acute risk — stop is the guard, do not manually exit preemptively. OXY thesis stressed (WTI $88 vs $93.63 entry-day) but not broken — WTI $85 = exit trigger. XOM ex-div today = mechanical price dip, not a signal. Weekly trades 2/3 remaining but VIX gate prevents deployment. Patience > activity.
