@@ -945,3 +945,21 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (OXY):** STRESSED. WTI $87.67 (vs. $93.63 at entry on Jun 8); Iran partial ceasefire = oil premium unwinding. ⚠ Hard watch: WTI sustained break below $85 = thesis-break trigger → close OXY immediately. OXY −1.06% unrealized; manual cut $53.42 not reached. Barclays PT $72 / new CEO Richard Jackson / $5.8B chemicals sale for debt reduction = structural bull case intact. Iran ceasefire described as fragile ("door open to resumption").
 - **Thesis check (XOM):** INTACT. +1.71% unrealized. Ex-div $1.03 today = mechanical price dip, not a sell signal. Guyana 900K bpd / LNG Golden Pass / 43yr dividend growth / $4.9B Q1 buybacks. Post-ex-div stop buffer ~6.41% ⚠ (monitoring). Mizuho PT $175 / Barclays PT $182 unchanged.
 - **Next trigger:** Post-CPI: if benign (core ≤0.3% MoM + VIX drops <17 + SPX recovers) → evaluate 4th position at midday (SMCI / FANG / XOM add). Hot print → heighten stop vigilance on CAT (4.48% buffer, most rate-sensitive). OXY: watch WTI $85 level throughout session.
+
+### Midday Scan — 2026-06-10
+
+- **Account:** Equity ~$99,067 | Cash ~$73,833 (incl. $50.60 div credits) | Daytrade count: 0 | Weekly trades: 1/3
+- **CPI May (8:30 AM ET — CONFIRMED):** Headline +0.5% MoM / +4.2% YoY (in-line; 3-yr high) | Core +0.2% MoM / +2.9% YoY — **BELOW +0.3% est ✓ benign**; shelter +0.3% MoM (vs +0.6% April); energy/gasoline drove headline
+- **CAT:** $864.19 (−5.52% intraday from $914.70; −2.28% unrealized from $884.38 entry) — no −7% trigger ($822.47) ✓; below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE | Buffer $12.04 / **1.39% ⚠⚠ CRITICALLY THIN** — stop is the guard; no preemptive exit
+- **OXY:** $58.24 (+1.39% unrealized from $57.44 entry; +2.98% intraday) — no −7% trigger ($53.42) ✓; below +15% tightening threshold ($66.06) ✓
+- **OXY trailing stop:** order e58bdb3e | HWM $58.27 (↑ auto-advanced from $57.925) | Stop $52.443 (↑ auto-advanced from $52.1325) | Trail 10% GTC ✓ ACTIVE | Buffer $5.80 / 9.96% ✓ HEALTHY (stop only moved up ✓)
+- **XOM:** $151.55 (+2.76% unrealized from $147.484 entry; +1.77% intraday) — no −7% trigger ($137.16) ✓; below +15% tightening threshold ($169.61) ✓; ex-div $1.03/sh → +$10.30 cash credit received ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer $12.14 / 8.01% ✓ (price below HWM; stop locked)
+- **Dividends received:** XOM $1.03/sh (+$10.30) + OXY $0.26/sh (+$40.30) = +$50.60 cash ✓
+- **Action:** No trades. No cuts (no position at −7%). No stop tightenings (all below +15%). No thesis breaks. CAT GTC stop is the guard.
+- **Thesis check (CAT):** INTACT. Core CPI benign (+0.2% vs +0.3% est); intraday selloff macro/headline-driven (Iran energy premium in headline 4.2% YoY). Shareholder meeting (8am CDT) routine — no negative news. Q1 EPS +30%, $63B backlog, AI power-gen (MSFT/NVDA 1.35GW WV) unchanged. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. No CAT-specific negative catalyst.
+- **Thesis check (OXY):** INTACT. WTI $89.71 (range $87.40–$90.38) — above $85 thesis-break threshold ✓. Iran-Israel signaled halt to attacks (fluid); oil premium partially intact. OXY HWM auto-advanced ✓. E&P thesis holds.
+- **Thesis check (XOM):** INTACT. Ex-div $1.03 today is mechanical; stock +1.77% above prior close. Guyana 900K bpd / LNG Golden Pass / Mizuho PT $175 / Barclays PT $182. Buffer 8.01% ✓.
+- **Phase P&L:** ~−$933 (−0.93%) vs. $100,000 starting equity
+- **Next:** If CAT stop $852.147 triggers → confirm fill, remove position, update cash. If CAT holds → buffer recovery possible on CPI core-benign narrative. PPI May Thu Jun 11 8:30 AM ET = next macro binary. VIX ~19 blocks new entries. OXY: maintain WTI $85 hard watch.

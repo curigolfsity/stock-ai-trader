@@ -2494,3 +2494,28 @@ _Research via WebSearch (native fallback — PERPLEXITY_API_KEY not set)_
 
 ### Decision
 **HOLD** — All three positions held. VIX ~19 blocks all new entries. CPI May at 8:30 AM ET is the dominant binary; hot print most likely scenario given Iran energy premium in April/May. CAT stop buffer (4.90%) is the primary acute risk — stop is the guard, do not manually exit preemptively. OXY thesis stressed (WTI $88 vs $93.63 entry-day) but not broken — WTI $85 = exit trigger. XOM ex-div today = mechanical price dip, not a signal. Weekly trades 2/3 remaining but VIX gate prevents deployment. Patience > activity.
+
+---
+
+## 2026-06-10 — Midday Addendum (~midday ET)
+
+### CPI May Confirmed (8:30 AM ET)
+- Headline: +0.5% MoM / +4.2% YoY (in-line; 3-yr high) — energy +3.9% MoM / +23.5% YoY; gasoline +7% MoM / +40.5% YoY
+- **Core: +0.2% MoM / +2.9% YoY — BELOW +0.3% consensus ✓ benign**; shelter +0.3% MoM (vs +0.6% April — sharply softer)
+- Fed read: Headline hot but driven entirely by Iran energy premium; core decelerated meaningfully. Not a hawkish shock on core. Mixed but not thesis-breaking for industrials.
+
+### Account Snapshot
+- Equity: ~$99,067 | Cash: ~$73,833 (incl. $50.60 div credits from XOM/OXY ex-div today)
+- Daytrade count: 0 | Weekly trades: 1/3
+
+### Position Updates
+- **CAT:** $864.19 (−5.52% intraday; −2.28% unrealized). Stop $852.147 = 1.39% buffer ⚠⚠. Macro-driven selloff (headline CPI + broad risk-off). No CAT-specific news beyond routine shareholder meeting. Thesis intact. Stop is the guard.
+- **OXY:** $58.24 (+2.98% intraday; +1.39% unrealized). HWM auto-advanced to $58.27; stop auto-advanced to $52.443 ✓. WTI $89.71 — above $85 thesis-break threshold ✓.
+- **XOM:** $151.55 (+1.77% intraday; +2.76% unrealized). Ex-div $1.03/sh received. Thesis intact.
+
+### No Actions Taken
+No trades, cuts, or stop adjustments. CAT stop is the guard; OXY/XOM healthy.
+
+### Next Catalyst
+- PPI May Thu Jun 11 8:30 AM ET — if benign → further CPI core relief narrative; if hot → continued broad pressure
+- VIX ~19 — new-entry gate blocked; patience
