@@ -976,3 +976,25 @@ No positions yet. Bot launches tomorrow.
 | XOM | 10 | $147.484 | $151.24 | +1.57% | +$37.56 (+2.55%) | $139.41 (10% trail, HWM $154.90) |
 
 **Notes:** Day 27 was the worst session of the phase. CAT cratered −6.22% to $857.83 as the stagflation headline (CPI +4.2% YoY, 3-year high driven by energy costs) overwhelmed the benign core print (+0.2% MoM vs +0.3% est); the Virtual Shareholder Meeting (8am CDT) was routine with no negative news. The GTC trailing stop at $852.147 (HWM $946.83) now carries only a $5.68 / 0.66% buffer — the thinnest of the entire phase — and remains the sole guard; no preemptive exit warranted. OXY defied the energy-selloff narrative, recovering +1.63% to $57.47 with the HWM auto-advancing to $58.46 (stop $52.61, buffer 8.52% ✓), as WTI held ~$89–90 above the $85 thesis-break threshold on sustained Iran risk premium. XOM closed +1.57% to $151.24 on the same oil bid; both XOM ($1.03/sh = +$10.30 cash) and OXY ($0.26/sh = +$40.30 cash) went ex-dividend today. No trades entered; weekly count 1/3 (2/3 remaining). Phase P&L deepened to −$1,214.05 (−1.21%) — worst phase reading to date. ⚠ Critical watch: if CAT opens below $852.15 pre-market, GTC stop auto-triggers at market open. Primary binary tomorrow: PPI May (Jun 11 8:30 AM ET) — benign print alongside today's core CPI softness could fuel a CAT relief rally; hot print heightens stop risk. VIX ~19 blocks all new entries.
+
+---
+
+### Midday Scan — 2026-06-11
+
+- **Account:** Equity $99,286.78 | Cash $73,782.59 (74.3%) | Daytrade count: 0 | Weekly trades: 1/3
+- **PPI May (8:30 AM ET — CONFIRMED HOT):** Headline +1.1% MoM (vs +0.7% est) / +6.5% YoY (highest since Nov 2022) | Core +0.4% MoM (vs +0.5% est — slightly below; energy-driven, not core demand) | Energy goods +10.7% MoM; gasoline +23.4% MoM
+- **VIX:** ~20.55–21.25 — **GATE BLOCKED ✗** (new entries require sustained close <17)
+- **Iran:** Trump declared US will seize control of Kharg Island (Iran's primary oil export hub) + surrounding infrastructure — strongest escalation yet; Hormuz blockade ongoing. WTI surging above $92.
+- **Market:** Nasdaq/S&P 500 RISING despite hot headline PPI and Iran escalation — core PPI +0.4% (below +0.5% est) = energy-driven inflation narrative intact; market reading it constructively
+- **CAT:** $886.785 (+3.58% intraday from $856.16; +0.27% unrealized from $884.38 entry) — no −7% trigger ($822.47) ✓; below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE | Buffer $34.64 / **3.91% ⚠ monitoring** (improved from pre-mkt 2.47% but below 7% soft threshold)
+- **OXY:** $57.59 (+0.86% intraday from $57.10; +0.26% unrealized from $57.44 entry) — no −7% trigger ($53.42) ✓; below +15% tightening threshold ($66.06) ✓
+- **OXY trailing stop:** order e58bdb3e | HWM $58.46 | Stop $52.614 | Trail 10% GTC ✓ ACTIVE | Buffer $4.98 / 8.64% ✓ HEALTHY
+- **XOM:** $150.96 (+0.23% intraday from $150.62; +2.36% unrealized from $147.484 entry) — no −7% trigger ($137.16) ✓; below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer $11.55 / 7.65% ✓ HEALTHY (price below HWM; stop locked)
+- **Action:** No trades. No losers cut. No stop tightenings. All 3 GTC stops ACTIVE (confirmed via orders API).
+- **Thesis check (CAT):** INTACT. +3.58% recovery buying the dip after yesterday's -6.22% crash. PPI hot but energy-driven (core +0.4% below est); not a hawkish-demand shock. Q1 EPS +30%, $63B backlog, AI power-gen (Microsoft/NVIDIA 1.35GW WV), full-year guidance raised. Note: Trefis bearish opinion piece published today (recovery uncertainty); median analyst PT $861.50 (lagging Street leaders). High-conviction PTs unchanged: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Stop buffer 3.91% — GTC stop is the guard; no preemptive exit.
+- **Thesis check (OXY):** INTACT + STRONGLY REINFORCED. Kharg Island seizure announcement = direct structural WTI supply shock risk. Iran escalating, not de-escalating. WTI well above $85 thesis-break threshold ✓. Barclays PT $72 / new CEO Richard Jackson / $5.8B chemical sale. Buffer 8.64% ✓.
+- **Thesis check (XOM):** INTACT + REINFORCED. Kharg Island + Hormuz blockade = Iran oil premium structurally elevated. Guyana 900K bpd / Golden Pass LNG / Mizuho PT $175 / Barclays PT $182. Buffer 7.65% ✓. HWM $154.90 — watch for auto-advance if XOM sets new session high.
+- **Phase P&L:** −$713.22 (−0.71%) vs. $100,000 starting equity (improved from yesterday's −1.21%)
+- **Next trigger:** No new entries (VIX 21 ✗). CAT watch: sustained recovery above $900 → buffer restoration; break below $870 → elevated stop-trigger risk. OXY/XOM: Kharg Island = WTI $95+ scenario possible → tighten triggers ($66.06 / $169.61) now closer on multi-week horizon. Weekly capacity 2/3 remaining but VIX gate closed. Patience > activity.

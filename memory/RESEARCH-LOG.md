@@ -2581,3 +2581,40 @@ No trades, cuts, or stop adjustments. CAT stop is the guard; OXY/XOM healthy.
 
 ### Decision
 **HOLD** — All three positions held. Iran day-2 US strikes + Hormuz blockade = strongest thesis reinforcement for OXY/XOM since entry. WTI $92.45 well above OXY thesis-break $85. CAT stop $852.147 (buffer 2.47%) is the sole acute risk — PPI at 8:30 AM ET determines direction. VIX 22.22 blocks all new entries. If VIX drops <17 post-PPI: re-evaluate FANG or OXY/XOM add at midday. Weekly capacity 2/3 remaining but gate closed. Patience > activity.
+
+---
+
+## 2026-06-11 — Midday Addendum (~midday ET)
+
+### PPI May Confirmed (8:30 AM ET)
+- Headline: +1.1% MoM (vs +0.7% est) / +6.5% YoY — HOT; highest since Nov 2022
+- **Core: +0.4% MoM (vs +0.5% est — BELOW est; energy-driven, not core demand)**
+- Energy goods: +10.7% MoM; gasoline: +23.4% MoM — Iran premium entirely responsible
+- Fed read: Same as CPI — headline screaming from energy costs; underlying core pressures not accelerating. Not a hawkish demand shock. No rate change signal.
+
+### Iran Escalation Update
+- Trump announced US will seize Kharg Island (Iran's primary oil export terminal, handles ~90% of Iranian crude exports) + surrounding infrastructure
+- This is the strongest escalation signal yet — Kharg seizure would be a structural supply shock, not a geopolitical premium
+- WTI surging above $92; OXY/XOM thesis maximally reinforced
+
+### Market Context
+- VIX: 20.55–21.25 intraday — still well above 17 gate; all new entries blocked
+- S&P 500/Nasdaq RISING (+ve intraday) despite hot PPI and Iran escalation — market reading core PPI constructively; energy-driven inflation narrative accepted
+- Russell 2000 +1%+ showing broad-based recovery signal
+
+### Account Snapshot
+- Equity: $99,286.78 | Cash: $73,782.59 (74.3%) | Phase P&L: −$713.22 (−0.71%)
+- Daytrade count: 0 | Weekly trades: 1/3 (2/3 remaining)
+
+### Position Updates
+- **CAT:** $886.785 (+3.58% intraday, buffer 3.91% ⚠ improving). Recovery from yesterday's −6.22% crash. Stop GTC at $852.147 is the guard. Note: Trefis published bearish recovery-timeline piece today; median analyst PT $861.50 — lagging high-conviction leaders (JPM $1,125 / Baird $1,165). Thesis intact.
+- **OXY:** $57.59 (+0.86% intraday, buffer 8.64% ✓). Kharg Island risk = structural WTI floor. Thesis strongly reinforced.
+- **XOM:** $150.96 (+0.23% intraday, buffer 7.65% ✓). Iran war premium locked in. HWM $154.90 — auto-advance possible if new session high.
+
+### No Actions Taken
+No trades, cuts, or stop adjustments. No thesis breaks. All 3 GTC stops ACTIVE.
+
+### Next Catalyst
+- EOD close: CAT recovery confirmation above $890; OXY/XOM stop HWM auto-advance watch
+- VIX: Still 21+; gate remains closed; patience on 4th position
+- Kharg Island: If US actuals seize or strike oil infrastructure → WTI $95–100+ → evaluate OXY/XOM tighten triggers at +15% ($66.06 / $169.61)
