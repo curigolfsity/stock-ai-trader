@@ -998,3 +998,16 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (XOM):** INTACT + REINFORCED. Kharg Island + Hormuz blockade = Iran oil premium structurally elevated. Guyana 900K bpd / Golden Pass LNG / Mizuho PT $175 / Barclays PT $182. Buffer 7.65% ✓. HWM $154.90 — watch for auto-advance if XOM sets new session high.
 - **Phase P&L:** −$713.22 (−0.71%) vs. $100,000 starting equity (improved from yesterday's −1.21%)
 - **Next trigger:** No new entries (VIX 21 ✗). CAT watch: sustained recovery above $900 → buffer restoration; break below $870 → elevated stop-trigger risk. OXY/XOM: Kharg Island = WTI $95+ scenario possible → tighten triggers ($66.06 / $169.61) now closer on multi-week horizon. Weekly capacity 2/3 remaining but VIX gate closed. Patience > activity.
+
+---
+
+### Jun 11 — EOD Snapshot (Day 28, Thursday)
+**Portfolio:** $99,270.58 | **Cash:** $73,782.59 (74.3%) | **Day P&L:** +$484.63 (+0.49%) | **Phase P&L:** −$729.42 (−0.73%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $894.58 | +4.49% | +$173.42 (+1.15%) | $852.15 (10% trail, HWM $946.83) |
+| OXY | 155 | $57.44 | $56.755 | −0.60% | −$106.18 (−1.19%) | $52.61 (10% trail, HWM $58.46) |
+| XOM | 10 | $147.484 | $148.31 | −1.53% | +$8.26 (+0.56%) | $139.41 (10% trail, HWM $154.90) |
+
+**Notes:** Day 28 delivered a sharp split. CAT surged +4.49% to $894.58 — its strongest session since the phase began — recovering nearly three-quarters of yesterday's −6.22% crash as the market bought the dip on the PPI read: headline +1.1% MoM (vs +0.7% est) was entirely energy-driven (gasoline +23.4%), while core +0.4% MoM came in below the +0.5% est, preserving the "energy-not-demand inflation" narrative that kept CAT bulls engaged. The Trump announcement of US seizing Kharg Island control paradoxically reinforced this theme — Iran oil premium = energy CPI, not broad inflation — and the Industrials/AI-demand side of CAT's thesis (Q1 EPS +30%, $63B backlog, MSFT/NVDA 1.35GW WV project) reasserted itself. Energy names reversed intraday: OXY faded from a +0.86% midday gain to close −0.60% ($56.755) and XOM dropped −1.53% to $148.31, as WTI likely pulled back EOD from its Kharg Island spike on ceasefire-optimism noise. All three GTC trailing stops ACTIVE and confirmed via orders API: CAT $852.147 (buffer $42.43 / 4.74%; HWM $946.83) ⚠ still below 7% soft threshold — GTC stop remains the sole guard; OXY $52.614 (buffer $4.14 / 7.30%; HWM $58.46) ✓ healthy; XOM $139.41 (buffer $8.90 / 6.00%; HWM $154.90) ✓. No trades today; weekly count 1/3 (2/3 remaining); VIX ~21 blocks all new entries. Phase P&L improved from −$1,214.05 (Day 27) to −$729.42 (−0.73%), recovering $485 in one session. No macro binary scheduled Friday; watch Iran Kharg Island / WTI trajectory for OXY/XOM direction and whether CAT can hold above $890 as next stop-tightening proxy milestone.
