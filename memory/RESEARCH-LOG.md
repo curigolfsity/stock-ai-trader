@@ -2519,3 +2519,65 @@ No trades, cuts, or stop adjustments. CAT stop is the guard; OXY/XOM healthy.
 ### Next Catalyst
 - PPI May Thu Jun 11 8:30 AM ET — if benign → further CPI core relief narrative; if hot → continued broad pressure
 - VIX ~19 — new-entry gate blocked; patience
+
+---
+
+## 2026-06-11 — Pre-market Research (Day 28, Thursday — Week 6)
+
+### Account Snapshot
+- Equity: $99,025.63 | Phase P&L: −$974.37 (−0.97%) vs $100,000 start
+- Cash: $73,782.59 (74.5%)
+- Long market value: $25,243.04
+- Daytrade count: 0 | Weekly trades: 1/3 (2/3 remaining)
+
+### Positions (pre-market)
+| Ticker | Shares | Entry | Pre-mkt | Unrlzd P&L | Stop | Buffer |
+|--------|--------|-------|---------|------------|------|--------|
+| CAT | 17 | $884.38 | $873.77 | −$180.35 (−1.20%) | $852.15 (HWM $946.83) | $21.62 / 2.47% ⚠⚠ |
+| OXY | 155 | $57.44 | $57.29 | −$23.25 (−0.26%) | $52.61 (HWM $58.46) | $4.68 / 8.17% ✓ |
+| XOM | 10 | $147.48 | $150.90 | +$34.16 (+2.32%) | $139.41 (HWM $154.90) | $11.49 / 7.62% ✓ |
+
+### Market Context
+- **WTI:** ~$92.45 (+2.7% surge) | **Brent:** ~$93–95 — Iran escalation driving bid
+- **S&P 500 futures:** +0.78% (buy-the-dip after Wed −1.62% to 7,266.99; 95% Polymarket prob of higher open)
+- **VIX:** 22.22 close Jun 10 (+11.83%) ⚠ GATE BLOCKED — new entries require sustained close <17
+- **Iran (DOMINANT):** US launched 2nd consecutive day of strikes on Iran (Jun 11 AM). Iran fired back at Bahrain, Kuwait, Jordan. CENTCOM hit Iranian air defense, comms, surveillance sites. Iran maintaining Strait of Hormuz blockade. Market repricing from "ceasefire" to "long grind." WTI $92+ is direct OXY/XOM catalyst.
+- **Earnings before open:** Adobe (ADBE) — not a portfolio catalyst
+- **Economic calendar:** PPI May Jun 11 8:30 AM ET ← DOMINANT BINARY. April PPI was +1.4%. Hot print = hawkish repricing = CAT risk. Benign = further CPI core relief.
+- **Sector momentum:** Energy leading (Iran war premium intact, WTI surging). Industrials/rate-sensitives under pressure (CPI 4.2% YoY + hawkish rate fear).
+
+### Thesis Checks
+**CAT — INTACT / STOP BUFFER CRITICALLY THIN:**
+- Pre-mkt $873.77 (+2.06% recovery from $856.16 yesterday); unrealized −1.20% from entry $884.38
+- Stop $852.147, buffer $21.62 / 2.47% ⚠⚠ — thinnest of entire phase
+- Thesis: Q1 EPS +30%, $63B backlog, AI power-gen (Microsoft/NVIDIA 1.35GW WV). Intact.
+- PPI binary at 8:30 AM ET = dominant risk for CAT specifically (rate-sensitive industrial)
+- Action: HOLD. Stop is the guard. Do not preemptively exit.
+
+**OXY — THESIS STRONGLY REINFORCED:**
+- Pre-mkt $57.29 (+0.33%); unrealized −0.26% from entry $57.44; buffer 8.17% ✓
+- Iran day-2 escalation + WTI $92.45 = exact catalyst at entry (Jun 8) re-strengthening
+- WTI $92 vs $85 thesis-break threshold: 8.8% above hard-exit trigger ✓ HEALTHY
+- Barclays Overweight PT $72; new CEO Richard Jackson; $5.8B chemical sale debt reduction
+- Action: HOLD. Iran long-grind scenario = sustained oil premium. Monitor WTI $85 hard stop.
+
+**XOM — INTACT / STRENGTHENING:**
+- Pre-mkt $150.90 (+0.19%); unrealized +2.32% from entry $147.48; buffer 7.62% ✓
+- Iran escalation + Hormuz blockade = direct structural support for XOM thesis
+- Guyana 900K bpd / Golden Pass LNG / $4.9B buybacks / Mizuho PT $175 / Barclays PT $182
+- Action: HOLD. If XOM breaks above HWM $154.90, stop auto-advances. Thesis intact.
+
+### Trade Ideas
+1. **OXY ADD** — Iran day-2 escalation, WTI $92.45 (+2.7%), thesis strongest since entry. Would add ~$2K (bring to ~$10.9K / ~11% equity). **BLOCKED: VIX 22.22 > 17 gate.** Queue for re-evaluation if VIX drops <17.
+2. **XOM ADD** — Same Iran/Hormuz thesis; add 10 shares (~$1,509, bring to ~$3K / ~3%). **BLOCKED: VIX 22.22 > 17 gate.** Monitor for gate opening.
+3. **FANG (Diamond Back Energy)** — Permian pure-play, Iran-WTI beneficiary, less leverage than OXY. Entry ~$180 if gate opens. Stop $162 (−10%), target $207+ (2:1 R:R). **BLOCKED: VIX gate.** Best idea IF VIX drops <17.
+
+### Risk Factors
+- **PPI hot print (HIGH):** 8:30 AM ET today — hot = rate hawkish = CAT most exposed (2.47% buffer). Hot PPI + broad selloff could trigger CAT stop $852.147.
+- **CAT stop buffer (CRITICAL):** $852.147, buffer only $21.62 / 2.47%. No preemptive exit — stop is the rule.
+- **Iran long-grind (DUAL):** Bullish oil (OXY/XOM) but bearish risk assets broadly (elevated VIX, SPX pressure). War premium may spike further if Hormuz closure intensifies.
+- **VIX 22.22 (HIGH):** Blocks all new deployments. $73.8K cash sits idle until gate opens.
+- **Daytrade risk (LOW):** Count 0; PDT cap not at risk today.
+
+### Decision
+**HOLD** — All three positions held. Iran day-2 US strikes + Hormuz blockade = strongest thesis reinforcement for OXY/XOM since entry. WTI $92.45 well above OXY thesis-break $85. CAT stop $852.147 (buffer 2.47%) is the sole acute risk — PPI at 8:30 AM ET determines direction. VIX 22.22 blocks all new entries. If VIX drops <17 post-PPI: re-evaluate FANG or OXY/XOM add at midday. Weekly capacity 2/3 remaining but gate closed. Patience > activity.
