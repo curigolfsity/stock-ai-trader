@@ -1040,3 +1040,17 @@ No positions yet. Bot launches tomorrow.
 | 2026-06-08 | OXY | LONG | 155 | $57.44 | **CLOSED 2026-06-12 @ $55.31** | GTC cancelled | **THESIS BROKEN** — WTI $83.80 < $85 threshold; Iran peace deal removes war premium. Realized P&L: −$330.15 (−3.71%) | — | — |
 
 **Weekly Trade Count: 2 confirmed (OXY 155sh filled 2026-06-08 entry; OXY 155sh thesis-break exit 2026-06-12)**
+
+### Midday Scan — 2026-06-12
+
+- **Account:** Equity ~$99,252 | Cash $82,355.64 (83.0%) | Daytrade count: 0 | Weekly trades: 2/3
+- **CAT:** $906.52 (+0.99% intraday; +2.50% unrealized from $884.38 entry) — no −7% trigger ($822.47) ✓; below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE | Buffer $54.37 / **5.99% ⚠** (price below HWM; stop locked; below 7% soft threshold — GTC stop is guard)
+- **XOM:** $148.565 (+1.34% intraday; +0.73% unrealized from $147.484 entry) — no −7% trigger ($137.16) ✓; below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer $9.155 / **6.16% ⚠** (price below HWM; stop locked; below 7% soft threshold — GTC stop is guard)
+- **Market:** WTI ~$83–86 (continued decline on Iran peace deal; Axios reports ceasefire extension + 60-day nuclear negotiation window; Khamenei approval still pending) | SPX strong risk-on | VIX ~19 — gate blocked ✗
+- **Action:** No trades. No cuts. No stop tightenings. Both GTC stops confirmed ACTIVE via orders API.
+- **Thesis check (CAT):** INTACT + IMPROVING. Iran peace = risk-on rally + oil declining = Q2 margin tailwind. Q1 EPS +30%, $63B backlog, AI power-gen (MSFT/NVDA 1.35GW WV), dividend raised 8% to $1.63/sh. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020.
+- **Thesis check (XOM):** INTACT BUT WEAKENING. WTI ~$83–86 declining on peace deal — above $80 thesis-break floor ✓. XOM diversified (Guyana 900K bpd / LNG Golden Pass / refining). Buffer 6.16% ⚠. GTC stop at $139.41 is guard. Monitor if WTI breaks $80.
+- **Phase P&L:** ~−$748 (−0.75%) vs. $100,000 starting equity
+- **Next:** No new entries (VIX ~19 ✗). FOMC Jun 16–17 = next macro binary. If Iran deal finalizes → WTI could test $78–80 → reassess XOM thesis. If CAT holds above $900 → buffer improving. Weekly capacity 1/3 remaining but VIX gate closed. Patience > activity.

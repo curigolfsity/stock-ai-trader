@@ -2693,3 +2693,11 @@ No trades, cuts, or stop adjustments. No thesis breaks. All 3 GTC stops ACTIVE.
 - After OXY exit: 2 positions (CAT, XOM), ~$73.8K+ cash, weekly count 2/3 used
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+### 2026-06-12 — Afternoon Addendum (Midday Scan)
+
+- **WTI:** ~$83–86 (continued decline; Axios: Iran ceasefire extension + 60-day nuclear negotiation window; Khamenei approval still pending — deal not signed but imminent narrative intact)
+- **CAT $906.52** (+0.99% intraday): Iran peace = risk-on + oil margin tailwind. Thesis intact + improving. No action.
+- **XOM $148.565** (+1.34% intraday): Oil headwind, but XOM diversified thesis holds above $80 WTI. Monitor for $80 break = thesis-break level.
+- **No trades executed at midday.** All GTC stops confirmed active (CAT $852.147 / XOM $139.41). No -7% cuts. No +15% tightenings.
+- **VIX ~19 — all new entries blocked.**
