@@ -210,3 +210,63 @@ Rule adherence C (manual cut protocol violated), risk management B (stop system 
 
 ### Overall Grade: B-
 Rule adherence B (XOM stop placement delayed — repeated process failure; no other violations), risk management A (both stops healthy, HWMs advancing, no manual cuts needed, buffers above 3% threshold), relative performance C (bot +0.56% vs SPX +1.6% = -1.04% gap; NFP hawkish close weighed on industrials/energy; phase P&L improving but still negative).
+
+---
+
+## Week ending 2026-06-12
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,888.80 (Mon Jun 8 open) |
+| Ending portfolio | $99,301.33 (Fri Jun 12 live) |
+| Week return | −$587.47 (−0.59%) |
+| S&P 500 week | ~+2.0% (Iran peace deal rally; 10th consecutive positive week) |
+| Bot vs S&P | ~−2.59% |
+| Trades | 1 (W:0 / L:1 / open:2) |
+| Win rate | N/A (0/1 closed trades) |
+| Best trade | N/A |
+| Worst trade | OXY −$330.15 (−3.71%) |
+| Profit factor | 0.00 |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| OXY | $57.44 (Jun 8) | $55.31 (Jun 12) | −$330.15 (−3.71%) | Thesis-break exit at open — WTI $83.80 < $85 hard threshold; Iran peace deal removed war premium; held 4 trading days |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CAT | $884.38 | $910.57 | +$445.25 (+2.96%) | $852.15 (10% trail GTC, HWM $946.83) |
+| XOM | $147.484 | $146.60 | −$8.84 (−0.60%) | $139.41 (10% trail GTC, HWM $154.90) |
+
+### What Worked
+- Thesis-break rule on OXY executed cleanly and immediately — WTI pre-market $83.80 < $85 threshold → market sell at open, no hesitation; strategy discipline A
+- OXY stop placed T+0 at fill on Jun 8 (process improvement from XOM week 5 delay; no recurrence)
+- CAT recovered +4.49% Thu (Jun 11) and +1.65% Fri (Jun 12) after −6.22% CPI crash on Wed — thesis intact throughout; AI power-gen + margin tailwind as oil declines
+- All 3 GTC stops confirmed ACTIVE via orders API daily throughout the week; no execution failures
+- Iran peace deal actually improves CAT Q2 margin thesis (WTI declining = lower input costs); risk-on rotated into Industrials at week end
+
+### What Didn't Work
+- OXY entry timing was poor — entered Mon Jun 8 on the exact day of peak Iran escalation (first direct missile exchange since April truce); oil premium unwound by Friday; entered and exited the same geopolitical narrative in 4 days
+- CAT buffer hit critically thin territory: 0.66% on Wed Jun 10 after −6.22% session; GTC stop was the sole guard; one gap-down open would have triggered
+- XOM thesis weakening — WTI declining on peace deal; stop buffer 5.28% ⚠; if oil breaks $80 the thesis breaks with no unrealized cushion
+- Energy sector track record: GEV (−8.43%), OXY (−3.71%) = 2 confirmed Energy losses; XOM is a 3rd Energy position still open — sector exit rule proximity is a risk
+- Bot underperformed S&P by ~−2.59%; 6 consecutive weeks of negative relative performance
+
+### Key Lessons
+- **Never enter high-beta E&P on the day of an oil-spike event** — geopolitical binary catalysts (Iran missile exchange) move E&P stocks 3–5% at open; entering the same day means chasing the spike; require 2 confirmed sessions of sustained oil premium before entering OXY-class positions
+- **Sector exit rule proximity:** GEV + OXY = 2 Energy sector failures; strategy requires exit after 2 consecutive failed trades; XOM is the 3rd Energy position — if XOM closes as a realized loss, the Energy sector exit rule activates and no further Energy trades are permitted until one other sector re-qualifies
+- CAT at 0.66% stop buffer (Jun 10) is survivable when the underlying thesis is intact and the drop is macro-not-fundamental; but this is not a position to add to at current HWM distance
+
+### Adjustments for Next Week
+- **XOM hard watch:** if WTI breaks sustained close below $80 → thesis-break exit at next open (same protocol as OXY); if WTI holds $83–86 → hold with current stop; buffer 5.28% ⚠ — GTC stop is guard
+- **Energy sector alert:** 2 closed Energy losses logged (GEV, OXY); XOM is 3rd open Energy position; one more confirmed loss = sector exit rule triggers; no new Energy trades until this risk resolves
+- **FOMC Jun 16–17:** dominant macro binary; no new entries before the decision; post-FOMC if dovish lean + VIX drops below 17 → evaluate 3rd position from non-Energy sectors (ETN / SMCI / non-correlated)
+- **CAT:** buffer 6.34% ⚠ (below 7% soft threshold); watch for HWM advance above $946.83; tighten trigger $1,017 (+15%) → 7% trail remains active; Iran peace = Q2 margin tailwind = net thesis improvement
+- Avoid entering new positions on days with known macro binaries (CPI/PPI days reconfirmed as high-risk intraday)
+
+### Overall Grade: C
+Rule adherence A (thesis-break on OXY executed immediately; all stops active; manual cut rule never violated; no process failures), risk management B (OXY entry on oil-spike peak was poor timing; CAT buffer critically thin Jun 10; XOM buffer deteriorating), relative performance D (bot −0.59% vs SPX ~+2.0% = ~−2.59% gap; 6th consecutive week of negative relative performance; phase P&L −$698.67 / −0.70%). Discipline on exits was excellent; entry timing on OXY was the critical error.
+
+---
