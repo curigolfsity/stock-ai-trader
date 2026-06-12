@@ -1054,3 +1054,15 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (XOM):** INTACT BUT WEAKENING. WTI ~$83–86 declining on peace deal — above $80 thesis-break floor ✓. XOM diversified (Guyana 900K bpd / LNG Golden Pass / refining). Buffer 6.16% ⚠. GTC stop at $139.41 is guard. Monitor if WTI breaks $80.
 - **Phase P&L:** ~−$748 (−0.75%) vs. $100,000 starting equity
 - **Next:** No new entries (VIX ~19 ✗). FOMC Jun 16–17 = next macro binary. If Iran deal finalizes → WTI could test $78–80 → reassess XOM thesis. If CAT holds above $900 → buffer improving. Weekly capacity 1/3 remaining but VIX gate closed. Patience > activity.
+
+---
+
+### Jun 12 — EOD Snapshot (Day 29, Friday)
+**Portfolio:** $99,339.07 | **Cash:** $82,355.64 (82.9%) | **Day P&L:** +$68.49 (+0.07%) | **Phase P&L:** −$660.93 (−0.66%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $912.44 | +1.65% | +$477.04 (+3.17%) | $852.15 (10% trail, HWM $946.83) |
+| XOM | 10 | $147.484 | $147.195 | +0.41% | −$2.89 (−0.20%) | $139.41 (10% trail, HWM $154.90) |
+
+**Notes:** Day 29 (Friday, end of Week 6) closed modestly positive: CAT surged +1.65% to $912.44 on Iran peace deal risk-on momentum (oil declining → Q2 margin tailwind; SPX strong) and XOM added +0.41% to $147.195 despite WTI falling to ~$83–86. The day's defining event was the OXY thesis-break exit at the open: WTI pre-market dropped to $83.80 — breaching the $85 hard-watch threshold — on Trump "Iran deal imminent this weekend" commentary, removing the war-premium that underpinned the E&P trade. OXY 155sh sold at market open (@ $55.31, order 429ab483), realized P&L −$330.15 (−3.71%) on a 4-trading-day hold; proceeds ($8,573.05) returned to cash (cash now $82,355.64 / 82.9%). Day P&L +$68.49 (+0.07%) = CAT +$303.62 + XOM −$11.15 + OXY realized-vs-prior-close −$223.98. CAT trailing stop order 1c43ebd9 ACTIVE (HWM $946.83, stop $852.147, buffer $60.29 / 6.61% ⚠ below 7% soft threshold — GTC stop is guard). XOM trailing stop order 55419969 ACTIVE (HWM $154.90, stop $139.41, buffer $7.795 / 5.28% ⚠ — WTI declining on Iran deal = XOM thesis weakening; hard watch: WTI sustained break below $80 = thesis-break → close XOM). Phase P&L −$660.93 (−0.66%) vs. $100,000 starting equity. Weekly count 2/3 (OXY entry Jun 8 + exit Jun 12); VIX ~19 blocks all new entries. Next macro binary: FOMC Jun 16–17. Patience > activity.
