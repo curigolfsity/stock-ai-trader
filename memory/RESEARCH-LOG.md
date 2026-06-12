@@ -2618,3 +2618,78 @@ No trades, cuts, or stop adjustments. No thesis breaks. All 3 GTC stops ACTIVE.
 - EOD close: CAT recovery confirmation above $890; OXY/XOM stop HWM auto-advance watch
 - VIX: Still 21+; gate remains closed; patience on 4th position
 - Kharg Island: If US actuals seize or strike oil infrastructure → WTI $95–100+ → evaluate OXY/XOM tighten triggers at +15% ($66.06 / $169.61)
+
+---
+
+## 2026-06-12 — Pre-market Research
+
+### Account
+- Equity: $99,155.77
+- Cash: $73,782.59 (74.4%)
+- Buying power: $172,938.36 (reg-T)
+- Daytrade count: 0
+- Weekly trades: 1/3 (2/3 remaining)
+
+### Positions (pre-market)
+| Ticker | Shares | Entry | Pre-mkt | Unrlzd P&L | Stop | Buffer |
+|--------|--------|-------|---------|------------|------|--------|
+| CAT | 17 | $884.38 | $909.00 | +$418.56 (+2.78%) | $852.15 (HWM $946.83) | $56.85 / 6.25% ⚠️ |
+| OXY | 155 | $57.44 | $54.61 | −$438.22 (−4.92%) | $52.61 (HWM $58.46) | $2.00 / 3.67% ⚠️⚠️ |
+| XOM | 10 | $147.484 | $145.52 | −$19.64 (−1.33%) | $139.41 (HWM $154.90) | $6.11 / 4.20% |
+
+### Market Context
+- **WTI / Brent:** WTI ~$83.80 (−4.46%) | Brent ~$89.25 (−1.25%) — 2-month low; Trump canceled planned strikes on Iran + signaled peace deal "imminent this weekend"; Brent fell as much as 5.1% intraday; Iran published 14-pt draft deal text
+- **S&P 500 futures:** ESM26 +1.73% | NQM26 +3.26% — strong risk-on relief rally; market buying Iran de-escalation
+- **VIX:** 19.44 (Jun 11 close) — GATE BLOCKED ✗ (new entries require sustained close <17)
+- **Today's catalysts:** U of Michigan Jun preliminary consumer sentiment (no time provided); ~9 earnings reports (no major S&P 500 BMO names); broad risk-on from Iran ceasefire optimism
+- **Earnings before open:** No major S&P 500 names BMO
+- **Economic calendar:** U of Michigan consumer sentiment June prelim; FOMC meeting begins Jun 16–17; May industrial production Jun 15; rate decision Jun 17
+- **Sector momentum:** Energy +1.73% today but WTI crashing = Energy thesis reversing; Tech +3%+ on peace deal/risk-on; Industrials lagging YTD −3% but CAT recovering
+- **CAT news:** Raised quarterly dividend 8% to $1.63/sh (payable Aug 19); tariff reductions boosted shares recently; stock +4.49% Jun 11 on PPI energy narrative; Q1 EPS +30% / $63B backlog thesis intact
+- **OXY news:** CEO Vicki Hollub retired Jun 1; Richard Jackson now CEO; Q dividend $0.26/sh declared; Jim Cramer: "If the war ends, that stock's going down" — CONFIRMS thesis at risk on Iran deal
+- **XOM news:** 37% gain past year; 20 analysts Buy consensus; strong refining performance; thesis intact but oil decline is headwind
+
+### Thesis Checks
+**CAT — INTACT + IMPROVING:**
+- Iran peace deal = broad risk-on; SPX futures +1.73% = direct support
+- Oil declining = Q2 margin tailwind for CAT (lower input costs) ✓
+- Q1 EPS +30% / $63B backlog / AI power-gen / dividend raise — all intact
+- Stop buffer 6.25% (below 7% soft threshold but stable); HWM $946.83
+- Action: HOLD
+
+**OXY — ⚠️⚠️ THESIS BREAK SIGNAL:**
+- WTI $83.80 < $85 THESIS-BREAK THRESHOLD — breached
+- Thesis relied on sustained oil premium from Iran/Hormuz war; peace deal removes this driver
+- Jim Cramer confirmation: OXY goes down if war ends
+- Unrealized: −4.92% (above −7% cut rule at $53.42 ✓, but deteriorating)
+- Stop buffer: only $2.00 / 3.67% from GTC stop $52.614 ⚠️⚠️
+- Strategy rule: "Thesis broken: close regardless of P&L"
+- **Recommend: Evaluate manual exit at market open; do NOT let position ride to −7% if thesis is broken**
+
+**XOM — INTACT BUT WEAKENING:**
+- WTI $83.80 decline pressures XOM but unrealized only −1.33%
+- Stop buffer $6.11 / 4.20% — below 7% soft threshold but manageable
+- XOM has diversified Guyana / LNG / refining thesis (less pure-play oil than OXY)
+- Action: HOLD; monitor if WTI drops below $80 (XOM thesis-break territory)
+
+### Trade Ideas
+1. **OXY EXIT (PRIORITY)** — WTI $83.80 < $85 thesis-break threshold; Iran peace deal removes war premium; stop buffer critically thin at 3.67%; sell ~155sh at open if WTI confirms below $85; expected exit ~$54–55; realized loss ~−$400 to −$450. Alternative: let GTC stop $52.614 handle it (risks another ~$325 loss vs now).
+2. **CAT HOLD** — No action; Iran peace = margin tailwind + risk-on supports; stop at $852.15.
+3. **XOM HOLD** — Oil declining but diversified thesis; GTC stop $139.41 provides protection; monitor.
+4. **Future entry (VIX gate):** If VIX drops <17 post-Iran deal confirmation → evaluate CAL/industrials add or FANG Permian play at that time. Full VIX block today.
+
+### Risk Factors
+- **Iran deal collapse:** Trump has made imminent-deal claims 30+ times since March without closing; any reversal = oil spike → OXY/XOM thesis re-strengthens; CAT loses margin tailwind
+- **VIX 19.44:** Blocks all new deployments; $73.8K cash idle
+- **OXY stop thin 3.67%:** If WTI falls further (Goldman $80 target?), OXY could stop out automatically at $52.61 — unavoidable without thesis-break exit
+- **FOMC Jun 16–17:** Rate decision next week; market pricing in no cuts; any hawkish shift = CAT multiple compression risk
+- **CAT stop buffer 6.25%:** Below 7% soft threshold; needs price recovery to $940+ to restore comfort zone
+
+### Decision
+**TRADE — Exit OXY at market open if WTI confirms below $85 (thesis broken)**
+- WTI $83.80 breaks the hard-watch threshold set Jun 11; OXY thesis (sustained Iran war premium) is invalidated by peace deal progress
+- All other positions: HOLD
+- New entries: BLOCKED (VIX 19.44 > 17)
+- After OXY exit: 2 positions (CAT, XOM), ~$73.8K+ cash, weekly count 2/3 used
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
