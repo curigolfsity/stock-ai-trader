@@ -1011,3 +1011,32 @@ No positions yet. Bot launches tomorrow.
 | XOM | 10 | $147.484 | $148.31 | −1.53% | +$8.26 (+0.56%) | $139.41 (10% trail, HWM $154.90) |
 
 **Notes:** Day 28 delivered a sharp split. CAT surged +4.49% to $894.58 — its strongest session since the phase began — recovering nearly three-quarters of yesterday's −6.22% crash as the market bought the dip on the PPI read: headline +1.1% MoM (vs +0.7% est) was entirely energy-driven (gasoline +23.4%), while core +0.4% MoM came in below the +0.5% est, preserving the "energy-not-demand inflation" narrative that kept CAT bulls engaged. The Trump announcement of US seizing Kharg Island control paradoxically reinforced this theme — Iran oil premium = energy CPI, not broad inflation — and the Industrials/AI-demand side of CAT's thesis (Q1 EPS +30%, $63B backlog, MSFT/NVDA 1.35GW WV project) reasserted itself. Energy names reversed intraday: OXY faded from a +0.86% midday gain to close −0.60% ($56.755) and XOM dropped −1.53% to $148.31, as WTI likely pulled back EOD from its Kharg Island spike on ceasefire-optimism noise. All three GTC trailing stops ACTIVE and confirmed via orders API: CAT $852.147 (buffer $42.43 / 4.74%; HWM $946.83) ⚠ still below 7% soft threshold — GTC stop remains the sole guard; OXY $52.614 (buffer $4.14 / 7.30%; HWM $58.46) ✓ healthy; XOM $139.41 (buffer $8.90 / 6.00%; HWM $154.90) ✓. No trades today; weekly count 1/3 (2/3 remaining); VIX ~21 blocks all new entries. Phase P&L improved from −$1,214.05 (Day 27) to −$729.42 (−0.73%), recovering $485 in one session. No macro binary scheduled Friday; watch Iran Kharg Island / WTI trajectory for OXY/XOM direction and whether CAT can hold above $890 as next stop-tightening proxy milestone.
+
+---
+
+### Market-Open Scan — 2026-06-12 (Day 29, Friday — Week 6)
+
+- **Account:** Equity $99,253.72 | Cash $82,355.64 (83.0%) | Daytrade count: 0 | Weekly trades: 2/3
+- **CAT:** $909.74 (+1.71% intraday from $894.58; +2.87% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE | Buffer $57.59 / 6.34% ⚠ (below 7% soft threshold; monitoring)
+- **OXY: ⚠️ THESIS BREAK — EXITED AT OPEN**
+  - WTI $83.80 (pre-market) — BELOW $85 hard-watch threshold; Iran peace deal "imminent this weekend" (Trump); war premium removed
+  - GTC trailing stop e58bdb3e cancelled pre-market; market sell (order 429ab483) submitted 8:32 AM ET; filled 9:32 AM ET open
+  - **FILL: 155sh @ $55.31 | Realized P&L: −$330.15 (−3.71%) | Held: Jun 8–12 (4 trading days)**
+  - Thesis: OXY required sustained Iran/Hormuz war premium; peace deal invalidates this driver. Strategy rule: "Thesis broken: close regardless of P&L." ✓
+- **XOM:** $146.48 (−1.22% intraday from $148.31; −0.68% unrealized from $147.484 entry) — no −7% trigger ($137.16); below +15% tightening threshold ($169.61) ✓
+- **XOM trailing stop:** order 55419969 | HWM $154.90 | Stop $139.41 | Trail 10% GTC ✓ ACTIVE | Buffer $7.07 / 4.83% ⚠ (below 7% soft threshold; monitoring)
+- **Market context:** WTI ~$83.80 (−4.46%), Brent ~$89.25 (−1.25%) — 2-month low on Iran peace deal imminent; SPX futures +1.73%; Nasdaq +3.26%; VIX 19.44 (gate blocked ✗); risk-on relief rally
+- **Action:** OXY thesis-break exit executed. No new entries (VIX 19.44 > 17). No manual cuts on remaining positions (both above −7% thresholds).
+- **Thesis check (CAT):** INTACT + IMPROVING. Iran peace = risk-on (SPX +1.73%) + oil declining = Q2 margin tailwind. Q1 EPS +30%, $63B backlog, AI power-gen (MSFT/NVDA 1.35GW WV), dividend raised 8% to $1.63/sh. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Buffer 6.34% ⚠ — GTC stop remains guard.
+- **Thesis check (XOM):** INTACT BUT WEAKENING. WTI declining on peace deal = direct headwind. XOM diversified (Guyana 900K bpd / LNG Golden Pass) insulates vs. pure-play E&P. Mizuho PT $175 / Barclays PT $182 unchanged. Monitor if WTI breaks below $80 (XOM thesis-break territory). Buffer 4.83% ⚠ — stop at $139.41 is the guard.
+
+### Open Positions (updated — post OXY exit)
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $946.83; stop $852.147) | Q1 beat (rev +22%, EPS +30%), Industrials leading, AI data-center power gen, $10.2B DC sales, oil declining = Q2 margin tailwind | ~$1,061 (+20%) | 2:1 |
+| 2026-06-01 | XOM | LONG | 10 | $147.484 | FILLED | 10% GTC (order 55419969; HWM $154.90; stop $139.41) | Energy sector, Guyana 900K bpd / LNG Golden Pass / diversified downstream; Mizuho PT $175 / Barclays PT $182 | ~$177 (+20%) | 2:1 |
+| 2026-06-08 | OXY | LONG | 155 | $57.44 | **CLOSED 2026-06-12 @ $55.31** | GTC cancelled | **THESIS BROKEN** — WTI $83.80 < $85 threshold; Iran peace deal removes war premium. Realized P&L: −$330.15 (−3.71%) | — | — |
+
+**Weekly Trade Count: 2 confirmed (OXY 155sh filled 2026-06-08 entry; OXY 155sh thesis-break exit 2026-06-12)**
