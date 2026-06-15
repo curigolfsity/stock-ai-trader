@@ -1109,3 +1109,14 @@ No positions yet. Bot launches tomorrow.
 - **New entries:** BLOCKED — VIX 17.68 > 17 gate ✗ + FOMC pre-event caution (Jun 16–17, Warsh first meeting). Cash 84.1% — above 85% ceiling target; deployment gate post-FOMC Jun 17.
 - **Phase P&L:** ~−$393 (−0.39%) vs. $100,000 starting equity
 - **Next:** FOMC Jun 17 rate decision + VIX sustained close <17 → evaluate 2nd position (DE or EMR — Materials/Industrials; 0/3 weekly trades remaining post today's XOM exit). Patience > activity.
+
+---
+
+### Jun 15 — EOD Snapshot (Day 30, Monday)
+**Portfolio:** $99,640.94 | **Cash:** $83,740.16 (84.0%) | **Day P&L:** +$301.87 (+0.30%) | **Phase P&L:** −$359.06 (−0.36%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.38 | $935.34 | +2.72% | +$866.34 (+5.76%) | $852.15 (10% trail, HWM $946.83) |
+
+**Notes:** Day 30 (Monday, start of Week 7) was bookended by two events. At the open, XOM was exited on a dual thesis-break trigger: WTI $79.99 (CNBC Jun 14) breached the $80 hard-floor as the Iran deal was signed and the Hormuz war premium permanently removed; simultaneously the overnight stop buffer compressed to 1.98% below the 3% mandate threshold. GTC stop 55419969 cancelled; market sell 40fa2db4 filled 10sh @ $138.456 (9:38 AM ET); realized P&L −$90.28 (−6.12%), net −$79.98 including the $1.03/sh Jun 10 dividend; held Jun 1–15 (11 trading days). Proceeds ($1,384.56) returned cash to $83,740.16. CAT then surged +2.72% to $935.34 — the Iran peace deal is a direct tailwind: broad risk-on rally + WTI declining = Q2 margin tailwind reinforcing the AI power-gen / industrial backlog thesis. Unrealized P&L reached +$866.34 (+5.76%), with the trailing stop buffer at 8.90% (HWM $946.83, stop $852.147) — healthiest since Week 2 of the phase. Portfolio equity $99,640.94 vs. $99,339.07 Jun 12 close; day gain +$301.87 (+0.30%). Phase P&L −$359.06 (−0.36%) vs. $100,000 starting equity — improved from −$660.93 (Jun 12). Weekly count: 1/3 (XOM exit); 2/3 capacity remaining. New entries blocked: VIX 17.68 > 17 gate ✗ + pre-FOMC caution (Warsh first meeting Jun 16–17). Next trigger: FOMC Jun 17 rate decision + VIX sustained close <17 → evaluate 3rd position (DE or EMR). Patience > activity.
