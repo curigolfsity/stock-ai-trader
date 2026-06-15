@@ -2701,3 +2701,71 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **XOM $148.565** (+1.34% intraday): Oil headwind, but XOM diversified thesis holds above $80 WTI. Monitor for $80 break = thesis-break level.
 - **No trades executed at midday.** All GTC stops confirmed active (CAT $852.147 / XOM $139.41). No -7% cuts. No +15% tightenings.
 - **VIX ~19 — all new entries blocked.**
+
+---
+
+## 2026-06-15 — Pre-market Research (Week 7, Day 30, Monday)
+
+### Account
+- Equity: $99,585.38
+- Cash: $82,355.60 (82.7%)
+- Long market value: $17,229.78
+- Buying power: $377,665.78 (margin); non-marginable $90,970.49
+- Daytrade count: 0
+- Weekly trades: 0/3
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.38 | $929.34 | +2.06% | +$764.34 (+5.08%) | $852.147 (HWM $946.83, trail 10%) | $77.19 / **8.31% ✓** |
+| XOM | 10 | $147.484 | $143.10 | −2.66% | −$43.84 (−2.97%) | $139.41 (HWM $154.90, trail 10%) | $3.69 / **2.58% ⚠️⚠️** |
+
+### Market Context
+- **WTI:** ~$79.99 (−5.76%) — BELOW $80 for first time since March; Iran deal SIGNED → Strait of Hormuz reopening, US naval blockade ending (CNBC Jun 14)
+- **Brent:** ~$87.30 (Jun 14 close; open ~$84.88 today)
+- **S&P 500 futures:** Mixed; prediction market 59% probability up-close; S&P fell −0.67% last session
+- **VIX:** 17.68 at 8:33 AM ET (declining from 19–21 range; still above 17 entry gate ✗)
+- **Today's catalysts:** Iran deal finalized = oil war-premium permanently removed; Kevin Warsh FOMC press conference preview; risk-on tone from peace deal
+- **Earnings before open:** ~34 reports scheduled; no major S&P 500 BMO names of significance
+- **Economic calendar:** May industrial production (Fed G.17) 9:15 AM ET — expected +0.6% (vs Apr +0.7%); FOMC begins Jun 16, rate decision Jun 17 (hold at 3.50–3.75% expected 89%)
+- **Sector momentum YTD:** Energy +21% (now reversing on Iran deal), Industrials +12%, Materials +17%, Consumer Discretionary −8.1%, Tech recovering
+- **CAT news:** All-time high $946.83 (Jun 4); Q1 EPS +30%, $63B backlog, AI power-gen; "significantly overvalued" at 119.5% above fair value (but analyst PTs $1,020–$1,165); dividend raised 8% to $1.63/sh
+- **XOM news:** Eyeing Woodside Energy acquisition (Bloomberg); 37% gain past year; but WTI below $80 = structural headwind; thesis-break level reached
+
+### Thesis Checks
+**CAT — INTACT + IMPROVING:**
+- Iran peace = broad risk-on + lower oil = Q2 cost/margin tailwind ✓
+- Q1 EPS +30% / $63B backlog / AI power-gen (MSFT/NVDA 1.35GW WV) unchanged ✓
+- Buffer 8.31% ✓ healthy; stop at $852.147 (GTC active, order 1c43ebd9)
+- FOMC risk: Warsh first meeting; hawkish bias possible but rate hold 89% prob
+- Action: **HOLD**
+
+**XOM — ⚠️⚠️ THESIS BREAK — DUAL TRIGGER:**
+- WTI $79.99 — BELOW $80 hard thesis-break level (set Jun 12); Iran deal signed permanently removes Hormuz war premium
+- Stop buffer 2.58% < 3% threshold → strategy rule: "Overnight stop buffer < 3%: execute manual cut at the open"
+- Thesis rule: "Thesis broken: close regardless of P&L"
+- Both rules trigger simultaneously
+- Expected exit ~$143.10 → unrealized P&L ~−$43.84 (−2.97%); manageable
+- **Action: EXIT XOM at market open (9:30 AM ET)**
+
+### Trade Ideas
+1. **EXIT XOM at open (PRIORITY)** — WTI $79.99 breaches $80 hard-floor; Iran deal = permanent oil war-premium removal; dual rule trigger (thesis broken + stop buffer <3%). Sell 10sh at market open. Expected exit ~$143; realized loss ~−$43. Cancel GTC trailing stop (order 55419969) simultaneously.
+2. **HOLD CAT / evaluate add post-FOMC** — Thesis intact + improving. If FOMC rate-hold confirmed Jun 17 + VIX drops below 17, consider adding 2–3sh CAT (still 7% below ATH $946.83, HWM unchanged). Catalyst: May industrial production beat today (9:15 AM) could boost CAT.
+3. **Materials sector watch (post-FOMC)** — Industrials/Materials leading YTD (+12–17%). If VIX <17 clears after FOMC and no hawkish shock: evaluate DE (Deere — construction/agricultural with CAT-adjacent thesis) or EMR (Emerson — automation/AI buildout). Entry $0 deployed in sector currently; 0/3 weekly trades used.
+
+### Risk Factors
+- **FOMC Jun 16–17 (Warsh first meeting):** 89% rate hold but hawkish bias shift risk; inflation 4.2%; fed funds futures pricing year-end HIKE. Warsh may scrap dot plot. Any hawkish signal = CAT multiple compression
+- **WTI overshoot to $75:** Iran deal + Hormuz reopening = supply unlock; Goldman Sachs previously $75 WTI target; further oil decline = no new energy positions
+- **VIX 17.68 (above 17 gate):** All new entries still blocked until VIX clears 17
+- **CAT "overvalued" signal:** 119.5% above fair value estimate; rich multiple vulnerable to FOMC hawkish pivot
+- **XOM stop at $139.41:** If WTI keeps falling pre-open, XOM could gap below stop → GTC stop may fill at worse price; manual exit at open preferred
+
+### Decision
+**TRADE — EXIT XOM at market open (dual rule trigger: thesis broken + stop buffer <3%)**
+- Post-exit: 1 position (CAT), ~$83,786 cash (~84.2%), weekly count 1/3
+- New entries: BLOCKED (VIX 17.68 > 17 + FOMC pre-event caution through Jun 17)
+- Next trigger: FOMC Jun 17 rate decision + VIX below 17 → evaluate post-FOMC deployment
+- Patience > activity
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
+
