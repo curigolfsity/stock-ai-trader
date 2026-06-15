@@ -1066,3 +1066,35 @@ No positions yet. Bot launches tomorrow.
 | XOM | 10 | $147.484 | $147.195 | +0.41% | −$2.89 (−0.20%) | $139.41 (10% trail, HWM $154.90) |
 
 **Notes:** Day 29 (Friday, end of Week 6) closed modestly positive: CAT surged +1.65% to $912.44 on Iran peace deal risk-on momentum (oil declining → Q2 margin tailwind; SPX strong) and XOM added +0.41% to $147.195 despite WTI falling to ~$83–86. The day's defining event was the OXY thesis-break exit at the open: WTI pre-market dropped to $83.80 — breaching the $85 hard-watch threshold — on Trump "Iran deal imminent this weekend" commentary, removing the war-premium that underpinned the E&P trade. OXY 155sh sold at market open (@ $55.31, order 429ab483), realized P&L −$330.15 (−3.71%) on a 4-trading-day hold; proceeds ($8,573.05) returned to cash (cash now $82,355.64 / 82.9%). Day P&L +$68.49 (+0.07%) = CAT +$303.62 + XOM −$11.15 + OXY realized-vs-prior-close −$223.98. CAT trailing stop order 1c43ebd9 ACTIVE (HWM $946.83, stop $852.147, buffer $60.29 / 6.61% ⚠ below 7% soft threshold — GTC stop is guard). XOM trailing stop order 55419969 ACTIVE (HWM $154.90, stop $139.41, buffer $7.795 / 5.28% ⚠ — WTI declining on Iran deal = XOM thesis weakening; hard watch: WTI sustained break below $80 = thesis-break → close XOM). Phase P&L −$660.93 (−0.66%) vs. $100,000 starting equity. Weekly count 2/3 (OXY entry Jun 8 + exit Jun 12); VIX ~19 blocks all new entries. Next macro binary: FOMC Jun 16–17. Patience > activity.
+
+---
+
+## Week of 2026-06-15
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-05-04 | CAT | LONG | 17 | $884.38 | FILLED | 10% GTC (order 1c43ebd9; HWM $946.83; stop $852.147) | Q1 beat (rev +22%, EPS +30%), Industrials leading, AI data-center power gen, Iran peace deal = risk-on + oil declining = Q2 margin tailwind | ~$1,061 (+20%) | 2:1 |
+| 2026-06-01 | XOM | LONG | 10 | $147.484 | **CLOSED 2026-06-15 @ $138.456** | GTC cancelled | **THESIS BROKEN** — WTI $79.99 < $80 hard-floor; Iran deal SIGNED → Hormuz war premium permanently removed; stop buffer 1.98% < 3% mandate. Realized P&L: −$90.28 (−6.12%) | — | — |
+
+**Tighten trail:** CAT → 7% at $1,017 (+15%), 5% at $1,061 (+20%).
+**Cut rule:** CAT manual cut at $822.47 (−7%).
+
+### Market-Open Scan — 2026-06-15 (Day 30, Monday — Week 7)
+
+- **Account:** Equity $99,717.10 | Cash $83,740.16 (84.0%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $939.09 (+3.13% from $910.57 prior close; +6.19% unrealized from $884.38 entry) — no −7% trigger ($822.47); below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE | Buffer $86.94 / **9.26% ✓ HEALTHY**
+- **XOM EXIT EXECUTED — dual thesis-break trigger:**
+  - WTI $79.99 (CNBC Jun 14) → breaches $80 hard-floor; Iran deal SIGNED → Strait of Hormuz war premium permanently removed
+  - Stop buffer 1.98% (live pre-market) < 3% mandate: "Overnight stop buffer < 3%: execute manual cut at the open"
+  - GTC trailing stop order 55419969 cancelled 12:32 UTC; market sell order 40fa2db4 submitted 12:32 UTC
+  - **FILL: 10sh @ $138.456 | 13:38 UTC (9:38 AM ET) | Realized P&L: −$90.28 (−6.12%) | Held: Jun 1–15 (11 trading days)**
+  - Note: XOM gapped below stop $139.41 at open; manual exit captured same outcome as GTC stop would have (or better). Net P&L incl. $10.30 dividend (Jun 10 ex-div): **−$79.98**
+- **Action:** XOM thesis-break exit ✓. CAT HOLD. No new entries.
+- **Thesis check (CAT):** INTACT + IMPROVING. Iran peace = broad risk-on + WTI declining = Q2 cost/margin tailwind. Q1 EPS +30%, $63B backlog, AI power-gen (MSFT/NVDA 1.35GW WV), dividend raised 8% to $1.63/sh. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. Buffer 9.26% ✓.
+- **New entries:** BLOCKED — VIX 17.68 > 17 + pre-FOMC caution (Jun 16–17, Warsh first meeting). Cash 84.0% — approaching 85% ceiling; deployment target post-FOMC.
+- **Weekly trade count:** 1/3 (XOM exit). 2/3 remaining.
+- **Phase P&L:** −$282.90 (−0.28%) vs. $100,000 starting equity (improved from −$660.93 prior Friday close)
+- **Next trigger:** FOMC Jun 17 rate decision + VIX sustained close <17 → evaluate 3rd position (Materials/Industrials; DE or EMR). Patience > activity.
