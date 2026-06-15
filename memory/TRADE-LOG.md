@@ -1098,3 +1098,14 @@ No positions yet. Bot launches tomorrow.
 - **Weekly trade count:** 1/3 (XOM exit). 2/3 remaining.
 - **Phase P&L:** −$282.90 (−0.28%) vs. $100,000 starting equity (improved from −$660.93 prior Friday close)
 - **Next trigger:** FOMC Jun 17 rate decision + VIX sustained close <17 → evaluate 3rd position (Materials/Industrials; DE or EMR). Patience > activity.
+
+### Midday Scan — 2026-06-15
+
+- **Account:** Equity ~$99,607 | Cash $83,740.16 (84.1%) | Daytrade count: 0 | Weekly trades: 1/3
+- **CAT:** $933.37 (+2.50% intraday from $910.57 prior close; +5.54% unrealized from $884.38 entry) — no −7% trigger ($822.47) ✓; below +15% tightening threshold ($1,017) ✓
+- **CAT trailing stop:** order 1c43ebd9 | HWM $946.83 | Stop $852.147 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API) | Buffer $81.22 / **8.71% ✓ HEALTHY** (price below HWM; stop locked; cannot auto-advance until CAT sets new ATH above $946.83)
+- **Action:** No trades. No losers cut. No stop tightenings.
+- **Thesis check (CAT):** INTACT + IMPROVING. +2.50% intraday consistent with Iran peace deal risk-on momentum (deal SIGNED as of Jun 14; Hormuz war premium permanently removed → broad risk-on + oil declining = Q2 cost/margin tailwind for Industrials). Q1 EPS +30%, $63B backlog, AI power-gen (MSFT/NVDA 1.35GW WV), dividend raised 8% to $1.63/sh. Analyst PTs: Baird $1,165 / JPM $1,125 / Evercore $1,103 / Truist $1,043 / Citi $1,020. No CAT-specific negative catalyst.
+- **New entries:** BLOCKED — VIX 17.68 > 17 gate ✗ + FOMC pre-event caution (Jun 16–17, Warsh first meeting). Cash 84.1% — above 85% ceiling target; deployment gate post-FOMC Jun 17.
+- **Phase P&L:** ~−$393 (−0.39%) vs. $100,000 starting equity
+- **Next:** FOMC Jun 17 rate decision + VIX sustained close <17 → evaluate 2nd position (DE or EMR — Materials/Industrials; 0/3 weekly trades remaining post today's XOM exit). Patience > activity.
