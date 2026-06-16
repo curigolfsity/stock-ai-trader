@@ -2769,3 +2769,57 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
 
+---
+
+## 2026-06-16 — Pre-market Research (Week 7, Day 31, Tuesday)
+
+### Account
+- Equity: $99,614.57
+- Cash: $83,740.14 (84.1%)
+- Long market value: $15,874.43
+- Buying power: $379,408.96 (margin); non-marginable $91,677.35
+- Daytrade count: 0
+- Weekly trades: 0/3 (week reset)
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.378824 | $933.79 | −0.02% | +$839.99 (+5.59%) | $852.147 (HWM $946.83, trail 10%, order 1c43ebd9 ACTIVE) | $81.64 / **8.74% ✓ HEALTHY** |
+
+### Market Context
+- **WTI:** $80.47 (−0.35%), range $80.86–$81.54 — holding just above $80 floor after Monday's 5%+ plunge on Iran deal (Strait of Hormuz reopening)
+- **Brent:** $83.14 (prior close $87.33), range $82.41–$84.48
+- **VIX:** ~19.23 — still **above 17 entry gate ✗** (futures opened 19.18)
+- **S&P 500 futures:** Steady/flat — markets pausing after Monday's risk-on rally, awaiting FOMC
+- **Today's catalysts:** FOMC meeting Day 1 (Jun 16–17), Kevin Warsh's first meeting as Chair. Decision + presser expected Jun 17, 2pm/2:30pm ET. Consensus: hold rates 3.50–3.75%, but Fed expected to drop easing bias — updated dots may show higher inflation, lower unemployment, **no 2026 cuts**. Hawkish surprise risk.
+- **Earnings before open:** 8 reports scheduled today, no major S&P 500 names of significance identified
+- **Economic calendar:** No CPI/PPI/jobs data today; next major data after FOMC
+- **Sector momentum YTD:** S&P 500 +9.08% YTD. **Leading:** Consumer Staples, Industrials, Materials (+22% YTD), Energy. **Lagging:** Tech, Communications, Consumer Discretionary, Financials. **Improving:** Real Estate, Utilities.
+- **CAT news:** Trading $926–$946 range today, last $933.79 (roughly flat day/day). Dividend raise (+8% to $1.63/sh, payable Aug 19) confirmed. Still flagged "significantly overvalued" (119.5% above fair value) by GuruFocus, but Industrials remains a Leading-quadrant sector and backlog/AI power-gen thesis unchanged. No CAT-specific negative catalyst.
+
+### Thesis Check (CAT) — INTACT
+- Industrials in Leading momentum quadrant ✓; Iran peace = risk-on + softer oil = margin tailwind unchanged ✓
+- Buffer 8.74% ✓ healthy; GTC stop active (order 1c43ebd9)
+- Key risk: FOMC Jun 17 hawkish surprise (no-cuts dot plot) could pressure richly-valued cyclicals — CAT's "overvalued" flag makes it more multiple-sensitive
+- Action: **HOLD**, no tightening needed (unrealized +5.59%, below +15% trigger)
+
+### Trade Ideas
+1. **HOLD CAT through FOMC** — thesis intact, buffer healthy. No action until Fed decision Jun 17.
+2. **No new entries today** — VIX 19.23 > 17 gate blocks all new positions; FOMC Day 1 of 2 adds event risk. Wait for decision + presser before evaluating Materials/Industrials add (DE, EMR candidates from prior research).
+3. **Post-FOMC watch (Jun 17 PM)** — if VIX drops <17 and Fed signals dovish-enough (no hawkish dot-plot shock), revisit 2nd position in Materials/Industrials (DE or EMR). 0/3 weekly trades used — full capacity available.
+
+### Risk Factors
+- **FOMC Jun 16–17 (Warsh's first meeting):** Highest-impact event of the week. Hawkish dot plot (no 2026 cuts) = broad risk-off, especially for richly-valued cyclicals like CAT.
+- **VIX 19.23:** Elevated heading into FOMC; could spike further intraday on any leak/surprise.
+- **WTI floor test:** Holding ~$80.50; a confirmed break below $80 close would reinforce Energy-negative / Industrials-margin-positive thesis but watch for oversupply overshoot risk (Goldman $75 target).
+- **CAT valuation:** "Significantly overvalued" flag (119.5% above fair value) — most vulnerable single-name risk if Fed disappoints.
+
+### Decision
+**HOLD — no trades today.**
+- 1 position (CAT), buffer 8.74% healthy, no -7%/+15%/+20% triggers hit
+- New entries blocked: VIX 19.23 > 17 gate; FOMC Day 1 of 2 in progress
+- Next trigger: FOMC decision/presser Jun 17 2:00–2:30pm ET — reassess VIX and CAT thesis immediately after
+- Patience > activity
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
+

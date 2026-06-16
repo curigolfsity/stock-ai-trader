@@ -38,3 +38,11 @@ Decision: HOLD
 Ideas: CAT HOLD (stop buffer 4.90% watch CPI), OXY HOLD/WATCH (Iran ceasefire WTI -3.6% thesis stressed), XOM HOLD (ex-div $1.03 today)
 Market: SPX futures +0.71%, VIX ~19.2 (above 17 gate), WTI $88.05 (-3.56%)
 Risks: CPI May 8:30am ET (4.2% YoY est = 3yr high), Iran ceasefire unwinding OXY thesis, CAT stop buffer 4.90% pre-CPI
+
+---
+## 2026-06-16 10:05 UTC (fallback — no notification service configured)
+Pre-market 2026-06-16
+Decision: HOLD
+Ideas: CAT hold thru FOMC (buffer 8.74%), no new entries (VIX 19.23>17 + FOMC day1)
+Market: SPX futures flat, VIX 19.23, Oil WTI $80.47
+Risks: FOMC Warsh decision Jun17 - hawkish dot plot risk to richly-valued cyclicals like CAT
