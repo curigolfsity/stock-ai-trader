@@ -2823,3 +2823,57 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
 
+
+---
+
+## 2026-06-17 — Pre-market Research (Week 7, Day 32, Wednesday)
+
+### Account
+- Equity: $99,892.01
+- Cash: $83,740.14 (83.8%)
+- Long market value: $16,151.87
+- Buying power: $380,185.80 (margin); non-marginable $91,816.07
+- Daytrade count: 0
+- Weekly trades: 1/3 (XOM exit Jun 15); 2/3 remaining
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.378824 | $950.11 | +0.49% | +$1,117.43 (+7.43%) | $864.950 (HWM $961.0554, trail 10%, order 1c43ebd9 ACTIVE) | $85.16 / **8.96% ✓ HEALTHY** |
+
+### Market Context
+- **WTI:** ~$78 — fell another leg Tue, below $80 floor for 2nd session; Iran deal (Strait of Hormuz reopening) continues to unwind war premium
+- **Brent:** ~$78.6–78.9
+- **VIX:** 16.11 (open 16.19) — **first close below 17 entry gate** since early June ✓
+- **S&P 500 futures:** +0.28% premarket; Polymarket implies 78% odds of a higher open
+- **Today's catalyst (dominant):** FOMC decision 2:00pm ET + Warsh's first presser 2:30pm ET. CME FedWatch: 98.2% prob hold at 3.50–3.75%. Real action is the dot plot/SEP — March dots had one 2026 cut baked in; market watching whether that's dropped or a hike gets penciled in. Highest-stakes single event of the cycle so far.
+- **Earnings before open:** KMX, JBL reporting; no S&P 500 names that move CAT or oil thesis
+- **Economic calendar:** No CPI/PPI/jobs data today; FOMC SEP is the only print
+- **Sector momentum YTD:** Materials +22% (dominant leader), Industrials + Consumer Staples + Energy in Leading quadrant; Tech/Comm/Discretionary/Financials lagging (though Tech strengthening on AI capex in May); Real Estate/Utilities improving
+- **CAT news:** Trading $933.50–$961.33 range, last ~$946–950. Q1 EPS +30%, $63B backlog, dividend raised 8% to $1/sh quarterly. 28-analyst avg PT now **$944.10 (Buy)** — current price $950 has caught up to/exceeded consensus target, a soft valuation flag alongside the existing "119.5% overvalued" screen.
+
+### Thesis Check (CAT) — INTACT, valuation getting stretched
+- Industrials still Leading-quadrant; oil decline = continued Q2/Q3 margin tailwind unchanged ✓
+- Buffer 8.96% ✓ healthy; GTC stop active (order 1c43ebd9); no −7%/+15%/+20% triggers hit
+- New flag: avg analyst PT ($944.10) now below spot ($950) — first time price has run ahead of consensus target. Not a thesis break (backlog/AI-power-gen/dividend raise all intact), but raises FOMC-day downside risk if dot plot disappoints
+- Action: **HOLD**, no tightening needed (+7.43% unrealized, below +15% trigger)
+
+### Trade Ideas
+1. **HOLD CAT through FOMC** — thesis intact, buffer healthy, but priced near/above analyst consensus — let the 2pm decision + presser play out before any action.
+2. **No new entries pre-FOMC** — VIX 16.11 has cleared the 17 gate for the first time this week, but deploying capital 5 hours ahead of the highest-impact macro print of the month would be activity for activity's sake. Wait for the decision + presser.
+3. **Post-FOMC watch (today PM)** — if dot plot doesn't shock hawkish and VIX holds <17 into the close, evaluate 2nd position in Materials/Industrials (DE, EMR — carried over from prior research, still 0 capital deployed there). 2/3 weekly trade capacity remains.
+
+### Risk Factors
+- **FOMC 2:00/2:30pm ET — dominant event risk:** Hold is priced in; the SEP dot plot and Warsh's tone are the real risk. A hawkish shift (dot drops the 2026 cut, or a hike gets penciled in) hits richly-valued cyclicals like CAT hardest.
+- **CAT price now above avg analyst PT ($950 vs $944.10):** First time this has happened this phase; doesn't break thesis but reduces margin of safety into a binary macro event.
+- **Oil overshoot risk:** WTI ~$78 and falling; Goldman's $75 target getting closer — good for CAT margins, but if this reflects deeper demand-side weakness rather than pure supply unlock, could later spill into broader risk-off.
+- **VIX 16.11 could spike intraday:** Pre-FOMC complacency; any presser surprise reprices vol fast — don't treat the gate as a green light to act blind ahead of the print.
+
+### Decision
+**HOLD — no trades pre-market/pre-FOMC.**
+- 1 position (CAT), buffer 8.96% healthy, no −7%/+15%/+20% triggers hit
+- VIX 16.11 clears the 17 entry gate, but no new entries until after the 2pm/2:30pm ET FOMC decision + presser
+- Next trigger: FOMC decision/dot plot/presser today — reassess CAT thesis, VIX, and 2nd-position candidates (DE/EMR) immediately after
+- Patience > activity
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
