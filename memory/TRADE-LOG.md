@@ -1156,3 +1156,14 @@ No positions yet. Bot launches tomorrow.
 - **New entries:** None evaluated — single-position book, holding pre-FOMC per pre-market plan. 2/3 weekly capacity remaining.
 - **Phase P&L:** +$184.24 (+0.18%) vs. $100,000 starting equity
 - **Next trigger:** FOMC decision/dot plot/presser today 2:00–2:30pm ET — reassess CAT thesis, VIX gate, and 2nd-position candidates (DE/EMR) immediately after. Patience > activity.
+
+---
+
+### Jun 17 — EOD Snapshot (Day 32, Wednesday)
+**Portfolio:** $100,308.09 | **Cash:** $83,740.14 (83.5%) | **Day P&L:** +$331.08 (+0.33%) | **Phase P&L:** +$308.09 (+0.31%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.378824 | $974.585 | +3.08% | +$1,533.50 (+10.20%) | $878.076 (10% trail, HWM $975.64) |
+
+**Notes:** Day 32 (Wednesday, FOMC Day 2) closed strong with CAT extending its all-time-high run to $974.585 (+3.08% on the day), pushing unrealized P&L to +$1,533.50 (+10.20%) — still below the +15% tightening trigger ($1,017.04), so the trail stays at the standard 10%. The GTC trailing stop (order 1c43ebd9) auto-advanced again to HWM $975.64 / stop $878.076, confirmed via orders API; buffer is healthy at ~9.9%. Portfolio equity closed at $100,308.09, pushing Phase P&L positive to +$308.09 (+0.31%) — best phase reading since launch — up from +$184.24 at midday and -$22.99 at Tuesday's close. No trades today; the single-position CAT-only book held through the FOMC rate decision/dot plot/presser (2:00–2:30pm ET) with no thesis-breaking news. Weekly count holds at 1/3 (Monday's XOM thesis-break exit); 2/3 capacity remains. Next trigger: reassess VIX gate and 2nd-position candidates (DE/EMR) now that FOMC is behind us; tighten CAT trail to 7% if unrealized crosses +15% ($1,017.04). Patience > activity.
