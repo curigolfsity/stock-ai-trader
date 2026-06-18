@@ -2877,3 +2877,58 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-06-18 — Pre-market Research (Week 7, Day 33, Thursday)
+
+### Account
+- Equity: $100,261.93 (last close $99,990.78; +$271.15 / +0.27%)
+- Cash: $83,740.14 (83.5%)
+- Long market value: $16,521.79
+- Buying power: $381,221.57 (margin); non-marginable $92,001.03
+- Daytrade count: 0
+- Weekly trades: 1/3 (XOM exit Jun 15); 2/3 remaining
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.378824 | $971.8699 | +1.67% | +$1,487.35 (+9.89%) | $878.076 (HWM $975.64, trail 10%, order 1c43ebd9 ACTIVE) | $93.79 / **9.65% ✓ HEALTHY** |
+
+### Market Context
+- **FOMC fallout (yesterday, Jun 17):** Fed held rates but delivered a hawkish-surprise dot plot — median official now sees end-2026 rate at 3.8%, up from 3.4% in March (9 of 18 officials penciled in at least one hike). Sparked a Wed selloff; this is the dominant overhang entering today.
+- **WTI:** ~$74.56, down another 2.91% — extending the post-Iran-deal slide, now well below the $80 floor
+- **Brent:** ~$77–79
+- **VIX:** 18.44 (+12.37%) — **back above the 17 entry gate** after briefly clearing it Tue/Wed; hawkish FOMC reaction
+- **S&P 500 futures:** +0.87% premarket (Nasdaq 100 +1.32%); Polymarket implies 98% odds of a higher open as markets look past Wednesday's Fed shock toward resilient underlying data
+- **Earnings before open:** ACN, KR — neither moves CAT or oil thesis
+- **Economic calendar:** No CPI/PPI/jobs prints today; next PPI not until mid-July. Markets closed tomorrow (Jun 19) for Juneteenth — holiday-shortened week, thinner Friday liquidity ahead
+- **Sector momentum YTD:** Materials, Energy, Industrials, Consumer Staples still Leading; Tech/Comm/Discretionary/Financials Lagging; Real Estate/Utilities Improving — no change to CAT's Industrials/Materials backdrop
+- **CAT news:** No CAT-specific catalyst; Q1 strength (rev +22%, EPS +30%), $63B backlog, Jun 10 dividend raise (+8% to $1.63/sh) remain the story. Price ($972) still running above the 28-analyst avg PT (~$944), valuation stretch unchanged from yesterday
+
+### Thesis Check (CAT) — INTACT, no thesis-breaking news
+- Industrials/Materials still Leading-quadrant; no CAT-specific negative catalyst ✓
+- Buffer 9.65% ✓ healthy; GTC stop active (order 1c43ebd9); no −7%/+15%/+20% triggers hit (+9.89% unrealized, below +15%)
+- Macro risk only: hawkish FOMC dot plot raises multiple-compression risk for richly-valued cyclicals, but premarket futures rebound suggests market is shrugging it off for now
+- Action: **HOLD**, no tightening needed
+
+### Trade Ideas
+1. **HOLD CAT** — thesis intact, no CAT-specific news, buffer healthy. Let post-FOMC volatility settle before any action.
+2. **No new entries today** — VIX 18.44 re-triggers the >17 gate after the hawkish dot plot; deploying into a holiday-shortened, post-Fed-shock session would be activity for activity's sake.
+3. **Continue watching DE/EMR** (Materials/Industrials, 0 capital deployed) for a 2nd position once VIX sustains back below 17 — 2/3 weekly trade capacity remains.
+
+### Risk Factors
+- **Hawkish FOMC dot plot (Jun 17):** Median 2026 rate view jumped to 3.8% from 3.4%; biggest risk to richly-valued cyclicals like CAT if the repricing continues beyond Wednesday's one-day reaction.
+- **VIX 18.44, back above gate:** One day removed from the Fed shock — don't read the futures rebound as an all-clear; intraday vol could swing either way.
+- **CAT valuation stretch unchanged:** Price (~$972) still above avg analyst PT (~$944) — reduced margin of safety into a less dovish rate backdrop.
+- **Holiday-shortened week:** Markets closed Jun 19 (Juneteenth) — thinner Friday liquidity, watch for exaggerated moves on light volume.
+
+### Decision
+**HOLD — no trades pre-market.**
+- 1 position (CAT), buffer 9.65% healthy, no −7%/+15%/+20% triggers hit
+- New entries blocked: VIX 18.44 > 17 gate (re-triggered post-FOMC)
+- Weekly trades: 1/3 used, 2/3 remaining
+- Next trigger: VIX sustained back below 17 post-FOMC dust-settling — reassess CAT thesis and DE/EMR 2nd-position candidates then
+- Patience > activity
+
+_Research via WebSearch (Perplexity key not set — fallback used)_

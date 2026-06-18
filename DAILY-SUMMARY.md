@@ -54,3 +54,11 @@ Decision: HOLD
 Ideas: CAT hold thru FOMC (buffer 8.96%), no new entries pre-FOMC (DE/EMR post-decision watch)
 Market: SPX futures +0.28%, VIX 16.11 (cleared 17 gate), Oil WTI ~78
 Risks: FOMC dot plot 2pm ET dominant; CAT price now above avg analyst PT $944
+
+---
+## 2026-06-18 10:05 UTC (fallback — no notification service configured)
+Pre-market 2026-06-18
+Decision: HOLD
+Ideas: CAT hold (thesis intact, buffer 9.65%), DE/EMR watch (no entry, VIX gate)
+Market: SPX futures +0.87%, VIX 18.44, Oil WTI ~$74.56
+Risks: Hawkish FOMC dot plot, VIX back >17 gate, Juneteenth holiday Friday
