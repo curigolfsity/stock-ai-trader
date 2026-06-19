@@ -62,3 +62,11 @@ Decision: HOLD
 Ideas: CAT hold (thesis intact, buffer 9.65%), DE/EMR watch (no entry, VIX gate)
 Market: SPX futures +0.87%, VIX 18.44, Oil WTI ~$74.56
 Risks: Hawkish FOMC dot plot, VIX back >17 gate, Juneteenth holiday Friday
+
+---
+## 2026-06-19 10:04 UTC (fallback — no notification service configured)
+Pre-market 2026-06-19
+Decision: HOLD (market closed - Juneteenth)
+Ideas: CAT holding +11.5% unrealized, no new entries (no session today)
+Market: SPX futures n/a (closed), VIX ~16, Oil WTI ~$75
+Risks: none - reopens Monday Jun 22, re-scan then

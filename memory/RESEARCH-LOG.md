@@ -2932,3 +2932,34 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-06-19 — Pre-market Research (Week 7, Day 34, Friday) — MARKET CLOSED (Juneteenth)
+
+### Market Status
+- NYSE/Nasdaq closed today for Juneteenth. No premarket session, no live quotes, no trading possible. Reopens Monday Jun 22.
+
+### Account (last close, Jun 18)
+- Equity: $100,499.08 | Cash: $83,740.14 (83.3%)
+- Daytrade count: 0 | Weekly trades: 1/3 (XOM exit Jun 15); 2/3 remaining
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Last Price | Unrealized P&L | Stop |
+|--------|--------|-----------|------------|----------------|------|
+| CAT | 17 | $884.378824 | $985.82 | +$1,724.50 (+11.47%) | $895.041 (10% trail, HWM $994.49, order 1c43ebd9 ACTIVE) |
+
+### Weekend/Holiday Scan
+- **CAT:** No thesis-breaking news. All-time-high run continues (+11.7% over last 5 sessions); Q1 EPS +30%, $63B backlog, dividend raise (+8% to $1.63/sh) unchanged backdrop. No new negative catalyst.
+- **VIX:** Mid-teens (~16, last close before holiday), below the 17 entry gate, easing from late-March highs.
+- **Oil:** WTI ~$75, holding the post-Iran-deal slide; continued Q2/Q3 margin tailwind for CAT, unchanged thesis.
+- **Macro:** No CPI/PPI/jobs prints today (none until mid-July). Nothing scheduled that could front-run Monday's open.
+
+### Decision
+**HOLD — market closed, no action possible or needed.**
+- 1 position (CAT), buffer ~9.2% healthy, no -7%/+15%/+20% triggers hit
+- No thesis break, no new entries (market closed regardless of VIX gate)
+- Next trigger: Monday Jun 22 open — re-run premarket scan, reassess CAT thesis, VIX gate, DE/EMR 2nd-position candidates
+- Patience > activity
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
