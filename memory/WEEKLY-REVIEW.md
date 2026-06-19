@@ -270,3 +270,60 @@ Rule adherence B (XOM stop placement delayed — repeated process failure; no ot
 Rule adherence A (thesis-break on OXY executed immediately; all stops active; manual cut rule never violated; no process failures), risk management B (OXY entry on oil-spike peak was poor timing; CAT buffer critically thin Jun 10; XOM buffer deteriorating), relative performance D (bot −0.59% vs SPX ~+2.0% = ~−2.59% gap; 6th consecutive week of negative relative performance; phase P&L −$698.67 / −0.70%). Discipline on exits was excellent; entry timing on OXY was the critical error.
 
 ---
+
+## Week ending 2026-06-19
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,717.10 (Mon Jun 15 open) |
+| Ending portfolio | $100,499.08 (Thu Jun 18 close — market closed Fri Jun 19, Juneteenth) |
+| Week return | +$781.98 (+0.78%) |
+| S&P 500 week | +0.93% (7,431.46 Jun 12 → 7,500.58 Jun 18) |
+| Bot vs S&P | −0.15% |
+| Trades | 1 (W:0 / L:1 / open:1) |
+| Win rate | 0% (0/1 closed) |
+| Best trade | N/A |
+| Worst trade | XOM −6.12% |
+| Profit factor | 0.00 |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| XOM | $147.484 (Jun 1) | $138.456 (Jun 15) | −$90.28 (−6.12%) | Dual thesis-break exit at open: WTI $79.99 < $80 hard floor + Iran deal signed (Hormuz premium removed) + overnight stop buffer 1.98% < 3% mandate; net −$79.98 incl. $10.30 dividend; held 11 trading days |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CAT | $884.38 | $985.82 | +$1,724.50 (+11.47%) | $895.04 (10% trail GTC, HWM $994.49, order 1c43ebd9) |
+
+### What Worked
+- XOM dual thesis-break exit executed cleanly at the open — both triggers (WTI floor breach + <3% buffer mandate) fired together, no hesitation, no repeat of the GEV/May-29 slippage failure
+- CAT extended its all-time-high run all week to +11.47% unrealized (HWM $994.49) — Iran peace risk-on + declining oil = margin tailwind; backlog/AI-power-gen/dividend-raise thesis fully intact, zero CAT-specific negative news all 5 sessions
+- GTC trailing stop auto-advanced correctly every session without manual intervention; buffer stayed healthy (8.7%–9.9%) throughout
+- Held through the Jun 17 FOMC hawkish dot-plot shock without panic-selling — CAT round-tripped the one-day −1.21% S&P selloff and resumed its rally the next day, validating "hold unless thesis breaks"
+- Phase P&L flipped to its best reading of the challenge (+0.51% at Thu close, vs. −0.66% two Fridays ago)
+
+### What Didn't Work
+- Zero net deployment beyond the single CAT position — VIX gate >17 blocked all 2nd-position evaluations (DE/EMR) for 4 of 5 sessions; the one sub-17 print (Jun 17 premarket, 16.11) was immediately shelved for FOMC-day caution, then VIX snapped back to 18.44 post-Fed
+- Energy sector now stands at 3 consecutive failed/negative trades this phase (GEV −8.43%, OXY −3.71%, XOM −6.12%) — Rule 10 sector-exit condition is met and has not yet been formally closed out in practice
+- CAT priced above the 28-analyst avg PT (~$944 vs. spot ~$986) for 3 straight sessions (Jun 17–19) — valuation stretch persists with no pullback to reset margin of safety
+- 84% cash all week, above the 75–85% deployment target's comfortable middle — single-position concentration means CAT's idiosyncratic risk is effectively the whole portfolio's risk
+- Bot underperformed S&P by −0.15% — narrowest gap of the phase, but still a loss on relative terms despite CAT's strong absolute week, mostly attributable to underdeployed cash
+
+### Key Lessons
+- The dual thesis-break trigger (hard price floor + <3% buffer mandate) is now validated twice (XOM Jun 15, after the GEV/OXY precedents) — keep this as the standard hard-watch exit template
+- VIX gate can flip in a single session around FOMC-class events (16.11 pre-decision → 18.44 post-decision) — a one-day sub-17 print is not a reliable green light near binary macro events; require a sustained 2-session close <17 before greenlighting new entries in that window
+- Energy is 0-for-3 this phase (GEV, OXY, XOM) — treat Rule 10 as triggered now, not as a future warning; no new Energy entries until another sector underperforms or a genuinely distinct Energy catalyst emerges
+- A position running ahead of analyst consensus PT for multiple sessions isn't a sell signal by itself, but it's a cue to tighten proactively rather than wait passively for the +15% rule trigger if momentum keeps extending
+
+### Adjustments for Next Week
+- Formally treat Energy sector as exited per Rule 10 (3 confirmed losses: GEV, OXY, XOM) — no new Energy positions until another sector re-qualifies or a fresh, distinct Energy catalyst appears
+- Mon Jun 22 open: re-run VIX gate; if sustained <17 across the session, evaluate DE/EMR (Materials/Industrials) as 2nd position — 2/3 weekly trade capacity still available
+- CAT: tighten trail to 7% once unrealized crosses +15% ($1,017.04 price level); currently +11.47%, watch closely given price already running ahead of analyst PT
+- Prioritize finding a qualified 2nd position next week — 84% cash for a 6th straight week risks finishing the phase under-diversified even if CAT keeps outperforming
+
+### Overall Grade: B+
+Rule adherence A (XOM dual-trigger exit clean; all stops active; no process failures), risk management A (stop buffers healthy all week, no manual cuts needed, CAT round-tripped FOMC shock without rule breach), relative performance B (bot +0.78% vs SPX +0.93% = −0.15% gap — tightest of the phase, though still a relative loss). Best week of the challenge by discipline and by closeness to the index; remaining drag is structural — single-position concentration and Energy sector now needs a formal close-out.
+
+---
