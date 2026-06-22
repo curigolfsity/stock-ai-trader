@@ -1214,3 +1214,14 @@ No positions yet. Bot launches tomorrow.
 - **New entries:** None evaluated — single-position book; no fresh catalyst reviewed this scan. 3/3 weekly capacity remaining (week reset).
 - **Phase P&L:** +$1,022.85 (+1.02%) vs. $100,000 starting equity
 - **Next trigger:** Watch for +20% unrealized ($1,061.25 price) → tighten trail to 5%. Reassess VIX gate / DE-EMR 2nd position once Iran headline risk settles. Patience > activity.
+
+---
+
+### Jun 22 — EOD Snapshot (Day 35, Monday)
+**Portfolio:** $101,062.12 | **Cash:** $83,740.14 (82.9%) | **Day P&L:** +$553.52 (+0.55%) | **Phase P&L:** +$1,062.12 (+1.06%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.378824 | $1,018.94 | +3.36% | +$2,287.54 (+15.22%) | $951.6597 (7% trail, HWM $1,023.29) |
+
+**Notes:** Day 35 (Monday, Week 8 open) closed strong with CAT extending its all-time-high run to $1,018.94 (+3.36% on the day), continuing the AI-power-infra re-rating / $63B backlog narrative flagged pre-market — no CAT-specific negative catalyst. Unrealized P&L closed at +$2,287.54 (+15.22%), just above the +15% trigger crossed at midday; the trail was already tightened 10%→7% this morning (order d51de63a) and has since auto-advanced to HWM $1,023.29 / stop $951.6597, confirmed via orders API — buffer healthy at ~6.7%, still clears the 3% minimum. Still below the +20% tighten-to-5% threshold ($1,061.25), so no further stop action needed today. Portfolio equity closed at $101,062.12 vs. $100,508.60 Thursday Jun 18 close (Jun 19 Juneteenth holiday, market closed) — day gain +$553.52 (+0.55%). Phase P&L extended to +$1,062.12 (+1.06%), the best phase reading since launch, up from +$508.60 at Thursday's close. No trades today (only the AM stop tightening); weekly count holds at 0/3 (new week), 3/3 capacity remaining. Next trigger: watch for +20% unrealized ($1,061.25 price) → tighten trail to 5%. Reassess VIX gate / DE-EMR 2nd-position candidates once Iran headline risk settles. Patience > activity.
