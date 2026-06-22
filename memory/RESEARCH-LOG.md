@@ -3021,3 +3021,9 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+## 2026-06-22 — Midday Addendum
+
+- CAT $1,017.445 (+3.21% intraday), unrealized +15.05% — crossed the +15% tightening trigger flagged this morning as imminent.
+- Move consistent with documented AI-power-infra re-rating / $63B backlog momentum; no new catalyst, no thesis break. Skipped extra WebSearch — not an unexplained spike.
+- Action: trailing stop tightened 10%→7% (order 1c43ebd9 cancelled, new order d51de63a, stop $945.2055). See TRADE-LOG midday entry for detail.
