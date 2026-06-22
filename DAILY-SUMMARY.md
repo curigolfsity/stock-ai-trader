@@ -70,3 +70,11 @@ Decision: HOLD (market closed - Juneteenth)
 Ideas: CAT holding +11.5% unrealized, no new entries (no session today)
 Market: SPX futures n/a (closed), VIX ~16, Oil WTI ~$75
 Risks: none - reopens Monday Jun 22, re-scan then
+
+---
+## 2026-06-22 10:05 UTC (fallback — no notification service configured)
+Pre-market 2026-06-22
+Decision: HOLD
+Ideas: CAT hold (+13.07%, nearing +15% trail-tighten trigger), DE/EMR watch (no entry - Iran headline risk)
+Market: SPX futures red (~28% odds up open), VIX 16.78, Oil WTI ~$75.49
+Risks: Fresh Trump-Iran/Lebanon ultimatum driving risk-off open; CAT valuation stretch widening

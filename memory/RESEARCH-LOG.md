@@ -2963,3 +2963,61 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-06-22 — Pre-market Research (Week 8, Day 35, Monday)
+
+### Account (live Alpaca)
+- Equity: $100,739.97 (last close $100,499.08; +$240.89 / +0.24%)
+- Cash: $83,740.14 (83.1%)
+- Long market value: $16,999.83
+- Buying power: $382,560.08 (margin); non-marginable $92,240.05
+- Daytrade count: 0
+- Weekly trades: 1/3 (XOM exit Jun 15); 2/3 remaining (week resets — first trading day back, no new trades yet this week)
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.378824 | $999.99 | +1.44% | +$1,965.39 (+13.07%) | $895.041 (HWM $994.49, trail 10%, order 1c43ebd9 ACTIVE) | $104.95 / **10.50% ✓ HEALTHY** |
+
+**Watch: CAT unrealized +13.07%, approaching +15% tighten-to-7% trigger ($1,017.04 price level). Re-check at midday/EOD — if crossed, tighten trail to 7%.**
+
+### Market Context
+- **WTI:** ~$75.49 (-0.47%), trading range $74.92-$78.08
+- **Brent:** ~$78.82 (-1.54%), elsewhere quoted $79.16
+- **S&P 500 futures:** Flashing red premarket — prediction markets show only ~28% odds of an "Up" open
+- **VIX:** 16.78 (VIX1D 15.68, VIX9D 13.93) — below the 17 entry gate, markets not pricing near-term stress despite headline risk
+- **Top catalyst:** Fresh Iran escalation — weekend peace talks in Bürgenstock, Switzerland (VP Vance/Iran FM Araghchi) hit friction; Trump issued a Truth Social ultimatum demanding Iran halt Lebanon proxies or face strikes "even harder" than last week's. Distinct from (smaller than) the earlier March/April Strait-of-Hormuz war scare — oil is in the high-$70s now vs. that episode's $100-126 peak, so market is treating this as rhetoric for now, not a re-escalation to that scale
+- **Other catalyst:** Memory-chip sector surge (SK Hynix overtook Samsung as Korea's largest market cap; WDC/STX/SNDK/MU all up 3-5% premarket) — no overlap with CAT/oil thesis
+- **Earnings before open today:** None notable. FDX reports after close Tuesday; heavier week ahead (23 today, 15 Tue, 16 Wed)
+- **Economic calendar:** No CPI/PPI/jobs today. Week's key print is Thursday's May core PCE (Fed's preferred inflation gauge) — expected to tick up ex-food/energy
+- **Sector momentum YTD:** Energy (+21%) and Materials (+17%) still leading; Industrials (+12% YTD) cooling — recent weekly data shows Industrials/Materials pulling back (-5.78%/-1.43% recent window) after a strong early-2026 run. Still net-positive YTD leadership, no reversal of CAT's backdrop
+- **CAT news:** No CAT-specific negative catalyst. Market continues re-rating CAT as an AI-power-infrastructure play (Power & Energy segment generators/turbines for data centers) on top of the $63B backlog; +64.7% YTD, +177% over past year. Dividend raised 8% to $1.63/sh (Jun 10). Valuation caution flagged by multiple outlets (avg analyst PT ~$946 vs. current $999.99; one bear case cites up to 309% overvaluation) — stretch persists and is now wider than last week's check
+
+### Thesis Check (CAT) — INTACT, valuation stretch widening
+- AI-power-infra re-rating + $63B backlog narrative unchanged — no negative catalyst
+- Buffer 10.50% ✓ healthy; GTC stop active (order 1c43ebd9)
+- +13.07% unrealized — closing in on the +15% trigger; no action required yet, but flag for midday/EOD check
+- Macro risk: fresh Iran/Lebanon rhetoric is a tail risk for risk-on cyclicals if it escalates past talk; today's premarket futures already red on this headline alone
+
+### Trade Ideas
+1. **HOLD CAT** — thesis intact, no CAT-specific news. Watch +15% trigger ($1,017.04) for trail tighten to 7%, expected within days given recent momentum.
+2. **No new entries today** — futures red on fresh Iran escalation headline; VIX 16.78 clears the gate technically, but deploying into a weekend-gap risk-off open is activity for activity's sake. Let the headline risk resolve one way or the other first.
+3. **Continue watching DE/EMR** (Industrials/Materials, 0 capital deployed) for a 2nd position once Iran headline risk settles and Industrials/Materials resume clear leadership — 2/3 weekly trade capacity remains.
+
+### Risk Factors
+- **Iran/Lebanon escalation (fresh, fast-moving):** Trump ultimatum over the weekend; outcome (de-escalation vs. military action) is the swing factor for today's open and oil. Distinct from March's larger Strait-of-Hormuz scare but could re-accelerate if strikes occur.
+- **CAT valuation stretch widening:** Price ($999.99) now further above avg analyst PT (~$946) than any prior check this phase; one outlet's bear case pegs CAT as up to 309% overvalued on fundamentals — momentum is carrying the stock, not value support.
+- **+15% trigger imminent:** At current pace, CAT could cross $1,017.04 within 1-2 sessions — must tighten trail to 7% promptly when it happens, don't wait for EOD if it's clearly broken intraday.
+- **Thin holiday-adjusted positioning:** First trading day after Friday's Juneteenth closure — Monday gap risk on geopolitical headlines, watch for whippy price action at the open.
+
+### Decision
+**HOLD — no trades pre-market.**
+- 1 position (CAT), buffer 10.50% healthy, no -7%/+20% triggers hit; +15% trigger close but not yet crossed
+- New entries deferred: futures red on fresh Iran headline risk; VIX clears gate but not worth deploying into this open
+- Weekly trades: 1/3 used (week reset Monday), 2/3 remaining
+- Next trigger: CAT crossing $1,017.04 (+15%) → tighten trail to 7% immediately when confirmed. Iran headline resolution (de-escalation or strikes) → reassess risk appetite for DE/EMR 2nd position.
+- Patience > activity
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
