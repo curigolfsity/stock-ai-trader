@@ -1225,3 +1225,14 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.378824 | $1,018.94 | +3.36% | +$2,287.54 (+15.22%) | $951.6597 (7% trail, HWM $1,023.29) |
 
 **Notes:** Day 35 (Monday, Week 8 open) closed strong with CAT extending its all-time-high run to $1,018.94 (+3.36% on the day), continuing the AI-power-infra re-rating / $63B backlog narrative flagged pre-market — no CAT-specific negative catalyst. Unrealized P&L closed at +$2,287.54 (+15.22%), just above the +15% trigger crossed at midday; the trail was already tightened 10%→7% this morning (order d51de63a) and has since auto-advanced to HWM $1,023.29 / stop $951.6597, confirmed via orders API — buffer healthy at ~6.7%, still clears the 3% minimum. Still below the +20% tighten-to-5% threshold ($1,061.25), so no further stop action needed today. Portfolio equity closed at $101,062.12 vs. $100,508.60 Thursday Jun 18 close (Jun 19 Juneteenth holiday, market closed) — day gain +$553.52 (+0.55%). Phase P&L extended to +$1,062.12 (+1.06%), the best phase reading since launch, up from +$508.60 at Thursday's close. No trades today (only the AM stop tightening); weekly count holds at 0/3 (new week), 3/3 capacity remaining. Next trigger: watch for +20% unrealized ($1,061.25 price) → tighten trail to 5%. Reassess VIX gate / DE-EMR 2nd-position candidates once Iran headline risk settles. Patience > activity.
+
+---
+
+### Jun 23 — EOD Snapshot (Day 36, Tuesday)
+**Portfolio:** $100,504.52 | **Cash:** $83,740.14 (83.3%) | **Day P&L:** -$557.60 (-0.55%) | **Phase P&L:** +$504.52 (+0.50%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.378824 | $986.14 | -3.54% | +$1,729.94 (+11.51%) | $951.6597 (7% trail, HWM $1,023.29) |
+
+**Notes:** Day 36 (Tuesday) pulled back after Monday's all-time-high run, with CAT closing at $986.14 (-3.54% on the day) off the prior close of $1,022.28 — a normal cool-off, not a thesis-breaking move; unrealized P&L eased to +$1,729.94 (+11.51%), back below the +15% tightening trigger ($1,017.04). No stop action needed: the trail remains at 7% (order d51de63a still active, HWM $1,023.29 / stop $951.6597, confirmed via orders API), and per rule stops are never moved down — buffer healthy at ~3.5%, still clears the 3% minimum. No -7% cut trigger ($822.47, position is up double digits). Portfolio equity closed at $100,504.52 vs. $101,062.12 Monday close — day loss -$557.60 (-0.55%), the first down day in over a week. Phase P&L eased to +$504.52 (+0.50%), down from Monday's peak of +$1,062.12 (+1.06%) but still solidly positive vs. the $100,000 starting baseline. No trades today; weekly count holds at 0/3 (new week), 3/3 capacity remaining. Next trigger: watch CAT for thesis-break confirmation if pullback extends; tighten trail to 5% if unrealized re-crosses +20% ($1,061.25 price). Patience > activity.
