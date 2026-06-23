@@ -78,3 +78,11 @@ Decision: HOLD
 Ideas: CAT hold (+13.07%, nearing +15% trail-tighten trigger), DE/EMR watch (no entry - Iran headline risk)
 Market: SPX futures red (~28% odds up open), VIX 16.78, Oil WTI ~$75.49
 Risks: Fresh Trump-Iran/Lebanon ultimatum driving risk-off open; CAT valuation stretch widening
+
+---
+## 2026-06-23 10:05 UTC (fallback — no notification service configured)
+Pre-market 2026-06-23
+Decision: HOLD
+Ideas: CAT - hold, pullback looks macro-driven not thesis break; DE/EMR - watching, no entry (VIX>17 gate)
+Market: SPX futures -1.43%, VIX 17.28, Oil WTI $73.67
+Risks: CAT stop buffer tight at 4.74%; broad tech-led selloff; VIX back above gate

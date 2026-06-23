@@ -3027,3 +3027,62 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - CAT $1,017.445 (+3.21% intraday), unrealized +15.05% — crossed the +15% tightening trigger flagged this morning as imminent.
 - Move consistent with documented AI-power-infra re-rating / $63B backlog momentum; no new catalyst, no thesis break. Skipped extra WebSearch — not an unexplained spike.
 - Action: trailing stop tightened 10%→7% (order 1c43ebd9 cancelled, new order d51de63a, stop $945.2055). See TRADE-LOG midday entry for detail.
+
+---
+
+## 2026-06-23 — Pre-market Research (Week 8, Day 36, Tuesday)
+
+### Account (live Alpaca)
+- Equity: $100,722.97 (last close $101,118.90; -$395.93 / -0.39%)
+- Cash: $83,740.14 (83.1%)
+- Long market value: $16,982.83
+- Buying power: $382,512.48 (margin); non-marginable $92,231.55
+- Daytrade count: 0
+- Weekly trades: 0/3 (Monday's stop tightening is not a trade)
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.378824 | $998.99 | -2.28% | +$1,948.39 (+12.96%) | $951.6597 (HWM $1,023.29, trail 7%, order d51de63a ACTIVE) | $47.33 / **4.74% — TIGHT, watch closely** |
+
+**Flag: buffer compressed from ~6.7% (Mon close) to 4.74% — still clears the 3% minimum but materially tighter. No action required (stop never moves down), but monitor intraday; if buffer approaches 3% reassess at midday.**
+
+### Market Context
+- **WTI:** ~$73.67 (-0.26%), extending the post-Iran-deal slide
+- **Brent:** ~$76.68-77.2, lowest in ~3 months — falling on signs of progress in US-Iran peace talks easing supply concerns
+- **VIX:** 17.28 (+2.98%) — back **above** the 17 entry gate
+- **S&P 500 futures:** down ~1.43% premarket; Polymarket implies only ~2% odds of a higher open — broad risk-off
+- **Top catalyst:** Mega-cap tech selloff (Alphabet -5% on AI-talent-departure concerns; Amazon/Meta/Microsoft also down) dragging index futures; global markets cooling after an 8-day rally (Nikkei -3.6%, Kospi -1.0%, Hang Seng -2.1%)
+- **Iran:** US-Iran negotiators meeting in Washington June 23-25 on a "road map" final deal; Hezbollah-Israel ceasefire (brokered Friday) holding; Trump says Iran agreed to resume nuclear inspections (Iran disputes any new commitments). Net de-escalatory tone — consistent with oil's continued slide.
+- **Earnings before open:** none notable found for CAT/oil-thesis-relevant names; FDX reports after close today, MU after close Wednesday
+- **Economic calendar:** GDP (3rd release) 8:30am, Michigan Consumer Sentiment (Final) 10:00am — no CPI/PPI/jobs/FOMC today. Next major print: Thursday's core PCE (Fed's preferred gauge)
+- **Sector momentum YTD:** Energy still the clear leader (+21-34% depending on source); Materials/Industrials clustered together (~9-11% YTD), still net-positive, no reversal of CAT's backdrop. Today's weakness is broad/tech-driven, not Industrials-specific.
+- **CAT news:** No CAT-specific negative catalyst found. Dividend raise (Jun 10, +8% to $1.63/sh), Q1 strength (rev +22%, EPS +30%), $63B backlog all unchanged. Today's -2.28% pullback reads as broad market risk-off (tech-led futures selloff) + natural profit-taking after a 5-session win streak to fresh all-time highs, not an isolated CAT issue.
+
+### Thesis Check (CAT) — INTACT, pullback consistent with broad risk-off
+- AI-power-infra re-rating + $63B backlog narrative unchanged — no negative catalyst, no WebSearch-flagged red flags
+- Stop buffer 4.74% — tighter than usual but still clears 3% minimum; stop already at 7% trail (tightened Monday), holds per "never move down" rule
+- Unrealized pulled back from +15.22% (Mon close) to +12.96% — below both the -7% cut trigger ($822.47) and the +20% tighten-to-5% trigger ($1,061.25)
+- Macro risk: broad tech selloff + VIX back above 17 gate — risk-off tone, but no CAT-specific break
+
+### Trade Ideas
+1. **HOLD CAT** — thesis intact, pullback looks macro-driven (tech selloff, VIX>17) not CAT-specific. Buffer tight (4.74%) but stop holds; do not move it down.
+2. **No new entries today** — VIX 17.28 re-triggers the >17 gate; SPX futures deeply red (~98% odds of a down open) on tech-led risk-off. Not a day to deploy capital.
+3. **Continue watching DE/EMR** (Industrials/Materials, 0 capital deployed) for a 2nd position once VIX clears back below 17 and the tech-selloff-driven risk-off resolves — 3/3 weekly trade capacity remains.
+
+### Risk Factors
+- **Stop buffer compressed to 4.74%:** tightest reading since the 7% trail was set Monday; further downside could approach the 3% minimum — watch intraday, no action unless thesis breaks or -7% trigger hit.
+- **Broad tech-led selloff:** Alphabet/Amazon/Meta/Microsoft weakness dragging futures; correlation risk even though CAT isn't tech.
+- **VIX 17.28, back above gate:** blocks new entries; one day removed from an 8-day rally, normal mean-reversion vol uptick.
+- **CAT valuation stretch persists:** price (~$999) still above avg analyst PT (~$946); one outlet pegs CAT as up to 309% overvalued on fundamentals — momentum-driven, not value-supported.
+- **Iran talks ongoing (Washington, Jun 23-25):** outcome uncertain; de-escalatory tone today but headline risk remains binary.
+
+### Decision
+**HOLD — no trades pre-market.**
+- 1 position (CAT), buffer 4.74% — tight but clears 3% minimum, no -7%/+20% triggers hit
+- New entries blocked: VIX 17.28 > 17 gate; SPX futures deeply red on tech selloff
+- Weekly trades: 0/3 used, 3/3 remaining
+- Next trigger: stop buffer approaching 3% → reassess at midday. VIX sustained back below 17 → reassess DE/EMR 2nd-position candidates. Iran talks outcome (Jun 23-25) → reassess oil/risk appetite.
+- Patience > activity
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
