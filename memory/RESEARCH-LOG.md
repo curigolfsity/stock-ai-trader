@@ -3086,3 +3086,61 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-06-24 — Pre-market Research (Week 8, Day 37, Wednesday)
+
+### Account (live Alpaca)
+- Equity: $100,594.79 (last equity $100,472.22; +$122.57 / +0.12%)
+- Cash: $83,740.14 (83.27%)
+- Long market value: $16,854.65
+- Buying power: $382,153.58 (margin); non-marginable $92,167.46
+- Daytrade count: 0
+- Weekly trades: 0/3 (new week)
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.378824 | $991.45 | +0.73% | +$1,820.21 (+12.11%) | $951.6597 (HWM $1,023.29, trail 7%, order d51de63a ACTIVE) | $39.79 / **4.01% — still tight, clears 3% min** |
+
+**Buffer recovered slightly from 3.50% (Tue close) to 4.01% on this morning's small bounce. No action — stop never moves down.**
+
+### Market Context
+- **WTI:** ~$73.4 (lowest in ~3 months), extending post-Iran-deal slide
+- **Brent:** ~$76.7-77.5, multi-month low — US-Iran peace-talk progress + 60-day Iran oil export license easing supply concerns
+- **S&P 500 futures:** +0.17% premarket — modest bounce attempt after Tuesday's -1.6% tech-led selloff
+- **VIX:** last confirmed print 17.28 (Tue close) — still above the 17 entry gate; no fresher premarket number found, treat as elevated until confirmed
+- **Top catalyst:** Micron (MU) reports after today's close — Street expects EPS ~$20.57 (vs $1.91 LY) on HBM/AI-memory demand; high-stakes read-through for the AI-infra/semis complex that dragged indices Tue (Alphabet -5%, semis broadly down)
+- **Other earnings today:** PAYX, JEF, LEVI, TCOM, DAKT, FUL — none CAT/oil-thesis-relevant
+- **Economic calendar:** May new home sales; Fed bank stress test results out today. No CPI/PPI/jobs/FOMC. Next major print: Thursday's core PCE
+- **Sector momentum YTD:** Energy +22.3%, Industrials +21.0%, Materials +17.7% — all three extended further this week; Industrials/Materials leadership reaffirmed (AI-infra capex, electricity buildout, defense), no reversal of CAT's backdrop
+- **CAT news:** No new negative catalyst overnight. BofA raised CAT price target to $930 (still below current ~$991, narrows but doesn't close the valuation gap vs. avg analyst PT ~$946). Reminder from Q1 disclosure (not new): Power & Energy segment margin compressed 170bps to 20.6%, FY26 tariff impact guided at $2.2-2.4B — known headwind, not a fresh break. Dividend raise (Jun 10, +8%) and $63B backlog narrative unchanged.
+
+### Thesis Check (CAT) — INTACT
+- AI-power-infra re-rating + record $63B backlog narrative unchanged; BofA PT raise is incrementally supportive
+- Buffer 4.01% — tight but clears 3% minimum; stop holds at 7% trail per "never move down" rule
+- Unrealized +12.11% — below both -7% cut trigger ($822.47) and +15% tighten trigger ($1,017.04)
+- Macro risk: broad tech/semis selloff (Tue) with Micron earnings tonight as the next swing factor for that complex; CAT is Industrials, not directly exposed, but correlation/risk-off spillover is possible
+
+### Trade Ideas
+1. **HOLD CAT** — thesis intact, no CAT-specific negative news, buffer still clears minimum.
+2. **No new entries today** — VIX last read 17.28 (>17 gate); broader tape fragile pending Micron earnings after close; not a day to add risk.
+3. **Continue watching DE/EMR** (Industrials/Materials, 0 capital deployed) for a 2nd position — sector leadership (Industrials +21.0%, Materials +17.7% YTD) keeps strengthening, but wait for VIX to clear back below 17 and for the semis-driven risk-off to resolve. 3/3 weekly trade capacity remains.
+
+### Risk Factors
+- **Stop buffer still tight (4.01%):** watch intraday; no action unless thesis breaks or -7%/+20% triggers hit.
+- **Micron earnings after close tonight:** binary catalyst for AI-infra/semis sentiment; a bad print could reignite Tuesday's tech-led risk-off and pressure the broad tape (indirect CAT risk via correlation, not fundamentals).
+- **VIX above 17 gate:** blocks new entries until it clears.
+- **CAT valuation stretch persists:** price (~$991) above avg analyst PT (~$946); BofA's $930 PT raise narrows but doesn't close the gap — momentum-driven, not value-supported.
+- **Oil at 3-month lows:** consistent with de-escalation, not currently a CAT-specific risk, but a sharp reversal (Iran talks breaking down) would be a fresh macro wildcard.
+
+### Decision
+**HOLD — no trades pre-market.**
+- 1 position (CAT), buffer 4.01% — tight but clears 3% minimum; no -7%/+15%/+20% triggers hit
+- New entries blocked: VIX last read 17.28 > 17 gate; tape fragile ahead of Micron earnings tonight
+- Weekly trades: 0/3 used, 3/3 remaining (new week)
+- Next trigger: stop buffer approaching 3% → reassess at midday. VIX sustained back below 17 → reassess DE/EMR 2nd-position. Micron earnings reaction tonight → reassess tech/risk-off spillover tomorrow.
+- Patience > activity
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
