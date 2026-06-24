@@ -1249,3 +1249,14 @@ No positions yet. Bot launches tomorrow.
 - **New entries:** None evaluated — single-position book; VIX still above 17 gate per pre-market scan; broader tape fragile pending tonight's Micron earnings. 3/3 weekly capacity remaining.
 - **Phase P&L:** +$759.86 (+0.76%) vs. $100,000 starting equity
 - **Next trigger:** Tighten CAT trail to 5% if unrealized crosses +15% ($1,017.04 price). Watch buffer (4.92%, tight) — never tighten within 3% of price, never move stop down. Patience > activity.
+
+---
+
+### Jun 24 — EOD Snapshot (Day 37, Wednesday)
+**Portfolio:** $100,427.51 | **Cash:** $83,740.14 (83.4%) | **Day P&L:** -$77.01 (-0.08%) | **Phase P&L:** +$427.51 (+0.43%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.378824 | $981.61 | -0.27% | +$1,652.93 (+10.99%) | $951.6597 (7% trail, HWM $1,023.29) |
+
+**Notes:** Day 37 (Wednesday) closed essentially flat with CAT easing -0.27% to $981.61 after Tuesday's pullback, giving back the small premarket bounce noted in this morning's research. No CAT-specific catalyst — broader tape stayed cautious ahead of tonight's Micron earnings (AI-infra/semis read-through) following Tuesday's tech-led selloff. Unrealized P&L held at +$1,652.93 (+10.99%), still below the +15% tightening trigger ($1,017.04) and the -7% cut trigger ($822.47) is nowhere close. Trailing stop order d51de63a remains ACTIVE (7% trail, HWM $1,023.29, stop $951.6597) — buffer ~3.05% at the close, the tightest reading yet but the rule is the stop never moves down regardless of buffer compression. Portfolio equity $100,427.51 vs. $100,504.52 Tuesday close — day loss -$77.01 (-0.08%). Phase P&L eased to +$427.51 (+0.43%) from Tuesday's +$504.52. No trades today; weekly count holds at 0/3, full capacity remains. WTI/Brent continued sliding to ~3-month lows on Iran de-escalation — supportive macro backdrop for CAT margins, not a risk. Next trigger: Micron earnings reaction tonight for tech/risk-off spillover read; watch stop buffer closely (sub-3% would still not warrant any new tightening since stops never move down, but reinforces no-new-entry stance); tighten to 5% if unrealized re-crosses +15% ($1,017.04). Patience > activity.
