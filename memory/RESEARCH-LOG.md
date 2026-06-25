@@ -3201,3 +3201,11 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Next trigger: CAT crosses $1,017.04 intraday → tighten trail to 5% at midday scan. Core PCE reaction → reassess VIX gate and DE/EMR 2nd-position candidates this afternoon. Patience > activity.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+### 2026-06-25 — Midday Addendum (Day 38, Thursday)
+
+- **Core PCE print:** in line — May core PCE +3.40% y/y (vs. +3.30% Apr), no hawkish surprise. No risk-off shock to the tape.
+- **CAT:** $1,039.415 (+4.52% intraday), unrealized +17.53% — +15% trigger now well past ($1,017.04), approaching but not yet at +20% ($1,061.255). Hit fresh all-time highs intraday (~$1,025+ per wire reports).
+- **No CAT-specific catalyst** — move tracks the broad Micron-led AI-infra relief rally continuing into the PCE print; thesis (AI-power-infra re-rating, $63B backlog, rising analyst PTs up to $1,165) intact, no break.

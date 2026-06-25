@@ -1260,3 +1260,15 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.378824 | $981.61 | -0.27% | +$1,652.93 (+10.99%) | $951.6597 (7% trail, HWM $1,023.29) |
 
 **Notes:** Day 37 (Wednesday) closed essentially flat with CAT easing -0.27% to $981.61 after Tuesday's pullback, giving back the small premarket bounce noted in this morning's research. No CAT-specific catalyst — broader tape stayed cautious ahead of tonight's Micron earnings (AI-infra/semis read-through) following Tuesday's tech-led selloff. Unrealized P&L held at +$1,652.93 (+10.99%), still below the +15% tightening trigger ($1,017.04) and the -7% cut trigger ($822.47) is nowhere close. Trailing stop order d51de63a remains ACTIVE (7% trail, HWM $1,023.29, stop $951.6597) — buffer ~3.05% at the close, the tightest reading yet but the rule is the stop never moves down regardless of buffer compression. Portfolio equity $100,427.51 vs. $100,504.52 Tuesday close — day loss -$77.01 (-0.08%). Phase P&L eased to +$427.51 (+0.43%) from Tuesday's +$504.52. No trades today; weekly count holds at 0/3, full capacity remains. WTI/Brent continued sliding to ~3-month lows on Iran de-escalation — supportive macro backdrop for CAT margins, not a risk. Next trigger: Micron earnings reaction tonight for tech/risk-off spillover read; watch stop buffer closely (sub-3% would still not warrant any new tightening since stops never move down, but reinforces no-new-entry stance); tighten to 5% if unrealized re-crosses +15% ($1,017.04). Patience > activity.
+
+---
+
+### Midday Scan — 2026-06-25 (Day 38, Thursday — Week 8)
+
+- **Account:** Equity ~$102,365 (CAT mkt value $17,670.06) | Cash $83,740.14 | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT:** $1,039.415 (+4.52% intraday from $994.45 prior close; +17.53% unrealized from $884.378824 entry) — no −7% trigger ($822.47) ✓; +15% trigger already crossed (Jun 22) ✓; +20% trigger ($1,061.255) **not yet crossed**
+- **CAT trailing stop:** order d51de63a | HWM $1,052.91 | Stop $979.2063 | Trail 7% GTC ✓ ACTIVE (confirmed via orders API) | Buffer $60.21 / **5.79% — healthy, clears 3% minimum**
+- **Action:** No trades. No losers cut (single position, up double digits). No stop tightening — already at 7% (correct band for 15–20% unrealized); 5% tighten not due until +20% ($1,061.255) crosses.
+- **Thesis check (CAT):** INTACT. Core PCE printed in line (May +3.40% y/y vs. +3.30% Apr) — no hawkish surprise. CAT's +4.52% intraday is a continuation of the Micron-led AI-infra relief rally, hitting fresh all-time highs (~$1,025+ intraday per wires). No CAT-specific negative catalyst; rising analyst PTs (up to $1,165) still bracket price.
+- **New entries:** None evaluated — single-position book, no fresh catalyst this scan. 3/3 weekly capacity remaining.
+- **Next trigger:** Tighten CAT trail 7%→5% if unrealized crosses +20% ($1,061.255 price). Patience > activity.
