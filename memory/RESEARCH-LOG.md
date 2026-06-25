@@ -3144,3 +3144,60 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-06-25 — Pre-market Research (Week 8, Day 38, Thursday)
+
+### Account (live Alpaca)
+- Equity: $100,935.64 (last equity $100,645.79; +$289.85 / +0.29%)
+- Cash: $83,740.14 (82.97%)
+- Long market value: $17,195.50
+- Buying power: $383,107.96 (margin); non-marginable $92,337.89
+- Daytrade count: 0
+- Weekly trades: 0/3 (new week)
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.378824 | $1011.50 | +1.71% | +$2,161.06 (+14.37%) | $951.6597 (HWM $1,023.29, trail 7%, order d51de63a ACTIVE) | $59.84 / **5.92% — buffer recovered, clears 3% min** |
+
+**Buffer recovered from 3.05% (Wed close) to 5.92% on this morning's bounce. No action — stop never moves down. Still below +15% tighten trigger ($1,017.04).**
+
+### Market Context
+- **WTI:** ~$71.8-73.9 range, near 3-month lows
+- **Brent:** ~$75.5, prior close $76.80 — fell below $74 mid-week (lowest since late Feb) on Strait-of-Hormuz tanker traffic + US-Iran peace-talk progress; modest bounce since
+- **S&P 500 futures:** +0.6-0.7% premarket; Nasdaq 100 futures +1.8% — broad risk-on after Micron's blowout earnings (stock +15% after-hours) revived the AI-infra/semis complex
+- **VIX:** 18.24 (day range 18.24-19.54; prior close 17.28) — still above the 17 entry gate despite the equity futures bounce
+- **Top catalyst:** Micron (MU) smashed Q3 estimates after Wed close, sales forecast crushed Street numbers — sparking a broad AI/semis relief rally (Kospi +6%, MSCI Asia Pacific +1.5%, Stoxx 600 +0.61%)
+- **Other earnings today:** HTZ, FOUR, RUN, AAL among names reporting — none CAT/oil-thesis-relevant
+- **Economic calendar (today, key day):** Core PCE (8:30am, Fed's preferred inflation gauge — May expected +0.36% m/m, +3.45% y/y), Q2 GDP third estimate, Durable Goods, Initial/Continuing Claims, EIA Natural Gas Inventories — PCE print is the session's swing factor for rate-cut odds
+- **Sector momentum YTD:** Energy still #1 (~22-35% depending on source window), Industrials/Materials clustered next (~9-21% depending on source — wide variance across snapshots, directionally still leadership pack); Technology has recovered to #2 post-Micron. No reversal of CAT's AI-infra/backlog backdrop
+- **CAT news:** No fresh negative catalyst. Analyst targets continue drifting up — JPMorgan to Street-high $1,165, Evercore ISI to $1,103, Wells Fargo to $1,050 (all now above current price ~$1,011, vs. the BofA $930 / avg-PT-$946 framing flagged earlier this week) — valuation-gap narrative is narrowing as Street re-rates the AI-power-infra thesis. Dividend raise (Jun 10, +8%), $63B backlog narrative unchanged.
+
+### Thesis Check (CAT) — INTACT
+- AI-power-infra re-rating + record $63B backlog narrative unchanged; rising analyst PTs (up to $1,165) now bracket the current price rather than capping it
+- Buffer 5.92% — recovered, clears 3% minimum; stop holds at 7% trail per "never move down" rule
+- Unrealized +14.37% — below both -7% cut trigger ($822.47) and +15% tighten trigger ($1,017.04 price); price $1,011.50 is close but hasn't crossed
+- Macro tailwind: Micron-driven AI/semis relief rally is risk-on for the broader AI-infra trade CAT rides; no CAT-specific catalyst today, just correlated upside
+
+### Trade Ideas
+1. **HOLD CAT** — thesis intact and strengthening (rising analyst PTs above price); watch for +15% trigger crossing intraday if the Micron-led bounce extends ($1,017.04 price level).
+2. **No new entries pre-market** — VIX 18.24 still > 17 gate despite the equity rally; today's core PCE print at 8:30am is a binary macro catalyst best observed before adding risk.
+3. **Continue watching DE/EMR** (Industrials/Materials, 0 capital deployed) for a 2nd position — sector leadership intact, AI-infra capex/electricity-buildout theme broadening post-Micron — but wait for VIX to clear below 17 and for the core PCE reaction to settle. 3/3 weekly trade capacity remains.
+
+### Risk Factors
+- **Core PCE at 8:30am:** today's key swing factor — a hot print could revive the Fed-hawkish/risk-off tape and erase this morning's Micron-driven bounce; a soft print extends it.
+- **VIX still above 17 gate** despite futures rally — elevated vol persists into a binary data day; no new entries until it clears.
+- **CAT valuation stretch narrowing but not closed:** price ~$1,011 now sits *within* the new analyst PT range ($1,050-$1,165) rather than above it — less of a standalone risk than earlier in the week, but a violent unwind of the Micron rally would hit the broader AI-infra trade CAT is riding.
+- **Oil near 3-month lows:** supportive for CAT input costs/margins, not a risk; a reversal would only matter if Iran talks visibly break down (no signs of that).
+- **+15% tighten trigger close ($1,017.04 vs. $1,011.50 current):** watch intraday — if crossed, tighten trail 7%→5% per rule (midday/EOD scan will catch it; this is a flag, not a Step-6 action).
+
+### Decision
+**HOLD — no trades pre-market.**
+- 1 position (CAT), buffer 5.92% — healthy, clears 3% minimum; no -7% trigger; +15% trigger not yet crossed ($1,017.04 vs. $1,011.50)
+- New entries blocked: VIX 18.24 > 17 gate; core PCE release at 8:30am is today's binary catalyst — wait for the print
+- Weekly trades: 0/3 used, 3/3 remaining (new week)
+- Next trigger: CAT crosses $1,017.04 intraday → tighten trail to 5% at midday scan. Core PCE reaction → reassess VIX gate and DE/EMR 2nd-position candidates this afternoon. Patience > activity.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_

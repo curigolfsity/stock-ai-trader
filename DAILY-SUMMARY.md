@@ -94,3 +94,11 @@ Decision: HOLD
 Ideas: CAT hold (buffer 4.01%, thesis intact), DE/EMR watch (Industrials/Materials leadership, VIX gate blocks entry)
 Market: SPX futures +0.17%, VIX ~17.28 (>17 gate), Oil WTI ~73.4 (3mo low)
 Risks: Micron earnings after close tonight could reignite tech-led risk-off
+
+---
+## 2026-06-25 10:05 UTC (fallback — ntfy.sh and Discord webhook both network-policy-blocked, 403 on CONNECT)
+Pre-market 2026-06-25
+Decision: HOLD
+Ideas: CAT hold (thesis intact, +14.37%, watch $1017.04 +15% trigger), DE/EMR watch (no entry yet, VIX gate)
+Market: SPX futures +0.6-0.7%, VIX 18.24, Oil WTI ~$72.8
+Risks: Core PCE 8:30am is today's swing factor; VIX still above 17 gate
