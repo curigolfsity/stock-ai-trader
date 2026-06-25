@@ -1272,3 +1272,14 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. Core PCE printed in line (May +3.40% y/y vs. +3.30% Apr) — no hawkish surprise. CAT's +4.52% intraday is a continuation of the Micron-led AI-infra relief rally, hitting fresh all-time highs (~$1,025+ intraday per wires). No CAT-specific negative catalyst; rising analyst PTs (up to $1,165) still bracket price.
 - **New entries:** None evaluated — single-position book, no fresh catalyst this scan. 3/3 weekly capacity remaining.
 - **Next trigger:** Tighten CAT trail 7%→5% if unrealized crosses +20% ($1,061.255 price). Patience > activity.
+
+---
+
+### Jun 25 — EOD Snapshot (Day 38, Thursday)
+**Portfolio:** $101,498.68 | **Cash:** $83,740.14 (82.5%) | **Day P&L:** +$1,071.17 (+1.07%) | **Phase P&L:** +$1,498.68 (+1.50%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.378824 | $1,044.62 | +5.05% | +$2,724.10 (+18.12%) | $980.2665 (7% trail, HWM $1,054.05) |
+
+**Notes:** Day 38 (Thursday) was the strongest day in the book's history — CAT ran +5.05% to $1,044.62, extending the Micron-led AI-infra relief rally flagged at midday, briefly touching a new all-time high of $1,054.05 (today's HWM) before settling. Unrealized P&L closed at +$2,724.10 (+18.12%), comfortably inside the 15–20% band — the 7% trail is the correct setting and has already auto-advanced to stop $980.2665 (order d51de63a, confirmed via orders API), buffer a healthy 6.16%. The +20% tighten-to-5% trigger ($1,061.255) was not crossed (HWM peaked at $1,054.05, short of the threshold), so no stop action was needed. No CAT-specific negative catalyst; no thesis break. Portfolio equity closed at $101,498.68 vs. $100,427.51 Wednesday close — day gain +$1,071.17 (+1.07%), the best single-day move yet. Phase P&L extended to +$1,498.68 (+1.50%), a new high-water mark for the phase, up from +$427.51 Wednesday. No trades today; weekly count holds at 0/3, full capacity remains. Next trigger: tighten CAT trail 7%→5% if unrealized crosses +20% ($1,061.255 price). Patience > activity.
