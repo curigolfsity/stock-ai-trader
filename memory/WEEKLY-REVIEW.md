@@ -327,3 +327,59 @@ Rule adherence A (thesis-break on OXY executed immediately; all stops active; ma
 Rule adherence A (XOM dual-trigger exit clean; all stops active; no process failures), risk management A (stop buffers healthy all week, no manual cuts needed, CAT round-tripped FOMC shock without rule breach), relative performance B (bot +0.78% vs SPX +0.93% = −0.15% gap — tightest of the phase, though still a relative loss). Best week of the challenge by discipline and by closeness to the index; remaining drag is structural — single-position concentration and Energy sector now needs a formal close-out.
 
 ---
+
+## Week ending 2026-06-26
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,499.08 (Thu Jun 18 close — last trading session before this week) |
+| Ending portfolio | $100,697.10 (Fri Jun 26 live) |
+| Week return | +$198.02 (+0.20%) |
+| S&P 500 week | −1.91% (7,500.58 Jun 18 → 7,357.49 Jun 26) |
+| Bot vs S&P | +2.10% |
+| Trades | 0 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CAT | $884.38 | $997.47 | +$1,922.52 (+12.79%) | $983.0751 (7% trail GTC, HWM $1,057.07) — buffer **1.44% ⚠️ BELOW 3% MANDATE** |
+
+### What Worked
+- Trailing stop tightening executed correctly and on time — 10%→7% triggered Monday Jun 22 at the +15% crossing ($1,017.04), confirmed via orders API (order d51de63a), no manual intervention needed
+- Stop discipline held firm through a volatile week — HWM advanced to a new all-time high $1,057.07 Thursday, and the stop has never moved down despite buffer compressing from 7.10% (Monday) to 1.44% (Friday close)
+- CAT round-tripped a sharp -3.54% Tuesday pullback and then ran +5.05% Thursday to a fresh ATH on a Micron-led AI-infra relief rally — thesis ($63B backlog, AI power-gen, rising analyst PTs to $1,165) never broke
+- Friday's rotation out of AI-infra-cost-sensitive tech (Apple/Microsoft price hikes, OpenAI IPO-delay chatter) and into Industrials (+2.2% sector ETF) directly benefited CAT's relative positioning even as the stock gave back gains in absolute terms
+- Bot beat the S&P 500 by +2.10% this week — best relative performance of the entire phase, driven by single-stock alpha (CAT +12.79% unrealized) against a down week for the index
+
+### What Didn't Work
+- CAT gave back ~5.6% from Thursday's intraday/HWM peak ($1,057.07) to Friday's close ($997.47) — the largest single-week pullback from a fresh high this phase, despite no CAT-specific negative catalyst (idiosyncratic profit-taking, not sector-wide)
+- Trailing stop buffer compressed to 1.44% at Friday's close — below the mandatory 3% threshold for the first time this phase; per Rule 7/Sell-Side Rules, this requires a manual-cut check at Monday's open, not passive monitoring
+- Single-position concentration remains unresolved — 8th consecutive week with only CAT open; 83% cash; VIX >17 gate cited repeatedly but no 2nd-position candidate was actively evaluated or logged this week
+- 0/3 weekly trade capacity used for the 8th straight week — full capacity carried forward again; no progress on portfolio diversification despite the strategy's 5-6 position target
+- CAT came within $4.19 of the +20%/5%-tighten threshold ($1,061.255) at Thursday's HWM but pulled back before crossing it — narrowly missed locking in the tighter trail before Friday's reversal
+
+### Key Lessons
+- **Buffer compression to 1.44% is now a live trigger, not a watch item:** the existing "<3% overnight buffer → manual cut at the open" rule must be checked first thing Monday Jun 29 — if CAT opens with buffer still <3% of the $983.08 stop, execute the manual cut immediately rather than waiting to see if the stop fires on its own
+- A stock running to fresh ATHs into a Thursday rally and reversing hard the next day (Thu $1,054 HWM → Fri $997 close) is exactly the scenario the 7%/5% tiered tightening was designed for — the system worked (stop never moved down, never tightened prematurely) but it also means a single bad session can erase several points of buffer in one day; sub-3% buffer readings should be flagged for next-session protocol the moment they occur, not just noted
+- Best relative week of the phase came entirely from being right on one stock, not from process improvements — the structural risk (single position, 83% cash, 8 weeks without a 2nd entry) is still the dominant unaddressed issue and will eventually cut both ways
+
+### Adjustments for Next Week
+- **Monday Jun 29 market-open priority #1:** re-verify CAT stop buffer at the open; if still <3%, execute manual cut immediately per the existing 3%-buffer protocol — do not monitor intraday or wait for the GTC stop to trigger on its own
+- If CAT survives Monday's open with buffer restored >3%, hold position; only tighten trail 7%→5% on a confirmed +20% ($1,061.255) crossing — do not loosen or pre-emptively tighten on buffer compression alone
+- Actively re-evaluate 2nd-position candidates (prior watchlist: DE, EMR, GEV-class non-Energy) the moment VIX clears <17 — 8 consecutive weeks at ~83% cash with single-stock concentration is the single biggest structural risk to the phase, win or lose on CAT
+- Continue tracking the AI-infra-cost rotation theme (chip/cloud capex concerns, OpenAI IPO delay) — a second consecutive week of tech-to-industrials rotation could either extend the CAT tailwind or, if AI capex sentiment stabilizes, reverse it just as fast
+
+### Overall Grade: B+
+Rule adherence A (stop tightening executed correctly and on schedule; stop never moved down despite multiple sub-5% buffer readings; no manual-cut violations this week), risk management B− (CAT's stop buffer closed the week at 1.44%, below the 3% mandate — flagged for mandatory Monday-open action, not yet a violation but the tightest/riskiest buffer reading of the phase), relative performance A (bot +0.20% vs SPX −1.91% = +2.10% gap, the best relative week of the challenge). Strong week on relative numbers, but it rode entirely on one position with a now-critical stop buffer and zero progress on diversification.
+
+---
