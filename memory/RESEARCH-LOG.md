@@ -3266,3 +3266,13 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Next trigger: VIX sustained back below 17 → reassess DE/EMR 2nd-position candidates. CAT crossing $1,061.255 → tighten trail to 5%. Patience > activity.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+### 2026-06-26 — Midday Addendum (Day 39, Friday)
+
+- **CAT:** $1,014.60 (-4.01% intraday from $1,057.01 prior close), unrealized +14.73% — pulled back from Thursday's all-time-high run (HWM $1,057.07). Buffer on the 7% trail compressed to 3.11% — tightest reading yet but still clears the 3% minimum; stop does not move (never moves down).
+- **WebSearch check:** No CAT-specific negative catalyst found. Broader tape today shows industrials/energy in the green, benefiting from rotation away from tech amid the ongoing AI-infra-cost selloff (Apple price hikes, OpenAI IPO delay) — so CAT's drop is idiosyncratic profit-taking after the Thursday ATH spike, not sector-wide risk-off. Thesis (AI-power-infra re-rating, $63B backlog, Wells Fargo $1,155 / JPMorgan $1,165 PTs) remains intact.
+- **Decision:** HOLD, no action. No new entries (VIX still above 17 gate per pre-market scan). Weekly trades 0/3, 3/3 remaining.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
