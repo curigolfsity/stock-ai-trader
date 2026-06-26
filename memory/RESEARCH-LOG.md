@@ -3209,3 +3209,60 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Core PCE print:** in line — May core PCE +3.40% y/y (vs. +3.30% Apr), no hawkish surprise. No risk-off shock to the tape.
 - **CAT:** $1,039.415 (+4.52% intraday), unrealized +17.53% — +15% trigger now well past ($1,017.04), approaching but not yet at +20% ($1,061.255). Hit fresh all-time highs intraday (~$1,025+ per wire reports).
 - **No CAT-specific catalyst** — move tracks the broad Micron-led AI-infra relief rally continuing into the PCE print; thesis (AI-power-infra re-rating, $63B backlog, rising analyst PTs up to $1,165) intact, no break.
+
+---
+
+## 2026-06-26 — Pre-market Research (Week 8, Day 39, Friday)
+
+### Account (live Alpaca)
+- Equity: $101,454.14 (last equity $101,709.31; -$255.17 / -0.25%)
+- Cash: $83,740.14 (82.5%)
+- Long market value: $17,714.00
+- Buying power: $384,559.76 (margin); non-marginable $92,597.14
+- Daytrade count: 0
+- Weekly trades: 0/3 (week of 2026-06-22)
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.378824 | $1,042.00 | -1.42% | +$2,679.56 (+17.82%) | $983.0751 (HWM $1,057.07, trail 7%, order d51de63a ACTIVE) | $58.93 / **5.65% — healthy, clears 3% min** |
+
+**No action — unrealized +17.82% still inside the 15–20% band (7% trail correct); +20% tighten trigger ($1,061.255) not yet crossed (HWM only reached $1,057.07 Thu). Stop never moves down.**
+
+### Market Context
+- **WTI:** ~$70.1, lowest since the Iran conflict began — extending the post-de-escalation slide
+- **Brent:** ~$74.4, -1.1% on the day — multi-month lows, Strait-of-Hormuz risk premium continuing to unwind
+- **S&P 500 futures:** -0.37% premarket — cautious end to the week; Polymarket implies only 40% odds of a higher open
+- **VIX:** 18.68 (prior close 18.89) — still above the 17 entry gate, elevated for a 4th straight session
+- **Top catalyst:** Fresh AI-infra-cost selloff — Apple -6% Thursday after hiking prices on Macs/iPads/Vision Pro (citing higher memory costs), plus a report that OpenAI may delay its IPO to 2027 on soft demand at a $1T valuation. Triggered a sharp Asia rout: SoftBank -13%, SK Hynix -8.95%, Samsung -6.28%, Kospi -5.81% (circuit breaker tripped), Nikkei -4.15%. US chipmakers (Micron, Western Digital, Sandisk) lower premarket despite Micron's strong print Wednesday.
+- **Other earnings today:** ~4 minor reports per Yahoo calendar; nothing CAT/oil-thesis-relevant identified
+- **Economic calendar:** Final June University of Michigan consumer sentiment (10am) — only notable release; no CPI/PPI/jobs/FOMC today. Yesterday's core PCE (May, +3.40% y/y) was in line, no hawkish surprise
+- **Sector momentum YTD:** Energy #1 (~34.5%), Technology #2 (~22.3%, recovering fast post-Micron) but whipsawing today on the AI-infra-cost scare; Industrials +21.0%, Materials +17.7% — leadership pack intact, no reversal of CAT's backdrop
+- **CAT news:** No CAT-specific negative catalyst. Wells Fargo raised PT to $1,155 (from $1,050) on Jun 23 — Street-high alongside JPMorgan's $1,165. Valuation note: trailing P/E stretched to ~48-51x; FY26 tariff headwind guide unchanged at $2.2-2.4B. Next earnings Aug 4 — not a near-term catalyst.
+
+### Thesis Check (CAT) — INTACT
+- AI-power-infra re-rating + $63B backlog narrative unchanged; rising analyst PTs (Wells Fargo $1,155, JPMorgan $1,165) continue to bracket price above current levels
+- Buffer 5.65% — healthy, clears 3% minimum; 7% trail is the correct band for 15-20% unrealized
+- Today's -1.42% move reads as risk-off spillover from the *AI-infra-cost* selloff (memory/component costs, OpenAI IPO jitters) — a different complex than CAT's AI-power-demand thesis, but correlated risk sentiment; not a thesis break
+- No CAT-specific catalyst, no balance-sheet or backlog news contradicting the long case
+
+### Trade Ideas
+1. **HOLD CAT** — thesis intact; today's weakness is broad AI-infra-cost risk-off, not a CAT-specific break. No action on the stop (still 7%, buffer healthy).
+2. **No new entries today** — VIX 18.68 > 17 gate for a 4th session; fresh tech-led volatility (Apple, OpenAI IPO delay, Asia circuit breaker) argues for staying on the sidelines into the weekend.
+3. **Continue watching DE/EMR** (Industrials/Materials, 0 capital deployed) for a 2nd position — sector leadership (Industrials +21.0%, Materials +17.7%) still intact — but wait for VIX to clear below 17 and for this AI-infra-cost scare to settle. 3/3 weekly capacity remains; patience > activity heading into end of week.
+
+### Risk Factors
+- **Fresh AI-infra-cost selloff (Apple price hikes, OpenAI IPO delay):** different from the AI-power-demand thesis CAT rides, but broad risk-off correlation could pressure the tape into the weekend.
+- **VIX 18.68, above 17 gate for 4 straight sessions:** persistent elevated vol; no new entries until it clears.
+- **CAT valuation stretch:** trailing P/E ~48-51x; price ~$1,042 still inside the new analyst PT range ($1,155-$1,165), cushioning but not eliminating multiple-compression risk on any AI-infra-wide de-rating.
+- **Oil at multi-month lows:** supportive for CAT input costs, not a risk; would only flip if Iran de-escalation reverses.
+- **Weekend gap risk:** Friday close into Monday open with active AI-infra volatility — no action planned, just a watch item.
+
+### Decision
+**HOLD — no trades pre-market.**
+- 1 position (CAT), buffer 5.65% — healthy, clears 3% minimum; no -7%/+20% triggers hit; +15% trigger already crossed days ago (7% trail correct)
+- New entries blocked: VIX 18.68 > 17 gate (4th straight session); fresh AI-infra-cost-driven risk-off (Apple, OpenAI IPO delay) argues against adding risk into the weekend
+- Weekly trades: 0/3 used, 3/3 remaining
+- Next trigger: VIX sustained back below 17 → reassess DE/EMR 2nd-position candidates. CAT crossing $1,061.255 → tighten trail to 5%. Patience > activity.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
