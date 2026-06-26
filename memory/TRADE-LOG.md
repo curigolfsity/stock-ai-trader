@@ -1295,3 +1295,14 @@ No positions yet. Bot launches tomorrow.
 - **Thesis check (CAT):** INTACT. WebSearch found no CAT-specific negative catalyst. Today's -4.01% reads as profit-taking after Thursday's all-time-high run ($1,054.05 HWM) — broader market check shows industrials/energy actually in the green today on rotation OUT of tech (AI-infra-cost selloff: Apple price hikes, OpenAI IPO delay jitters continuing from yesterday), so CAT's pullback is idiosyncratic give-back, not sector-wide weakness. AI-power-infra re-rating / $63B backlog / rising analyst PTs (Wells Fargo $1,155, JPMorgan $1,165) all still intact.
 - **New entries:** None evaluated — single-position book, VIX still above 17 gate per pre-market scan. 3/3 weekly capacity remaining.
 - **Next trigger:** Watch buffer (3.11%, tightest yet) — no new tightening triggered by buffer compression alone, stop only moves on +20% crossing. Tighten CAT trail 7%→5% if unrealized re-crosses +20% ($1,061.255 price). Patience > activity.
+
+---
+
+### Jun 26 — EOD Snapshot (Day 39, Friday)
+**Portfolio:** $100,841.63 | **Cash:** $83,740.14 (83.0%) | **Day P&L:** -$657.05 (-0.65%) | **Phase P&L:** +$841.63 (+0.84%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CAT | 17 | $884.378824 | $1,005.97 | -4.83% | +$2,067.05 (+13.75%) | $983.0751 (7% trail, HWM $1,057.07) |
+
+**Notes:** Day 39 (Friday, end of Week 8) closed lower as CAT extended Friday's profit-taking, easing -4.83% to $1,005.97 off Thursday's all-time-high HWM of $1,057.07 — consistent with the idiosyncratic give-back flagged at midday (no CAT-specific negative catalyst; broader industrials/energy in the green on rotation out of AI-infra-cost-sensitive tech). Unrealized P&L eased to +$2,067.05 (+13.75%), back below the +15% tightening trigger ($1,017.04); the 7% trail holds (stops never move down) at HWM $1,057.07 / stop $983.0751, confirmed via orders API — buffer $22.90 / 2.28%, the tightest reading of the phase, below the 3% minimum. No -7% cut trigger ($822.47) is close. Portfolio equity closed at $100,841.63 vs. $101,498.68 Thursday close — day loss -$657.05 (-0.65%). Phase P&L eased to +$841.63 (+0.84%) from Thursday's +$1,498.68. No trades today or this week; weekly count holds at 0/3, full capacity remains heading into Week 9. ⚠️ Buffer compression below 3% warrants close monitoring Monday — per strategy rule, stops never move down regardless, but a sub-3% buffer at the open should be flagged for a possible manual-cut readiness check if CAT gaps down. Patience > activity.
