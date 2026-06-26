@@ -102,3 +102,11 @@ Decision: HOLD
 Ideas: CAT hold (thesis intact, +14.37%, watch $1017.04 +15% trigger), DE/EMR watch (no entry yet, VIX gate)
 Market: SPX futures +0.6-0.7%, VIX 18.24, Oil WTI ~$72.8
 Risks: Core PCE 8:30am is today's swing factor; VIX still above 17 gate
+
+---
+## 2026-06-26 10:05 UTC (fallback — ntfy.sh and Discord blocked by network policy)
+Pre-market 2026-06-26
+Decision: HOLD
+Ideas: CAT (hold, thesis intact, buffer 5.65%), DE/EMR (watch only, no entry)
+Market: SPX futures -0.37%, VIX 18.68, Oil WTI ~$70.1
+Risks: Fresh AI-infra-cost selloff (Apple -6%, OpenAI IPO delay) — VIX>17 4th session, no new entries
