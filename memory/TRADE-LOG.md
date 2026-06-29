@@ -1306,3 +1306,26 @@ No positions yet. Bot launches tomorrow.
 | CAT | 17 | $884.378824 | $1,005.97 | -4.83% | +$2,067.05 (+13.75%) | $983.0751 (7% trail, HWM $1,057.07) |
 
 **Notes:** Day 39 (Friday, end of Week 8) closed lower as CAT extended Friday's profit-taking, easing -4.83% to $1,005.97 off Thursday's all-time-high HWM of $1,057.07 — consistent with the idiosyncratic give-back flagged at midday (no CAT-specific negative catalyst; broader industrials/energy in the green on rotation out of AI-infra-cost-sensitive tech). Unrealized P&L eased to +$2,067.05 (+13.75%), back below the +15% tightening trigger ($1,017.04); the 7% trail holds (stops never move down) at HWM $1,057.07 / stop $983.0751, confirmed via orders API — buffer $22.90 / 2.28%, the tightest reading of the phase, below the 3% minimum. No -7% cut trigger ($822.47) is close. Portfolio equity closed at $100,841.63 vs. $101,498.68 Thursday close — day loss -$657.05 (-0.65%). Phase P&L eased to +$841.63 (+0.84%) from Thursday's +$1,498.68. No trades today or this week; weekly count holds at 0/3, full capacity remains heading into Week 9. ⚠️ Buffer compression below 3% warrants close monitoring Monday — per strategy rule, stops never move down regardless, but a sub-3% buffer at the open should be flagged for a possible manual-cut readiness check if CAT gaps down. Patience > activity.
+
+---
+
+## Week of 2026-06-29
+
+### Open Positions
+
+None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
+
+### Market-Open Execution — 2026-06-29 (Day 40, Monday — Week 9)
+
+- **Account (pre-trade):** Equity $100,910.14 | Cash $83,740.14 (83.0%) | Daytrade count: 0 | Weekly trades: 0/3
+- **CAT (pre-trade):** $1,010.00 | Stop $983.0751 (7% trail, HWM $1,057.07, order d51de63a) | Buffer $26.93 / **2.67% — confirmed below 3% overnight minimum** (flagged in pre-market research)
+- **Action: MANUAL CUT.** Per Sell-Side Rule "Overnight stop buffer < 3%: execute manual cut at the open — do not monitor intraday." Thesis intact/reinforced (Chevron-Microsoft Project Kilby PPA naming Solar Turbines); this was a mechanical risk-management trigger, not a thesis-break sell.
+  1. Cancelled trailing-stop order d51de63a (7% GTC, stop $983.0751).
+  2. Closed CAT position via market sell, day TIF (order 577abe81).
+  3. Order queued pre-open (submitted 12:32 UTC), filled at the opening cross 13:35:04 UTC.
+- **Fill:** CAT SELL 17 sh @ avg $996.166471. Realized P&L: +$1,900.39 (+12.64%) vs. $884.378824 entry (2026-05-04).
+- **Account (post-trade):** Cash $100,674.97 | Equity $100,674.97 | Positions: none (100% cash)
+- **New entries:** None — VIX 18.41 > 17 gate blocked (5th+ straight session); no other catalyst cleared today's bar. Weekly trades: 0/3 used (manual cut is a risk-management close, not a new-position trade).
+- **Next:** Watch VIX for a sustained close <17 to re-evaluate new entries (DE/EMR candidates, sector leadership intact). Fully flat — no open positions, no stops to manage. Patience > activity.
+
+---
