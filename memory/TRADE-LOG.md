@@ -1339,3 +1339,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Next trigger:** VIX sustained close <17 → reassess DE/EMR per pre-market research. Patience > activity.
 
 ---
+
+### Jun 29 — EOD Snapshot (Day 40, Monday)
+**Portfolio:** $100,674.97 | **Cash:** $100,674.97 (100%) | **Day P&L:** -$166.66 (-0.17%) | **Phase P&L:** +$674.97 (+0.67%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | flat, no positions |
+
+**Notes:** Day 40 (Monday, start of Week 9) closed flat in cash after the pre-open manual cut of CAT — buffer had compressed below the 3% overnight minimum (2.67%) per the Sell-Side Rule, triggering a mechanical risk-management close rather than a thesis break. Trailing stop d51de63a (7% GTC, HWM $1,057.07, stop $983.0751) was cancelled and the position closed via market sell at the open: 17 sh @ avg $996.166471, realized +$1,900.39 (+12.64%) vs. the $884.378824 entry (2026-05-04). No further trades at midday or into the close — book stayed empty all session, no losers to cut, no stops to manage. Portfolio equity closed $100,674.97 vs. $100,841.63 Friday close — day loss -$166.66 (-0.17%), reflecting the realized gain net of Friday's already-marked unrealized P&L. Phase P&L holds at +$674.97 (+0.67%) vs. $100,000 starting equity. Trades today: 1 (CAT manual cut — risk-mgmt close, not a new entry). Weekly new-entry count: 0/3, full capacity into Week 9. VIX 18.41 blocked new entries (5th+ straight session >17 gate). Next trigger: VIX sustained close <17 → reassess DE/EMR per pre-market research. Patience > activity.
+
+---
