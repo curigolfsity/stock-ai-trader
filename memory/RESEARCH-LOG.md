@@ -3276,3 +3276,60 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Decision:** HOLD, no action. No new entries (VIX still above 17 gate per pre-market scan). Weekly trades 0/3, 3/3 remaining.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-06-29 — Pre-market Research (Week 9, Day 40, Monday)
+
+### Account (live Alpaca)
+- Equity: $100,952.81 (last equity $100,697.13; +$255.68 / +0.25%)
+- Cash: $83,740.14 (83.0%)
+- Long market value: $17,212.67
+- Buying power: $383,156.04 (margin); non-marginable $92,346.47
+- Daytrade count: 0
+- Weekly trades: 0/3 (new week, week of 2026-06-29)
+
+### Positions (live Alpaca)
+| Ticker | Shares | Avg Entry | Current | Day Chg | Unrealized P&L | Stop | Buffer |
+|--------|--------|-----------|---------|---------|----------------|------|--------|
+| CAT | 17 | $884.378824 | $1,012.51 | +1.51% | +$2,178.23 (+14.49%) | $983.0751 (HWM $1,057.07, trail 7%, order d51de63a ACTIVE) | $29.43 / **2.91% — BELOW 3% MINIMUM** |
+
+**⚠️ FLAG — Overnight stop buffer < 3% rule triggered.** Strategy rule: "Overnight stop buffer < 3%: execute manual cut at the open — do not monitor intraday." Buffer was 2.28% at Friday's close, recovered slightly to 2.91% on this morning's premarket bounce but remains under the 3% minimum. Per rule, this calls for a manual cut of CAT at the open today rather than waiting on the existing 7% trailing stop. This pre-market workflow does not execute trades — flagging here for market-open execution / manual review. No -7% cut trigger ($822.47, position is up double digits) and no thesis break — this is a buffer-compression trigger only, not a stop-loss or thesis trigger.
+
+### Market Context
+- **WTI:** ~$69.23/bbl
+- **Brent:** ~$72.01/bbl — near multi-month lows; Strait of Hormuz transits accelerating as vessels resume normal routing on progress toward a US-Iran peace deal, Persian Gulf exports back to ~75% of prewar levels
+- **S&P 500 futures:** +0.2% premarket; Dow futures +0.1% (+48 pts); Nasdaq-100 futures flat — fragile optimism on the Iran truce holding
+- **VIX:** 18.41 (Friday close, -2.54%) — still above the 17 entry gate for a 5th+ straight session
+- **Top catalyst:** Alphabet replaces Verizon in the Dow Jones Industrial Average effective before today's open — index-flow event, not directly CAT-relevant
+- **Earnings today:** Light calendar — AVAV, CNXC, QMCO reporting; nothing CAT/oil-thesis-relevant
+- **Economic calendar:** Initial Claims at 8:30am, Weekly Economic Index at 11:30am — no CPI/PPI/FOMC/jobs data today. Core PCE (last week) came in line headline, but core services ex-housing/energy tracking ~3.9% y/y — sticky inflation undercurrent, not a fresh catalyst
+- **Sector momentum YTD:** Energy #1 (~34.5%), Industrials ~21% (in the 9-11%-since-May band per more recent reads), Technology recovering post AI-infra-cost selloff — CAT's Industrials/AI-power-infra backdrop remains intact, no reversal
+- **CAT news:** Major positive catalyst — Chevron announced a 20-year power purchase agreement with Microsoft for Project Kilby, a co-located AI data center power facility in West Texas, with Solar Turbines (a wholly owned CAT subsidiary) supplying additional generation capacity. Reaffirms the AI-power-infra thesis directly. Wells Fargo PT $1,155 (Overweight) unchanged. CAT declared a $1.63 dividend, ex-date Jul 20. Record $63B order backlog stands; Q1 revenue +22% to $17.4B, EPS +30% to $5.54. No negative catalyst found.
+
+### Thesis Check (CAT) — INTACT, REINFORCED
+- AI-power-infra re-rating thesis got a direct, name-specific confirmation today (Chevron-Microsoft PPA naming Solar Turbines/CAT) rather than just correlated sector sentiment — strongest catalyst of the phase
+- $63B backlog narrative unchanged; Wells Fargo $1,155 PT still brackets price above current levels
+- No balance-sheet, guidance, or competitive news contradicting the long case
+- The only flag is mechanical (stop buffer compression), not fundamental
+
+### Trade Ideas
+1. **MANUAL CUT FLAG — CAT stop buffer 2.91% < 3% overnight minimum.** Per Sell-Side Rules, this requires a manual cut at the open today, independent of thesis (which is intact/strengthening) and independent of the -7%/+20% triggers (neither hit). This is a mechanical risk-management rule, not a thesis call. Flagging for market-open execution.
+2. **No new entries today** — VIX 18.41 still > 17 gate. Single-position book; 3/3 weekly capacity available if VIX clears.
+3. **Continue watching DE/EMR** (Industrials, 0 capital deployed) for a 2nd position once VIX clears below 17 — sector leadership and AI-power-infra capex buildout theme both still intact and now reinforced by the Chevron-Microsoft Project Kilby news.
+
+### Risk Factors
+- **Stop buffer 2.91%, below the 3% overnight minimum** — mechanical trigger for a manual cut at the open per strategy rule; this is the binding action item today regardless of thesis strength.
+- **VIX 18.41, above 17 gate for a 5th+ straight session** — elevated vol persists; no new entries until it clears.
+- **Fragile US-Iran truce:** oil near multi-month lows on de-escalation optimism, but the agreement's durability is unconfirmed — a breakdown would spike oil and risk sentiment broadly.
+- **CAT valuation stretch:** trailing P/E remains elevated (~48-51x per last week's read); price now sits within the Wells Fargo PT ($1,155), cushioning but not eliminating multiple-compression risk.
+- **Sticky core inflation:** core services ex-housing/energy tracking ~3.9% y/y keeps a hawkish-Fed tail risk alive even with no data release today.
+
+### Decision
+**FLAG FOR MANUAL CUT AT OPEN (mechanical rule) — no new trades pre-market.**
+- CAT stop buffer 2.91% < 3% minimum (overnight) → per strategy rule, execute manual cut at the open. Thesis is intact/reinforced (Chevron-Microsoft Project Kilby PPA naming Solar Turbines) — this is a risk-management trigger, not a thesis-break sell.
+- New entries blocked: VIX 18.41 > 17 gate (5th+ session)
+- Weekly trades: 0/3 used, 3/3 remaining (new week)
+- Next trigger: market-open execution of the buffer-compression manual cut on CAT; VIX sustained below 17 → reassess DE/EMR 2nd-position candidates. Patience > activity.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_

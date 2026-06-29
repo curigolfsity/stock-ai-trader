@@ -110,3 +110,11 @@ Decision: HOLD
 Ideas: CAT (hold, thesis intact, buffer 5.65%), DE/EMR (watch only, no entry)
 Market: SPX futures -0.37%, VIX 18.68, Oil WTI ~$70.1
 Risks: Fresh AI-infra-cost selloff (Apple -6%, OpenAI IPO delay) — VIX>17 4th session, no new entries
+
+---
+## 2026-06-29 10:07 UTC (fallback — no notification service configured)
+Pre-market 2026-06-29
+Decision: FLAG - manual cut at open (CAT stop buffer 2.91% < 3% min)
+Ideas: CAT manual cut per buffer rule (thesis intact, Chevron-MSFT PPA confirms AI-power thesis), DE/EMR watch for 2nd position
+Market: SPX futures +0.2%, VIX 18.41, Oil WTI $69.23
+Risks: VIX still >17 gate; fragile US-Iran truce; sticky core inflation
