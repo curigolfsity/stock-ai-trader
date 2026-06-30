@@ -1350,3 +1350,17 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 **Notes:** Day 40 (Monday, start of Week 9) closed flat in cash after the pre-open manual cut of CAT — buffer had compressed below the 3% overnight minimum (2.67%) per the Sell-Side Rule, triggering a mechanical risk-management close rather than a thesis break. Trailing stop d51de63a (7% GTC, HWM $1,057.07, stop $983.0751) was cancelled and the position closed via market sell at the open: 17 sh @ avg $996.166471, realized +$1,900.39 (+12.64%) vs. the $884.378824 entry (2026-05-04). No further trades at midday or into the close — book stayed empty all session, no losers to cut, no stops to manage. Portfolio equity closed $100,674.97 vs. $100,841.63 Friday close — day loss -$166.66 (-0.17%), reflecting the realized gain net of Friday's already-marked unrealized P&L. Phase P&L holds at +$674.97 (+0.67%) vs. $100,000 starting equity. Trades today: 1 (CAT manual cut — risk-mgmt close, not a new entry). Weekly new-entry count: 0/3, full capacity into Week 9. VIX 18.41 blocked new entries (5th+ straight session >17 gate). Next trigger: VIX sustained close <17 → reassess DE/EMR per pre-market research. Patience > activity.
 
 ---
+
+### Market-Open Scan — 2026-06-30 (Day 41, Tuesday — Quarter-End Q2, Week 9)
+
+- **Account:** Equity $100,674.95 | Cash $100,674.95 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** None. Flat since CAT manual cut Jun 29.
+- **VIX:** 16.41 — **BELOW 17 ENTRY GATE ✓** (first clearance in 5+ sessions)
+- **DE (primary candidate):** IEX last bar $627.08 (Jun 29 19:59 UTC); pre-market ask $651.62 (stale/illiquid); research limit range $610-615 → **$14 / 2.3% ABOVE research range**
+- **EMR (secondary candidate):** IEX last $142.92 — in range, but research sequences as 2nd entry post-NFP (Thu Jul 2)
+- **Quarter-end flag:** Today = last trading day of Q2 2026 — index rebalancing / window dressing = intraday noise risk; research explicitly cautions "enter via limit, not market order"
+- **Action: NO TRADES.** DE gated OUT — price $627 above limit range $610-615; research cautions against chasing with market order on quarter-end; workflow market orders would risk chasing a gap-up that may reverse on rebalancing flows. EMR sequenced for post-NFP. Patience > activity.
+- **Rule gates checked (DE):** Positions ≤6 ✓ | Weekly trades ≤3 ✓ | Position cost ≤20% ✓ | Catalyst documented ✓ | PDT 0 ✓ | VIX ✓ | **Price vs. research range ✗ (above limit)**
+- **Next trigger:** Post-quarter-end (Wed Jul 1): Re-evaluate DE if price pulls back to $615-627 range; VIX remains <17; R:R intact (stop ~$564, target ~$752, 2:1). Thu Jul 2: NFP (+172k consensus) → if confirms, evaluate EMR as 2nd position (~140sh at ~$143, stop ~$129, target ~$172, 2:1 R:R). Weekly capacity 0/3 — full.
+
+---
