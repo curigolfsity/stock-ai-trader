@@ -1378,3 +1378,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Next trigger:** VIX sustained close <17 (Wed Jul 1 or later) → re-evaluate DE at limit $610–620 (ex-div adjusted) and/or EMR. NFP Thu Jul 2 8:30 AM ET (consensus +172k) = primary binary this week — confirms or invalidates new-entry sequencing. Weekly capacity 0/3 — full.
 
 ---
+
+### Jun 30 — EOD Snapshot (Day 41, Tuesday — Q2 Quarter-End)
+**Portfolio:** $100,674.95 | **Cash:** $100,674.95 (100%) | **Day P&L:** -$0.02 (0.00%) | **Phase P&L:** +$674.95 (+0.67%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | flat, no positions |
+
+**Notes:** Day 41 (Tuesday, Q2 quarter-end) closed exactly flat — 100% cash, no positions, no trades. The account never deployed capital today: VIX opened at 16.41 (the first sub-17 reading in 5+ sessions), momentarily clearing the new-entry gate, but DE was still above the $610–615 research limit range ($627+) and VIX rose sharply intraday (range 17.49–19.45, opening 18.60) re-blocking entries before any order could be placed. Quarter-end rebalancing and window-dressing flows drove S&P 500 to close ~7,440 (+1.18%). Chicago PMI decelerated to 56.70 vs. 62.70 May (still expansionary but softening). DE went ex-dividend $1.62/sh today. EMR remains sequenced as 2nd-position candidate post-NFP. Phase P&L holds at +$674.95 (+0.67%) vs. $100,000 starting equity — entering Q3 in cash with full 3/3 weekly capacity. Realized gains banked this phase: CAT +$1,900.39 (+12.64%, held 57 days from May 4–Jun 29). Next binary: NFP Thu Jul 2 8:30 AM ET (consensus +172k) — confirms or invalidates the DE/EMR new-entry sequencing. VIX sustained close <17 + DE at $610–620 limit → evaluate DE entry (~10sh at ~$615, stop ~$554 GTC trail, ~6.1% equity, target ~$738 +20%, R:R ~2:1).
+
+---
