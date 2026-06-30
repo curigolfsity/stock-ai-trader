@@ -3407,3 +3407,15 @@ None. Flat since yesterday's market-open CAT manual cut.
 - Patience > activity, but 0% deployment with VIX below gate is an action signal
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+### 2026-06-30 — Midday Addendum (Day 41, Tuesday)
+
+- **VIX:** 17.66 intraday (range 17.49–19.45; opened 18.60) — re-broke above 17 after pre-market reading of 16.41. Entry gate RE-BLOCKED ✗. Quarter-end rebalancing flows driving vol.
+- **DE:** Ex-div $1.62 today; price remains above $610–615 limit entry range; gate blocked on VIX independently. No entry.
+- **Chicago PMI:** 56.70 (vs. 62.70 May) — decelerating but still expansionary; soft print doesn't break DE's tariff-relief / earnings-beat thesis.
+- **S&P 500:** ~7,440 (+1.18%) on quarter-end window dressing.
+- **Decision:** No trades. Book stays flat. VIX must close below 17 (sustained) before any new entry is evaluated. NFP Thu Jul 2 = next primary binary.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
