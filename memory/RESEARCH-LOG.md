@@ -3333,3 +3333,77 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Next trigger: market-open execution of the buffer-compression manual cut on CAT; VIX sustained below 17 → reassess DE/EMR 2nd-position candidates. Patience > activity.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-06-30 — Pre-market Research (Week 9, Day 41, Tuesday — Quarter-End Q2)
+
+### Account (live Alpaca)
+- Equity: $100,674.95
+- Cash: $100,674.95 (100% — fully flat since CAT manual cut Jun 29)
+- Long market value: $0
+- Buying power: $402,699.80 (margin); non-marginable $100,674.95
+- Daytrade count: 0
+- Weekly trades: 0/3 (Week 9, full capacity)
+
+### Positions
+None. Flat since yesterday's market-open CAT manual cut.
+
+### Market Context
+- **WTI:** ~$69.70/bbl (rebounding slightly from 4-month lows; US-Iran peace talks progressing)
+- **Brent:** ~$72.01/bbl
+- **S&P 500 futures:** +0.2% Monday (Jun 29); no specific Jun 30 premarket data found; tech led session Jun 29 (+Alphabet DJIA addition)
+- **VIX:** ~16.41 ← **BELOW 17 ENTRY GATE — FIRST CLEARANCE IN 5+ SESSIONS**
+- **Today's releases (Jun 30):** Chicago PMI (9:45am ET), Consumer Confidence (10:00am ET), FHFA Housing Price Index, S&P Case-Shiller Home Price Index — no CPI/PCE/FOMC/jobs data
+- **NFP:** Thursday July 2 (early release), consensus +172k — key risk event this week
+- **Earnings before open:** No major names reporting pre-market today (11 reports scheduled; none significant pre-bell)
+- **Quarter-end:** Today is the last trading day of Q2 2026 — index rebalancing and window dressing flows expected; can create intraday noise in both directions
+- **Sector momentum YTD (2026):** Technology and Industrials leading; Energy lagging after earlier-year strength (oil near 4-month lows on Iran peace progress)
+- **Comcast spin-off:** Comcast splitting media/tech into two public cos (announced Jun 29, +4.4%); Alphabet +4% on DJIA addition Jun 29
+- **Space:** Rocket Lab acquiring Iridium in $8B deal (not directly tradeable for our strategy)
+
+### Trade Ideas
+
+**1. DE (Deere & Company) — PRIMARY ENTRY CANDIDATE**
+- **Catalyst:** Tariff relief on farm/construction equipment (25% → 15%, effective Jun 8, potential 10% with domestic-content criteria) + 5th consecutive double-beat (small ag/turf +16% YoY, construction/forestry +29% YoY) + sector co-momentum (CAT AI-infra re-rating lifting all Industrials heavy-equipment names) + ex-div date Jun 30 ($1.62, payable Aug 10) — stock often rallies through ex-div when thesis is strong
+- **Price ref:** $613.24 (Jun 26 close); opened ~$622.77 Fri before -2.78% close — buying range ~$610-615
+- **Entry:** ~$613 at the open (or limit near prior close)
+- **Stop:** 10% trailing GTC — initial stop ~$552
+- **Target:** ~$735 (min 2:1 R:R vs. 10% stop = 20% target)
+- **Size:** ~$20,000 max (20% of equity = ~32-33 shares at $613)
+- **Catalyst check:** ✓ specific (tariff relief + earnings beat) | ✓ sector in momentum (Industrials #2 YTD) | ✓ stop defined | ✓ 2:1 R:R | ✓ PDT safe (0/3) | ✓ < 6 positions | ✓ 0/3 weekly trades used
+
+**2. EMR (Emerson Electric) — SECONDARY CANDIDATE (2nd position, later this week)**
+- **Catalyst:** Industrial AI partnerships (Saudi Aramco co-dev on corrosion mgmt; SiMa.ai edge AI integration); new product Guardian Virtual Advisor (AI-powered automation lifecycle mgmt); Bernstein initiated Outperform Jun 9 ("no AI risk" as differentiated industrial AI play); analyst EPS revisions up
+- **Price ref:** $143.49 today (Jun 30, -1.25% intraday); prior close $145.31
+- **Entry:** ~$143-145 (limit at or below $144)
+- **Stop:** 10% trailing GTC — initial stop ~$129-130
+- **Target:** ~$172-174 (2:1 R:R)
+- **Size:** ~$20,000 max (~140 shares at $143)
+- **Note:** Consider as 2nd entry Thursday or next week post-NFP confirmation; don't double-up on day 1 of re-entry
+
+**3. CAT (Caterpillar) — WATCHLIST ONLY (no re-entry today)**
+- We cut at $996.17 Jun 29 (mechanical buffer rule, thesis intact)
+- CAT up 60%+ YTD; average consensus PT ~$949 is now BELOW current price — consensus now negative on valuation at current levels
+- Q2 earnings Aug 5 — potential catalyst/risk
+- Thesis (AI-power-infra, $63B backlog) intact; Wells Fargo $1,155 (OW) / Evercore $1,103 (OP) still bullish
+- **Verdict:** Watch for a meaningful pullback toward $930-950 or post-Q2 beat before re-entering; do not chase at all-time highs with consensus below price
+
+### Risk Factors
+- **Quarter-end rebalancing (Jun 30):** Window dressing / index rebalancing can create intraday noise; could flush winners or pop laggards — enter via limit, not market order
+- **NFP Thursday Jul 2:** If jobs print hot → rate-hike narrative re-emerges → Industrials could sell off; if weak → growth concerns → also could weigh. Enter DE before or after based on tolerance; consider waiting until post-NFP
+- **VIX 16.41:** Gate cleared but still elevated relative to sub-15 bull regimes; not a "risk-off" level but watch for a reversal above 17 which would invalidate new entries
+- **Oil near 4-month lows:** Iran peace progress = lower oil = mixed for industrials (lower input costs good; macro growth signal from oil softness can be negative)
+- **Chicago PMI / Consumer Confidence (today):** Weak prints could pressure sentiment at the open
+
+### Decision
+**TRADE CONSIDERATION — DE primary entry candidate at/near the open, subject to quarter-end flow check.**
+- VIX 16.41 clears the 17 gate for the first time in 5+ sessions ✓
+- Fully flat (0% vs. 75-85% target) — need to redeploy
+- DE has multiple stacked catalysts (tariff relief + earnings beat + sector co-momentum)
+- Caveat: quarter-end noise today. Prefer a limit order ~$610-615 (near Jun 26 close) vs. chasing on gap-up
+- EMR flagged as 2nd position later this week post-NFP (Thu Jul 2)
+- Weekly trades: 0/3 used, full capacity to deploy
+- Patience > activity, but 0% deployment with VIX below gate is an action signal
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
