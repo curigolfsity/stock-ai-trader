@@ -3487,4 +3487,23 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
 
+### Afternoon Addendum — 2026-07-01 (Midday)
+
+**ADP June actual: +98k** (miss vs. +125k consensus; May revised +122k)
+- Dovish read → VIX eased to **16.45 intraday** ✓ (first confirmed sub-17 in 5+ sessions)
+- ADP miss may shade NFP expectation lower (from +172k consensus toward +140–160k); sweet spot still achievable
+- SPX −0.23% (~7,482); Industrials sector +1.4% outperforming — rotation into cyclicals on soft-rates narrative
+
+**ISM Mfg June: 54.0** (confirmed expansion beat vs. 49–50 consensus) ✓ — reinforces DE/EMR industrial thesis
+
+**Intraday gate status:**
+- VIX 16.45 ✓ | DE $634.33 (range $617–636) ✗ (above $610–620 limit) | EMR $143.02 ✓ (in range, but post-NFP sequenced ✗)
+- No entry taken. Both gates not simultaneously cleared for any candidate.
+
+**Primary binary: NFP Jun Thu Jul 2 8:30 AM ET**
+- Sweet spot: +130–180k → EMR entry at open (~140sh at $143–145; stop ~$129 GTC trail; target ~$172; R:R ~2:1)
+- If DE also ≤$620 at that open → evaluate DE concurrently (2/3 weekly capacity used)
+- Hot print (>220k) → rate-hike re-pricing → VIX spikes → hold flat
+- Miss (<100k) → recession fears → VIX spikes → hold flat
+
 ---

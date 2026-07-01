@@ -1404,4 +1404,18 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action:** No trades. All new-entry gates blocked. Book remains 100% cash.
 - **Next trigger:** VIX sustained close <17 today → evaluate DE at live open price (limit $610–620; stop ~$554 GTC trail; ~10sh; ~6.1% equity; target ~$738 +20%; R:R ~2:1). NFP Jun Thu Jul 2 8:30 AM ET (consensus +172k) = primary binary for EMR entry (~140sh at ~$143; stop ~$129; target ~$172; R:R ~2:1). Weekly capacity 0/3 — full.
 
+### Midday Scan — 2026-07-01 (Day 42, Wednesday — Q3 Day 1, Week 9)
+
+- **Account:** Equity $100,674.95 | Cash $100,674.95 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** None. Flat (100% cash).
+- **Action:** No trades. No losers to cut, no stops to manage, no thesis to check — empty book.
+- **Market:** SPX ~7,482 (−0.23%) | **VIX 16.45 ✓ — FIRST CONFIRMED SUB-17 INTRADAY** (down −6.8% on ADP miss) | Industrials sector +1.4% (outperforming broad market)
+- **ADP June:** +98k (miss vs. +125k consensus; May was +122k) — mild dovish; raises NFP uncertainty; VIX eased on "soft jobs → fewer rate hikes" read
+- **ISM Mfg June:** 54.0 (expansion beat vs. 49–50 consensus; confirmed from market-open scan) ✓ — Industrials thesis intact
+- **DE:** $634.33 intraday (day range $617.58–$636.24) — **above limit range $610–620 ✗**; VIX gate now clears ✓ but price gate still blocked; no entry
+- **EMR:** $143.02 — in limit range $143–145 ✓; **VIX gate now clears ✓**; but sequenced post-NFP Thu Jul 2 ✗ → no entry per plan
+- **Rule gates — DE:** VIX ✓ | **Price above limit ✗** → SKIPPED
+- **Rule gates — EMR:** VIX ✓ | **Post-NFP sequencing ✗** → SKIPPED
+- **Next trigger:** NFP Jun **Thu Jul 2 8:30 AM ET** (consensus +172k; ADP miss may shade to +140–160k) = primary gate. If +130–180k sweet spot + VIX holds <17 → evaluate EMR ~140sh at $143–145 (stop ~$129 GTC trail; target ~$172; R:R ~2:1) immediately after print. If DE ≤$620 same morning → evaluate concurrently (uses 2/3 weekly capacity). Weekly capacity 0/3 — full.
+
 ---
