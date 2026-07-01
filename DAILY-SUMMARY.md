@@ -118,3 +118,11 @@ Decision: FLAG - manual cut at open (CAT stop buffer 2.91% < 3% min)
 Ideas: CAT manual cut per buffer rule (thesis intact, Chevron-MSFT PPA confirms AI-power thesis), DE/EMR watch for 2nd position
 Market: SPX futures +0.2%, VIX 18.41, Oil WTI $69.23
 Risks: VIX still >17 gate; fragile US-Iran truce; sticky core inflation
+
+---
+## 2026-07-01 10:05 UTC (fallback — no notification service configured)
+Pre-market 2026-07-01
+Decision: HOLD
+Ideas: DE limit ~$610-620 (VIX+price blocked), EMR ~$143-145 (post-NFP Thu)
+Market: SPX futures flat Q3 open, VIX 18.45 BLOCKED, Oil WTI ~$70
+Risks: ADP/ISM dual-miss risk; VIX elevated; NFP Thu Jul 2 primary binary
