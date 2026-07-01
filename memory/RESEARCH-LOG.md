@@ -3419,3 +3419,72 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Decision:** No trades. Book stays flat. VIX must close below 17 (sustained) before any new entry is evaluated. NFP Thu Jul 2 = next primary binary.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+## 2026-07-01 — Pre-market Research (Day 42, Wednesday — Q3 Day 1, Week 9)
+
+### Account
+- Equity: $100,674.95
+- Cash: $100,674.95 (100% — flat since CAT manual cut Jun 29)
+- Buying power: $402,699.80 (marginable)
+- Daytrade count: 0
+- Positions: None
+- Open orders: None
+- Weekly trades: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$70.39 / Brent ~$72.83–$74.28 (Jun 30 close) — dramatic decline from $96–108 highs; Iran deal finalization + OPEC+ production increase driving oil lower; significant Q2 margin tailwind for Industrials in Q3
+- S&P 500 futures: Premarket subdued; S&P closed Jun 30 ~7,440 (+1.18% on quarter-end window dressing); today (Q3 Day 1) futures soft/flat as window-dressing effect fades
+- VIX: 18.45 premarket — **GATE BLOCKED ✗** (need sustained close <17); rose sharply from Jun 30 pre-market 16.41 to intraday 17.49–19.45; remains elevated as quarter-end flows unwind
+- Today's catalysts: ADP June employment (~125k est, 8:15 AM ET) + ISM Manufacturing PMI (~10:00 AM ET; May was 54, consensus 49–50 range suggesting potential contraction)
+- Earnings before open: None significant
+- Economic calendar: ADP June (8:15 AM ET, ~125k est) | ISM Mfg PMI June (10:00 AM ET) | Construction spending June | Quarter-start institutional redeployment flows — Q3 day 1 brings vol as institutions rebalance
+- Sector momentum: Industrials +2.61% YTD (#2) | Technology +2.38% (#1) | Real Estate -1.17% | Consumer Defensive -1.48% | Healthcare -0.87% | Energy: lagging
+- Primary binary: **NFP June** — Thursday Jul 2 8:30 AM ET (consensus ~+172k); this is the main gate for new entries this week
+
+### Trade Ideas
+
+**1. DE (Deere & Company) — GATED, NOT ACTIONABLE TODAY**
+- Catalyst: 5-consecutive double-beats (small ag/turf +16%, construction/forestry +29% YoY) + tariff relief (25%→15%) + raised guidance + Industrials sector co-momentum; ex-div $1.62 went Jun 30
+- Price ref: ~$627–634 (last available data); limit entry range $610–620 (ex-div adjusted from prior $610–615 target)
+- Entry: Limit ~$610–620 (below pre-ex-div range, accounting for $1.62 div)
+- Stop: 10% trailing GTC ~$549–558
+- Target: ~$732–744 (+20%, 2:1 R:R)
+- Size: ~$20,000 (~33sh at ~$615)
+- Gates: VIX ✗ (18.45 > 17) | Price above limit range ✗ | **SKIPPED — 2 gates blocked**
+
+**2. EMR (Emerson Electric) — SEQUENCED POST-NFP (Thu Jul 2)**
+- Catalyst: Q2 beat (EPS $1.54, +4% YoY); record backlog $7.9B (+9% orders); AI industrial automation partnerships (Saudi Aramco, SiMa.ai); Bernstein Outperform; fiscal '26 EPS guide $6.45–$6.55
+- Price ref: ~$143–145; flat in range
+- Entry: Limit ~$143–145 post-NFP confirmation
+- Stop: 10% trailing GTC ~$129–130
+- Target: ~$172–174 (2:1 R:R)
+- Size: ~$20,000 (~140sh at $143)
+- Gates: VIX ✗ (18.45 > 17) | Sequencing: post-NFP ✗ | **SKIPPED — hold for Thu**
+- Caution: Deutsche Bank named EMR short-term sell Jun 20; thesis intact long-term but note overhang
+
+**3. CAT (Caterpillar) — WATCHLIST ONLY**
+- Cut mechanically Jun 29 at $996.17 (+12.64% realized); thesis intact
+- Consensus avg PT ~$949 now below market price — consensus valuation headwind
+- Q2 earnings Aug 5 = next hard catalyst; oil WTI ~$70 = margin tailwind building
+- Do not re-enter without meaningful pullback toward $930–950 or post-Q2 beat
+
+### Risk Factors
+- VIX 18.45: elevated Q3 open; quarter-end carry-over volatility
+- ADP/ISM dual miss risk: weak ADP + ISM contraction print → VIX spike → entry gates stay blocked
+- ISM Mfg consensus 49–50 (contraction): 2 consecutive expansion months (Apr 53.5, May 54.0) may reverse — if confirmed contraction, Industrials/DE thesis needs monitoring
+- NFP binary (Thu Jul 2): hot print → rate-hike narrative → Industrials headwind; weak print → growth concern → also headwind; sweet spot +130–180k
+- DE still above limit entry range: don't chase gap-ups; limit order discipline is key
+- EMR short-term sell flag (Deutsche Bank): watch for further downgrades or earnings revisions before entry
+- 100% cash drag: every day flat costs vs. SPX benchmark; BUT patience > activity when VIX gate is blocked
+
+### Decision
+**HOLD** — VIX 18.45 blocks all new entries. No actionable trade today.
+- Watch ADP (8:15 AM ET): ≥125k + VIX drop → entry gates start to open; <100k → stay flat
+- Watch ISM Mfg (10:00 AM ET): expansion (>50) supports DE/EMR industrial thesis
+- Primary gate: VIX sustained close <17 today or tomorrow (before NFP)
+- NFP Thu Jul 2 8:30 AM ET: +130–180k sweet spot → evaluate EMR entry same morning; if DE ≤$620, evaluate DE concurrently (2 positions in one morning if both gates clear, uses 2/3 weekly capacity)
+- Patience > activity; but a 100% cash book with VIX approaching 17 warrants readiness
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
