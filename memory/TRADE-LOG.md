@@ -1444,3 +1444,18 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Next trigger:** Mon Jul 7 open — if VIX reopens <17 and Industrials sector stabilizes → evaluate EMR limit $143–145 as first trade of Week 10 (0/3 weekly capacity). Watch for hawkish July Fed re-pricing over the weekend. Holiday: markets CLOSED Fri Jul 3.
 
 ---
+
+### Midday Scan — 2026-07-02 (Day 43, Thursday — NFP Day, pre-Jul 4 long weekend)
+
+- **Account:** Equity $100,674.95 | Cash $100,674.95 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** None. Flat (100% cash).
+- **Action:** No trades. No losers to cut, no stops to manage, no thesis to check — empty book.
+- **VIX:** 17.54 intraday (range 16.27–17.75) — **GATE BLOCKED ✗** (hawkish NFP re-pricing; prior close 16.45; need sustained <17)
+- **SPX:** ~7,478–7,492, flat to −0.2%; Nasdaq −0.6% on chipmaker weakness; bond market closes 2 PM ET
+- **XLI (Industrials):** ~$184.13 (−0.6% today) | **YTD +17–20%** ✓ — NOTE: pre-market research cited −1.97% YTD which appears to have been stale/incorrect; intraday data (52-wk range $143–$186, current $184) confirms sector is strongly positive YTD. Sector momentum thesis intact.
+- **EMR:** **$137.11 (−3.73%)** — broken below $143–145 limit range. Two-day decline (~$5–6 cumulative from $142 Jul 1 close). No company-specific catalyst; profit-taking + pre-holiday + hawkish yield spike. VIX gate also blocked. No entry taken. Entry range needs reassessment for Mon Jul 7.
+- **DE:** ~$634+ — remains above $620 limit range. FY2026 net income guidance raised to $4.5B–$5.0B. No entry (price gate blocked).
+- **Thesis check:** N/A — no open positions.
+- **Next trigger:** Mon Jul 7 open — VIX reopen <17 required. EMR entry range reassessment: $135–140 if price stabilizes over the long weekend, or hold for further catalyst. DE: limit $610–620 unchanged — no pullback yet. Weekly capacity 0/3 — full.
+
+---

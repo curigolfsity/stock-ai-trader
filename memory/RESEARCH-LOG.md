@@ -3576,3 +3576,16 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 _Research via WebSearch (Perplexity key not set — fallback used)_
 
 ---
+
+### Afternoon Addendum — 2026-07-02 (Midday)
+
+**EMR breakdown: $137.11 (−3.73%)** — broken decisively below $143–145 limit range. Two-day cumulative decline ~$5–6 from $142 Jul 1 close. No company-specific catalyst; attributed to profit-taking (stock had run +13.9% over prior month), pre-holiday selling, and hawkish NFP yield/USD spike compounding the Deutsche Bank sell flag.
+- Entry range requires reassessment for Mon Jul 7: potential new range $135–140 if price stabilizes; OR stand aside for further catalyst (Bernstein PT $175 and backlog thesis intact, but near-term technical damage real)
+- Downside watch: original stop target was ~$129–130; if macro headwinds persist, could test that level — do not enter on the way down without clear stabilization signal
+- Do NOT chase; limit discipline primary
+
+**XLI YTD data correction:** Pre-market scan cited Industrials −1.97% YTD (likely stale or sourced from a lagging dataset). Intraday data: XLI ~$184.13 on a 52-wk range of $143–$186 implies YTD +17–20%. Sector momentum for Industrials is **strongly positive** — the pre-market gate failure on this criterion was based on bad data. EMR thesis not invalidated on sector momentum grounds.
+
+**VIX:** 17.54 intraday — blocked all entries regardless. NFP hawkish re-pricing (+172K matched consensus, yields/USD up) sustaining VIX elevation into the long weekend.
+
+---
