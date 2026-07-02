@@ -1459,3 +1459,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Next trigger:** Mon Jul 7 open — VIX reopen <17 required. EMR entry range reassessment: $135–140 if price stabilizes over the long weekend, or hold for further catalyst. DE: limit $610–620 unchanged — no pullback yet. Weekly capacity 0/3 — full.
 
 ---
+
+### Jul 02 — EOD Snapshot (Day 43, Thursday — NFP Day, pre-Jul 4 long weekend)
+**Portfolio:** $100,674.95 | **Cash:** $100,674.95 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** +$674.95 (+0.67%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | flat, no positions |
+
+**Notes:** Day 43 (Thursday, NFP Day, pre-Independence Day long weekend) closed exactly flat — 100% cash, no positions, no trades. NFP June printed +172K (matched original consensus; blew past post-ADP revised estimate of ~88–100K), with May revised up to +179K and unemployment steady at 4.3%. Market reaction was hawkish (USD higher, yields higher, equities mixed), pushing VIX intraday to 17.54 (range 16.27–17.75) and blocking new-entry gate all session. EMR broke sharply below its $143–145 limit range to $137.11 (−3.73%) on no company-specific catalyst — attributed to profit-taking, pre-holiday positioning, and hawkish yield spike. Entry range requires reassessment for Mon Jul 7: likely $135–140 if price stabilizes over the weekend. DE remained firmly above limit range ($634+); JPMorgan Neutral PT $590 and consensus avg PT $527.67 below market. No trades executed; weekly count 0/3, full capacity entering Week 10. Phase P&L holds at +$674.95 (+0.67%) vs. $100,000 starting equity (banked realized gain: CAT +$1,900.39, May 4–Jun 29). Markets CLOSED Fri Jul 3. Next trigger: Mon Jul 7 open — VIX reopen <17 required; reassess EMR limit at $135–140 (stop ~$122–126 GTC trail, target ~$165–170, R:R ~2:1); DE unchanged at $610–620 limit; no pullback yet.
+
+---
