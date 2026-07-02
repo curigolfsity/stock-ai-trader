@@ -126,3 +126,11 @@ Decision: HOLD
 Ideas: DE limit ~$610-620 (VIX+price blocked), EMR ~$143-145 (post-NFP Thu)
 Market: SPX futures flat Q3 open, VIX 18.45 BLOCKED, Oil WTI ~$70
 Risks: ADP/ISM dual-miss risk; VIX elevated; NFP Thu Jul 2 primary binary
+
+---
+## 2026-07-02 10:13 UTC (fallback — ntfy 403 from proxy)
+Pre-market 2026-07-02
+Decision: HOLD
+Ideas: EMR $143 (in range; sector momentum X, pre-holiday risk), DE $634 (above limit X)
+Market: SPX ~7,528 (pre-NFP), VIX 16.45, Oil WTI $67.74
+Risks: NFP +172K hawkish (yields up), Industrials -1.97% YTD, 3-day weekend gap risk

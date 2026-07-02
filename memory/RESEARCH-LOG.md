@@ -3507,3 +3507,72 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Miss (<100k) → recession fears → VIX spikes → hold flat
 
 ---
+
+## 2026-07-02 — Pre-market Research (Day 43, Thursday — NFP Day, Last Session Before Jul 4 Weekend)
+
+### Account
+- Equity: $100,674.95
+- Cash: $100,674.95 (100%)
+- Buying power: $402,699.80 (margin)
+- Daytrade count: 0
+- Weekly trades: 0/3
+- Open positions: None (flat since CAT cut Jun 29)
+
+### Market Context
+- **WTI:** $67.74/bbl (−1.23%) — lowest since late February; Iran/Hormuz deal lifting supply
+- **Brent:** ~$70.13–$71.30 intraday; prior close $72.25 (down ~20% June, ~23% Q2)
+- **S&P 500 futures:** ES ~7,528 pre-market; reaction mixed post-NFP (yields/USD up = equity headwind)
+- **VIX:** 16.45 (Jul 1 close); intraday low 15.97 — sub-17 gate technically clears ✓; post-NFP hawkish read may push intraday
+- **June NFP (8:30 AM ET, RELEASED):** **+172K actual** — exactly matched original consensus; blew past post-ADP revised expectation of ~88–100K. May revised UP to +179K from +172K.
+- **Unemployment rate:** 4.3% (unchanged, in-line)
+- **Avg hourly earnings:** +3.4% Y/Y (cooled from 3.6% — partial dovish offset)
+- **Market reaction:** Hawkish — USD higher, Treasury yields higher, Fed cut odds pared; equities mixed (good growth signal vs. rate headwind)
+- **Fed:** Chair Kevin Warsh speaking at ECB symposium (Portugal) — AI bubble risks, inflation, sovereign debt; watching for tone
+- **Earnings BMO today:** No major-cap earnings; Q2 season kicks off week of Jul 14 (JPM, GS first)
+- **Holiday note:** Markets CLOSED Friday Jul 3 (Independence Day observance; Jul 4 is Saturday) — today is the last trading session before a 3-day weekend
+
+### Sector Momentum YTD
+- **Leading:** Communication Services, Technology (AI/semi), Financials
+- **Lagging:** Energy (Iran deal collapse −20%+ June), **Industrials −1.97% YTD** (lagging)
+- Key concern: DE and EMR are Industrials — sector momentum is negative per YTD data
+
+### Trade Ideas
+
+**1. EMR (Emerson Electric) — WATCHLIST, HOLD**
+- Catalyst: NFP +172K sweet-spot ✓ | VIX 16.45 sub-17 ✓ | price ~$143 (in limit range $143–145) ✓
+- Entry: Limit $143–145 | Stop: 10% trailing GTC ~$129 | Target: ~$172 (2:1 R:R) | Size: ~140sh (~$20,000, ~20% equity)
+- **Gate failures today:**
+  - Industrials sector YTD −1.97% (lagging) → sector momentum negative ✗
+  - Pre-3-day-weekend risk: entering new position closing into Jul 3+4+5 closure adds gap risk
+  - NFP hawkish read: yields up → headwind for industrial growth stocks ✗
+  - Deutsche Bank short-term sell flag still outstanding
+- **Rule check:** Strategy Rule 9: "Follow sector momentum" — Industrials is lagging → caution
+- **Decision: HOLD.** Thesis intact long-term (backlog $7.9B, AI automation, Bernstein $175 PT), but sector momentum headwind + pre-holiday risk + hawkish yield spike = no entry today. Re-evaluate Mon Jul 7 if VIX reopens <17 and industrials stabilize.
+
+**2. DE (Deere & Company) — WATCHLIST ONLY**
+- Last price: ~$634 (above limit range $610–620) ✗
+- JPMorgan PT $590 (Neutral); avg analyst PT $527.67 — stock trading ABOVE consensus PT
+- No entry: price gate blocked + valuation stretched above consensus
+
+**3. Opportunistic scan (post-holiday):**
+- If Industrials YTD improves and VIX holds <17 week of Jul 7 → EMR limit $143–145 is clean setup
+- CAT: next hard catalyst Q2 earnings Aug 5; do not re-enter without pullback to $930–950
+- Communication Services / Tech: monitor for any sector rotation plays if Industrials stays soft
+
+### Risk Factors
+- Yields spiking post-NFP: 10Y up on hawkish print → headwind for rate-sensitive Industrials
+- VIX may ratchet intraday on hawkish Fed re-pricing; post-holiday re-open (Jul 7) could gap
+- Oil collapse (WTI $67.74): tailwind for inflation, headwind for Energy sector; no exposure
+- Pre-holiday thin liquidity: reduced institutional participation, wider bid-ask spreads
+- 100% cash drag: Phase P&L +$674.95 (+0.67%) vs. benchmark; patience required but benchmark running
+- Fed Warsh remarks: any hawkish surprise at ECB symposium → VIX spike → entry gates widen
+
+### Decision
+**HOLD** — No trades today.
+- NFP sweet-spot ✓ and VIX sub-17 ✓ are both met, but sector momentum (Industrials −1.97% YTD) + pre-holiday risk + hawkish yield spike override entry logic.
+- Rule: "Patience > activity." One missed entry << one poorly-timed entry into 3-day weekend with sector headwinds.
+- Next trigger: Mon Jul 7 open — if VIX reopens <17, industrials stabilize, and EMR holds $143–145 → evaluate EMR as first trade of Week 10 (0/3 weekly capacity available).
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
