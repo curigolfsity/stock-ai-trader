@@ -3589,3 +3589,80 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 **VIX:** 17.54 intraday — blocked all entries regardless. NFP hawkish re-pricing (+172K matched consensus, yields/USD up) sustaining VIX elevation into the long weekend.
 
 ---
+## 2026-07-03 — Pre-market Research (Week 9, Day 41, Friday — MARKET CLOSED)
+
+> **⚠️ NYSE/Nasdaq CLOSED today — Independence Day observed (Jul 4 falls on Saturday, holiday moved to Jul 3). No trading. Next session: Monday Jul 6.**
+
+### Account (live Alpaca)
+- Equity: $100,674.95 | Cash: $100,674.95 (100%) | Long market value: $0
+- Buying power: $402,699.80 (margin) | Non-marginable: $100,674.95
+- Daytrade count: 0 | Weekly trades: 0/3 (new week — Week 9)
+- Positions: FLAT (100% cash) — CAT manually closed 2026-06-29 (+12.64%)
+
+### Market Context (as of Thu Jul 2 close — last available)
+| Indicator | Level | Note |
+|-----------|-------|------|
+| WTI crude | ~$68.56/bbl | -0.19%; Strait of Hormuz transits recovering, UAE exports back to 3.9M bpd |
+| Brent crude | ~$70–71/bbl | Near multi-month lows; Iran de-escalation ongoing |
+| S&P 500 futures (Jul 2) | Mixed; opened higher | Markets rose pre-open on jobs miss; ESU26 -0.25% by close |
+| VIX | **16.15** (-2.65%) | **⭐ BELOW 17 GATE — first time in 5+ sessions. Entry gate CLEARED.** |
+| June NFP | **57,000** (vs 115K consensus) | Big miss; Apr/May revised down 74K combined. UE 4.2% (but participation fell to 61.5%, lowest since Mar 2021) |
+| FOMC minutes | Jul 8 (Wednesday) | First under new chair Kevin Warsh — key dovish/hawkish read |
+| Earnings next week | Light calendar | BNED, NBP (Mon); no major tech/industrial names |
+| Economic releases next week | Consumer Credit (Wed), EIA Oil (Wed), Initial/Continuing Claims (Thu) | No CPI/PPI/FOMC decision |
+
+**Key macro read:** June jobs miss (57K vs 115K, prior months revised down 74K) is sharply dovish — reinforces a Fed-cutting path and takes hawkish surprise risk largely off the table for July 8 FOMC minutes. Markets initially cheered the data. Soft labor market + VIX now below 17 = setup improving for re-entry.
+
+### Positions
+None. Flat 100% cash.
+
+### CAT Update (former position — no action needed)
+- CAT trading ~$954.57 (Jul 2 close) — down from our exit at $996.17 (Jun 29). Good exit in hindsight.
+- **Michael Burry opened first-ever short on CAT** at $1,060.98 entry (Jul 1), citing 30-year high P/S ratio and P/E ~51–53x inflated by AI-infra-proxy hype.
+- Resource Industries segment profit -39% YoY; Power & Energy segment sequential margin compressed 170bps to 20.6%; full-year tariff headwind $2.2–2.4B projected.
+- Dividend raised to $1.63/sh (ex-date Jul 20) — minor technical positive, but not a buy catalyst given the above.
+- **No re-entry on CAT** — thesis partially intact but Burry short + margin compression + stretched valuation = risk/reward has shifted unfavorably.
+
+### Trade Ideas for Monday Jul 6
+
+**1. ISRG (Intuitive Surgical) — Healthcare / Surgical Robotics**
+- Catalyst: Q1 2026 revenue +23% YoY, 80% global surgical market share, da Vinci next-gen cycle, healthcare outperforming as flight-to-safety sector YTD. Non-cyclical; insulated from tariff/soft-landing risk.
+- Entry: Monday open scout — need confirmed price; target ~$680–700 range for entry
+- Stop: -10% GTC trailing on fill; cut manually at -7% if crossed
+- Target: 2:1 R:R minimum vs stop distance; sector PT consensus suggests 15–20% upside
+- Size: ~$15,000–17,000 (~15% of equity)
+- Gate check: VIX 16.15 < 17 ✓ | Weekly trades 0/3 ✓ | Positions 0/6 ✓ | Cash available ✓
+- Risk: Premium growth valuation; any macro risk-off spike in VIX > 17 before fill = stand down
+
+**2. EMR (Emerson Electric) — Industrials / Automation Software**
+- Catalyst: Forward P/E 22.04x (discount to 23.4x industry avg); automation & process control capex cycle intact; consensus PT $149.69 vs ~$139 current = 7.7% upside to PT (tight); EPS growth +10.5% expected next Q.
+- Entry: ~$139; Stop: -10% GTC ($125.10); Target: $149–155 range
+- R:R: ~1.5:1 to PT — borderline (strategy requires 2:1 minimum). Marginal unless price pulls back to ~$135 for a better entry.
+- Verdict: **WATCHLIST, not immediate entry** — wait for a better entry or a fresh positive catalyst (Q3 earnings Aug) before committing
+- Size: ~$14,000 (~14% of equity) if entry level improves
+
+**3. JPM (JPMorgan Chase) — Financials, YTD sector leader**
+- Catalyst: Financials +22% YTD sector leader; dovish Fed path from jobs miss supports consumer balance sheets and lowers credit loss risk; Q2 earnings likely in mid-July; FOMC minutes (Jul 8) could confirm easing bias.
+- Entry: Scout Monday open; need confirmed price; has run significantly YTD
+- Stop: -10% GTC trailing; cut -7% manually
+- Risk: If Warsh's FOMC minutes are hawkish (surprise), financials would sell off. Valuation rich after +22% run.
+- Verdict: **WATCHLIST** — more situational; best opportunity if FOMC minutes (Jul 8) confirm dovish lean before entry
+
+### Risk Factors
+- **VIX at 16.15 is the first entry gate clearance in weeks — but 3-day weekend + geopolitical risk could spike VIX at Monday open.** Verify VIX < 17 before pulling trigger.
+- **Jobs miss (57K) is dovish, but deeply weak data also raises recession concerns** — soft landing narrative vs recession scare is a live tension.
+- **FOMC minutes Jul 8 (Warsh):** If Warsh signals a hawkish pivot, equities could correct sharply mid-week. Consider entering only 1 position before minutes, not 2.
+- **Iran truce fragility:** Oil near multi-month lows; any breakdown would spike WTI and risk-off sentiment.
+- **Michael Burry short on CAT** is a broad warning signal on AI-infra-proxy valuations — be cautious on any AI-adjacent industrial.
+- **Light earnings calendar** = fewer near-term catalysts to drive new entries higher quickly.
+
+### Decision
+**HOLD today (market closed). WATCHLIST ENTRY for Monday Jul 6.**
+- Entry gate cleared: VIX 16.15 < 17 ✓ | 100% cash ✓ | 0/3 weekly trades ✓ | 0/6 positions ✓
+- **Priority Monday open action:** Scout ISRG — verify VIX still < 17, confirm no overnight macro shock; if clear, initiate 1 position (~15% equity, ~$15K)
+- **Secondary (hold until Jul 8 FOMC minutes):** JPM or EMR entry contingent on confirming dovish lean from Warsh
+- **No CAT re-entry** — risk/reward degraded (Burry short, margin compression, valuation stretched)
+- Weekly capacity: 0/3 used, 3/3 remaining
+- Patience > activity — 1 position max at Monday open; let minutes (Jul 8) inform 2nd position decision
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
