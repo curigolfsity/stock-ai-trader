@@ -1467,6 +1467,28 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 |--------|--------|-------|-------|---------|----------------|------|
 | — | — | — | — | — | — | flat, no positions |
 
-**Notes:** Day 43 (Thursday, NFP Day, pre-Independence Day long weekend) closed exactly flat — 100% cash, no positions, no trades. NFP June printed +172K (matched original consensus; blew past post-ADP revised estimate of ~88–100K), with May revised up to +179K and unemployment steady at 4.3%. Market reaction was hawkish (USD higher, yields higher, equities mixed), pushing VIX intraday to 17.54 (range 16.27–17.75) and blocking new-entry gate all session. EMR broke sharply below its $143–145 limit range to $137.11 (−3.73%) on no company-specific catalyst — attributed to profit-taking, pre-holiday positioning, and hawkish yield spike. Entry range requires reassessment for Mon Jul 7: likely $135–140 if price stabilizes over the weekend. DE remained firmly above limit range ($634+); JPMorgan Neutral PT $590 and consensus avg PT $527.67 below market. No trades executed; weekly count 0/3, full capacity entering Week 10. Phase P&L holds at +$674.95 (+0.67%) vs. $100,000 starting equity (banked realized gain: CAT +$1,900.39, May 4–Jun 29). Markets CLOSED Fri Jul 3. Next trigger: Mon Jul 7 open — VIX reopen <17 required; reassess EMR limit at $135–140 (stop ~$122–126 GTC trail, target ~$165–170, R:R ~2:1); DE unchanged at $610–620 limit; no pullback yet.
+**Notes:** Day 43 (Thursday, NFP Day, pre-Independence Day long weekend) closed exactly flat — 100% cash, no positions, no trades. NFP June printed +172K (matched original consensus; blew past post-ADP revised estimate of ~88–100K), with May revised up to +179K and unemployment steady at 4.3%. Market reaction was hawkish (USD higher, yields higher, equities mixed), pushing VIX intraday to 17.54 (range 16.27–17.75) and blocking new-entry gate all session. EMR broke sharply below its $143–145 limit range to $137.11 (−3.73%) on no company-specific catalyst — attributed to profit-taking, pre-holiday positioning, and hawkish yield spike. Entry range requires reassessment for Mon Jul 7: likely $135–140 if price stabilizes over the weekend. DE remained firmly above limit range ($634+); JPMorgan Neutral PT $590 and consensus avg PT $527.67 below market. No trades executed; weekly count 0/3, full capacity entering Week 10. Phase P&L holds at +$674.95 (+0.67%) vs. $100,000 starting equity (banked realized gain: CAT +$1,900.39, May 4–Jun 29). Markets CLOSED Fri Jul 3. Next trigger: Mon Jul 6 open — VIX reopen <17 required; reassess EMR limit at $135–140 (stop ~$122–126 GTC trail, target ~$165–170, R:R ~2:1); DE unchanged at $610–620 limit; no pullback yet.
+
+---
+
+### Market-Open Scan — 2026-07-03 (Independence Day observed — Markets CLOSED)
+
+> **⚠️ NYSE/Nasdaq CLOSED today — Independence Day observed (Jul 4 falls on Saturday, holiday moved to Jul 3). No trading. Next session: Monday Jul 6.**
+
+- **Account (live Alpaca):** Equity $100,674.95 | Cash $100,674.95 (100%) | Long market value $0 | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** FLAT (100% cash)
+- **VIX (Jul 2 close):** 16.15 — **entry gate CLEARED ✓** (first confirmed sub-17 close in 5+ sessions)
+- **NFP June (Jul 2 actual):** 57K (big miss vs ~115K consensus; Apr/May revised down 74K combined; UE 4.2%) — sharply dovish; reinforces rate-cut path
+- **Action:** No trades (market closed).
+
+**Monday Jul 6 pre-open gate checklist:**
+- [ ] Re-verify VIX < 17 at open (weekend geopolitical risk could spike VIX)
+- [ ] ISRG: ⚠️ research-log entry price $680–700 is INCORRECT — live Jul 2 bid $401.73; must re-research correct entry price, stop, and position size before any order
+- [ ] EMR: last ~$137 (AH bid $129.43); research entry range $135–140 appears consistent — verify at open; stop ~$122–126 GTC trail; target ~$165–170; R:R ~2:1; ~140sh @ ~$137 ≈ $19.2K (~19% equity) — size-check required
+- [ ] JPM: last ~$334 est (AH spread $320–349); WATCHLIST — hold until FOMC minutes Jul 8 (Warsh) before committing; do not enter before that binary
+- [ ] FOMC minutes Jul 8 (Wednesday): primary binary for 2nd-position decision; enter 1 position max at Monday open, hold 2nd until post-minutes
+- [ ] Weekly capacity: 0/3 — full
+
+**Next trigger:** Mon Jul 6 open — if VIX < 17 ✓ and no overnight macro shock → evaluate 1 position only at open. Re-research ISRG price before any entry.
 
 ---
