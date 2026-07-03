@@ -383,3 +383,60 @@ Rule adherence A (XOM dual-trigger exit clean; all stops active; no process fail
 Rule adherence A (stop tightening executed correctly and on schedule; stop never moved down despite multiple sub-5% buffer readings; no manual-cut violations this week), risk management B− (CAT's stop buffer closed the week at 1.44%, below the 3% mandate — flagged for mandatory Monday-open action, not yet a violation but the tightest/riskiest buffer reading of the phase), relative performance A (bot +0.20% vs SPX −1.91% = +2.10% gap, the best relative week of the challenge). Strong week on relative numbers, but it rode entirely on one position with a now-critical stop buffer and zero progress on diversification.
 
 ---
+
+## Week ending 2026-07-03
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,910.14 (Mon Jun 29 open — CAT still open at ~$1,010) |
+| Ending portfolio | $100,674.95 (Thu Jul 2 close — market closed Fri Jul 3, Independence Day observed) |
+| Week return | −$235.19 (−0.23%) |
+| S&P 500 week | ~+1.5% (7,357.49 Jun 26 → ~7,467 Jul 2) |
+| Bot vs S&P | ~−1.73% |
+| Trades | 1 (W:1 / L:0 / open:0) |
+| Win rate | 100% (1/1) |
+| Best trade | CAT +12.64% (+$1,900.39) |
+| Worst trade | N/A |
+| Profit factor | N/A (no losses this week) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| CAT | $884.38 (May 4) | $996.17 (Jun 29) | +$1,900.39 (+12.64%) | Manual cut — overnight buffer 2.67% < 3% mandate; stop d51de63a cancelled; market sell (order 577abe81) filled at open 13:35 UTC; held 57 days (May 4–Jun 29) |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | Flat; 100% cash ($100,674.95) |
+
+### What Worked
+- CAT manual cut executed immediately per protocol — buffer confirmed 2.67% at Mon Jun 29 open (below 3% mandate); stop cancelled; market sell filled without hesitation; no monitoring or averaging
+- CAT exit at $996.17 was optimal in hindsight: stock fell to $954.57 by Jul 2 close; Michael Burry opened a short at $1,060.98 (Jul 1) citing 30-yr high P/S ratio; Resource Industries margin −39% YoY confirms thesis had peaked
+- Realized phase-best closed trade: CAT +$1,900.39 (+12.64%, 57 days) — the only winning closed trade in the phase
+- VIX closed 16.15 (Jul 2) — first confirmed sub-17 close in 5+ sessions; entry gate fully cleared heading into Week 10
+- NFP June 57K (vs 115K est; Apr/May revised down 74K combined) is sharply dovish — reinforces rate-cut path; best macro setup for new entries in the phase; full 0/3 weekly capacity preserved into Week 10
+
+### What Didn't Work
+- Bot −0.23% vs S&P ~+1.5% = −1.73% gap; 100% cash during a positive S&P week
+- DE never pulled back to limit range — ranged $617–634 all week vs $610–620 target; no entry window
+- EMR broke below $143–145 limit range to $137.11 (−3.73%) on Jul 2 NFP day with no company catalyst — pre-holiday thin liquidity + hawkish yield spike; entry range requires revision to $135–140
+- VIX blocked intraday entries on both Jun 30 (spiked 17.49–19.45 from 16.41 open) and Jul 1 (18.45 pre-market, 16.45 only briefly midday); only cleared on Jul 2 close when it was too late to enter (pre-long-weekend, EMR already broken)
+- 9 consecutive weeks as single-position or no-position book — structural diversification unresolved entering Week 10
+
+### Key Lessons
+- CAT manual-cut protocol at +12.64% vs. holding to the 7% GTC stop ($983.08) saved substantial potential loss — Burry short ($1,060.98 entry Jul 1), $954 Jul 2 close, and Resource Industries −39% YoY margin compression all confirm the 3% buffer trigger was sound over passive stop management
+- Pre-holiday + NFP re-pricing creates wide VIX swings on low liquidity — EMR dropped 3.73% intraday Jul 2 with no company-specific catalyst; avoid new entries in the 2 sessions before a 3-day weekend regardless of VIX gate clearing momentarily
+- Best entry setup of the phase is now live (VIX 16.15, dovish NFP, rate-cut path reinforced); bottleneck entering Week 10 is stale price data — ISRG AH $401.73 vs stale research $680–700 must be verified live before any order
+
+### Adjustments for Next Week
+- **Mon Jul 6 priority:** re-verify VIX < 17 at open + no weekend macro shock → 1 position max at open; must re-research ISRG live price before any order (AH bid $401.73; prior research $680–700 is stale)
+- EMR entry range revised to $135–140 (from $143–145 prior); stop ~$122–126 GTC trail; target ~$165–170; R:R ~2:1; borderline unless entry ≤$137
+- Hold 2nd-position decision until FOMC minutes Jul 8 (Warsh first press conference) — JPM or EMR as secondary depending on tone
+- Energy sector: off-limits per Rule 10 (3 consecutive losses: GEV, OXY, XOM); no exception
+- No CAT re-entry — Burry short + Resource Industries margin compression + 30-yr-high P/S = risk/reward has shifted unfavorably
+
+### Overall Grade: B
+Rule adherence A (CAT cut mechanically correct per protocol; all new-entry gates respected; patience held on DE/EMR when gates didn't clear; no process failures). Risk management A (exit at +12.64% preserved phase-best realized gain; Burry short and $42 post-exit price drop confirm exit timing was sound). Relative performance D (bot −0.23% vs S&P ~+1.5% = −1.73% gap; 100% cash in a positive week). Phase P&L now +$674.95 (+0.67%) — all realized; entering Week 10 with cleared VIX gate (16.15), full 3/3 weekly capacity, and best macro setup of the phase.
+
+---
