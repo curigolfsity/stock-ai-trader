@@ -3666,3 +3666,85 @@ None. Flat 100% cash.
 - Patience > activity — 1 position max at Monday open; let minutes (Jul 8) inform 2nd position decision
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+### Pre-Market Research — 2026-07-06 (Day 45, Monday — Week 10 Day 1, first session after Jul 4 long weekend)
+
+**Account:**
+- Equity: $100,674.95 | Cash: $100,674.95 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- Positions: FLAT | Orders: None
+
+**Market Context:**
+- **WTI:** ~$68.08–$69.26/bbl (range today); **Brent:** ~$71.92. Oil near multi-month lows — Strait of Hormuz recovery + US-Iran talks progress. Average US gas price dropped from ~$4.50 earlier in 2026 to ~$3.80.
+- **SPX futures:** +0.30% premarket; **Nasdaq 100 futures:** +0.80%. SpaceX officially joins Nasdaq-100 before today's open — tech/growth tailwind.
+- **VIX:** 15.81 (Jul 3 close; down from 16.15 Jul 2) — **ENTRY GATE CLEARED ✓** (sub-17; 1-month range 15.56–23.34)
+- **Macro backdrop:** June NFP 57K (big miss vs 115K; Apr/May revised down 74K combined); UE 4.2%. Dovish — reinforces rate-cut path. Warsh Jun 17: held rates 3.50–3.75%, statement shortened ~130 words (terse, signal-sparse). FOMC minutes due Wed Jul 8 = first key read of Warsh tone.
+
+**Economic Calendar:**
+- Today (Jul 6): Light — no major releases
+- Wed Jul 8: FOMC minutes (Warsh Jun 17 meeting) — primary binary this week
+- Thu Jul 9: Initial/Continuing Jobless Claims
+- No CPI/PPI/FOMC decision this week
+
+**Earnings:**
+- BMO today: Nothing significant
+- This week: PepsiCo, Delta (jet-fuel cost color), Cintas, Progressive, Hyatt Hotels
+- ISRG: Q2 earnings Jul 16 (upcoming catalyst — 10 days out)
+- JPM: Q2 earnings Jul 14 (next week)
+
+**Sector Momentum YTD (late Jun 2026):**
+| Sector | YTD |
+|--------|-----|
+| Industrials | +21.9% ✓✓ |
+| Technology | +18.3% ✓ |
+| Real Estate | +15.8% ✓ |
+| Materials | +14.7% ✓ |
+| Consumer Staples | +13.2% ✓ |
+| Utilities | +10.2% ✓ |
+| Health Care | +9.8% ✓ |
+| Financials | +5.4% ✓ |
+| Comm. Services | −0.3% ✗ |
+| Cons. Discretionary | −2.2% ✗ |
+
+**Ticker Updates:**
+- **ISRG:** $426.01 (Jul 2 close); +4.0% on Jul 2 on pre-earnings positioning. Down ~28% YTD from highs. Q1 revenue +23% YoY, procedures +17% YoY. Q2 earnings Jul 16. Goldman Sachs bullish (Motley Fool: "down 28% — Goldman says everyone wrong, history on its side"). P/E ~50.6x vs 26.5x industry avg (stretched). Healthcare sector +9.8% YTD ✓ (positive but not a top sector). Prior stale entry range ($680–700) corrected — live price is ~$426.
+- **EMR:** ~$139.52 (Jul 1 close). Industrials +21.9% ✓✓. Bernstein: Buy rating (Jul 2). Deutsche Bank: short-term sell (Jun 30) ⚠️ still outstanding. New Rosemount 928 wireless gas sensor = product catalyst. EPS guidance: $1.68 (+10.5% YoY); revenue $4.8B (+5.5% YoY). Entry range $135–140; stop ~$122–126; target ~$155–165; R:R ~1.5–2:1 (borderline).
+- **JPM:** $334.47 (Jul 2 close); ATH $343.45 (Jun 25). Ex-dividend date Jul 6 (today — ex-div sell pressure). Q2 earnings Jul 14 (BMO). Financials +5.4% YTD ✓ (lagging). FOMC minutes Jul 8 = key binary before entry.
+
+**Trade Ideas:**
+
+**1. ISRG — PRIMARY (Healthcare / Surgical Robotics)**
+- Catalyst: Pre-earnings positioning for Jul 16 Q2 call; Goldman Sachs bullish; da Vinci next-gen cycle; procedure volume compounding; Healthcare sector positive YTD
+- Entry: Scout $415–430 at open (confirm direction; do NOT chase if gaps >$440)
+- Stop: −10% GTC trailing on fill (~$373–387 depending on fill price)
+- Target: $490–510 (earnings re-rate + Goldman upside thesis); R:R ~2:1+
+- Size: ~$15,000 (~15% equity, ~35 shares at $426)
+- Gates: VIX 15.81 < 17 ✓ | 0/3 weekly trades ✓ | 0/6 positions ✓ | Cash available ✓ | Catalyst documented ✓ | Stock (not option) ✓
+- Risk: Earnings binary Jul 16 = gap risk (up or down); P/E stretched at 50.6x; Healthcare lagging top sectors; stock down 28% YTD = falling knife risk without confirmed reversal
+
+**2. EMR — WATCHLIST (Industrials / Automation)**
+- **BLOCK:** Deutsche Bank short-term sell flag still outstanding (Jun 30). R:R borderline at ~1.5–2:1.
+- Watch for: DB flag lifted OR price pullback to $133–136 to improve R:R above 2:1
+- Do not enter until DB flag lifted; monitor for earnings catalyst (next Q Aug)
+
+**3. JPM — HOLD until FOMC minutes Jul 8**
+- Ex-div today = technical sell pressure; Q2 earnings Jul 14 = near-term binary
+- Entry range: $330–335 if FOMC minutes confirm dovish Warsh tone
+- Do not enter before Wednesday
+
+**Risk Factors:**
+- FOMC minutes Jul 8 (Warsh): hawkish surprise → mid-week equity correction; max 1 position before minutes
+- NFP soft-landing vs. recession tension: 57K miss reinforces dovish path but also flags demand weakness
+- Oil: Iran truce fragile — breakdown spikes WTI, risk-off
+- ISRG earnings binary Jul 16: 10-day pre-earnings window = elevated gap risk
+- JPM ex-div today: Financials sector sell pressure this morning
+
+**Decision: TRADE — 1 position (ISRG) if open confirms $415–430 and VIX holds <17**
+- All entry gates pass at current data
+- Scout ISRG at open: if price $415–430 and VIX <17 → initiate ~35 shares, set −10% GTC trailing stop immediately
+- If ISRG gaps above $440 or VIX spikes >17 at open → STAND DOWN, revert to HOLD
+- 2nd position deferred to post-FOMC minutes (Jul 8): EMR (if DB flag lifted) or JPM (if dovish confirmed)
+- Patience > activity — 1 position today maximum
+
+_Research via WebSearch (Perplexity key not set — fallback used)_

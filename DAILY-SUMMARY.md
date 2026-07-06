@@ -134,3 +134,11 @@ Decision: HOLD
 Ideas: EMR $143 (in range; sector momentum X, pre-holiday risk), DE $634 (above limit X)
 Market: SPX ~7,528 (pre-NFP), VIX 16.45, Oil WTI $67.74
 Risks: NFP +172K hawkish (yields up), Industrials -1.97% YTD, 3-day weekend gap risk
+
+---
+## 2026-07-06 10:12 UTC (pre-market notification — proxy blocked ntfy/Discord)
+Pre-market 2026-07-06
+Decision: TRADE (1 pos — ISRG $415-430 if VIX<17 at open)
+Ideas: ISRG pre-earnings scout $415-430 stop -10%, EMR watchlist (DB flag), JPM hold til FOMC
+Market: SPX futures +0.30%, NQ +0.80%, VIX 15.81, WTI ~$69, Brent ~$72
+Risks: ISRG earnings binary Jul16, FOMC minutes Wed Jul8 (Warsh), JPM ex-div today
