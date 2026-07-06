@@ -1512,3 +1512,27 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 **Notes:** Day 44 (Friday, Independence Day observed — NYSE/Nasdaq closed) closed with zero change. Account sits 100% cash at $100,674.95; no positions, no open orders. VIX closed Jul 2 at 16.15 — first confirmed sub-17 close in 5+ sessions — clearing the new-entry gate heading into the long weekend. NFP June (Jul 2 actual) printed 57K (big miss vs. ~115K consensus; Apr/May revised down 74K combined; UE 4.2%), sharply dovish and reinforcing the rate-cut path; this drove VIX lower and supports the macro backdrop for new entries. No trades today or this week (0/3); full weekly capacity carries into Week 10. Phase P&L unchanged at +$674.95 (+0.67%) vs. $100,000 starting equity (banked realized gain: CAT +$1,900.39, May 4–Jun 29). Next trigger: Mon Jul 6 open — re-verify VIX <17; ISRG live price check required (prior research $680–700 was stale; AH bid Jul 2: $401.73); 1 position max at Monday open; FOMC minutes Jul 8 informs 2nd-position decision (EMR $135–140 or JPM). Patience > activity.
 
 ---
+
+## Week of 2026-07-06
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-07-06 | ISRG | LONG | 35 | TBD (fill pending) | PENDING (order dee7e2a6) | 10% GTC — to place on fill | Pre-Q2 positioning (Jul 16); Goldman Sachs bullish; da Vinci next-gen cycle; procedure volume compounding; Healthcare +9.8% YTD | ~$490–510 (+15–20%) | ~2:1 |
+
+**Tighten trail:** 7% at +15%, 5% at +20%.
+**Cut rule:** Close manually if unrealized loss hits −7%.
+
+### Market-Open Execution — 2026-07-06 (Day 45, Monday — Week 10 Day 1)
+
+- **Account (pre-trade):** Equity $100,674.95 | Cash $100,674.95 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **ISRG (pre-trade):** Last close $426.005 (Jul 2); AH bid $401.73 (stale); in research entry range $415–430 ✓
+- **VIX:** 15.81 (Jul 3 close) — **entry gate CLEARED ✓** (sub-17; down from 16.15 Jul 2)
+- **Gate validation:** Total positions after fill = 1 ≤ 6 ✓ | Weekly trades 1/3 ✓ | Position cost ~$14,910 (14.8% equity) ≤ 20% ✓ | Catalyst documented ✓ | PDT count 0 ✓
+- **Action:** ISRG 35sh market order submitted pre-open at 12:37 UTC (8:37 AM ET) — order dee7e2a6-2357-4541-8be0-653475545e14, status "new"; will fill at 9:30 AM ET opening cross.
+- **⚠️ Stop pending:** 10% trailing stop GTC to be placed immediately on fill confirmation at midday scan. Expected stop ~$383 (10% below ~$426 expected fill); exact level set to actual fill price.
+- **Thesis:** Pre-Q2 earnings positioning (Jul 16); Goldman Sachs bullish (stock down 28% YTD, Goldman says history on its side); Q1 revenue +23% YoY, procedures +17% YoY; da Vinci next-gen cycle; procedure volume compounding; Healthcare sector +9.8% YTD ✓.
+- **Risk:** Earnings binary Jul 16 = gap risk; P/E ~50.6x stretched; Healthcare lagging top sectors; FOMC minutes Jul 8 = mid-week macro binary.
+
+### Weekly Trade Count: 1 submitted (ISRG 35sh — 2026-07-06, fill pending at open)
