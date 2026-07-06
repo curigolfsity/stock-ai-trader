@@ -1554,3 +1554,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Thesis check (ISRG):** INTACT. No material intraday news Jul 6. Price action (+0.51%) = pre-earnings accumulation, consistent with research thesis. da Vinci next-gen cycle / Q1 revenue +23% YoY / procedure volume +17% YoY fundamentals unchanged. Medtronic Hugo first US case (urologic only) = slow-burn competitive story, not acute threat. Deutsche Bank sell rating noted (existing risk, not new). FOMC minutes Jul 8 = mid-week macro binary; no new action needed pre-minutes.
 - **Action taken:** 10% trailing stop GTC placed for ISRG (order 349f367b; HWM $428.32; stop $385.49). No other trades. No positions closed.
 - **Next:** FOMC minutes Wed Jul 8 8:30 AM ET (Warsh Jun 17 meeting) = primary binary this week. Dovish confirmed → evaluate 2nd position (EMR $135–140 or JPM $330–335 post ex-div). Hawkish → hold cash; tighten vigilance on ISRG stop. ISRG Q2 earnings Jul 16 (10 days) = primary event risk for position.
+
+---
+
+### Jul 06 — EOD Snapshot (Day 45, Monday)
+**Portfolio:** $101,072.27 | **Cash:** $85,755.92 (84.8%) | **Day P&L:** +$397.32 (+0.39%) | **Phase P&L:** +$1,072.27 (+1.07%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ISRG | 35 | $426.258 | $437.72 | +2.75% | +$401.17 (+2.69%) | $396.15 (10% trail, HWM $440.17) |
+
+**Notes:** Day 45 (Monday, Week 10 Day 1) opened with ISRG entering the book — 35 shares bought at $426.258 (filled 9:30 AM ET opening cross). ISRG closed at $437.72, up +2.75% vs. the $426.01 prior close, pushing unrealized P&L to +$401.17 (+2.69%) on the first full session. The 10% trailing stop (order 349f367b, GTC) auto-advanced with the day's gain: HWM now $440.17, stop $396.15 — protecting downside well below entry. Day P&L +$397.32 (+0.39%); Phase P&L +$1,072.27 (+1.07%) vs. $100,000 starting equity — a new phase high. Trades: 1/3 this week (ISRG). VIX 15.81 confirmed sub-17 at entry; Healthcare thesis intact: da Vinci next-gen cycle, Q1 revenue +23% YoY, procedure volume +17% YoY, Goldman Sachs bullish, pre-Q2 positioning (earnings Jul 16). Primary binary: FOMC minutes Wed Jul 8 (Warsh Jun 17 meeting) — dovish confirmed → evaluate 2nd position (EMR $135–140 or JPM $330–335). Hawkish → hold cash, tighten ISRG vigilance. Patience > activity.
