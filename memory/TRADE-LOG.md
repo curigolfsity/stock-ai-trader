@@ -1519,7 +1519,7 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 
 | Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
-| 2026-07-06 | ISRG | LONG | 35 | TBD (fill pending) | PENDING (order dee7e2a6) | 10% GTC — to place on fill | Pre-Q2 positioning (Jul 16); Goldman Sachs bullish; da Vinci next-gen cycle; procedure volume compounding; Healthcare +9.8% YTD | ~$490–510 (+15–20%) | ~2:1 |
+| 2026-07-06 | ISRG | LONG | 35 | $426.258 | FILLED | 10% GTC (order 349f367b; HWM $428.32; stop $385.49) | Pre-Q2 positioning (Jul 16); Goldman Sachs bullish; da Vinci next-gen cycle; procedure volume compounding; Healthcare +9.8% YTD | ~$490–510 (+15–20%) | ~2:1 |
 
 **Tighten trail:** 7% at +15%, 5% at +20%.
 **Cut rule:** Close manually if unrealized loss hits −7%.
@@ -1535,4 +1535,22 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Thesis:** Pre-Q2 earnings positioning (Jul 16); Goldman Sachs bullish (stock down 28% YTD, Goldman says history on its side); Q1 revenue +23% YoY, procedures +17% YoY; da Vinci next-gen cycle; procedure volume compounding; Healthcare sector +9.8% YTD ✓.
 - **Risk:** Earnings binary Jul 16 = gap risk; P/E ~50.6x stretched; Healthcare lagging top sectors; FOMC minutes Jul 8 = mid-week macro binary.
 
-### Weekly Trade Count: 1 submitted (ISRG 35sh — 2026-07-06, fill pending at open)
+**POST-FILL ACTIONS — COMPLETED (midday scan 2026-07-06):**
+- ✅ Fill confirmed: ISRG 35sh @ $426.258 (order dee7e2a6 filled at 9:30 AM ET opening cross)
+- ✅ 10% trailing stop GTC placed: order 349f367b | HWM $428.32 | Stop $385.49
+- ✅ Open positions table updated with actual fill price and stop level
+
+### Weekly Trade Count: 1 confirmed (ISRG 35sh filled $426.258 — 2026-07-06)
+
+---
+
+### Midday Scan — 2026-07-06 (Day 45, Monday — Week 10 Day 1)
+
+- **Account:** Equity $100,742.40 | Cash $85,755.92 (85.1%) | Daytrade count: 0 | Weekly trades: 1/3
+- **ISRG:** $428.16 (+0.51% from $426.01 last close; +0.45% unrealized from $426.258 entry; unrealized P&L +$66.57) — no −7% trigger ($396.42 threshold); well below +15% tightening ($490.20) ✓
+- **Trailing stop:** order 349f367b | HWM $428.32 | Stop $385.49 | Trail 10% GTC ✅ PLACED THIS SCAN (was missing; stop placed immediately on fill confirmation)
+- **Loser check:** ISRG +0.45% — no −7% cut trigger. No other positions. ✓
+- **Winner tighten:** ISRG +0.45% — below +15% threshold. No tightening needed. ✓
+- **Thesis check (ISRG):** INTACT. No material intraday news Jul 6. Price action (+0.51%) = pre-earnings accumulation, consistent with research thesis. da Vinci next-gen cycle / Q1 revenue +23% YoY / procedure volume +17% YoY fundamentals unchanged. Medtronic Hugo first US case (urologic only) = slow-burn competitive story, not acute threat. Deutsche Bank sell rating noted (existing risk, not new). FOMC minutes Jul 8 = mid-week macro binary; no new action needed pre-minutes.
+- **Action taken:** 10% trailing stop GTC placed for ISRG (order 349f367b; HWM $428.32; stop $385.49). No other trades. No positions closed.
+- **Next:** FOMC minutes Wed Jul 8 8:30 AM ET (Warsh Jun 17 meeting) = primary binary this week. Dovish confirmed → evaluate 2nd position (EMR $135–140 or JPM $330–335 post ex-div). Hawkish → hold cash; tighten vigilance on ISRG stop. ISRG Q2 earnings Jul 16 (10 days) = primary event risk for position.
