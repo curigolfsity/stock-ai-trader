@@ -3748,3 +3748,65 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity — 1 position today maximum
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-07-07 — Pre-Market Research (Day 46, Tuesday — Week 10 Day 2)
+
+### Account Snapshot
+- **Equity:** $101,050.92 | **Cash:** $85,755.92 (84.8%) | **Daytrade count:** 0 | **Weekly trades:** 1/3
+- **Phase P&L:** +$1,050.92 (+1.05%) vs. $100,000 starting equity
+- **ISRG:** 35sh @ $426.258 entry | Current ~$437 | Unrealized +$375.97 (+2.52%) | Stop $396.15 (HWM $440.17, 10% trail, order 349f367b GTC) ✅
+
+### Market Context
+- **WTI:** ~$69/bbl (range $67.83–$69.20) — supply-side pressure; Hormuz traffic recovering
+- **Brent:** ~$72/bbl — near 4-month lows
+- **SPX Futures (ESU26):** +0.82% premarket — positive open expected
+- **VIX:** ~15.81–15.82 (Jul 6 close); VIX futures ~17.68 — **spot VIX CLEARED ✓** (entry gate <17)
+- **Samsung Q2:** Operating profit estimated +18x YoY — lifting semis/tech globally premarket
+
+### FOMC Minutes (Jul 8 — TOMORROW) — ⚠️ PRIMARY RISK
+- Fed (Warsh) Jun 17 meeting: **HAWKISH SURPRISE** — removed rate cut hints; focus shifted back to 2% inflation target
+- 9/19 FOMC members expect ≥1 more rate hike before end of 2026
+- CME FedWatch: 76% chance rates unchanged next meeting; 40% probability hike to 3.75–4.00% by Dec 2026
+- **Implication:** Minutes release tomorrow 2:00 PM ET = binary for 2nd-position decision; hawkish tone confirmed → hold cash, heighten ISRG stop vigilance; dovish surprise → evaluate EMR/JPM
+
+### Today's Events
+- **Earnings (BMO):** Enerpac Tool Group (ETPH) — not relevant
+- **Economic releases:** No major tier-1 data today (CPI/PPI/NFP not scheduled)
+- **This week:** Delta (Thu BMO), PepsiCo (Thu BMO), FOMC minutes (Wed 2:00 PM ET)
+- **ISRG:** Q2 earnings Jul 16 (9 days) — pre-earnings positioning thesis INTACT; Motley Fool Jul 1 "moat getting stronger"; Goldman Sachs bullish (Jul 3); 20% undervaluation case (Simply Wall St)
+
+### Sector Momentum YTD (updated context)
+Industrials +21.9% ✓✓ | Technology +18.3% ✓ | Health Care +9.8% ✓ | Financials +5.4% ✓
+Comm. Services −0.3% ✗ | Cons. Discretionary −2.2% ✗
+
+### Trade Ideas
+**1. ISRG (existing) — HOLD, no action**
+- Thesis intact; +2.52% unrealized; da Vinci 5 adoption + procedure volume compounding + Goldman bullish + pre-Q2 positioning (Jul 16)
+- Stop: $396.15 (HWM $440.17). Tighten to 7% trail at +15% (~$490). No action needed today.
+
+**2. EMR — WATCHLIST (Industrials)**
+- Deutsche Bank short-term sell flag (Jun 30) still outstanding — **BLOCKED until flag lifted**
+- Watch for DB flag resolution or price pullback to $133–136 (improves R:R above 2:1)
+- Do not enter before FOMC minutes; Industrials #1 sector ✓✓
+
+**3. JPM — WATCHLIST (Financials)**
+- Hold for FOMC minutes (Jul 8) — hawkish tone → pass; dovish → scout $330–335
+- Q2 earnings Jul 14 (next week) = additional binary
+- Financials lagging (+5.4%) — lower priority vs. EMR
+
+### Risk Factors
+- **FOMC minutes Jul 8 (hawkish):** Confirmed more-hawkish-than-expected June meeting → mid-week equity correction; primary risk this week
+- **ISRG earnings binary Jul 16:** Gap risk; 9 days out; strategy calls for holding through earnings (thesis is pre-earnings re-rate)
+- **Oil supply:** WTI near 4-month lows; Hormuz recovering = supply headwind but risk-off oil spike if geopolitical flare-up
+- **Tariff uncertainty:** Ongoing US trade policy = macro overlay risk
+
+### Decision: **HOLD**
+- ISRG already in book; thesis intact; no new trades today
+- All cash ($85,755.92) held for 2nd position post-FOMC minutes (Jul 8)
+- Dovish minutes → evaluate EMR (if DB flag lifted) or JPM ($330–335)
+- Hawkish minutes → hold all cash; tighten ISRG vigilance; no 2nd position this week
+- **Patience > activity**
+
+_Research via WebSearch (Perplexity key not set — fallback used)_

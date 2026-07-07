@@ -142,3 +142,11 @@ Decision: TRADE (1 pos — ISRG $415-430 if VIX<17 at open)
 Ideas: ISRG pre-earnings scout $415-430 stop -10%, EMR watchlist (DB flag), JPM hold til FOMC
 Market: SPX futures +0.30%, NQ +0.80%, VIX 15.81, WTI ~$69, Brent ~$72
 Risks: ISRG earnings binary Jul16, FOMC minutes Wed Jul8 (Warsh), JPM ex-div today
+
+---
+## 2026-07-07 10:11 UTC (fallback — ntfy blocked by proxy)
+Pre-market 2026-07-07
+Decision: HOLD
+Ideas: ISRG (existing, thesis intact, +2.5% unrealized), EMR (blocked — DB sell flag), JPM (wait for FOMC minutes Jul 8)
+Market: SPX futures +0.82%, VIX ~15.82 (gate CLEAR), Oil WTI ~$69/bbl
+Risks: FOMC minutes Jul 8 hawkish surprise (9/19 FOMC members favor hike); ISRG earnings binary Jul 16; oil supply pressure
