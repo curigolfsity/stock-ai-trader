@@ -1565,3 +1565,19 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | ISRG | 35 | $426.258 | $437.72 | +2.75% | +$401.17 (+2.69%) | $396.15 (10% trail, HWM $440.17) |
 
 **Notes:** Day 45 (Monday, Week 10 Day 1) opened with ISRG entering the book — 35 shares bought at $426.258 (filled 9:30 AM ET opening cross). ISRG closed at $437.72, up +2.75% vs. the $426.01 prior close, pushing unrealized P&L to +$401.17 (+2.69%) on the first full session. The 10% trailing stop (order 349f367b, GTC) auto-advanced with the day's gain: HWM now $440.17, stop $396.15 — protecting downside well below entry. Day P&L +$397.32 (+0.39%); Phase P&L +$1,072.27 (+1.07%) vs. $100,000 starting equity — a new phase high. Trades: 1/3 this week (ISRG). VIX 15.81 confirmed sub-17 at entry; Healthcare thesis intact: da Vinci next-gen cycle, Q1 revenue +23% YoY, procedure volume +17% YoY, Goldman Sachs bullish, pre-Q2 positioning (earnings Jul 16). Primary binary: FOMC minutes Wed Jul 8 (Warsh Jun 17 meeting) — dovish confirmed → evaluate 2nd position (EMR $135–140 or JPM $330–335). Hawkish → hold cash, tighten ISRG vigilance. Patience > activity.
+
+---
+
+### Market-Open Scan — 2026-07-07 (Day 46, Tuesday — Week 10 Day 2)
+
+- **Account:** Equity $101,102.65 | Cash $85,755.92 (84.8%) | Daytrade count: 0 | Weekly trades: 1/3
+- **ISRG:** $438.478 (+1.31% intraday from $432.83 last close; +2.87% unrealized from $426.258 entry) — no −7% trigger ($396.42 threshold); below +15% tightening ($490.20) ✓
+- **Trailing stop:** order 349f367b | HWM $440.17 | Stop $396.153 | Trail 10% GTC ✅ ACTIVE (confirmed via orders API — expires 2026-10-02)
+- **Loser check:** ISRG +2.87% — no −7% cut trigger ✓
+- **Winner tighten:** ISRG +2.87% — below +15% threshold ($490.20); no tightening needed ✓
+- **Thesis check (ISRG):** INTACT. da Vinci 5 adoption + procedure volume compounding; Goldman Sachs bullish (Jul 3); Motley Fool "moat getting stronger" (Jul 1); Q2 earnings Jul 16 (9 days) — pre-earnings positioning thesis active. No new negative catalysts.
+- **Action:** No trades. HOLD per research decision. New-entry gates:
+  - EMR: Deutsche Bank short-term sell flag still outstanding → BLOCKED ✗
+  - JPM: Hold until FOMC minutes Jul 8 (tomorrow); Financials lagging (+5.4%) → BLOCKED ✗
+  - VIX: ~15.81–15.82 ✓ (gate cleared, but no actionable setup today)
+- **Next:** FOMC minutes Wed Jul 8 2:00 PM ET (Warsh Jun 17 meeting) = primary binary. Dovish confirmed → evaluate EMR (if DB flag lifted, entry $133–136) or JPM ($330–335). Hawkish → hold all cash; heighten ISRG stop vigilance. ISRG Q2 earnings Jul 16 = primary event risk.
