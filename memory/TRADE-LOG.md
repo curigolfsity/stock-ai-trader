@@ -1598,3 +1598,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action:** Cancelled orphaned stop only. No new trades intraday — FOMC minutes tomorrow at 2:00 PM ET is a mid-week macro binary; adding exposure today would create unhedged binary risk overnight.
 - **Re-entry plan:** Re-enter ISRG 35sh at Wed Jul 8 market open IF: (a) VIX still <17 at open; (b) no overnight negative macro shock; (c) ISRG >$415 (above entry with buffer); (d) FOMC binary not yet resolved (enter before 2 PM release or skip if too close). This would be trade 2/3 this week.
 - **Next:** FOMC minutes Wed Jul 8 2:00 PM ET = primary binary. Dovish → re-enter ISRG + evaluate EMR/JPM. Hawkish → hold all cash; reassess ISRG re-entry post-minutes.
+
+---
+
+### Jul 07 — EOD Snapshot (Day 46, Tuesday)
+**Portfolio:** $100,650.07 | **Cash:** $85,755.91 (85.2%) | **Day P&L:** -$254.89 (-0.25%) | **Phase P&L:** +$650.07 (+0.65%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ISRG | 35 | $426.258 | $425.5475 | -1.68% | -$24.87 (-0.17%) | ⚠️ NONE — order 349f367b cancelled at midday (glitch); replace at Jul 8 open |
+
+**Notes:** Day 46 (Tuesday) was defined by the continuation of Monday's paper-trading glitch. ISRG (35sh @ $426.258, entered Jul 6) temporarily vanished from the Alpaca account around midday, prompting cancellation of the orphaned trailing stop (order 349f367b, 10% GTC, HWM $440.17, stop $396.153) at the midday scan. By EOD the position reappeared — Alpaca confirms ISRG 35sh at $425.5475, equity $100,650.07, cash $85,755.91 — but the GTC stop is absent (orders API: []). Day P&L -$254.89 (-0.25%) vs. Alpaca last_equity $100,904.96 (matches ISRG intraday P&L exactly at -$254.89); note Jul 06 TRADE-LOG EOD used ISRG price $437.72 vs. Alpaca's settled $432.83, creating a $167 reference discrepancy — Alpaca figures used here for accuracy. ISRG closed -1.68% on the day; unrealized P&L -$24.87 (-0.17%) vs. $426.258 entry; -7% manual cut threshold $396.42, price well above. ⚠️ CRITICAL: Place new 10% trailing stop GTC for ISRG at Wed Jul 8 open (HWM $440.17 still valid; initial stop ~$385–$396; set to 10% below actual open price). Phase P&L +$650.07 (+0.65%) vs. $100,000 starting equity. Trades this week: 1/3 (ISRG buy Jul 6). FOMC minutes tomorrow Jul 8 2:00 PM ET (Warsh Jun 17 meeting) = primary binary: dovish → evaluate 2nd position (EMR $133–136 if DB flag lifted, or JPM $330–335); hawkish → hold cash, heighten ISRG vigilance. Patience > activity.
