@@ -1581,3 +1581,20 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
   - JPM: Hold until FOMC minutes Jul 8 (tomorrow); Financials lagging (+5.4%) → BLOCKED ✗
   - VIX: ~15.81–15.82 ✓ (gate cleared, but no actionable setup today)
 - **Next:** FOMC minutes Wed Jul 8 2:00 PM ET (Warsh Jun 17 meeting) = primary binary. Dovish confirmed → evaluate EMR (if DB flag lifted, entry $133–136) or JPM ($330–335). Hawkish → hold all cash; heighten ISRG stop vigilance. ISRG Q2 earnings Jul 16 = primary event risk.
+
+---
+
+### Midday Scan — 2026-07-07 (Day 46, Tuesday — Week 10 Day 2)
+
+- **Account:** Equity $85,755.92 | Cash $85,755.92 (100%) | Daytrade count: 0 | Weekly trades: 1/3
+- **⚠️ PAPER TRADING GLITCH:** ISRG 35sh position vanished from Alpaca paper account at ~1 PM ET. Portfolio history shows equity dropped by exactly the ISRG cost basis ($14,919.03) with no fill activity recorded (activities API: []). Trailing stop (order 349f367b) remained in "new" status — not filled. This is a simulation anomaly, NOT a real trade outcome.
+  - ISRG stock reality: UP ~3% intraday, last ~$439–$440; HWM reached $443.84 before pullback; no halt, no material negative catalyst. Pre-earnings accumulation thesis intact.
+  - Action taken: **Cancelled orphaned trailing stop 349f367b** ✅ (was pointing at a non-existent position)
+  - Adjusted P&L (if proceeds credited at ~$440): 35 × ($440 − $426.258) = **+$481** unrealized; total equity ~$101,156; phase P&L ~+1.16%
+  - Paper equity as shown: $85,755.92 (distorted — do not use for performance tracking)
+- **Loser check:** No positions. N/A ✓
+- **Winner tighten:** No positions. N/A ✓
+- **Thesis check (ISRG):** INTACT. Price up ~3% on session; intraday high $443.84; no negative catalyst; pre-Q2 earnings positioning (Jul 16) continuing. Glitch does not invalidate thesis.
+- **Action:** Cancelled orphaned stop only. No new trades intraday — FOMC minutes tomorrow at 2:00 PM ET is a mid-week macro binary; adding exposure today would create unhedged binary risk overnight.
+- **Re-entry plan:** Re-enter ISRG 35sh at Wed Jul 8 market open IF: (a) VIX still <17 at open; (b) no overnight negative macro shock; (c) ISRG >$415 (above entry with buffer); (d) FOMC binary not yet resolved (enter before 2 PM release or skip if too close). This would be trade 2/3 this week.
+- **Next:** FOMC minutes Wed Jul 8 2:00 PM ET = primary binary. Dovish → re-enter ISRG + evaluate EMR/JPM. Hawkish → hold all cash; reassess ISRG re-entry post-minutes.

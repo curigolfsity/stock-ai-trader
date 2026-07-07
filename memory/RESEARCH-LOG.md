@@ -3810,3 +3810,13 @@ Comm. Services −0.3% ✗ | Cons. Discretionary −2.2% ✗
 - **Patience > activity**
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+### Afternoon Addendum — 2026-07-07 Midday Scan
+
+**⚠️ Paper Trading Glitch — ISRG Position Voided:**
+- Alpaca paper account lost ISRG 35sh position mid-session (~1 PM ET); no fill activity recorded; equity dropped by full cost basis ($14,919.03) with no proceeds credited — simulation anomaly confirmed
+- Trailing stop (349f367b) was orphaned; cancelled at midday scan
+- **ISRG stock itself:** UP ~3% on session, trading ~$439–$440; intraday HWM $443.84; thesis intact
+- No halt, no negative catalyst found — pre-earnings accumulation continues; Goldman Sachs bullish; moat narrative intact
+- Re-entry plan: Re-enter ISRG 35sh at Wed Jul 8 open (before FOMC minutes 2 PM ET) if VIX <17 and no overnight shock; trade 2/3 this week
+- Adjusted phase P&L (had proceeds been credited at ~$440): ~+$1,156 (+1.16%); paper equity is distorted at $85,755.92 (exclude from performance tracking)
