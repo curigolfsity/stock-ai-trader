@@ -3898,3 +3898,20 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Patience > activity**
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+### Afternoon Addendum — 2026-07-08 (Midday Scan)
+
+**FOMC Minutes (released 2:00 PM ET) — HAWKISH OUTCOME:**
+- 9 of 18 participants project ≥1 rate hike before year-end; 8 no change; 1 cut
+- Fed removed rate-cut language entirely from minutes
+- Chair Warsh withheld his own dot-plot projection (unprecedented since 2012) — adds policy uncertainty
+- Market read: September hike in play; growth/healthcare equities under broad pressure
+
+**ISRG intraday:**
+- $416.89 (−2.44% intraday) — macro-driven, not company-specific; thesis intact
+- Trailing stop active: order 3e47d78f, stop $385.62, buffer 7.0%
+
+**Watchlist updates:**
+- **JPM:** Blocked — VIX elevated + hawkish FOMC + Q2 earnings Jul 14 (binary); no entry
+- **EMR:** Blocked — DB SELL active; conflicting Bernstein BUY; no entry
+- **New positions:** None. Patience > activity with hawkish FOMC overhang + ISRG Q2 earnings 8 days out (Jul 16)

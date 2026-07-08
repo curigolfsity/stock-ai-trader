@@ -1626,3 +1626,16 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action:** Placed 10% trailing stop GTC (order 3e47d78f) for ISRG. No new trades — VIX 18.85 blocks all new entries.
 - **Post-FOMC (2 PM ET) watch:** Dovish + VIX <17 → evaluate JPM $330–335 (trade 2/3 this week) for tomorrow's open. Hawkish → hold cash; heighten ISRG stop vigilance. EMR blocked (DB SELL active).
 - **Next:** ISRG Q2 earnings Jul 16 = primary event risk; FOMC minutes today = short-term binary.
+
+### Midday Scan — 2026-07-08 (Day 47, Wednesday — Week 10 Day 3, FOMC minutes day)
+
+- **Account:** Equity ~$100,347 | Cash $85,755.91 (85.4%) | Daytrade count: 0 | Weekly trades: 1/3
+- **ISRG:** $416.89 (−2.44% intraday from $427.30; −2.20% unrealized from $426.258 entry; unrealized P&L −$327.88) — no −7% trigger ($396.42 threshold); buffer $31.27 (7.0%) above stop $385.62
+- **Trailing stop:** order 3e47d78f | HWM $428.47 | Stop $385.62 | Trail 10% GTC ✅ ACTIVE (confirmed via orders API)
+- **Loser check:** ISRG −2.20% — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ISRG below +15% ($490.20). NO tightening needed. ✓
+- **FOMC minutes (2 PM ET — HAWKISH):** 9/18 participants project ≥1 hike before year-end; Fed removed rate-cut language entirely; Warsh withheld his dot-plot projection (unprecedented). → All new-entry gates remain BLOCKED ✗
+- **Thesis check (ISRG):** INTACT. Decline is macro-driven (hawkish FOMC minutes + pre-existing analyst downgrades from DB/BofA/JPM/HSBC). No company-specific negative catalyst today. Pre-Q2 earnings accumulation thesis (Jul 16) and Goldman PT $558 unchanged. da Vinci 5 cycle + Q1 revenue +23% YoY + procedures +17% YoY fundamentals intact.
+- **Action:** No trades. No positions closed. No stop adjustments (below tightening threshold; no stop moved).
+- **Watchlist:** JPM and EMR remain BLOCKED — VIX elevated above 17 post-FOMC hawkish print; EMR DB SELL still active.
+- **Next:** ISRG Q2 earnings Jul 16 (8 days) = primary event risk and thesis validation point. Monitor VIX for sub-17 close before evaluating any new position. JPM Q2 earnings Jul 14 = additional binary for that watchlist entry.
