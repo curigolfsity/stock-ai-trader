@@ -1609,3 +1609,20 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | ISRG | 35 | $426.258 | $425.5475 | -1.68% | -$24.87 (-0.17%) | ⚠️ NONE — order 349f367b cancelled at midday (glitch); replace at Jul 8 open |
 
 **Notes:** Day 46 (Tuesday) was defined by the continuation of Monday's paper-trading glitch. ISRG (35sh @ $426.258, entered Jul 6) temporarily vanished from the Alpaca account around midday, prompting cancellation of the orphaned trailing stop (order 349f367b, 10% GTC, HWM $440.17, stop $396.153) at the midday scan. By EOD the position reappeared — Alpaca confirms ISRG 35sh at $425.5475, equity $100,650.07, cash $85,755.91 — but the GTC stop is absent (orders API: []). Day P&L -$254.89 (-0.25%) vs. Alpaca last_equity $100,904.96 (matches ISRG intraday P&L exactly at -$254.89); note Jul 06 TRADE-LOG EOD used ISRG price $437.72 vs. Alpaca's settled $432.83, creating a $167 reference discrepancy — Alpaca figures used here for accuracy. ISRG closed -1.68% on the day; unrealized P&L -$24.87 (-0.17%) vs. $426.258 entry; -7% manual cut threshold $396.42, price well above. ⚠️ CRITICAL: Place new 10% trailing stop GTC for ISRG at Wed Jul 8 open (HWM $440.17 still valid; initial stop ~$385–$396; set to 10% below actual open price). Phase P&L +$650.07 (+0.65%) vs. $100,000 starting equity. Trades this week: 1/3 (ISRG buy Jul 6). FOMC minutes tomorrow Jul 8 2:00 PM ET (Warsh Jun 17 meeting) = primary binary: dovish → evaluate 2nd position (EMR $133–136 if DB flag lifted, or JPM $330–335); hawkish → hold cash, heighten ISRG vigilance. Patience > activity.
+
+---
+
+### Market-Open Scan — 2026-07-08 (Day 47, Wednesday — Week 10 Day 3, FOMC minutes day)
+
+- **Account:** Equity $100,749.91 | Cash $85,755.91 (85.1%) | Daytrade count: 0 | Weekly trades: 1/3
+- **ISRG:** $428.40 (+0.64% intraday from $427.30 lastday; +0.50% unrealized from $426.258 entry; unrealized P&L +$74.97) — no −7% trigger ($396.42 threshold); below +15% tightening ($490.20) ✓
+- **⚠️ Trailing stop REPLACED:** order 3e47d78f | HWM $428.40 | Stop $385.56 | Trail 10% GTC ✅ PLACED (expires 2026-10-06)
+  - Note: Stop reset to $385.56 (10% below current $428.40) vs. prior $396.15 (10% below old HWM $440.17) — gap due to glitch-forced restart from current price, not voluntary stop move. Manual cut at −7% entry = $396.42 still applies above the new stop floor.
+- **VIX:** 18.85 pre-market — ⚠️ **ALL NEW-ENTRY GATES BLOCKED** ✗ (>17 threshold)
+- **FOMC minutes:** Released 2:00 PM ET today (Jun 16–17 Warsh meeting; rate held 3.50–3.75%; 9/19 dots = hike; primary binary this session)
+- **Loser check:** ISRG +0.50% — no −7% cut trigger ✓
+- **Winner tighten:** ISRG +0.50% — below +15% threshold ($490.20); no tightening needed ✓
+- **Thesis check (ISRG):** INTACT. da Vinci 5 adoption + Q1 revenue +23% YoY + procedure volume +17% YoY; Goldman Sachs PT $558; Q2 earnings Jul 16 (8 days) = primary event risk.
+- **Action:** Placed 10% trailing stop GTC (order 3e47d78f) for ISRG. No new trades — VIX 18.85 blocks all new entries.
+- **Post-FOMC (2 PM ET) watch:** Dovish + VIX <17 → evaluate JPM $330–335 (trade 2/3 this week) for tomorrow's open. Hawkish → hold cash; heighten ISRG stop vigilance. EMR blocked (DB SELL active).
+- **Next:** ISRG Q2 earnings Jul 16 = primary event risk; FOMC minutes today = short-term binary.
