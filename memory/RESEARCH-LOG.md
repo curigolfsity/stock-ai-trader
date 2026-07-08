@@ -3820,3 +3820,81 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - No halt, no negative catalyst found — pre-earnings accumulation continues; Goldman Sachs bullish; moat narrative intact
 - Re-entry plan: Re-enter ISRG 35sh at Wed Jul 8 open (before FOMC minutes 2 PM ET) if VIX <17 and no overnight shock; trade 2/3 this week
 - Adjusted phase P&L (had proceeds been credited at ~$440): ~+$1,156 (+1.16%); paper equity is distorted at $85,755.92 (exclude from performance tracking)
+
+---
+
+## 2026-07-08 — Pre-market Research (Day 47, Wednesday — Week 10 Day 3)
+
+### Account Snapshot
+- **Equity:** $100,718.41
+- **Cash:** $85,755.91 (85.2%)
+- **Long Market Value:** $14,962.50 (ISRG 35sh)
+- **Buying Power:** $186,474.32 (reg-T)
+- **Daytrade Count:** 0
+- **Weekly Trades:** 1/3 (ISRG buy Jul 6)
+- **Phase P&L:** +$718.41 (+0.72%) vs. $100,000 starting equity
+
+**Positions:**
+| Ticker | Shares | Entry | Pre-Open | Unrealized P&L | Stop |
+|--------|--------|-------|----------|----------------|------|
+| ISRG | 35 | $426.258 | $427.50 | +$43.47 (+0.29%) | ⚠️ NONE — must replace at open |
+
+**⚠️ CRITICAL:** No GTC trailing stop on ISRG (cancelled yesterday per glitch). Replace at market open: 10% trail from current price (~$427.50 → stop ~$384.75, or trail 10% below HWM $440.17 → $396.15). Use $396.15 as starting stop to maintain continuity.
+
+**Orders:** None open.
+
+### Market Context
+- **WTI Crude:** ~$68.65/bbl | **Brent:** ~$72.10/bbl — near 4-month lows; Hormuz maritime flows recovering; OPEC+ supply increase signaled
+- **S&P 500 Futures (ES1):** Closed yesterday at 7,541.25; no material premarket move visible
+- **VIX:** ~18.85 premarket (↑+16.89%) — ⚠️ ABOVE 17 threshold; elevated anxiety ahead of FOMC minutes
+- **FOMC Minutes:** Jun 16–17 meeting released TODAY at 2:00 PM ET. Rate held at 3.50–3.75%. 9/19 participants project at least one hike; 8 no change; 1 cut. Chair Warsh submitted no dot — first chair to do so since dot plot began 2012. Markets will parse minutes as primary signal for Sep hike probability.
+- **Earnings Today (pre-open):** Levi Strauss (LEVI) — not relevant to positions or ideas
+- **Economic Calendar:** FOMC minutes 2:00 PM ET today = dominant binary; no CPI/PPI/jobs data today
+- **Sector Momentum YTD (as of Jun 26):**
+  | Sector | YTD | Momentum |
+  |--------|-----|----------|
+  | Industrials | +21.9% | ✓✓ #1 |
+  | Technology | +18.3% | ✓✓ |
+  | Real Estate | +15.8% | ✓ |
+  | Healthcare | +9.8% | ✓ |
+  | Financials | +5.4% | ~ (lagging) |
+  | Consumer Disc. | -2.2% | ✗ |
+
+### ISRG Thesis Check
+- Stock DOWN 28% from 2026 highs; we bought at $426.258 (near lows); current $427.50 — marginally above water
+- Goldman Sachs price target raised to $558 (bullish); multple downgrades (DB, BofA, JPM, HSBC) — bearish analyst pile-on vs. Goldman
+- Q1 2026: Revenue +23% YoY, procedures +17% YoY, robotic appendectomies +31%; da Vinci 5 adoption cycle intact
+- Motley Fool "moat getting stronger" (Jul 1); pre-Q2 positioning thesis active (earnings Jul 16, 8 days out)
+- ⚠️ Risk: Multiple analyst downgrades create headwinds; FOMC hawkish surprise today could pressure all equities
+- **Thesis: INTACT** — own the pullback before Q2 earnings confirm
+
+### Trade Ideas
+**1. ISRG (existing) — HOLD; REPLACE STOP at open**
+- Stop must be placed before 2 PM ET FOMC release; HWM $440.17 → stop $396.15 (10% trail GTC)
+- No adding to position with FOMC binary unresolved and VIX >17
+- Hold through Q2 earnings Jul 16 (per strategy); thesis is pre-earnings re-rate to $558 target
+
+**2. JPM — WATCHLIST (post-FOMC)**
+- Dovish minutes + VIX drops below 17 → scout $330–335 entry; Q2 earnings Jul 14 (next week) = additional binary
+- Financials +5.4% YTD (lagging) — lower momentum, lower priority vs. Industrials
+- Gate: VIX <17 AND dovish FOMC confirmation AND daytrade headroom
+
+**3. EMR — BLOCKED (Industrials)**
+- Deutsche Bank SELL still active (Jun 30): Hormuz disruption impacting near-term results through Q3
+- Bernstein BUY (Jul 2) = conflicting signal — wait for DB flag to clear
+- Do not enter while DB short-term sell active, per strategy rule
+
+### Risk Factors
+- **FOMC minutes (2 PM ET today):** Primary binary. 9/19 dots = hike → hawkish surprise could trigger broad selloff. VIX already elevated at 18.85 premarket — market pricing elevated uncertainty.
+- **ISRG: No stop in place** — ⚠️ must be resolved at open before any other action
+- **ISRG earnings Jul 16:** Gap risk; 8 days out; pre-earnings accumulation thesis vs. downgrade headwind
+- **Oil supply recovery:** WTI near 4-month lows = softening macro signal; Hormuz recovery = supply headwind but reduces geopolitical risk premium
+- **Analyst downgrades on ISRG:** DB, BofA, JPM, HSBC — consensus bearish overhang; thesis requires Goldman thesis validation on Jul 16
+
+### Decision: **HOLD (replace ISRG stop first)**
+- **ISRG:** Hold. Replace 10% trailing stop GTC at open (stop ~$396.15 off HWM $440.17). No add — VIX >17 and FOMC binary unresolved.
+- **New positions:** None today. VIX 18.85 disqualifies new entries (>17 gate). Even if FOMC is dovish, wait for VIX to confirm <17 before adding.
+- **Post-FOMC (2 PM ET):** If dovish + VIX <17 → evaluate JPM $330–335 for tomorrow's open (trade 2/3 this week). If hawkish → hold all cash; heighten ISRG stop vigilance; re-evaluate all watchlist.
+- **Patience > activity**
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
