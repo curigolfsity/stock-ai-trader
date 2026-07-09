@@ -1669,3 +1669,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action:** No trades. No positions closed. No stop adjustments.
 - **Watchlist:** JPM BLOCKED — double binary Jul 14 (CPI + Q2 earnings). EMR BLOCKED — DB SELL active; Hormuz risk. No clean new-entry setup.
 - **Next:** ISRG Q2 earnings Jul 16 (7 days) = primary event risk. Post-Jul 14 CPI + JPM Q2: if benign → evaluate JPM $330–335 (trade 2/3 this week). ISRG −7% manual cut trigger: $396.42.
+
+---
+
+### Jul 09 — EOD Snapshot (Day 48, Thursday)
+**Portfolio:** $100,186.59 | **Cash:** $85,755.91 (85.6%) | **Day P&L:** -$97.82 (-0.10%) | **Phase P&L:** +$186.59 (+0.19%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ISRG | 35 | $426.258 | $412.305 | -0.67% | -$488.36 (-3.27%) | $385.62 (10% trail, HWM $428.47) |
+
+**Notes:** Day 48 (Thursday, Week 10 Day 4) closed with ISRG retreating further to $412.305 (−0.67% session), pressure continuing from hawkish FOMC overhang (9/18 Fed participants project ≥1 hike; rate-cut language removed entirely; Warsh withheld dot-plot) and elevated Hormuz tensions following US Iran strikes (WTI ~$74+). Unrealized P&L −$488.36 (−3.27%) vs. $426.258 entry — well above the −7% manual cut threshold ($396.42). Trailing stop order 3e47d78f ACTIVE (HWM $428.47, stop $385.623, buffer $26.68 / 6.5%). Day P&L −$97.82 (−0.10%) vs. Alpaca last_equity $100,284.41 (Jul 8 close). Phase P&L +$186.59 (+0.19%) vs. $100,000 starting equity. No trades today; weekly count 1/3 with 2 slots remaining. All new-entry gates blocked: JPM double binary Jul 14 (CPI + Q2 earnings, options implying 4.7% move); EMR blocked (DB SELL active + worsened Hormuz risk). ISRG Q2 earnings Jul 16 (7 days) = primary event risk and thesis validation; Goldman PT $558; 22 buy / 9 hold / 2 sell; da Vinci 5 adoption + Q1 revenue +23% YoY fundamentals intact. Post-Jul 14 resolution: if CPI benign + JPM beats + VIX <17 → evaluate JPM $330–335 (trade 2/3 this week). Patience > activity.
