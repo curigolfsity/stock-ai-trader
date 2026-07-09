@@ -3915,3 +3915,74 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **JPM:** Blocked — VIX elevated + hawkish FOMC + Q2 earnings Jul 14 (binary); no entry
 - **EMR:** Blocked — DB SELL active; conflicting Bernstein BUY; no entry
 - **New positions:** None. Patience > activity with hawkish FOMC overhang + ISRG Q2 earnings 8 days out (Jul 16)
+
+---
+
+## 2026-07-09 — Pre-Market Research (Day 48, Thursday — Week 10 Day 4)
+
+### Account Snapshot
+- **Equity:** $100,385.91 | **Cash:** $85,755.91 (85.4%) | **Deployed:** $14,630 (14.6%) — ⚠️ well below 75-85% target
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 (ISRG buy Jul 6)
+- **ISRG:** 35sh @ $426.258 entry | Current $418 | Unrealized −$289.03 (−1.94%) | Stop $385.62 (10% trail GTC, order 3e47d78f, HWM $428.47) ✅ ACTIVE
+- **−7% cut threshold:** $396.42 — ISRG at $418 = buffer 5.1% above stop, no cut trigger ✓
+- **Stop buffer:** 7.7% between current $418 and stop $385.62 ✓
+
+### Market Context
+- **WTI crude:** ~$74.04/bbl (+5.12% on Jul 8); **Brent:** ~$78/bbl (+5%) — US launched strikes on Iran; Hormuz tensions sharply elevated; oil rally = new inflation risk
+- **S&P 500 futures:** Modestly positive premarket; ~85% Polymarket probability of up open; markets digesting oil shock and hawkish FOMC aftermath
+- **VIX:** 16.13 (Jul 8 close) — ✅ **BELOW 17 gate** for first time since pre-FOMC; new entry gates technically cleared
+- **Today's releases (Jul 9):** Weekly jobless claims (8:30 AM ET); Existing home sales; PepsiCo (PEP) Q2 earnings BMO — no macro shock expected today
+- **Next week:** CPI Jul 14 (8:30 AM ET) + JPM Q2 earnings Jul 14 + PPI Jul 15 (8:30 AM ET) + ISRG Q2 earnings Jul 16 = **binary-dense cluster**
+- **FOMC:** Hawkish minutes (Jul 8) confirmed — 9/18 dots project ≥1 hike; rate-cut language removed; Warsh withheld dot-plot. September hike in play.
+- **CPI context:** All-items CPI +4.2% YoY (May 2026) = highest since Apr 2023; oil +5% adds upside risk to Jul 14 print
+
+### Sector Momentum (YTD 2026)
+| Sector | YTD Return | Status |
+|--------|-----------|--------|
+| Healthcare | −0.86% | ↓ (lagging) |
+| Industrials | −1.13% | ↓ (lagging) |
+| Financials | ~+5.4% | ~ |
+| Energy | ↑ on Iran shock | watch |
+
+Note: Sector momentum has deteriorated vs. mid-June readings — macro headwinds (hawkish Fed, oil shock, trade tariffs) pressuring most sectors.
+
+### ISRG Thesis Check
+- Stock at $418, −1.94% unrealized from $426.258 entry (down 28% from 2026 highs, near lows)
+- **Bull case intact:** Investors appearing to position pre-earnings (Quiver Quant, Jul 8); Goldman PT $558; avg analyst target $565.08 (22 buy / 9 hold / 2 sell)
+- **Q2 expectations (Jul 16):** EPS $2.48, revenue $2.81B (+15% YoY); Q1 was +23% revenue / +17% procedures / +31% robotic appendectomies
+- **da Vinci 5:** 11% higher utilization vs. prior platform — innovation cycle intact
+- **Headwinds:** GLP-1 drug impact on bariatric procedures (−10% US); China/Japan challenges; analyst downgrade overhang (DB, BofA, JPM, HSBC) vs. Goldman bull case
+- **Thesis: INTACT** — own pullback before Q2 confirms growth trajectory; stop $385.62 protects downside
+
+### Trade Ideas
+
+**1. ISRG (existing) — HOLD**
+- Catalyst: Q2 earnings Jul 16 (7 days); pre-earnings accumulation thesis
+- Action: No add. Stop active. Hold through report. Monitor −7% cut trigger $396.42.
+
+**2. JPM — WATCHLIST (elevated caution)**
+- VIX gate now cleared (16.13 ✓); Q2 earnings Jul 14 BMO; options implying 4.7% move (2× historical avg)
+- EPS estimate $5.44–$5.61 (+10.7% YoY); revenue $48.7–49.6B; 14/16 quarters beat
+- JPM Q2 Jul 14 = same day as CPI Jul 14 = **double binary** → entering pre-earnings is high-risk
+- Entry $330–335 only valid AFTER Jul 14 if: (a) VIX <17, (b) JPM beats, (c) CPI benign, (d) oil stabilizes
+- Status: **BLOCKED — too many overlapping binaries Jul 14**
+
+**3. EMR — BLOCKED**
+- Deutsche Bank SELL still active (Jun 30): Hormuz disruption impacting through Q3; US Iran strikes on Jul 8 worsen this thesis
+- Do not enter while DB short-term sell and Hormuz risk active
+
+### Risk Factors
+- **Oil shock (+5%):** Iran strike + Hormuz escalation = energy price spike = CPI upside risk = hawkish Fed re-acceleration; broad equity headwind
+- **Binary-dense next week:** CPI + JPM earnings Jul 14 + PPI Jul 15 + ISRG earnings Jul 16 = four potential market-moving events in three days
+- **Hawkish FOMC overhang:** September hike probability rising; growth/rate-sensitive equities under pressure
+- **ISRG pre-earnings:** $396.42 cut threshold (~5.1% below $418); if macro shock drives it there, cut regardless of thesis
+- **Under-deployed (14.6%):** Strategy targets 75-85% deployed — opportunity cost of holding cash, but macro binary cluster justifies patience
+
+### Decision: **HOLD**
+- VIX 16.13 clears the entry gate technically, but oil shock + hawkish FOMC + binary-dense next week = no clean new-entry setup today
+- ISRG: Hold. Stop active. 7 days to earnings. Thesis intact.
+- JPM: Monitor. Do NOT enter before Jul 14 earnings (double binary with CPI).
+- New positions: None today. Revisit post-Jul 14 macro resolution.
+- **Patience > activity — binary cluster next week outweighs deployment urgency**
+
+_Research via WebSearch (Perplexity key not set — fallback used)_

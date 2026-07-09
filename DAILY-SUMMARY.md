@@ -158,3 +158,11 @@ Decision: HOLD (replace ISRG stop FIRST at open)
 Ideas: ISRG hold+stop replace, JPM watchlist post-FOMC, EMR blocked (DB sell)
 Market: SPX futures flat ~7541, VIX 18.85 (+17%) ELEVATED, Oil WTI $68.65
 Risks: FOMC minutes 2pm ET (9/19 hike dots; Warsh silent); ISRG no GTC stop — CRITICAL
+
+---
+## 2026-07-09 10:11 UTC (fallback — no notification service configured)
+Pre-market 2026-07-09
+Decision: HOLD
+Ideas: ISRG hold (stop active, Q2 earnings Jul 16 in 7d) | JPM blocked (CPI+earnings double binary Jul 14)
+Market: SPX futures modestly +, VIX 16.13 (below 17 gate), Oil WTI $74 (+5% Iran strike)
+Risks: Oil/Iran geopolitical spike; binary-dense next week CPI+JPM Jul 14, PPI Jul 15, ISRG Q2 Jul 16
