@@ -1639,3 +1639,21 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action:** No trades. No positions closed. No stop adjustments (below tightening threshold; no stop moved).
 - **Watchlist:** JPM and EMR remain BLOCKED — VIX elevated above 17 post-FOMC hawkish print; EMR DB SELL still active.
 - **Next:** ISRG Q2 earnings Jul 16 (8 days) = primary event risk and thesis validation point. Monitor VIX for sub-17 close before evaluating any new position. JPM Q2 earnings Jul 14 = additional binary for that watchlist entry.
+
+---
+
+### Market-Open Scan — 2026-07-09 (Day 48, Thursday — Week 10 Day 4)
+
+- **Account:** Equity $100,333.41 | Cash $85,755.91 (85.4%) | Daytrade count: 0 | Weekly trades: 1/3
+- **ISRG:** $416.50 (+0.34% intraday; −2.29% unrealized from $426.258 entry; unrealized P&L −$341.53) — no −7% trigger ($396.42 threshold); below +15% tightening ($490.20) ✓
+- **Trailing stop:** order 3e47d78f | HWM $428.47 | Stop $385.62 | Trail 10% GTC ✅ ACTIVE (confirmed via orders API; expires 2026-10-06)
+- **Stop buffer:** $30.88 (7.4%) between current $416.50 and stop $385.62 ✓
+- **Loser check:** ISRG −2.29% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ISRG below +15% ($490.20). NO tightening needed. ✓
+- **Thesis check (ISRG):** INTACT. da Vinci 5 adoption + Q1 revenue +23% YoY + procedure volume +17% YoY; Goldman PT $558; avg analyst target $565.08 (22 buy / 9 hold / 2 sell); pre-Q2 earnings accumulation thesis (Jul 16, 7 days). Weakness macro-driven (hawkish FOMC + oil shock). No company-specific negative catalyst.
+- **VIX:** 16.13 (Jul 8 close) — entry gate technically cleared ✓ but macro environment disqualifies new entries
+- **Oil:** WTI ~$74.04/bbl (+5.12% Jul 8 on US Iran strikes); Hormuz tensions sharply elevated = new inflation risk
+- **JPM:** BLOCKED — double binary Jul 14 (CPI + Q2 earnings; options implying 4.7% move); no entry before resolution
+- **EMR:** BLOCKED — DB SELL active (Jun 30); Hormuz risk worsened by US Iran strikes; no entry
+- **Action:** No trades. No stop adjustments. Research plan: HOLD — binary-dense cluster next week (CPI + JPM Q2 Jul 14, PPI Jul 15, ISRG Q2 Jul 16) outweighs deployment urgency. Patience > activity.
+- **Next:** Monitor ISRG into Q2 earnings Jul 16 (7 days). Post-Jul 14 macro resolution (CPI + JPM Q2): if VIX <17 + CPI benign + JPM beats → evaluate JPM $330–335 (trade 2/3 this week). ISRG −7% cut trigger: $396.42.
