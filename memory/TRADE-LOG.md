@@ -1657,3 +1657,15 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **EMR:** BLOCKED — DB SELL active (Jun 30); Hormuz risk worsened by US Iran strikes; no entry
 - **Action:** No trades. No stop adjustments. Research plan: HOLD — binary-dense cluster next week (CPI + JPM Q2 Jul 14, PPI Jul 15, ISRG Q2 Jul 16) outweighs deployment urgency. Patience > activity.
 - **Next:** Monitor ISRG into Q2 earnings Jul 16 (7 days). Post-Jul 14 macro resolution (CPI + JPM Q2): if VIX <17 + CPI benign + JPM beats → evaluate JPM $330–335 (trade 2/3 this week). ISRG −7% cut trigger: $396.42.
+
+### Midday Scan — 2026-07-09 (Day 48, Thursday — Week 10 Day 4)
+
+- **Account:** Equity $100,189.56 | Cash $85,755.91 (85.6%) | Day P&L: −$94.85 (−0.09%) | Weekly trades: 1/3
+- **ISRG:** $412.38 (−0.655% intraday from $415.10; −3.256% unrealized from $426.258 entry; unrealized P&L −$485.73) — no −7% trigger ($396.42 threshold); buffer $26.76 (6.5%) above stop $385.62
+- **Trailing stop:** order 3e47d78f | HWM $428.47 | Stop $385.623 | Trail 10% GTC ✅ ACTIVE (confirmed via orders API)
+- **Loser check:** ISRG −3.256% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ISRG below +15% ($490.20). NO tightening needed. ✓
+- **Thesis check (ISRG):** INTACT. No company-specific catalyst today. Decline is macro/sector drag: hawkish FOMC overhang + oil shock (Hormuz) + pre-earnings caution (Q2 Jul 16, 7 days). Analyst consensus remains 22 buy / 9 hold / 2 sell; Goldman PT $558; da Vinci 5 cycle fundamentals unchanged.
+- **Action:** No trades. No positions closed. No stop adjustments.
+- **Watchlist:** JPM BLOCKED — double binary Jul 14 (CPI + Q2 earnings). EMR BLOCKED — DB SELL active; Hormuz risk. No clean new-entry setup.
+- **Next:** ISRG Q2 earnings Jul 16 (7 days) = primary event risk. Post-Jul 14 CPI + JPM Q2: if benign → evaluate JPM $330–335 (trade 2/3 this week). ISRG −7% manual cut trigger: $396.42.
