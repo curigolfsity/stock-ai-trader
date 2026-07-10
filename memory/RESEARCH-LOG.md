@@ -3986,3 +3986,60 @@ Note: Sector momentum has deteriorated vs. mid-June readings — macro headwinds
 - **Patience > activity — binary cluster next week outweighs deployment urgency**
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+### Pre-Market Research — 2026-07-10 (Day 49, Friday — Week 10 Day 5)
+
+#### Account Snapshot
+- **Equity:** $100,245.91 | **Cash:** $85,755.91 (85.5%) | **Daytrade count:** 0 | **Weekly trades:** 1/3
+- **ISRG:** 35sh @ $426.258 entry | Current $414.00 | Unrealized P&L −$429.03 (−2.88%) | Intraday +$85.75 (+0.60%)
+- **Trailing stop:** order 3e47d78f | HWM $428.47 | Stop $385.623 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-06)
+- **Stop buffer:** $28.38 (6.9%) above stop | −7% manual cut: $396.42 (price well above ✓)
+- **Phase P&L:** +$245.91 (+0.25%) vs. $100,000 starting equity
+
+#### Market Context
+- **WTI crude:** ~$73.50/bbl (from ~$69 late June; Fib support $73.93); Hormuz tensions remain elevated
+- **Brent crude:** ~$78.59/bbl (range $76.77–$79.54)
+- **S&P 500 futures:** ES ~7,581, −0.22% premarket; retesting underside of June swing high (~7,650 resistance)
+- **VIX:** 16.90 (Jul 9 close) — ⚠️ borderline; technically BELOW 17 gate but barely cleared
+- **Today's releases (Jul 10):** None confirmed; quiet Friday; DAL Q2 earnings BMO (not relevant to positions)
+- **Next week binary cluster:** CPI Jul 14 (8:30 AM ET) + JPM Q2 Jul 14 + PPI Jul 15 + ISRG Q2 Jul 16
+- **Sector momentum (YTD):** Materials +22%, AI/Semis leading; Energy mixed (−13% large-cap YTD but +5% oil spike); Healthcare lagging; Technology cooling post-AI run
+- **AI theme positive:** SK Hynix $26.5B ADS debut, chip stocks leading Asia; hyperscaler AI capex guidance stepping higher
+
+#### ISRG Thesis Check
+- Price $414.00 (−2.88% unrealized vs. $426.258 entry)
+- **NEW:** BMO Capital Markets initiated as top MedTech pick (Jul 9); PT $518 — adds bull conviction
+- Q1 2026: Revenue +23% YoY; da Vinci 5 placements 232 (vs. 147 Q1 2025); utilization +11%
+- Q2 2026 expectations: Revenue +15% YoY, EPS $2.48; call Jul 16
+- **Thesis: INTACT** — Goldman PT $558, BMO PT $518; avg analyst target $565+; 22 buy / 9 hold / 2 sell
+
+#### Trade Ideas
+1. **ISRG (existing) — HOLD**
+   - Catalyst: Q2 earnings Jul 16 (6 days); BMO top-pick initiation Jul 9 (PT $518) adds conviction
+   - Action: No add. Stop $385.623 active. Hold through earnings.
+   - Monitor: −7% manual cut $396.42; buffer 6.9% above stop ✓
+
+2. **JPM — BLOCKED (double binary Jul 14)**
+   - CPI + JPM Q2 same day = unacceptable pre-entry risk
+   - Revisit POST Jul 14 if VIX <17 + JPM beats + CPI benign + oil stable; entry $330–335
+
+3. **AI/Semis — WATCHLIST (post-binary-week)**
+   - SK Hynix ADS + hyperscaler capex upgrades = potential NVDA/SMCI setup after macro clarity
+   - No entry today; evaluate post-Jul 14
+
+#### Risk Factors
+- **Binary-dense week ahead:** CPI + JPM Q2 Jul 14 + PPI Jul 15 + ISRG Q2 Jul 16 = four events in 3 days
+- **Weekend geopolitical risk:** Hormuz + US-Iran tit-for-tat; gap risk Monday open; oil could spike
+- **VIX 16.90 borderline:** One hawkish print = back above 17 = all new entries reblocked
+- **ISRG cut proximity:** $414 vs. $396.42 = $17.58 (4.2%) buffer; macro shock = cut immediately
+- **Under-deployed (14.5%):** Binary cluster + Friday geopolitical weekend justifies holding cash
+
+#### Decision: **HOLD**
+- Friday before binary-dense week; no new entries
+- ISRG: Hold. Stop active. BMO initiation positive. 6 days to Q2 earnings.
+- All other setups blocked until post-Jul 14 macro resolution
+- **Patience > activity — do not chase into binary-dense weekend**
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
