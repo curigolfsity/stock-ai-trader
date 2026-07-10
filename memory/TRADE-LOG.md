@@ -1680,3 +1680,23 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | ISRG | 35 | $426.258 | $412.305 | -0.67% | -$488.36 (-3.27%) | $385.62 (10% trail, HWM $428.47) |
 
 **Notes:** Day 48 (Thursday, Week 10 Day 4) closed with ISRG retreating further to $412.305 (−0.67% session), pressure continuing from hawkish FOMC overhang (9/18 Fed participants project ≥1 hike; rate-cut language removed entirely; Warsh withheld dot-plot) and elevated Hormuz tensions following US Iran strikes (WTI ~$74+). Unrealized P&L −$488.36 (−3.27%) vs. $426.258 entry — well above the −7% manual cut threshold ($396.42). Trailing stop order 3e47d78f ACTIVE (HWM $428.47, stop $385.623, buffer $26.68 / 6.5%). Day P&L −$97.82 (−0.10%) vs. Alpaca last_equity $100,284.41 (Jul 8 close). Phase P&L +$186.59 (+0.19%) vs. $100,000 starting equity. No trades today; weekly count 1/3 with 2 slots remaining. All new-entry gates blocked: JPM double binary Jul 14 (CPI + Q2 earnings, options implying 4.7% move); EMR blocked (DB SELL active + worsened Hormuz risk). ISRG Q2 earnings Jul 16 (7 days) = primary event risk and thesis validation; Goldman PT $558; 22 buy / 9 hold / 2 sell; da Vinci 5 adoption + Q1 revenue +23% YoY fundamentals intact. Post-Jul 14 resolution: if CPI benign + JPM beats + VIX <17 → evaluate JPM $330–335 (trade 2/3 this week). Patience > activity.
+
+---
+
+### Market-Open Scan — 2026-07-10 (Day 49, Friday — Week 10 Day 5)
+
+- **Account:** Equity $100,175.91 | Cash $85,755.91 (85.6%) | Daytrade count: 0 | Weekly trades: 1/3
+- **ISRG:** $412–415 pre-market (position API: $412.00 / +0.11% intraday; confirmed ~$413–415 in session per research) — unrealized −3.1% to −3.4% from $426.258 entry; no −7% trigger ($396.42 threshold) ✓; below +15% tightening ($490.20) ✓
+- **Trailing stop:** order 3e47d78f | HWM $428.47 | Stop $385.623 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-06; confirmed via orders API)
+- **Stop buffer:** ~$26–30 (6.4–7.3%) above stop ✓
+- **⚠️ After-hours bid flag (RESOLVED):** After-hours bid $393.43 (Jul 9 8:00 PM ET, 40 shares bid / 0 ask) flagged as below −7% cut threshold ($396.42). Investigated via research: confirmed thin/pre-earnings spread (no hard catalyst); options pricing −33% to +47% for Q2 earnings creating erratic AH quotes; AstraZeneca −8–9% (Wainua drug failure) created healthcare sector drag. Actual pre-market session $413–415 — no cut triggered, no stop approached.
+- **Loser check:** ISRG ~−3.1–3.4% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ISRG below +15% threshold ($490.20). NO tightening. ✓
+- **VIX:** 16.90 (Jul 9 close) — borderline below 17; technically gate cleared but macro environment disqualifies new entries
+- **New entries — ALL BLOCKED:**
+  - **JPM:** Double binary Jul 14 (CPI 8:30 AM + Q2 earnings BMO) → BLOCKED ✗
+  - **EMR:** DB SELL active (Jun 30); Hormuz escalation after US Iran strikes → BLOCKED ✗
+  - **AI/Semis (NVDA/SMCI):** Friday pre-binary week; VIX borderline; no clean setup → WATCHLIST only ✗
+- **Thesis check (ISRG):** INTACT. BMO Capital initiated Outperform PT $518 (Jul 9); Goldman PT $558; Citi PT $590 (new); avg analyst target $565+; 22 buy / 9 hold / 2 sell. Q1 beat (rev $2.77B vs $2.62B est, EPS $2.50 vs $2.11 est). da Vinci 5 placements 232 (+58% YoY); utilization +11%. Pre-Q2 accumulation thesis intact; earnings Jul 16 (6 days). Recalls (Class I SureForm staple / Class II E-brake) pre-documented; GLP-1 bariatric headwind known; China/Japan known — no new thesis-breaking catalyst.
+- **Action:** No trades. No stop adjustments. Hold ISRG into Q2 earnings Jul 16.
+- **Next trigger:** Post-Jul 14 (CPI + JPM Q2): if VIX <17 + CPI benign + JPM beats → evaluate JPM $330–335 (trade 2/3 this week). ISRG Q2 earnings Jul 16 = primary event risk; thesis validation or cut-on-miss. ISRG −7% manual cut trigger: $396.42.
