@@ -1700,3 +1700,21 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Thesis check (ISRG):** INTACT. BMO Capital initiated Outperform PT $518 (Jul 9); Goldman PT $558; Citi PT $590 (new); avg analyst target $565+; 22 buy / 9 hold / 2 sell. Q1 beat (rev $2.77B vs $2.62B est, EPS $2.50 vs $2.11 est). da Vinci 5 placements 232 (+58% YoY); utilization +11%. Pre-Q2 accumulation thesis intact; earnings Jul 16 (6 days). Recalls (Class I SureForm staple / Class II E-brake) pre-documented; GLP-1 bariatric headwind known; China/Japan known — no new thesis-breaking catalyst.
 - **Action:** No trades. No stop adjustments. Hold ISRG into Q2 earnings Jul 16.
 - **Next trigger:** Post-Jul 14 (CPI + JPM Q2): if VIX <17 + CPI benign + JPM beats → evaluate JPM $330–335 (trade 2/3 this week). ISRG Q2 earnings Jul 16 = primary event risk; thesis validation or cut-on-miss. ISRG −7% manual cut trigger: $396.42.
+
+### Midday Scan — 2026-07-10 (Day 49, Friday — Week 10 Day 5)
+
+- **Account:** Equity $99,935.64 | Cash $85,755.91 (85.8%) | Day P&L: −$224.52 (−0.22%) | Weekly trades: 1/3
+- **ISRG:** $405.22 (−1.54% intraday from $411.55; −4.94% unrealized from $426.258 entry; unrealized P&L −$736.33) — no −7% trigger ($396.42 threshold); ⚠️ cut buffer only $8.80 (2.1%)
+- **Trailing stop:** order 3e47d78f | HWM $428.47 | Stop $385.623 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-06; confirmed via orders API)
+- **Stop buffer:** $19.60 (4.84%) between current $405.22 and stop $385.623 ✓
+- **Loser check:** ISRG −4.94% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ISRG below +15% ($490.20). NO tightening needed. ✓
+- **Market:** SPX −0.28% (7,482) | VIX ~16.90 | XLV healthcare +0.38% | Mild risk-off; pre-earnings ISRG weakness is STOCK-SPECIFIC, not sector
+- **Action:** No trades. No positions closed. No stop adjustments.
+- **Thesis check (ISRG):** INTACT. Intraday decline ($414 pre-market → $405.22 midday) is pre-earnings risk-off + sustained analyst overhang (DB/BofA/JPM/HSBC downgrades), NOT a new fundamental negative. XLV healthcare sector up +0.38% — confirms ISRG weakness is idiosyncratic. Options pricing ~7% move on Jul 16 earnings driving pre-earnings positioning. Goldman PT $558 / BMO PT $518 / Citi PT $590 / avg analyst target $565+ (22 buy / 9 hold / 2 sell) — all unchanged. da Vinci 5 adoption + Q1 rev +23% YoY + procedures +17% YoY fundamentals intact. ⚠️ CUT PROXIMITY: $405.22 vs. $396.42 = $8.80 (2.1%) buffer — monitor closely; stop at $385.62 provides 4.84% automated protection floor.
+- **New entries — ALL BLOCKED:**
+  - JPM: Double binary Jul 14 (CPI 8:30 AM + Q2 earnings BMO) → BLOCKED ✗
+  - EMR: DB SELL active; Hormuz risk → BLOCKED ✗
+  - AI/Semis: No clean setup pre-binary week → WATCHLIST only ✗
+- **VIX:** ~16.90 — borderline; all new-entry gates blocked due to binary-dense week ahead
+- **Next:** ISRG Q2 earnings Jul 16 (6 days) = primary event risk. ⚠️ If ISRG drops to $396.42, cut immediately regardless of day. Post-Jul 14 (CPI + JPM Q2): if benign + VIX <17 → evaluate JPM $330–335 (trade 2/3 this week). ISRG −7% manual cut trigger: $396.42.
