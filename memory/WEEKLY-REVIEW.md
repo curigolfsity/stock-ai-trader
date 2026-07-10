@@ -440,3 +440,59 @@ Rule adherence A (stop tightening executed correctly and on schedule; stop never
 Rule adherence A (CAT cut mechanically correct per protocol; all new-entry gates respected; patience held on DE/EMR when gates didn't clear; no process failures). Risk management A (exit at +12.64% preserved phase-best realized gain; Burry short and $42 post-exit price drop confirm exit timing was sound). Relative performance D (bot −0.23% vs S&P ~+1.5% = −1.73% gap; 100% cash in a positive week). Phase P&L now +$674.95 (+0.67%) — all realized; entering Week 10 with cleared VIX gate (16.15), full 3/3 weekly capacity, and best macro setup of the phase.
 
 ---
+
+## Week ending 2026-07-10
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,674.95 (Mon Jul 6 open — 100% cash, ISRG entered Day 1) |
+| Ending portfolio | $99,993.21 (Fri Jul 10 live) |
+| Week return | −$681.74 (−0.68%) |
+| S&P 500 week | ~+0.5% (7,467 Jul 2 → ~7,504 Jul 10) |
+| Bot vs S&P | ~−1.18% |
+| Trades | 1 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| ISRG | $426.258 | $406.78 | −$681.73 (−4.57%) | $385.62 (10% trail GTC, order 3e47d78f, HWM $428.47) — ⚠️ cut trigger $396.42 only 2.3% above close |
+
+### What Worked
+- ISRG entry Monday Jul 6 executed cleanly — all gates cleared (VIX 15.81 ✓, Healthcare catalyst documented ✓, 14.6% equity ≤ 20% ✓); filled at $426.258 opening cross; closed Day 1 at +2.75% ($437.72), new phase high +$1,072 (+1.07%)
+- Trailing stop replaced promptly at Wed Jul 8 open following Tuesday's paper-trading glitch — new order 3e47d78f placed and confirmed ACTIVE before any other action; process improvement over prior stop-delay failures
+- Held through hawkish FOMC minutes (Jul 8) without panic-selling — ISRG decline confirmed macro-driven (not thesis-specific); Goldman PT $558 / BMO PT $518 / avg $565+ unchanged throughout
+- −7% manual cut threshold ($396.42) respected — intraday low $405.22 on Jul 10 put cut buffer at $8.80 (2.1%); no rule violation; position still above the trigger
+- BMO Capital initiated ISRG as top MedTech pick Jul 9 (PT $518) — added fresh bull conviction entering Q2 earnings week
+
+### What Didn't Work
+- Alpaca paper-trading glitch Tuesday Jul 7: ISRG 35sh vanished from account ~1 PM ET; orphaned stop (order 349f367b, HWM $440.17, stop $396.15) was cancelled; new stop not in place Tue EOD through Wed open — ~15-hour automation gap; also caused HWM regression from $440.17 to $428.47 when new stop placed, weakening the auto-stop floor
+- ISRG gave back all of Monday's gains and more — closed week at −4.57% unrealized; hawkish FOMC minutes (9/18 Fed participants project ≥1 hike; rate-cut language removed; Warsh withheld dot-plot) reversed Monday's +2.75% rally across healthcare and rate-sensitive equities
+- Oil shock Jul 8 (WTI +5% to ~$74 on US Iran strikes) → renewed inflation risk → hawkish Fed re-acceleration; ISRG compounded by analyst downgrade overhang (DB, BofA, JPM, HSBC) vs. Goldman/BMO bull case
+- Bot −0.68% vs S&P ~+0.5% = ~−1.18% gap; 11th consecutive week of negative relative performance
+- 85.5% cash; only 14.5% deployed; hawkish FOMC + binary-dense week ahead blocked all secondary positions despite 2/3 remaining trade capacity
+
+### Key Lessons
+- **Paper trading infrastructure requires active verification every scan:** Alpaca paper account glitch (Jul 7) left a ~15-hour stop gap and caused HWM regression; position existence AND stop status must be independently confirmed at every midday scan — do not assume prior state carries forward
+- **HWM regression is a real cost of glitch-recovery:** losing $440.17 → $428.47 HWM moved the auto-stop floor from $396.15 to $385.62 — the -7% manual cut at $396.42 is now the primary automated protection before the GTC stop kicks in; these are not the same level
+- **ISRG entering Q2 earnings (Jul 16) at −4.57% with a 2.3% cut buffer:** the −7% cut rule at $396.42 is mandatory and NOT suspended by earnings proximity; if ISRG opens below $396.42 on any day next week, cut immediately regardless of pre-earnings thesis
+
+### Adjustments for Next Week
+- **Monday Jul 14 first action:** Verify ISRG stop (3e47d78f) ACTIVE at open; re-check price vs. $396.42 cut threshold; if overnight buffer <3%, execute manual cut at open — do not wait intraday
+- **CPI Jul 14 (8:30 AM ET) + JPM Q2 Jul 14 (BMO) = double binary:** No new entries before 10 AM ET post-resolution; if CPI benign + JPM beats + VIX <17 → evaluate JPM $330–335 (trade 2/3 this week)
+- **ISRG Q2 earnings Jul 16:** Hold through report; beat + strong guide → thesis confirmed; monitor HWM advance, tighten trail to 7% if +15% ($490.20) crossed; miss + guidance cut → thesis-break exit at next open
+- **Post-binary cluster (post Jul 16):** If ISRG beats and VIX <17, evaluate 2nd position (JPM post-earnings or NVDA/AI-semis); 85% cash is too high for 11 weeks running; diversification remains the structural unresolved issue
+
+### Overall Grade: C+
+Rule adherence B (ISRG entry gates correctly cleared; −7% rule never violated; stop replaced promptly after glitch; glitch itself is infrastructure failure, not a rule violation), risk management C (ISRG at −4.57% unrealized with only 2.3% buffer above cut trigger entering a binary-dense week; HWM regression worsened protection; oil shock + hawkish FOMC = dual macro headwinds entering earnings), relative performance D (bot −0.68% vs S&P ~+0.5% = ~−1.18% gap; 11th consecutive week of relative underperformance; single-position cash drag the dominant structural driver). Phase P&L: −$6.79 (−0.01%) vs. $100,000 starting equity — essentially flat after 10 weeks, all realized gain from CAT (+$1,900.39) now offset by ISRG drawdown.
+
+---
