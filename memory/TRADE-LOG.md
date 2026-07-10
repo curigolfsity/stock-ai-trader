@@ -1718,3 +1718,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
   - AI/Semis: No clean setup pre-binary week → WATCHLIST only ✗
 - **VIX:** ~16.90 — borderline; all new-entry gates blocked due to binary-dense week ahead
 - **Next:** ISRG Q2 earnings Jul 16 (6 days) = primary event risk. ⚠️ If ISRG drops to $396.42, cut immediately regardless of day. Post-Jul 14 (CPI + JPM Q2): if benign + VIX <17 → evaluate JPM $330–335 (trade 2/3 this week). ISRG −7% manual cut trigger: $396.42.
+
+---
+
+### Jul 10 — EOD Snapshot (Day 49, Friday)
+**Portfolio:** $99,974.31 | **Cash:** $85,755.91 (85.8%) | **Day P&L:** -$185.85 (-0.19%) | **Phase P&L:** -$25.69 (-0.03%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ISRG | 35 | $426.258 | $406.24 | -1.29% | -$700.63 (-4.70%) | $385.62 (10% trail, HWM $428.47) |
+
+**Notes:** Day 49 (Friday, end of Week 10) closed with ISRG extending its drawdown to $406.24 (−1.29% session), driven by hawkish FOMC overhang (9/18 participants projecting ≥1 hike; rate-cut language removed; Warsh withheld dot-plot) and elevated Hormuz tensions post US Iran strikes (WTI ~$74+). Unrealized P&L deepened to −$700.63 (−4.70%) vs. $426.258 entry — above the −7% manual cut threshold ($396.42); intraday low of $405.22 put the cut buffer as thin as $8.80 (2.1%) before recovering to close at $406.24 (buffer $9.82 / 2.3%). ⚠️ WATCH: ISRG −7% cut trigger at $396.42 is only 2.3% below close; any further decline next week requires immediate action. Trailing stop order 3e47d78f ACTIVE (HWM $428.47, stop $385.623, buffer $20.62 / 5.1%). Day P&L −$185.85 (−0.19%) vs. Alpaca last_equity $100,160.16 (Jul 9 close). Phase P&L −$25.69 (−0.03%) vs. $100,000 starting equity — effectively flat on phase after 49 days. Trades this week: 1/3 (ISRG buy Jul 6); no new trades today; all new-entry gates blocked (JPM double binary Jul 14 CPI + Q2 BMO; EMR DB SELL active + Hormuz risk; VIX borderline 16.90). Primary binaries next week: CPI Jul 14 8:30 AM ET + JPM Q2 Jul 14 BMO → if benign + VIX <17, evaluate JPM $330–335 (trade 2/3 this week); ISRG Q2 earnings Jul 16 = primary thesis validation or cut-on-miss event. Goldman PT $558 / BMO PT $518 / Citi PT $590 / avg $565+ (22 buy / 9 hold / 2 sell) unchanged. Patience > activity.
