@@ -1769,3 +1769,12 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Thesis check (ISRG):** INTACT. Recovery from $406.78 to $411.51 (+$4.73) = pre-earnings buy-side positioning. Goldman PT $558 / BMO PT $518 / Citi PT $590 / avg $565+ (22 buy / 9 hold / 2 sell) unchanged. Q2 earnings Jul 16 (3 days) = primary validation event. da Vinci 5 adoption thesis intact; no new ISRG-specific negative.
 - **New entries — ALL BLOCKED:** JPM triple binary Jul 14 ✗ | EMR DB SELL + Hormuz ✗ | Energy (chasing spike) ✗
 - **Next:** Post-Jul 14 (CPI + Warsh + 5 bank Q2 BMO): if CPI benign + VIX <17 + JPM beats → evaluate JPM $330–335 (trade 1/3 this week). ISRG Q2 earnings Jul 16 = primary thesis validation; beat = hold; miss on procedures = cut immediately. ISRG −7% manual cut trigger: $396.42.
+
+### Jul 13 — EOD Snapshot (Day 50, Monday)
+**Portfolio:** $100,130.06 | **Cash:** $85,755.91 (85.6%) | **Day P&L:** +$136.85 (+0.14%) | **Phase P&L:** +$130.06 (+0.13%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ISRG | 35 | $426.258 | $410.69 | +0.96% | -$544.88 (-3.65%) | $385.623 (10% trail, HWM $428.47) |
+
+**Notes:** Day 50 (Monday, Week 11 Day 1) closed green at $100,130.06, recouping some of Friday's drawdown. ISRG recovered from $406.78 (Fri close) to $410.69 (+$3.91, +0.96%) as Hormuz risk-off partially unwound and pre-earnings buy-side positioning continued — unrealized loss narrowed to −$544.88 (−3.65%) from −$700.63 (−4.70%) at Friday EOD. Trailing stop order 3e47d78f ACTIVE (HWM $428.47, stop $385.623); current stop buffer $25.07 (6.1%). Day P&L +$136.85 (+0.14%) per API last_equity $99,993.21. Phase P&L +$130.06 (+0.13%) vs. $100,000 starting equity — slightly into positive territory for the first time. No trades today; 0/3 trades this week. All new-entry gates blocked pending tomorrow's critical macro triple-binary: CPI 8:30 AM ET + JPM Q2 earnings BMO + Warsh testimony. If CPI benign + VIX <17 + JPM beats → evaluate JPM $330–335 (trade 1/3 this week). ISRG Q2 earnings Jul 16 (3 days) remains the primary thesis validation event; beat = hold and tighten stops at +15%; miss on procedure volume = cut immediately. ISRG −7% manual cut trigger: $396.42. Goldman PT $558 / BMO PT $518 / Citi PT $590 / avg $565+ (22 buy / 9 hold / 2 sell) unchanged.
