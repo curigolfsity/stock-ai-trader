@@ -1756,3 +1756,16 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
   - **EMR:** DB SELL active (Jun 30) + worsened Hormuz risk → BLOCKED ✗
 - **Action:** No trades. No stop adjustments. Hold ISRG into Q2 earnings Jul 16.
 - **Next:** Post-Jul 14 resolution (CPI + Warsh + 5 bank Q2): if CPI benign + VIX <17 + JPM beats → evaluate JPM $330–335 (trade 1/3 this week). ISRG Q2 earnings Jul 16 = primary thesis validation; beat = hold / miss on procedures = cut immediately. ISRG −7% manual cut trigger: $396.42.
+
+### Midday Scan — 2026-07-13 (Day 50, Monday — Week 11 Day 1)
+
+- **Account:** Equity ~$100,159 | Cash $85,755.91 (85.6%) | Daytrade count: 0 | Weekly trades: 0/3
+- **ISRG:** $411.51 (+1.16% intraday from $406.78 Friday close; −3.46% unrealized from $426.258 entry; unrealized P&L −$516.09) — no −7% trigger ($396.42 threshold); ⚠️ cut buffer $15.09 (3.67%) THIN but improving
+- **Trailing stop:** order 3e47d78f | HWM $428.47 | Stop $385.623 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-06; confirmed via orders API) | stop buffer $25.89 (6.29%) ✓
+- **Loser check:** ISRG −3.46% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ISRG below +15% tightening threshold ($490.20). NO tightening. ✓
+- **Market:** Recovering from morning Hormuz risk-off; ISRG +1.16% intraday = stock-specific accumulation ahead of Jul 16 Q2 earnings; healthcare sector broadly stable
+- **Action:** No trades. No stop adjustments. Hold ISRG.
+- **Thesis check (ISRG):** INTACT. Recovery from $406.78 to $411.51 (+$4.73) = pre-earnings buy-side positioning. Goldman PT $558 / BMO PT $518 / Citi PT $590 / avg $565+ (22 buy / 9 hold / 2 sell) unchanged. Q2 earnings Jul 16 (3 days) = primary validation event. da Vinci 5 adoption thesis intact; no new ISRG-specific negative.
+- **New entries — ALL BLOCKED:** JPM triple binary Jul 14 ✗ | EMR DB SELL + Hormuz ✗ | Energy (chasing spike) ✗
+- **Next:** Post-Jul 14 (CPI + Warsh + 5 bank Q2 BMO): if CPI benign + VIX <17 + JPM beats → evaluate JPM $330–335 (trade 1/3 this week). ISRG Q2 earnings Jul 16 = primary thesis validation; beat = hold; miss on procedures = cut immediately. ISRG −7% manual cut trigger: $396.42.
