@@ -4043,3 +4043,77 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Patience > activity — do not chase into binary-dense weekend**
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+### Pre-Market Research — 2026-07-13 (Day 50, Monday — Week 11 Day 1)
+
+#### Account Snapshot
+- **Equity:** $100,088.41 | **Cash:** $85,755.91 (85.7%) | **Daytrade count:** 0 | **Weekly trades:** 0/3 (new week)
+- **ISRG:** 35sh @ $426.258 entry | Current $409.50 | Unrealized P&L −$586.53 (−3.93%) | Intraday +$95.20 (+0.67%)
+- **Trailing stop:** order 3e47d78f | HWM $428.47 | Stop $385.623 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-06)
+- **Stop buffer:** $23.88 (5.8%) between current $409.50 and stop $385.623 ✓
+- **−7% manual cut trigger:** $396.42 | Buffer from current: $13.08 (3.2%) ⚠️ TIGHT
+- **Phase P&L:** +$88.41 (+0.09%) vs. $100,000 starting equity
+
+#### Market Context
+- **WTI crude:** ~$74.38/bbl (+4.4% from Friday ~$71.20) — Hormuz shock; Iran declared strait officially closed over weekend; US launched 3rd round of strikes on ~140 Iranian targets Sat Jul 11
+- **Brent crude:** ~$79.00/bbl (+3.9% from ~$76.01 Friday)
+- **S&P 500 futures:** ES ~−0.5% pre-market; risk-off on geopolitical escalation; conflicting signals (one source shows +0.4% on CPI-cooling narrative); net negative bias
+- **VIX:** 15.84 (Friday Jul 10 close); expect Monday open spike given weekend Hormuz escalation + US-Iran strikes
+- **Today's catalysts (Jul 13):** Hormuz closure dominates; Iran-US conflict 3rd round; IRGC attacked Cyprus-flagged container ship; Oman mediating tentative traffic management proposal; light earnings day (FAST pre-open only)
+- **Earnings before open today:** FAST (Fastenal) — not relevant to positions
+- **Economic calendar this week:**
+  - **Tue Jul 14 8:30 AM ET:** June CPI — key (WTI fell ~20% in June = expect benign print)
+  - **Tue Jul 14 10:00 AM ET:** Fed Chair Warsh inaugural congressional testimony (House Financial Services)
+  - **Tue Jul 14 BMO:** JPM, BAC, GS, WFC, C all reporting Q2 — major bank earnings tsunami
+  - **Wed Jul 15 8:30 AM ET:** June PPI
+  - **Wed Jul 15 10:00 AM ET:** Warsh testimony (Senate Banking Committee)
+  - **Wed Jul 15:** ISRG Q2 earnings (Jul 16 previously noted; confirm timing)
+- **Sector momentum YTD:** Tech (XLK) +27.5% — leader; Energy recovering sharply on Hormuz (refiners VLO/MPC/PSX +6% last week); Industrials/Defense up on geo-political; Healthcare lagging; Consumer Discretionary underperforming
+
+#### ISRG Thesis Check
+- Price $409.50 (+0.67% intraday) | Unrealized −3.93% from $426.258 entry
+- Q2 earnings scheduled Jul 16 (3 days) — **primary event risk**
+- BMO Capital PT $518 (top MedTech pick Jul 9); Goldman PT $558; Citi PT $590; avg analyst target $565+; 22 buy / 9 hold / 2 sell
+- Q1 2026: Revenue +23% YoY $2.77B vs $2.62B est; EPS $2.50 vs $2.11 est; da Vinci 5 placements 232 (+58% YoY); procedures +17%
+- Full-year 2026 procedure growth outlook raised to 13.5%–15.5%
+- New executive: Taylor Patton promoted to Chief Commercial & Marketing Officer (effective Jul 1)
+- No company-specific negative news over weekend; ISRG gaining on buy-side positioning for earnings
+- **Thesis: INTACT** — weakness macro-driven, not fundamental
+
+#### Trade Ideas
+1. **ISRG (existing) — HOLD**
+   - Catalyst: Q2 earnings Jul 16 (3 days); BMO/Goldman/Citi analyst support
+   - Action: NO add pre-earnings (3-day binary is too close); stop $385.623 GTC active
+   - Monitor: −7% manual cut $396.42; buffer 3.2% (⚠️ tight — watch on any gap-down)
+   - Stop buffer from stop: 5.8% ($23.88) — automated protection intact
+
+2. **JPM — BLOCKED (triple binary Tuesday)**
+   - CPI + JPM Q2 earnings + Warsh testimony all on Jul 14 = unacceptable pre-entry risk
+   - Entry $330–335 only POST Jul 14 if: VIX <17, JPM beats, CPI benign
+   - Status: ✗ BLOCKED
+
+3. **Energy (VLO/MPC/PSX) — WATCHLIST only**
+   - Oil +4.4% on Hormuz = refiners could gap up; but chasing a geopolitical spike is not strategy
+   - Hormuz resolution risk (Oman mediation ongoing) = sharp reversal risk
+   - New sector; no entry today; evaluate post-Hormuz resolution if trend holds
+   - Status: ✗ BLOCKED
+
+#### Risk Factors
+- **Hormuz escalation:** Iran-declared closure + US-Iran military strikes = oil spike, shipping disruption; could accelerate if no ceasefire; energy inflation re-acceleration
+- **VIX spike risk:** Weekend Hormuz events + US-Iran strikes likely spike VIX above 17 at open → reblock all new entries
+- **ISRG cut proximity:** $409.50 vs. $396.42 = $13.08 (3.2%) buffer; gap-down open could threaten −7% cut; watch closely
+- **Binary-dense week:** CPI + Warsh + 5 bank earnings (Tue) + PPI + ISRG Q2 (Wed) = 4 consecutive days of volatility
+- **Hawkish Fed tail risk:** If CPI comes in hot (unlikely given -20% oil in June), Warsh testimony turns hawkish = equity selloff
+- **Under-deployed (14.3%):** Still far below 75-85% target; binary cluster + elevated geo-political justify holding cash until post-Tuesday resolution
+
+#### Decision: **HOLD**
+- Hormuz escalation + binary-dense week = no new entries today
+- ISRG: Hold. Stop active. 3 days to Q2 earnings. No add.
+- All watchlist entries (JPM, EMR, Energy) blocked until post-Jul 14 CPI + Warsh + bank earnings resolution
+- Post-Tuesday: if CPI benign + Warsh measured + JPM beats + VIX <17 → evaluate JPM $330–335 (trade 1/3 this week)
+- Post-Wednesday: ISRG Q2 is thesis validation event; beat = hold/add; miss on procedures = cut immediately
+- **Patience > activity — do not trade into highest-risk week of the challenge window**
+
+_Research via WebSearch (Perplexity key not set — fallback used)_

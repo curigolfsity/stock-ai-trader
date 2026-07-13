@@ -166,3 +166,11 @@ Decision: HOLD
 Ideas: ISRG hold (stop active, Q2 earnings Jul 16 in 7d) | JPM blocked (CPI+earnings double binary Jul 14)
 Market: SPX futures modestly +, VIX 16.13 (below 17 gate), Oil WTI $74 (+5% Iran strike)
 Risks: Oil/Iran geopolitical spike; binary-dense next week CPI+JPM Jul 14, PPI Jul 15, ISRG Q2 Jul 16
+
+---
+## 2026-07-13 10:12 UTC (fallback — no notification service configured)
+Pre-market 2026-07-13
+Decision: HOLD
+Ideas: ISRG hold (Q2 earnings Wed Jul 16, no add pre-binary), JPM BLOCKED (CPI+earnings+Warsh triple binary Tue), Energy WATCHLIST (oil +4.4% Hormuz)
+Market: SPX futures ~-0.5%, VIX ~15.84 (spike expected), Oil WTI 4.38 (+4.4%)
+Risks: Hormuz escalation; ISRG cut buffer TIGHT 3.2% (96.42); binary-dense week Tue-Wed
