@@ -1778,3 +1778,23 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | ISRG | 35 | $426.258 | $410.69 | +0.96% | -$544.88 (-3.65%) | $385.623 (10% trail, HWM $428.47) |
 
 **Notes:** Day 50 (Monday, Week 11 Day 1) closed green at $100,130.06, recouping some of Friday's drawdown. ISRG recovered from $406.78 (Fri close) to $410.69 (+$3.91, +0.96%) as Hormuz risk-off partially unwound and pre-earnings buy-side positioning continued — unrealized loss narrowed to −$544.88 (−3.65%) from −$700.63 (−4.70%) at Friday EOD. Trailing stop order 3e47d78f ACTIVE (HWM $428.47, stop $385.623); current stop buffer $25.07 (6.1%). Day P&L +$136.85 (+0.14%) per API last_equity $99,993.21. Phase P&L +$130.06 (+0.13%) vs. $100,000 starting equity — slightly into positive territory for the first time. No trades today; 0/3 trades this week. All new-entry gates blocked pending tomorrow's critical macro triple-binary: CPI 8:30 AM ET + JPM Q2 earnings BMO + Warsh testimony. If CPI benign + VIX <17 + JPM beats → evaluate JPM $330–335 (trade 1/3 this week). ISRG Q2 earnings Jul 16 (3 days) remains the primary thesis validation event; beat = hold and tighten stops at +15%; miss on procedure volume = cut immediately. ISRG −7% manual cut trigger: $396.42. Goldman PT $558 / BMO PT $518 / Citi PT $590 / avg $565+ (22 buy / 9 hold / 2 sell) unchanged.
+
+---
+
+### Market-Open Scan — 2026-07-14 (Day 51, Tuesday — Week 11 Day 2)
+
+- **Account:** Equity $99,720.91 | Cash $85,755.91 (86.0%) | Daytrade count: 0 | Weekly trades: 0/3
+- **ISRG:** $399.00 (−1.99% intraday from $407.12; **−6.40% unrealized** from $426.258 entry; unrealized P&L −$954.03) — ⚠️⚠️ **NEAR CUT THRESHOLD: only $2.58 (0.65%) above −7% trigger $396.42**
+- **Trailing stop:** order 3e47d78f | HWM $428.47 | Stop $385.623 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-06; confirmed via orders API) | stop buffer $13.38 (3.35%) from current price
+- **Loser check:** ISRG −6.40% unrealized — above −7% cut threshold. NO cut YET. ⚠️ WATCH CONTINUOUSLY.
+- **Winner tighten:** ISRG below +15% ($490.20). NO tightening needed.
+- **VIX:** 17.09 (+13.71%) — **ALL NEW-ENTRY GATES BLOCKED ✗** (>17 threshold)
+- **Today's macro triple-binary:** ①CPI June 8:30 AM ET (consensus: −0.1% headline MoM / core +0.3% MoM); ②JPM/BAC/GS/WFC/C Q2 earnings BMO; ③Warsh inaugural congressional testimony (House Financial Services Committee)
+- **Oil:** WTI ~$80.64/bbl (+3.2%) / Brent ~$86.35/bbl (+3.66%) — surging on Trump Hormuz toll + Iran port blockade; ISRG macro pressure ongoing
+- **New entries — ALL BLOCKED:**
+  - **JPM:** Triple binary today (CPI + Q2 earnings BMO + Warsh testimony) → BLOCKED ✗ (re-evaluate Wed AM if all gates clear)
+  - **Energy (VLO/MPC/PSX):** Chasing geopolitical spike = reversal risk on Oman mediation → BLOCKED ✗
+  - **EMR:** DB SELL active (Jun 30) + worsened Hormuz risk → BLOCKED ✗
+- **Thesis check (ISRG):** INTACT. Evercore PT trimmed $480→$430 (maintained In Line) = new headwind. Goldman PT $558 / BMO PT $518 / Citi PT $590 / avg $565+ (22 buy / 9 hold / 2 sell) unchanged. Q2 earnings Jul 16 (2 days) = primary thesis validation. da Vinci 5 adoption + procedure volume +17% YoY fundamentals unchanged. Weakness macro-driven (oil shock + VIX surge), not ISRG-specific.
+- **Action:** No trades. ⚠️ **LIVE WIRE: Cut ISRG immediately if price hits $396.42 at any point today, regardless of session direction.**
+- **Next:** ISRG Q2 earnings Jul 16 (2 days) = primary event risk. Post-CPI + Warsh today: if VIX drops <17 + CPI benign + JPM beats → evaluate JPM $330–335 (trade 1/3 this week) for Wed AM entry. ISRG −7% manual cut trigger: $396.42.
