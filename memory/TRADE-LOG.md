@@ -1798,3 +1798,24 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Thesis check (ISRG):** INTACT. Evercore PT trimmed $480→$430 (maintained In Line) = new headwind. Goldman PT $558 / BMO PT $518 / Citi PT $590 / avg $565+ (22 buy / 9 hold / 2 sell) unchanged. Q2 earnings Jul 16 (2 days) = primary thesis validation. da Vinci 5 adoption + procedure volume +17% YoY fundamentals unchanged. Weakness macro-driven (oil shock + VIX surge), not ISRG-specific.
 - **Action:** No trades. ⚠️ **LIVE WIRE: Cut ISRG immediately if price hits $396.42 at any point today, regardless of session direction.**
 - **Next:** ISRG Q2 earnings Jul 16 (2 days) = primary event risk. Post-CPI + Warsh today: if VIX drops <17 + CPI benign + JPM beats → evaluate JPM $330–335 (trade 1/3 this week) for Wed AM entry. ISRG −7% manual cut trigger: $396.42.
+
+### Midday Scan — 2026-07-14 (Day 51, Tuesday — Week 11 Day 2)
+
+- **Account:** Equity $99,242.81 | Cash $99,242.81 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **ISRG: ⛔ POSITION CLOSED — 10% trailing stop executed at 11:03 AM ET**
+  - Fill: $385.34 (35sh) via order 3e47d78f | Realized P&L: **−$1,432.13 (−9.60%)** | Entry $426.258 Jul 6
+  - Stop trigger: ISRG opened at $399.00 (−6.40% unrealized), dropped through manual cut threshold $396.42 and through trailing stop $385.623; filled $385.34 (slippage $0.28/sh) | Stop was automated GTC — no manual intervention available in scheduled scan
+  - Cause: (1) GLP-1/Ozempic bariatric procedure headwind — US da Vinci bariatric procedures −10% Q1 2026 as GLP-1 drugs shrink the surgical pool; structural, not temporary; (2) HCA Healthcare cut 2026 profit outlook (−9.2% today) — healthcare sector contagion; (3) Pre-earnings de-risking ahead of Jul 16 Q2 (options pricing ~7% move); (4) Evercore PT trim $480→$430 adding overhang
+  - Macro environment TODAY was actually positive: CPI June −0.4% MoM (best since Apr 2020; 3.5% YoY vs 4.2% May) / JPM Q2 record $21.2B net income ($7.70/sh, beat $5.74 est) / Warsh testimony neutral (affirmed Fed independence)
+  - Post-stop: ISRG continued lower — midday ~$380 (below stop fill), now in secular selloff
+  - Thesis assessment: **PARTIALLY BROKEN** — GLP-1 bariatric headwind is structural (not macro); procedure growth guide 13–15.5% vs 18% in 2025 = sustained deceleration; exit was correct
+  - Healthcare sector: 1 failed trade (ISRG). One more failed trade in healthcare = sector exit per strategy rule.
+- **Positions:** 0 open (100% cash)
+- **Phase P&L:** $99,242.81 (−$757.19 / −0.76% vs $100,000 starting equity)
+- **Day P&L:** −$762.30 (−0.76% from last_equity $100,005.11)
+- **New entries — evaluating:**
+  - **JPM:** All gates NOW CLEAR (CPI benign ✓ / JPM beat ✓ / Warsh neutral ✓ / VIX likely <17 ✓). Pre-plan target $330–335; current ask $341.68 — **above range; not chasing intraday**. Evaluate Wednesday AM if price pulls back toward $330–338 range.
+  - **ISRG re-entry:** ✗ BLOCKED — thesis partially broken (GLP-1 structural); 1 failed trade in sector; Q2 earnings Jul 16 = binary; do not re-enter pre-earnings
+  - **Other sectors:** Watch tech/semis (XLK +27.5% YTD, sector in momentum); evaluate Wednesday with full scan
+- **Action:** No trades. Trailing stop executed correctly; accept exit. Do NOT re-enter ISRG.
+- **Next:** Wednesday AM full scan — JPM entry decision ($330–338 target); potential tech/semi position; restore 75–85% deployment. ISRG Q2 Jul 16 EOD — monitor only, no position.

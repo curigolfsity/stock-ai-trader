@@ -4184,3 +4184,31 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Patience > activity — highest-risk session of the challenge window; protect the position, don't add to risk**
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+### Afternoon Addendum — 2026-07-14 (Day 51, Midday Scan)
+
+#### ISRG Stop-Out — Confirmed
+- **Order 3e47d78f filled:** $385.34 × 35sh at 11:03 AM ET | Realized P&L −$1,432.13 (−9.60%)
+- ISRG continued falling post-stop — midday bid ~$379; 52-wk low touched $395.16 before dropping further
+- Thesis: **PARTIALLY BROKEN** — GLP-1 bariatric -10% Q1 2026 is structural; procedure growth decelerating to 13–15.5% (from 18% in 2025); HCA miss added sector contagion
+- NO re-entry. Monitor ISRG Q2 earnings Jul 16 EOD as data point only (no position)
+
+#### Macro Resolution — Decisive Positive Day
+- **CPI June (8:30 AM ET):** −0.4% MoM (best single-month drop since Apr 2020) / 3.5% YoY vs 4.2% May / core benign — energy -5.7% MoM drove deflation; Fed hike odds collapsed from ~35% to ~15%
+- **JPM Q2:** Record $21.2B net income / EPS $7.70 vs $5.74 est / revenue $58B +27% YoY / all business lines at records — blowout confirmation of "soft landing + strong capital markets" thesis
+- **Warsh testimony (House FinServ):** Measured, neutral — affirmed Fed independence; five task forces announced; Senate testimony Wed Jul 15
+- **VIX:** From 17.09 open → likely 13–15 post-CPI rally; all new-entry gates now CLEAR
+- **SPX/NDX:** Rallying sharply on triple positive resolution; healthcare diverged (HCA miss)
+
+#### Updated Watchlist for Wednesday AM (Jul 15)
+| Candidate | Rationale | Target Entry | Gate Status |
+|-----------|-----------|-------------|-------------|
+| **JPM** | Record Q2; CPI soft-landing confirmed; financials in momentum | $330–338 (pull from $341 | ✓ WATCH |
+| **XLK/semis** | Tech +27.5% YTD; CPI rate-cut hopes = re-rating tailwind | TBD — research pre-mkt | ✓ WATCH |
+| **Energy (VLO/MPC)** | Hormuz still active; WTI $80+; but reversal risk if Oman deal | $330–338 JPM first priority | ✗ LOWER PRIORITY |
+
+- **Portfolio:** 100% cash ($99,242.81) — below 75–85% deployment target; must add 1–2 positions this week
+- **Max trades remaining this week:** 3/3 (none used)
+- **Next:** Wed Jul 15 pre-market scan — JPM entry decision + sector analysis + ISRG Q2 earnings watch (Jul 16 EOD)
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
