@@ -1819,3 +1819,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
   - **Other sectors:** Watch tech/semis (XLK +27.5% YTD, sector in momentum); evaluate Wednesday with full scan
 - **Action:** No trades. Trailing stop executed correctly; accept exit. Do NOT re-enter ISRG.
 - **Next:** Wednesday AM full scan — JPM entry decision ($330–338 target); potential tech/semi position; restore 75–85% deployment. ISRG Q2 Jul 16 EOD — monitor only, no position.
+
+---
+
+### Jul 14 — EOD Snapshot (Day 51, Tuesday)
+**Portfolio:** $99,242.81 | **Cash:** $99,242.81 (100%) | **Day P&L:** -$762.30 (-0.76%) | **Phase P&L:** -$757.19 (-0.76%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Day 51 (Tuesday, Week 11 Day 2) was defined by ISRG's 10% trailing stop executing at 11:03 AM ET at $385.34 (35sh), locking in a realized loss of −$1,432.13 (−9.60%) from the $426.258 entry on Jul 6. Trigger causes: (1) GLP-1/Ozempic bariatric procedure headwind — structural decline in US da Vinci bariatric procedures (−10% Q1 2026); (2) HCA Healthcare slashed 2026 profit outlook −9.2%, creating healthcare sector contagion; (3) pre-earnings de-risking ahead of ISRG Q2 Jul 16 (options pricing ~7% move); (4) Evercore PT trim $480→$430. Today's macro was broadly positive — CPI June −0.4% MoM (best since Apr 2020; 3.5% YoY), JPM Q2 record $21.2B net income ($7.70/sh vs $5.74 est), Warsh testimony neutral/affirmed Fed independence — but ISRG continued lower to ~$380 post-stop, validating the exit. Account is now 100% cash ($99,242.81). Phase P&L: −$757.19 (−0.76%) vs. $100,000 starting equity. Healthcare sector: 1 failed trade (ISRG); one more → sector exit per strategy rule. Trades this week: 0 new entries (0/3 new-entry cap). Next: Wednesday AM full scan — JPM entry decision ($330–338 range, look for pullback from today's post-earnings gap); potential tech/semi position (XLK +27.5% YTD, sector in momentum) to restore 75–85% deployment. ISRG Q2 Jul 16 EOD — monitor only, no position.
