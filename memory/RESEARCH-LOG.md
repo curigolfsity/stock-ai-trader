@@ -4212,3 +4212,78 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Next:** Wed Jul 15 pre-market scan — JPM entry decision + sector analysis + ISRG Q2 earnings watch (Jul 16 EOD)
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+### Pre-Market Research — 2026-07-15 (Day 52, Wednesday — Week 11 Day 3)
+
+#### Account Snapshot
+- **Equity:** $99,242.79 | **Cash:** $99,242.79 (100%) | **Buying power:** $396,971.16 (margin)
+- **Positions:** 0 open | **Open orders:** 0
+- **Phase P&L:** −$757.21 (−0.76% vs. $100,000 starting equity)
+- **Weekly trades:** 0/3 | **Daytrade count:** 0
+
+#### Market Context
+- **WTI crude:** ~$78/bbl (retreating slightly from yesterday's $80.64; Brent ~$84.73–85.84/bbl) — Hormuz tensions ongoing; oil off intraday highs
+- **S&P 500 futures:** +0.11% pre-market — muted; Polymarket 73% probability SPX opens higher
+- **VIX futures:** 17.67–18.08 (range today) — **ABOVE 17 GATE → ALL NEW ENTRIES BLOCKED ✗**
+- **PPI June (8:30 AM ET today):** Unreleased; May 2026 PPI was +1.1% MoM / +6.5% YoY (highest since Nov 2022) — this is the key risk event this morning; benign June print needed to unlock entry gates
+- **Warsh Senate Banking Committee testimony:** Follows yesterday's House testimony; Senate more hawkish; rate path + September hike risk in focus; committed to 2% goal language
+
+#### Today's Catalysts
+| Event | Timing | Significance |
+|-------|--------|--------------|
+| PPI June | 8:30 AM ET | Rate path; hot May print (+6.5% YoY) = rate hike tail risk |
+| Warsh Senate testimony | Mid-morning | Second day; Senate more hawkish; September hike language risk |
+| ASML Q2 earnings | BMO | Semis bellwether; $7.94 EPS est; 8.36% implied move; guide raise = sector catalyst |
+| Morgan Stanley Q2 | BMO | Financials; wealth mgmt + IB; post-JPM comp |
+| JNJ Q2 | BMO | Healthcare (sector with 1 failed trade — ISRG) |
+| United Airlines Q2 | BMO | Travel/airlines; capacity + demand read |
+| BNY / BLK / PNC / CTAS / ELV | BMO | Broad Q2 earnings coverage |
+| EIA Crude Oil Inventories | AM | Oil supply read; WTI direction |
+
+#### Position / Thesis Check
+- **ISRG:** No position. Q2 earnings tomorrow Jul 16 (1:30 PM PDT call). Monitoring as healthcare data point only. Healthcare: 1 failed trade; one more → sector exit per strategy rule.
+- **JPM:** Pre-market $327.61 — pulled back from $341.68 midday yesterday (sell-the-news after record beat). Now AT/below $330–338 target range. VIX gate blocks entry; PPI + Warsh today are the remaining binary risks before entry is feasible.
+
+#### Trade Ideas
+1. **JPM — PRIMARY CANDIDATE, GATED**
+   - Catalyst: Record Q2 ($7.70 EPS vs $5.74 est; $21.2B net income; +27% revenue YoY); soft-landing confirmed; financials sector in momentum (stress tests + buybacks); Warsh rate-hold environment favorable for banks
+   - Entry target: $325–338 (currently $327.61 pre-mkt — IN RANGE)
+   - Stop: $300 (~8% below $325 entry) GTC 10% trail
+   - Target: $360–370 (10–13% upside; 2:1+ R:R)
+   - **Gate:** VIX must drop below 17 AND PPI benign AND Warsh not hawkish-hawkish → entry feasible this session
+   - Size: ~$19,800 (~200sh at $330; 20% equity) — max position per strategy
+   - Status: **✗ BLOCKED (VIX 17.7+); monitor post-PPI/Warsh**
+
+2. **ASML — POST-EARNINGS WATCH**
+   - Catalyst: Q2 reporting today; if beats $7.94 EPS + raises FY guidance (3rd raise) → backlog expansion signals sustained AI infrastructure spend
+   - Sector: Semis equipment; XLK +27.5% YTD; AI capex still dominant theme
+   - Risk: 8.36% implied options move; do NOT enter pre-earnings; also AI capex ROI skepticism growing
+   - Status: **✗ BLOCKED pre-earnings; evaluate tomorrow if strong beat + guide**
+
+3. **XLK / Semis (NVDA, AMD) — WATCHLIST**
+   - Catalyst: CPI benign + soft landing = rate-cut hopes = P/E re-rating tailwind for growth stocks; ASML positive print could lift sector
+   - Risk: Sector "cooling after massive AI-driven run"; Q2 tech up 43%, correction risk; AI capex ROI questions
+   - Status: **✗ WATCHLIST; evaluate post-ASML + post-PPI clarity**
+
+#### Risk Factors
+- **PPI June (hot tail):** May PPI +6.5% YoY was the highest since Nov 2022. If June prints similarly hot, rate hike September odds surge → VIX spike → equity selloff → all entries blocked further
+- **Warsh Senate hawkish surprise:** Senate Banking Committee historically more hawkish than House; any rate hike language beyond "optionality" = market selloff
+- **JPM sell-the-news:** Stock fell from $341.68 (Jul 14 midday) to $327.61 pre-mkt today — $14 drop post-blowout earnings signals profit-taking headwind; not a clean entry despite thesis
+- **ASML miss:** Any guide-down or soft backlog data → semis sector selloff; XLK correction accelerates
+- **100% cash opportunity cost:** SPX likely soft-landing rally continues; missing upside at max deployment shortfall (need 1–2 positions to restore 75–85% target)
+- **Healthcare sector fragility:** 1 failed trade (ISRG −9.60%); one more → sector exit; ISRG Q2 tomorrow is healthcare read-through risk
+
+#### Decision: **HOLD**
+- VIX 17.67–18.08 = **all new entries blocked** (>17 strategy gate)
+- PPI binary this morning: MUST confirm June benign before any entry; May +6.5% YoY sets an alarming baseline
+- Warsh Senate: Second hawkish session risk; wait for testimony to clear
+- JPM: IN target range ($327.61) but gated by VIX + PPI + Warsh; if all three clear by mid-morning → JPM entry feasible today (trade 1/3 this week)
+- ASML: Never enter same-day as earnings print; evaluate tomorrow
+- Post-PPI/Warsh decision tree:
+  - PPI benign + Warsh measured + VIX drops <17 → **JPM entry today** (~$325–335, ~200sh, $19,800 at 20% equity)
+  - PPI hot or Warsh hawkish → continue HOLD; re-evaluate Thursday
+- **Patience > activity — binary risk cluster this morning; protect dry powder**
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
