@@ -1830,3 +1830,39 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | — | — | — | — | — | — | — |
 
 **Notes:** Day 51 (Tuesday, Week 11 Day 2) was defined by ISRG's 10% trailing stop executing at 11:03 AM ET at $385.34 (35sh), locking in a realized loss of −$1,432.13 (−9.60%) from the $426.258 entry on Jul 6. Trigger causes: (1) GLP-1/Ozempic bariatric procedure headwind — structural decline in US da Vinci bariatric procedures (−10% Q1 2026); (2) HCA Healthcare slashed 2026 profit outlook −9.2%, creating healthcare sector contagion; (3) pre-earnings de-risking ahead of ISRG Q2 Jul 16 (options pricing ~7% move); (4) Evercore PT trim $480→$430. Today's macro was broadly positive — CPI June −0.4% MoM (best since Apr 2020; 3.5% YoY), JPM Q2 record $21.2B net income ($7.70/sh vs $5.74 est), Warsh testimony neutral/affirmed Fed independence — but ISRG continued lower to ~$380 post-stop, validating the exit. Account is now 100% cash ($99,242.81). Phase P&L: −$757.19 (−0.76%) vs. $100,000 starting equity. Healthcare sector: 1 failed trade (ISRG); one more → sector exit per strategy rule. Trades this week: 0 new entries (0/3 new-entry cap). Next: Wednesday AM full scan — JPM entry decision ($330–338 range, look for pullback from today's post-earnings gap); potential tech/semi position (XLK +27.5% YTD, sector in momentum) to restore 75–85% deployment. ISRG Q2 Jul 16 EOD — monitor only, no position.
+
+---
+
+### Market-Open Scan — 2026-07-15 (Day 52, Wednesday — Week 11 Day 3)
+
+- **Account:** Equity $99,242.79 | Cash $99,242.79 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 open (100% cash)
+- **Time:** 8:34 AM ET (pre-open; 56 min to 9:30 AM)
+- **VIX:** 16.36 pre-mkt → 17.21 opening print → intraday range 16.15–17.56 ⚠️ BORDERLINE (gate requires sustained <17; not confirmed ✗)
+- **SPX futures:** +0.18–0.22% pre-PPI; bullish bias carrying forward from CPI relief
+- **PPI June (8:30 AM ET — released 4 min before scan):** Actual print NOT YET CONFIRMED in indexed sources. Consensus was headline 0.0% MoM / +6.2% YoY (vs prior +1.1% / +6.5%); core +0.4% MoM / +5.2% YoY. Gate cannot clear without confirmed print.
+
+**Gate evaluation — JPM (primary candidate):**
+- VIX gate: ✗ NOT CONFIRMED (17.21 opening print; borderline)
+- PPI gate: ✗ UNCONFIRMED (actual print not indexed)
+- Price gate: ✗ JPM pre-mkt $340.25 — above $325–338 target range top ($338); research explicitly excluded chasing above range
+- Warsh Senate: In progress; no surprise hawkish signal confirmed yet
+- **→ BLOCKED ✗ (3/4 gates fail)**
+
+**ASML (new candidate from BMO earnings today):**
+- EPS: $8.32 vs $7.94 est (beat +$0.38) ✓
+- Revenue: €9.3B vs €8.9B est (beat) ✓
+- FY 2026 guidance raised: €43–45B (from €36–40B) — massive second raise ✓
+- Catalyst: AI-driven semiconductor equipment demand; backlog expansion; customers accelerating software-led upgrades
+- Status: STRONG BEAT + GUIDE RAISE — qualifies for formal setup evaluation
+- Entry gate: VIX gate ✗ NOT CONFIRMED → cannot enter today; evaluate for tomorrow if VIX closes <17
+- Sizing (preliminary): entry ~$800–850 zone (need live quote); stop ~10% GTC trail; size ~12–13% equity (~$12,800–13,000); target +20%
+- **→ BLOCKED ✗ (VIX gate fails; formal setup needs live quote)**
+
+**Action:** No trades. No stop adjustments (no positions).
+**Decision tree post-open:**
+- PPI confirmed benign + VIX closes <17 + JPM pulls back ≤$335 → evaluate JPM entry (trade 1/3; ~$19,800; ~59sh at $335; stop ~$300 GTC trail 10%)
+- PPI confirmed benign + VIX closes <17 + ASML ≤$850 → evaluate ASML entry (trade 1 or 2/3; ~$12,800; ~15sh at $850; stop ~$765 GTC trail 10%; target ~$1,020 (+20%))
+- PPI hot or VIX stays >17 → continue HOLD; re-evaluate Thursday
+- ISRG Q2 earnings tonight (1:30 PM PDT call) — monitor only; no position; healthcare sector fragility (1 failed trade)
+**Next:** Midday scan — confirm PPI print, VIX trajectory, JPM/ASML prices post-open. ISRG Q2 tonight = healthcare read-through.
