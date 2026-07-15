@@ -4286,4 +4286,13 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
   - PPI hot or Warsh hawkish → continue HOLD; re-evaluate Thursday
 - **Patience > activity — binary risk cluster this morning; protect dry powder**
 
+#### Afternoon Addendum — 2026-07-15 (Midday)
+
+- **PPI CONFIRMED BENIGN:** Headline −0.3% MoM (vs +0.0% consensus) / +5.5% YoY; core +0.2% MoM / +4.7% YoY. Two-day disinflation sweep (CPI + PPI) — July rate hike off table. Macro gate ✅ cleared.
+- **Warsh Senate:** No hawkish shock. "One data point" framing — cautious lean, not a new threat. ✓
+- **VIX:** ~17.26 intraday (range 16.15–17.56) — above 17; new-entry gate still BLOCKED ✗.
+- **JPM:** ~$347–351 intraday — well above $325–338 entry range; not entering. JPM entry now requires a pullback to ≤$338 on a future session.
+- **ASML price correction:** ⚠️ Pre-market sizing estimate ($800–850 entry zone) was badly wrong. ASML trading ~$1,775 USD (+6.5% on Q2 beat). Correct Thursday entry setup: entry ~$1,750–1,800; 11 shares at $1,775 = $19,525 (~19.7% equity); stop 10% GTC trail → ~$1,597; target +20% → ~$2,130; R:R ~2.0:1 (meets minimum). Do NOT enter same-day as earnings per strategy — evaluate Thursday AM if VIX confirms <17.
+- **ISRG Q2 tonight:** Reports after close (1:30 PM PDT). Healthcare: 1 failed trade (ISRG −9.60%). Watching for: procedure volume, da Vinci 5 placements, GLP-1 bariatric headwind quantification. Beat + procedure vol intact → sector tone improves. Miss on procedures → 2nd failed trade → healthcare sector exit rule confirmed (no impact since no position).
+
 _Research via WebSearch (Perplexity key not set — fallback used)_

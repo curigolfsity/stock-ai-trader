@@ -1866,3 +1866,25 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - PPI hot or VIX stays >17 → continue HOLD; re-evaluate Thursday
 - ISRG Q2 earnings tonight (1:30 PM PDT call) — monitor only; no position; healthcare sector fragility (1 failed trade)
 **Next:** Midday scan — confirm PPI print, VIX trajectory, JPM/ASML prices post-open. ISRG Q2 tonight = healthcare read-through.
+
+### Midday Scan — 2026-07-15 (Day 52, Wednesday — Week 11 Day 3)
+
+- **Account:** Equity $99,242.79 | Cash $99,242.79 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 open | Orders: 0
+- **Loser check:** N/A — no positions.
+- **Winner tighten:** N/A — no positions.
+- **Thesis check:** N/A — no positions.
+- **PPI June (8:30 AM ET — CONFIRMED):** Headline −0.3% MoM (vs +0.0% consensus) | YoY +5.5% (vs +6.2%) | Core +0.2% MoM (vs +0.3–0.4%) — VERY BENIGN. Goods prices −1.4% (largest drop since Jul 2022); energy −6.4%; gasoline −12.0%. Follows CPI −0.4% MoM (Jul 14) — dual disinflation sweep; July rate hike effectively off the table. ✅ MACRO GATE: CLEARED
+- **VIX:** ~17.26 intraday (range 16.15–17.56) — STILL ABOVE 17 ✗ New-entry gate NOT cleared. Declining slowly on PPI tailwind but not confirmed <17.
+- **SPX:** +0.2–0.4% grinding higher on PPI + ASML lift.
+- **Warsh Senate Banking Committee:** "One data point" framing — explicitly refused to call CPI/PPI "mission accomplished." Removed forward guidance; balance sheet reduction priority. **No hawkish shock.** ✓ Within expected parameters; not market-moving.
+- **JPM:** ~$347–351 (+1.3% on day) — **ABOVE $325–338 entry range; NOT entering.** ✗ Do not chase.
+- **ASML:** ~$1,775 USD (+6.5–7% on Q2 earnings beat: EPS $8.32 vs $7.94 est; FY 2026 guide raised to €43–45B). ⚠️ Pre-market sizing estimate of "$800–850 entry zone" was WRONG — actual live price ~$1,775. Correct sizing: entry ~$1,750–1,800; 11sh at $1,775 = $19,525 (~20% equity max); stop 10% GTC trail → ~$1,597; target +20% → ~$2,130; R:R ~2.0:1. VIX gate ✗ blocks entry today regardless; per strategy rule do not enter same-day as earnings print → evaluate Thursday AM if VIX <17.
+- **ISRG:** ~$383 (pre-earnings; wide intraday range $378–407). Reports Q2 tonight (1:30 PM PDT call). Healthcare sector: 1 failed trade. Monitor only — no position.
+- **Action:** No trades. No adjustments. All new-entry gates blocked (VIX 17.26 ✗; JPM above range ✗; ASML same-day-as-earnings rule ✗).
+- **Decision tree (closing check):**
+  - VIX closes <17 today → Thursday AM evaluate ASML entry (~$1,750–1,800; 11sh; stop ~10% GTC trail; target +20%; 2:1 R:R) as trade 1/3 this week
+  - VIX stays >17 → continue HOLD; re-evaluate Thursday
+  - ISRG Q2 beat (procedures + da Vinci 5 intact) → healthcare sector improves; 1 failed trade remains but tone positive
+  - ISRG Q2 miss (procedure vol deceleration) → 2nd failed trade → healthcare sector EXIT confirmed per strategy rule (no impact — already out)
+- **Next:** Monitor VIX into close. ISRG Q2 tonight = healthcare read-through. Thursday AM: ASML entry evaluation if VIX confirms <17.
