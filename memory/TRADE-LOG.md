@@ -1941,3 +1941,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Thesis check (ASML):** INTACT. Q2 confirmed: EPS $8.69 vs $7.95 est; revenue $10.67B vs $10.29B est; FY 2026 guide raised €43–45B; CEO "order intake extremely strong"; 2027 capacity nearly fully booked. TSM Q2 beat today directly validates AI EUV lithography demand chain. Technology sector #1 YTD (+34.68%); 28 Buy / 0 Sell consensus unchanged.
 - **ISRG Q2 tonight (after close):** Healthcare 1 failed trade; monitoring only; no position.
 - **Next trigger:** +15% → $2,084.93 (tighten trail to 7%); +20% → $2,175.58 (tighten trail to 5%). ISRG Q2 AH = healthcare read-through. 2/3 weekly trade slots available.
+
+---
+
+### Jul 16 — EOD Snapshot (Day 53, Thursday)
+**Portfolio:** $99,061.67 | **Cash:** $81,112.97 (81.9%) | **Day P&L:** -$181.12 (-0.18%) | **Phase P&L:** -$938.33 (-0.94%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ASML | 10 | $1,812.982 | $1,794.87 | -1.12% | -$181.12 (-1.00%) | $1,668.105 (10% GTC; HWM $1,853.45) |
+
+**Notes:** Day 53 (Thursday, Week 11 Day 4) was an active entry day. ASML was purchased at the open (10sh @ avg $1,812.982; cost basis $18,129.82; 18.3% of equity) after all gates cleared: VIX 15.67 (Jul 15 close), 24h+ post-earnings (ASML Q2 beat reported BMO Jul 15), position sizing within 20% cap, 1/3 weekly trade slots used. Retail sales June beat at 8:30 AM ET provided additional macro tailwind. ASML closed the session at $1,794.87, a -1.12% day decline (vs prior close $1,815.27) after reaching intraday HWM $1,853.45 — trailing stop auto-advanced to $1,668.105 (10% GTC, order ccf3c4d9). Unrealized P&L: -$181.12 (-1.00%) vs entry; well above the -7% manual cut threshold ($1,686.07) and -10% trailing stop ($1,668.105). TSM Q2 massive beat (+8% day; 68% June revenue surge) strengthened the AI EUV lithography thesis. ISRG Q2 results (after close tonight) = healthcare read-through; no position. Account: 81.9% cash ($81,112.97), 18.1% ASML ($17,948.70). Phase P&L: -$938.33 (-0.94%) vs $100,000 starting equity. Trades this week: 1/3 (ASML 10sh). Next: Friday AM — assess ASML overnight move; TSM entry evaluation (24h post-earnings rule clears tonight); monitor ISRG Q2 for healthcare sector read-through. No stop adjustments needed unless ASML opens >$2,084.93 (+15%).
