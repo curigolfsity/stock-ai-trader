@@ -1899,3 +1899,32 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | — | — | — | — | — | — | — |
 
 **Notes:** Day 52 (Wednesday, Week 11 Day 3) was a clean cash-hold day — zero trades, zero positions. All new-entry gates remained blocked throughout the session. VIX ranged 16.15–17.56 and never closed sustainably below 17, keeping the new-entry gate locked all day. Macro was broadly constructive: PPI June printed a very benign −0.3% MoM (vs +0.0% consensus) with goods prices −1.4% and energy −6.4%, completing a dual-disinflation sweep with Tuesday's CPI −0.4% MoM — July rate hike effectively off the table. JPM closed ~$347–351, above the $325–338 target entry range (do not chase). ASML surged ~+6.5–7% on Q2 earnings beat (EPS $8.32 vs $7.94 est; FY 2026 revenue guide raised to €43–45B) — a compelling setup, but blocked by two independent rules: (1) never enter same day as earnings print, and (2) VIX gate unclosed. Correct entry sizing for Thursday: ~11sh at $1,750–1,800; stop 10% GTC trail (~$1,597); target +20% (~$2,130); R:R ~2.0:1. ISRG Q2 earnings reported after close tonight — monitoring only (1 failed trade in healthcare sector; no position). Account: 100% cash ($99,242.79). Phase P&L: −$757.21 (−0.76%) vs $100,000 starting equity. Trades this week: 0 new entries (0/3 cap). Next: Thursday AM — ASML entry decision if VIX opens/confirms <17 (trade 1/3); JPM re-eval if pulls back to $325–338; ISRG Q2 read-through from tonight's call.
+
+---
+
+### Market-Open Scan — 2026-07-16 (Day 53, Thursday — Week 11 Day 4)
+
+- **Account:** Equity $99,285.17 | Cash $81,112.97 (81.7%) | Daytrade count: 0 | Weekly trades: 1/3
+- **ASML: ✅ BUY EXECUTED — 10sh @ avg $1,812.982 (order ceb97236 filled ~9:31 AM ET)**
+  - Cost basis: $18,129.82 (18.27% equity) ✅
+  - 10% trailing stop GTC placed immediately: order ccf3c4d9 | HWM $1,819.22 | Stop $1,637.298 ✅
+- **Gate validation (all ✅):**
+  - VIX 15.67 (Jul 15 close) + confirmed "retail sales surge, VIX drops" post-8:30 AM print ✅
+  - ASML fill $1,812.982 ≤ $1,825 cap ✅ | 24h+ post-earnings (reported BMO Jul 15) ✅
+  - Total positions: 1 ≤ 6 ✅ | Weekly trades: 1/3 ✅ | Position 18.27% ≤ 20% ✅ | PDT count: 0 ✅
+- **Retail Sales June (8:30 AM ET):** Beat expectations; headline "retail sales surge, VIX drops" — macro constructive; VIX gate confirmed clear ✅
+- **Thesis check (ASML):** AI-driven EUV lithography demand; Q2 beat (€9.3B sales vs €8.8B est; €2.9B net profit); FY 2026 guidance raised €43–45B (from €36–40B); Technology sector #1 YTD (+34.68%); backlog expansion = multi-year tailwind; 28 Buy / 0 Sell consensus
+- **JPM:** ~$347+ — above $325–338 entry range; not chasing ✗
+- **TSM:** Reported BMO today — same-day-earnings rule applies; evaluate Friday ✗
+- **ISRG Q2 (after close tonight):** Healthcare 1 failed trade; monitor only; no position ✗
+
+### Open Positions (updated)
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-07-16 | ASML | LONG | 10 | $1,812.982 | FILLED | 10% GTC (order ccf3c4d9; HWM $1,819.22; stop $1,637.298) | Q2 beat (€9.3B vs €8.8B est; FY 2026 guide raised €43–45B), AI EUV lithography demand, Technology #1 YTD (+34.68%), backlog expansion, 28 Buy / 0 Sell | ~$2,176 (+20%) | 2:1 |
+
+**Tighten trail:** 7% at +15% ($2,084.93); 5% at +20% ($2,175.58).
+**Cut rule:** Close manually if unrealized loss hits −7% (~$1,686.07).
+
+### Weekly Trade Count: 1 confirmed (ASML 10sh filled $1,812.982 — 2026-07-16)
