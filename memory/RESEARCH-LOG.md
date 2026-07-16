@@ -4296,3 +4296,73 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **ISRG Q2 tonight:** Reports after close (1:30 PM PDT). Healthcare: 1 failed trade (ISRG −9.60%). Watching for: procedure volume, da Vinci 5 placements, GLP-1 bariatric headwind quantification. Beat + procedure vol intact → sector tone improves. Miss on procedures → 2nd failed trade → healthcare sector exit rule confirmed (no impact since no position).
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-07-16 — Pre-Market Research (Day 53, Thursday — Week 11 Day 4)
+
+#### Account Snapshot
+- **Equity:** $99,242.79 | **Cash:** $99,242.79 (100%) | **Buying Power:** $396,971.16
+- **Positions:** 0 open | **Orders:** 0
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 (cap resets Monday — still 3 available)
+- **Phase P&L:** −$757.21 (−0.76%) vs $100,000 starting equity
+
+#### Market Context
+- **WTI Crude:** ~$80.17/barrel | **Brent:** ~$84.54–$84.73 — geopolitical risk premium embedded (U.S. strikes on Iran + naval blockade near Strait of Hormuz reinstated)
+- **SPX futures:** +0.2% pre-market; SPX closed July 15 at 7,572.40 (+0.38%); Nasdaq 26,269.23 (+0.62%)
+- **VIX:** Closed ~15.67 on July 15 ✅ — **NEW-ENTRY GATE CLEARED (below 17)**
+- **Sector momentum YTD:** Technology +34.68% (#1) | Energy +22.38% (#3) | Financials +5.90% (#9)
+
+#### Economic Calendar — July 16, 2026
+- **8:30 AM ET — Retail Sales (June):** Consensus +0.2% MoM (prior +0.9%); ex-autos −0.1%
+- **8:30 AM ET — Initial Jobless Claims:** Consensus 216K (prior 215K)
+- **8:30 AM ET — Philadelphia Fed Mfg (July):** Consensus 13.0 (prior 10.3)
+- **10:00 AM — Pending Home Sales (June):** Consensus −0.5%
+- No CPI/PPI/FOMC today; both macro gates remain cleared from July 14–15 prints
+
+#### Earnings Today (BMO)
+- **TSMC (TSM):** Massive Q2 beat — 68% June revenue surge; AI chip demand robust; stock +8% reaction; beat consensus $3.83 EPS on ~$39.3B revenue. Strong AI infrastructure read-through.
+- **GE Aerospace (GE):** Reporting today; consensus $1.86 EPS / $11.83B revenue
+- **UnitedHealth (UNH):** Reported slightly light; shares −0.6% after hours (~$415.90) — healthcare sector caution
+- **Netflix (NFLX):** Reporting today
+- **ISRG:** Reports Q2 **AFTER CLOSE TODAY (July 16)** — consensus $2.50 EPS / $2.82B revenue (+14.2%/+15.6% YoY). Stock up +3.04% on July 15 (pre-earnings positioning). Healthcare sector: 1 failed trade (ISRG −9.60%); watching for procedure volume recovery vs. GLP-1/bariatric headwind. No position — monitoring only.
+
+#### Position / Ticker Check
+- No open positions; no stops to adjust.
+- **ASML:** Held gains post-Q2 beat; trading ~$1,815–1,823 (up ~+6.5% from pre-earnings). 24h+ post-print — same-day-earnings rule cleared ✓.
+- **JPM:** ~$347.14 — still well above $325–338 entry range. Do not chase.
+- **ISRG:** ~$383 pre-earnings; monitoring only.
+- **TSM:** Just reported BMO today — same-day-earnings rule applies ✗; evaluate Friday/next week if thesis holds.
+
+#### Trade Ideas
+
+1. **ASML — PRIMARY CANDIDATE ✅**
+   - **Catalyst:** Q2 beat (€9.3B sales vs €8.8B est; €2.9B net profit); FY 2026 guidance raised to €43–45B (from €36–40B) — AI-driven EUV lithography demand; Technology sector #1 YTD (+34.68%); backlog expansion signals multi-year tailwind
+   - **Entry target:** $1,800–1,825 (slightly above original $1,750–1,800 range but justified by earnings momentum; do NOT chase above $1,850)
+   - **Sizing:** 10 shares at ~$1,820 = $18,200 (18.3% equity — within 20% cap); 11 shares = $20,020 (20.2% — marginally over; use 10sh)
+   - **Stop:** 10% GTC trailing stop (~$1,638 at $1,820 entry)
+   - **Target:** +20% → ~$2,184; R:R ~2.0:1 ✓ (meets minimum)
+   - **Gates:** VIX <17 ✅ | 24h post-earnings ✅ | Sector in momentum ✅ | Catalyst documented ✅ | Positions ≤6 ✅ | Weekly trades 0/3 ✅ | Position ≤20% equity ✅ (at 10sh)
+   - **Action: EVALUATE ENTRY AT OPEN if price ≤$1,825 and VIX opens <17**
+
+2. **JPM — WATCHLIST (HOLD)**
+   - Still consolidating $343–351; above $325–338 entry range. Do not chase. Wait for pullback to ≤$338. Next week if technicals reset.
+
+3. **TSM — WATCHLIST (GATED: same-day earnings rule)**
+   - Massive AI catalyst; +8% post-Q2 beat. Evaluate Friday/next week entry if momentum holds. Entry range ~$415–430 (need live quote); semis leadership thesis intact.
+
+#### Risk Factors
+- **Oil/Iran geopolitical escalation:** U.S. naval blockade of Iranian ports near Strait of Hormuz → WTI above $80 → inflation re-ignition risk. Fed (Warsh) may re-open July rate hike talk if oil sustains above $82–85.
+- **Retail Sales miss (8:30 AM):** Prior +0.9% MoM; consensus +0.2% — downside miss (negative print) would signal consumer slowdown; potential VIX spike. Wait for data before entering ASML if timing allows.
+- **ISRG Q2 tonight (after close):** Healthcare sector at 1 failed trade; a second procedural-volume miss → healthcare sector exit rule confirmed (no position — no direct P&L impact, but macro healthcare read-through affects UNH/sector tone).
+- **ASML price above plan:** Entry at $1,820 vs $1,750 original plan = +4% above low end; if stock gaps further above $1,850 pre-open, skip entry (don't chase momentum after already a 6.5% surge day).
+- **TSM semiconductor read-through:** UNH weakness (healthcare) vs. TSM strength (semis) — sector divergence; stick to tech/semis thesis where YTD momentum is strongest.
+
+#### Decision: **TRADE (conditional)**
+- **ASML:** Enter 10 shares if (1) VIX opens <17 ✓ (2) ASML price ≤$1,825 at open; place 10% GTC trailing stop immediately post-fill (~$1,638 stop at $1,820 entry)
+- **JPM:** HOLD — above entry range, no new entry
+- **TSM:** HOLD — same-day-earnings rule; evaluate Friday
+- **Retail Sales 8:30 AM:** If data is materially negative (miss >0.3pp) or triggers VIX spike above 17 → abort ASML entry; reassess
+- Patience baseline: If ASML opens above $1,850 or VIX spikes → revert to HOLD
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
