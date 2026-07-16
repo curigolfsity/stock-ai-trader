@@ -1928,3 +1928,16 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 **Cut rule:** Close manually if unrealized loss hits −7% (~$1,686.07).
 
 ### Weekly Trade Count: 1 confirmed (ASML 10sh filled $1,812.982 — 2026-07-16)
+
+### Midday Scan — 2026-07-16 (Day 53, Thursday — Week 11 Day 4)
+
+- **Account:** Equity $99,282.17 | Cash $81,112.97 (81.7%) | Day P&L: +$39.38 (+0.04%) | Weekly trades: 1/3
+- **ASML:** $1,815.93 (+0.163% unrealized from $1,812.982 entry; +0.036% change today vs $1,815.27 prior close) — no −7% trigger ($1,686.07 threshold)
+- **Trailing stop:** order ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-14; stop auto-advanced from $1,637.298 at entry as price reached HWM $1,853.45 intraday) | stop buffer $147.83 (8.14%) from current price ✓
+- **Loser check:** ASML +0.163% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ASML below +15% tightening threshold ($2,084.93). NO tightening needed. ✓
+- **Market:** SPX stable | VIX 15.67 (Jul 15 close) | TSM Q2 massive beat (68% June revenue surge; EPS ahead of est; stock +8%) — semis/AI infrastructure thesis strengthening ✓
+- **Action:** No trades. No stop adjustments. Hold ASML.
+- **Thesis check (ASML):** INTACT. Q2 confirmed: EPS $8.69 vs $7.95 est; revenue $10.67B vs $10.29B est; FY 2026 guide raised €43–45B; CEO "order intake extremely strong"; 2027 capacity nearly fully booked. TSM Q2 beat today directly validates AI EUV lithography demand chain. Technology sector #1 YTD (+34.68%); 28 Buy / 0 Sell consensus unchanged.
+- **ISRG Q2 tonight (after close):** Healthcare 1 failed trade; monitoring only; no position.
+- **Next trigger:** +15% → $2,084.93 (tighten trail to 7%); +20% → $2,175.58 (tighten trail to 5%). ISRG Q2 AH = healthcare read-through. 2/3 weekly trade slots available.
