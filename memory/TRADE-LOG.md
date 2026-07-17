@@ -1969,3 +1969,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action:** No trades. Hold ASML. No stop adjustments. Pre-market research confirms HOLD decision.
 - **Thesis check (ASML):** INTACT. JPM PT $2,400 / Wells Fargo $2,500 / Deutsche Bank €2,150 / Berenberg €2,100; avg $2,164 (44 analysts Strong Buy). FY2026 guide raised €43–45B; backlog expanding. Today's dip = semi sector sympathy, not ASML-specific fundamental deterioration.
 - **Next trigger:** +15% → $2,084.93 (tighten trail to 7%); +20% → $2,175.58 (tighten trail to 5%). Next week: evaluate TSM entry ($415–440 zone) if VIX confirms <17 + sector stabilizes. Weekly capacity 2/3 remaining entering next week.
+
+### Midday Scan — 2026-07-17 (Day 54, Friday — Week 11 Day 5)
+
+- **Account:** Equity $98,854.21 | Cash $81,112.96 (82.1%) | Daytrade count: 0 | Weekly trades: 1/3 | Phase P&L: −$1,145.79 (−1.15%)
+- **ASML:** $1,774.27 (−0.59% intraday from $1,784.87 prior close; −2.14% unrealized from $1,812.982 entry) — recovered from morning low $1,749.06; no −7% trigger ($1,685.07 threshold)
+- **Trailing stop:** order ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE | Buffer $106.17 (5.98%) ✓
+- **Loser check:** ASML −2.14% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ASML below +15% tightening threshold ($2,084.93). NO tightening. ✓
+- **Action:** No trades. No stop adjustments. Hold ASML.
+- **Thesis check (ASML):** INTACT. Intraday recovery from $1,749 low to $1,774 (+1.44% off session low) confirms no fundamental deterioration — dip is semi sector sympathy (TSM −4% sell-the-news, Netflix −8% AH driving tech broad weakness). FY2026 guide €43–45B raised; Q2 beat confirmed; JPM PT $2,400 / Wells Fargo $2,500 / Deutsche Bank €2,150 / Berenberg €2,100 unchanged. Thesis intact.
+- **Next trigger:** +15% → $2,084.93 (tighten trail to 7%); +20% → $2,175.58 (tighten trail to 5%). Next week: TSM entry eval ($415–440 zone) if VIX <17 + sector stabilizes; weekly trade capacity 2/3.
