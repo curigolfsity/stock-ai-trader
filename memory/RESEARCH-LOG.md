@@ -4366,3 +4366,83 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience baseline: If ASML opens above $1,850 or VIX spikes → revert to HOLD
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-07-17 — Pre-Market Research (Day 54, Friday — Week 11 Day 5)
+
+#### Account Snapshot
+- **Equity:** $98,752.66 | **Cash:** $81,112.96 (82.1%) | **Buying Power:** $373,843
+- **Positions:** 1 open (ASML 10sh) | **Open orders:** 1 (trailing stop GTC)
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 (ASML Jul 16)
+- **Phase P&L:** −$1,247.34 (−1.25%) vs $100,000 starting equity
+
+#### Open Positions
+| Ticker | Shares | Entry | Last Price | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|-----------|---------------|------|--------|
+| ASML | 10 | $1,812.982 | $1,764.78 | −$482.02 (−2.66%) | $1,668.105 (10% GTC; HWM $1,853.45; order ccf3c4d9) | $96.67 (5.48%) ✓ |
+
+**Manual cut threshold:** −7% = $1,685.07 (current price $1,764.78 — well above ✓)
+
+#### Market Context
+- **WTI Crude:** ~$79.67/bbl (+0.04%)
+- **Brent Crude:** ~$84.88/bbl (−0.37% from prior)
+- **SPX Futures:** Sliding premarket — chip weakness (TSM −4% sell-the-news) + Netflix −8% AH + Gulf tensions; no precise % but negative bias
+- **VIX:** 15.67 (Jul 16 close) → 16.73 AH — TRENDING UP; **borderline new-entry gate** (need sustained <17)
+- **Geopolitical:** U.S.–Iran conflict; Gulf tensions; WTI hovering near $80 level
+
+#### Catalysts / Earnings Today (Jul 17)
+- **TSM Q2 (reported Jul 16):** Rev NT$1,270B (+36% YoY); Net income +77.4%; FY2026 guide raised to 40%+ — massive beat, but stock fell −4%+ (sell-the-news; AI capex sustainability concerns dragging semis/Nasdaq)
+- **ISRG Q2 AH (reported Jul 16):** Rev $2.89B (+18.4% YoY); EPS $2.80 (beat $0.30); da Vinci procedures +15% YoY; da Vinci 5 placements 246 — strong beat; stock −3.32% AH (sell-the-news). Healthcare: 1 failed trade remains; no re-entry per strategy rule.
+- **Netflix AH:** −8% on slowing sales growth guide — adding to tech/growth headwinds
+- **Abbott Labs (ABT):** +4% EPS beat + raised FY2026 guide — defensive positive
+- **BMO today:** Travelers (TRV), Truist Financial (TFC), Fifth Third Bancorp (FITB) — financials read-through
+- **Economic data (8:30 AM):** June Housing Starts/Building Permits; Import/Export Prices; June Retail Sales (+0.2% MoM vs +0.3% est — minor miss)
+- **9:15 AM:** June Industrial Production / Capacity Utilization
+- **10:00 AM:** July Michigan Consumer Sentiment (preliminary)
+
+#### Sector Momentum YTD
+1. Energy +24.6% | 2. Technology +20.6% | 3. Industrials +17.9% | 4. Real Estate +13.1%
+5. Materials +10.8% | 8. Healthcare +5.8% | 10. Financials +3.3% | 11. Consumer Discretionary +0.2%
+
+#### ASML Thesis Check — INTACT
+- Strong post-Q2 analyst PT wave: JPM $2,400, Wells Fargo $2,500, Deutsche Bank €2,150, Berenberg €2,100; avg $2,164 (Strong Buy; 44 analysts)
+- FY2026 revenue guide raised €43–45B; backlog expanding; AI EUV demand accelerating
+- Today's risk: TSM sell-the-news −4% dragging broad semis/Nasdaq; ASML may see sympathy selling
+- Position at −2.66% unrealized; stop at $1,668 (5.48% buffer from last price); well above −7% manual cut ($1,685.07)
+- **Action: HOLD — no stop adjustments needed (below +15% tightening threshold $2,084.93)**
+
+#### Trade Ideas
+1. **ASML (current position) — HOLD**
+   - Thesis: intact; multiple PT upgrades; FY guide raised
+   - Risk: Semi sector pressure today; VIX drifting up toward 17
+   - Next trigger: +15% → $2,084.93 (tighten trail to 7%); +20% → $2,175.58 (tighten to 5%)
+   - Manual cut if unrealized loss reaches −7% ($1,685.07); GTC stop at $1,668.105 is backstop
+
+2. **TSM — WATCHLIST (24h rule cleared; entry not today)**
+   - Catalyst: Blowout Q2 (+77% net income, +36% revenue, FY2026 guide raised to 40%+); AI chip demand cycle intact
+   - Risk: Sell-the-news −4%; semis under broad pressure; same as ASML trajectory post-earnings
+   - Entry: Wait for stabilization / consolidation; evaluate next week if VIX <17 and price holds $415–440 zone
+   - Status: **✗ NOT TODAY — sector headwind + VIX uncertain**
+
+3. **JPM — WATCHLIST**
+   - Still above $325–338 entry range (~$347–351); do not chase
+   - Status: **✗ NOT TODAY**
+
+#### Risk Factors
+- **Semi sector contagion:** TSM −4% despite blowout results = AI capex ROI skepticism spreading; could pull ASML further even with strong fundamentals
+- **VIX drift:** 15.67 → 16.73 AH; if opens above 17 → all new entries blocked; ASML stop vigilance increases
+- **Netflix −8%:** Tech/growth selloff compounding; Nasdaq under pressure
+- **Gulf/Iran tensions:** WTI ~$80 floor; inflation re-ignition risk if oil breaks above $85
+- **Retail Sales miss:** Jun +0.2% vs +0.3% est — minor consumer softening; Michigan Sentiment 10 AM could add to risk-off
+- **100% correct deployment shortfall:** 18.3% deployed; need 57–67% more to hit 75–85% target; but no clean entry in current risk environment
+- **End of week position:** Friday positions carry geopolitical weekend gap risk (Gulf tensions active)
+
+#### Decision: **HOLD**
+- No new entries today: VIX drifting toward 17 + semi sector pressure + Netflix/tech weakness = risk-off environment
+- Hold ASML: thesis intact (multi-analyst PT raises, FY guide raised €43–45B); stop protecting floor well above −7% manual cut
+- Weekly trades: 1/3 used (ASML Jul 16); 2 slots remain for next week
+- Monitor TSM for next-week entry if sector stabilizes
+- **Patience > activity — high-uncertainty Friday; let sector digest TSM/Netflix news**
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
