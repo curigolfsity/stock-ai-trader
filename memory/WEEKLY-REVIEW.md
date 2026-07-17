@@ -496,3 +496,60 @@ Rule adherence A (CAT cut mechanically correct per protocol; all new-entry gates
 Rule adherence B (ISRG entry gates correctly cleared; −7% rule never violated; stop replaced promptly after glitch; glitch itself is infrastructure failure, not a rule violation), risk management C (ISRG at −4.57% unrealized with only 2.3% buffer above cut trigger entering a binary-dense week; HWM regression worsened protection; oil shock + hawkish FOMC = dual macro headwinds entering earnings), relative performance D (bot −0.68% vs S&P ~+0.5% = ~−1.18% gap; 11th consecutive week of relative underperformance; single-position cash drag the dominant structural driver). Phase P&L: −$6.79 (−0.01%) vs. $100,000 starting equity — essentially flat after 10 weeks, all realized gain from CAT (+$1,900.39) now offset by ISRG drawdown.
 
 ---
+
+## Week ending 2026-07-17
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,993.21 (Fri Jul 10 close) |
+| Ending portfolio | $98,588.76 (Fri Jul 17 live) |
+| Week return | −$1,404.45 (−1.40%) |
+| S&P 500 week | −1.07% (~7,575 Jul 11 → ~7,494 Jul 17) |
+| Bot vs S&P | −0.33% |
+| Trades | 2 (W:0 / L:1 / open:1) |
+| Win rate | 0% (0/1 closed) |
+| Best trade | N/A |
+| Worst trade | ISRG −9.60% (−$1,432.13) |
+| Profit factor | 0.00 |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| ISRG | $426.258 (Jul 6) | $385.34 (Jul 14) | −$1,432.13 (−9.60%) | 10% GTC trailing stop auto-triggered 11:03 AM ET; GLP-1 bariatric headwind structural (US da Vinci bariatric procedures −10% Q1 2026); HCA contagion; pre-earnings de-risking; Evercore PT trim $480→$430; continued to ~$380 post-fill |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| ASML | $1,812.982 (Jul 16) | $1,747.58 | −$654.02 (−3.61%) | $1,668.105 (10% trail GTC; HWM $1,853.45; order ccf3c4d9) — buffer $79.47 (4.55%) |
+
+### What Worked
+- ISRG trailing stop auto-executed at $385.34 without manual intervention — automation worked correctly; continued post-fill decline to ~$380 confirms exit was correct
+- ASML entry executed cleanly Thursday Jul 16: all gates cleared (VIX 15.67 ✓, 24h post-earnings ✓, Technology #1 YTD +34.68% ✓, position 18.27% ≤ 20% ✓, FY2026 guide raised €43–45B ✓); filled at open $1,812.982
+- T+0 trailing stop placement on ASML maintained — order ccf3c4d9 placed and confirmed ACTIVE at fill; no recurrence of prior stop-delay failures (XOM May 26, GEV entry delay pattern)
+- Methodical post-ISRG evaluation: JPM not chased above $325–338 range (closed ~$347+); TSM correctly blocked by same-day earnings rule (Jul 17 evaluated only after 24h cleared); no impulse entries
+- Dual disinflation sweep (CPI −0.4% MoM + PPI −0.3% MoM) = best back-to-back inflation prints in years; rate-cut path reinforced; AI/semis earnings season (JPM $7.70/sh beat, ASML Q2 beat, TSM +77% net income) = strong underlying thesis backdrop
+
+### What Didn't Work
+- ISRG −9.60% realized loss — GLP-1/Ozempic bariatric procedure headwind was knowable at entry (structural decline in US da Vinci bariatric volumes, -10% Q1 2026); thesis was assessed at headline level without procedure-volume breakdown; structural risk underweighted
+- ASML entered at $1,812.98 but closed week at $1,747.58 (−3.61% unrealized); sector sell-the-news dynamic (TSM −4% despite blowout +77% net income beat; NFX −8% AH) created immediate headwind — entering at the peak of a semis earnings run has repeated entry-timing risk
+- Bot −1.40% vs S&P −1.07% = −0.33% gap; 12th consecutive week of negative relative performance vs index (though the gap is the narrowest of the phase outside Week 7's +2.10%)
+- 82% cash at week end with only ASML deployed — single-position concentration continues; 2/3 weekly trade capacity unused; structural deployment gap unresolved
+- Healthcare sector now at 1 confirmed failed trade (ISRG); one more healthcare loss triggers sector exit per Rule 10; limits future healthcare candidates
+
+### Key Lessons
+- **Medical device entries require procedure-volume analysis, not just headline robustness:** Da Vinci robot revenue growth can diverge from procedure volume if the mix shifts (bariatric GLP-1 displacement is structural, not cyclical); always verify volume mix before entering MedTech
+- **Same-day sector sympathy risk is real even with 24h earnings rule respected:** ASML entered 24h+ post-earnings correctly, but TSM selling the next day (−4% on blowout beat) drove ASML down 2–3.6% immediately — entering AI/semis when the sub-sector is post-earnings-peak requires sizing accordingly or staging entry
+- **Trailing stop process (T+0 placement) is now a sustained habit:** Third consecutive entry week with immediate stop placement (OXY Jun 8, ASML Jul 16); no process failures; maintains the improvement from prior weeks
+
+### Adjustments for Next Week
+- **ASML:** Monitor stop buffer (currently $79.47 / 4.55% from close); if price closes within 3% of $1,668.105 stop → execute manual cut at next open per protocol; tighten trail to 7% at +15% ($2,084.93); thesis intact (JPM PT $2,400, Wells Fargo $2,500, FY2026 guide €43–45B)
+- **TSM:** 24h post-earnings rule cleared (reported BMO Jul 17); evaluate entry Mon Jul 20 open at $415–440 zone if VIX confirms <17 + sector stabilizes post-sell-the-news; stop 10% GTC trail; size ≤20% equity; no chasing above $440
+- **Healthcare:** 1 failed trade (ISRG); no new healthcare positions until another sector fail or a distinct structural catalyst emerges — healthcare sector fragility per Rule 10 proximity
+- **VIX watch:** Drifting toward 17 into week end (16.73 AH Jul 17); if opens above 17 Mon Jul 20 → hold 2/3 capacity until gate clears; do not force TSM entry at open if VIX fails
+- **Deployment target:** 75–85% cash target remains structurally unmet (82% cash); TSM entry if cleared would bring to ~80% deployed (ASML ~18% + TSM ~15%) — right in range
+
+### Overall Grade: C+
+Rule adherence A (ISRG stop auto-executed; ASML entry gates correct; T+0 stop placement maintained; JPM/TSM not chased; zero rule violations), risk management B− (ISRG GLP-1 structural risk underweighted at entry; ASML at −3.61% unrealized with 4.55% buffer entering a volatile week; no hard-rule violations), relative performance C (bot −1.40% vs S&P −1.07% = −0.33% gap; narrowest negative gap in 5 weeks; both portfolio and index down; ISRG realized loss is dominant driver). Phase P&L: −$1,411.24 (−1.41%) vs $100,000 starting equity after 11 weeks.
+
+---
