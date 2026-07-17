@@ -1952,3 +1952,20 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | ASML | 10 | $1,812.982 | $1,794.87 | -1.12% | -$181.12 (-1.00%) | $1,668.105 (10% GTC; HWM $1,853.45) |
 
 **Notes:** Day 53 (Thursday, Week 11 Day 4) was an active entry day. ASML was purchased at the open (10sh @ avg $1,812.982; cost basis $18,129.82; 18.3% of equity) after all gates cleared: VIX 15.67 (Jul 15 close), 24h+ post-earnings (ASML Q2 beat reported BMO Jul 15), position sizing within 20% cap, 1/3 weekly trade slots used. Retail sales June beat at 8:30 AM ET provided additional macro tailwind. ASML closed the session at $1,794.87, a -1.12% day decline (vs prior close $1,815.27) after reaching intraday HWM $1,853.45 — trailing stop auto-advanced to $1,668.105 (10% GTC, order ccf3c4d9). Unrealized P&L: -$181.12 (-1.00%) vs entry; well above the -7% manual cut threshold ($1,686.07) and -10% trailing stop ($1,668.105). TSM Q2 massive beat (+8% day; 68% June revenue surge) strengthened the AI EUV lithography thesis. ISRG Q2 results (after close tonight) = healthcare read-through; no position. Account: 81.9% cash ($81,112.97), 18.1% ASML ($17,948.70). Phase P&L: -$938.33 (-0.94%) vs $100,000 starting equity. Trades this week: 1/3 (ASML 10sh). Next: Friday AM — assess ASML overnight move; TSM entry evaluation (24h post-earnings rule clears tonight); monitor ISRG Q2 for healthcare sector read-through. No stop adjustments needed unless ASML opens >$2,084.93 (+15%).
+
+---
+
+### Market-Open Scan — 2026-07-17 (Day 54, Friday — Week 11 Day 5)
+
+- **Account:** Equity $98,603.56 | Cash $81,112.96 (82.3%) | Daytrade count: 0 | Weekly trades: 1/3
+- **ASML:** $1,749.06 (−2.01% from $1,784.87 prior close; −3.53% unrealized from $1,812.982 entry) — no −7% trigger ($1,685.07 threshold)
+- **Trailing stop:** order ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE | Buffer: $80.95 (4.63%) ✓
+- **Loser check:** ASML −3.53% unrealized — above −7% cut threshold ✓. NO cut.
+- **Winner tighten:** ASML below +15% tightening threshold ($2,084.93). NO tightening needed. ✓
+- **Sector backdrop:** TSM −4% sell-the-news (blowout Q2 beat: +77% net income, FY2026 guide raised to 40%+) + Netflix −8% AH → broad semi/tech headwind; ASML sympathy selling
+- **VIX:** 15.67 (Jul 16 close) → ~16.73 AH — drifting toward 17; new-entry gate BORDERLINE/BLOCKED ✗
+- **ISRG Q2 (reported AH Jul 16):** Rev $2.89B (+18.4% YoY); EPS $2.80 (beat); da Vinci procedures +15%; stock −3.32% AH (sell-the-news). Healthcare: 1 failed trade (ISRG stop Jul 14); monitoring only; no position.
+- **New entry evaluation:** TSM (24h rule cleared) — blocked by VIX gate + sector headwind + Friday patience rule ✗ | JPM ~$347+ — above $325–338 entry range ✗
+- **Action:** No trades. Hold ASML. No stop adjustments. Pre-market research confirms HOLD decision.
+- **Thesis check (ASML):** INTACT. JPM PT $2,400 / Wells Fargo $2,500 / Deutsche Bank €2,150 / Berenberg €2,100; avg $2,164 (44 analysts Strong Buy). FY2026 guide raised €43–45B; backlog expanding. Today's dip = semi sector sympathy, not ASML-specific fundamental deterioration.
+- **Next trigger:** +15% → $2,084.93 (tighten trail to 7%); +20% → $2,175.58 (tighten trail to 5%). Next week: evaluate TSM entry ($415–440 zone) if VIX confirms <17 + sector stabilizes. Weekly capacity 2/3 remaining entering next week.
