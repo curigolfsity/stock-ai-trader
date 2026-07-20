@@ -2019,4 +2019,16 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Thesis check (ASML):** INTACT. FY2026 guide €43–45B raised; Q2 beat confirmed; JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy). Today's risk: SOXX bear market + Kimi K3 AI skepticism (2.8T-parameter open-weight model from Moonshot) + oil surge → semi sector headwinds. Stop protecting floor well above −7% manual cut.
 - **Next trigger:** VIX sustained close <17 + sector stabilizes → evaluate TSM entry ($415–440 zone, stop ~$374 GTC trail, ~22sh, ~9.4% equity). Weekly capacity 0/3 — full.
 
+### Midday Scan — 2026-07-20 (Day 55, Monday — Week 12 Day 1)
+
+- **Account:** Equity $98,523.91 | Cash $81,112.96 (82.3%) | Daytrade count: 0 | Weekly trades: 0/3
+- **ASML:** $1,740.36 (−0.41% intraday from $1,747.58 prior close; −4.01% unrealized from $1,812.982 entry) — no −7% trigger ($1,686.07 threshold) ✓ | Buffer to manual cut: $54.29 (3.12%) ⚠️ WATCH
+- **Trailing stop:** order ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE | Buffer from current price: $72.26 (4.15%) ✓
+- **Loser check:** ASML −4.01% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ASML below +15% tightening threshold ($2,084.93). NO tightening. ✓
+- **Market:** SPX muted | VIX 18.77 (elevated; +12.19% WoW) | SOXX −20.3% from Jun 2 peak (bear market) | WTI $83.48 (+2.07%) / Brent $90.26 (+2.33%) — Iran escalation (9th consecutive night of US airstrikes on Strait of Hormuz targets)
+- **Action:** No trades. No stop adjustments. Hold ASML.
+- **Thesis check (ASML):** INTACT. SOXX bear market + Kimi K3 AI skepticism (2.8T-parameter open-weight model from Moonshot AI) continue as sector headwinds, but ASML-specific fundamentals unchanged: FY2026 guide €43–45B raised; Q2 confirmed (€9.3B sales, 54% gross margin, EPS beat); JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg PT $2,122 (44 analysts Strong Buy); backlog expansion = multi-year demand floor. Intraday decline (−0.41%) is sector sympathy, not fundamental deterioration.
+- **Next trigger:** +15% → $2,084.93 (tighten trail to 7%); +20% → $2,175.58 (tighten trail to 5%). VIX sustained close <17 + sector stabilizes → evaluate TSM entry ($415–440 zone, stop ~$374 GTC trail, ~22sh, ~9.4% equity). Weekly capacity 0/3 — full.
+
 ### Weekly Trade Count: 0 confirmed (Week 12 — no trades)
