@@ -2032,3 +2032,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Next trigger:** +15% → $2,084.93 (tighten trail to 7%); +20% → $2,175.58 (tighten trail to 5%). VIX sustained close <17 + sector stabilizes → evaluate TSM entry ($415–440 zone, stop ~$374 GTC trail, ~22sh, ~9.4% equity). Weekly capacity 0/3 — full.
 
 ### Weekly Trade Count: 0 confirmed (Week 12 — no trades)
+
+---
+
+### Jul 20 — EOD Snapshot (Day 55, Monday)
+**Portfolio:** $98,440.56 | **Cash:** $81,112.96 (82.4%) | **Day P&L:** -$204.60 (-0.21%) | **Phase P&L:** -$1,559.44 (-1.56%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ASML | 10 | $1,812.982 | $1,732.76 | -0.85% | -$802.22 (-4.43%) | $1,668.105 (10% GTC; HWM $1,853.45) |
+
+**Notes:** Day 55 (Monday, Week 12 Day 1) was a hold day with no new trades. ASML closed at $1,732.76, down -0.85% intraday from $1,747.58 prior close and -4.43% unrealized from $1,812.982 entry. All new-entry gates blocked: VIX 18.77 (elevated; +12.19% WoW), SOXX bear market (-20.3% from Jun 2 peak), and Iran escalation driving oil surge (WTI $83.48 +2.07%; Brent $90.26 +2.33%; 9th consecutive night of US airstrikes on Strait of Hormuz). Trailing stop ccf3c4d9 ACTIVE: stop $1,668.105 (HWM $1,853.45, 10% trail GTC), buffer $64.66 (3.73% from close) — above -7% manual cut threshold ($1,686.07 = $1,812.982 × 0.93); ASML at $1,732.76 above the cut threshold ✓. ASML thesis intact: Q2 beat (€9.3B sales, 54% gross margin, EPS beat), FY2026 guide raised €43-45B, JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150, 44 analysts Strong Buy. Cash 82.4% ($81,112.96). Phase P&L: -$1,559.44 (-1.56%) vs $100,000 starting equity. Trades this week: 0/3. Next trigger: VIX sustained close <17 + SOXX stabilizes → evaluate TSM entry ($415-440 zone, stop ~$374 GTC trail, ~22sh). Trail tighten: +15% ($2,084.93) → 7%; +20% ($2,175.58) → 5%.
