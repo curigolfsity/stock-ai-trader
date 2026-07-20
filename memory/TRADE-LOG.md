@@ -1991,3 +1991,32 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | ASML | 10 | $1,812.982 | $1,753.22 | -1.77% | -$597.62 (-3.30%) | $1,668.105 (10% GTC; HWM $1,853.45) |
 
 **Notes:** Day 54 (Friday, Week 11 Day 5) was a hold day with no new trades. ASML extended Thursday's pullback, closing at $1,753.22 (−1.77% today; −3.30% unrealized from $1,812.982 entry). Weakness reflects broad semi/tech sector pressure: TSM sell-the-news (−4% despite blowout Q2 beat: +77% net income, FY2026 guide raised 40%+) and Netflix −8% AH (Thu) driving tech headwinds. ASML-specific thesis remains intact — JPM PT $2,400 / Wells Fargo $2,500; FY2026 guide €43–45B raised; Q2 beat confirmed; 28 Buy / 0 Sell consensus. Trailing stop at $1,668.105 (HWM $1,853.45; 10% GTC order ccf3c4d9) provides $84.12 buffer (4.79% from close) — well above -10% stop trigger. ASML at $1,753.22 remains above -7% manual cut threshold ($1,686.07 = $1,812.982 × 0.93). ISRG Q2 beat (rev $2.89B +18.4% YoY; EPS $2.80 beat) but −3.32% AH = sell-the-news; healthcare 1 failed trade, no position. VIX drifting toward 17; new-entry gate borderline/blocked for next week open. Cash 82.2% ($81,112.96). Phase P&L: −$1,354.84 (−1.35%) vs $100,000 starting equity. Trades this week: 1/3 (ASML 10sh bought Jul 16). Next week: TSM entry eval ($415–440 zone) if VIX confirms <17 + sector stabilizes; 2/3 weekly trade slots available.
+
+---
+
+## Week of 2026-07-20
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-07-16 | ASML | LONG | 10 | $1,812.982 | FILLED | 10% GTC (order ccf3c4d9; HWM $1,853.45; stop $1,668.105) | Q2 beat (€9.3B vs €8.8B est; FY 2026 guide raised €43–45B), AI EUV lithography demand, Technology #1 YTD (+34.68%), backlog expansion, JPM PT $2,400 / Wells $2,500 | ~$2,176 (+20%) | 2:1 |
+
+**Tighten trail:** 7% at +15% ($2,084.93); 5% at +20% ($2,175.58).
+**Cut rule:** Close manually if unrealized loss hits −7% (~$1,686.07).
+
+### Market-Open Scan — 2026-07-20 (Day 55, Monday — Week 12 Day 1)
+
+- **Account:** Equity $98,904.46 | Cash $81,112.96 (82.0%) | Daytrade count: 0 | Weekly trades: 0/3
+- **ASML:** $1,779.15 (+1.81% intraday from $1,747.58 Fri close; −1.87% unrealized from $1,812.982 entry) — no −7% trigger ($1,686.07 threshold) ✓
+- **Trailing stop:** order ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE | Buffer: $111.05 (6.24%) ✓
+- **Loser check:** ASML −1.87% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ASML below +15% tightening threshold ($2,084.93). NO tightening needed. ✓
+- **VIX:** 18.77 (Jul 17 close, +12.19% WoW) — **NEW ENTRY GATE BLOCKED** ✗
+- **Market:** WTI $83.48 (+2.07%) / Brent $90.26 (+2.33%) on Iran escalation (9th consecutive night of US airstrikes on Strait of Hormuz targets); SOXX bear market (−20.3% from Jun 2 peak); SPX futures +0.13–0.24% (muted)
+- **New entry evaluation:** TSM — VIX ✗ + SOXX bear territory ✗ | JPM — above $325–338 entry range ✗ | All new entries BLOCKED
+- **Action:** No trades. All new-entry gates blocked. Hold ASML. No stop adjustments needed.
+- **Thesis check (ASML):** INTACT. FY2026 guide €43–45B raised; Q2 beat confirmed; JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy). Today's risk: SOXX bear market + Kimi K3 AI skepticism (2.8T-parameter open-weight model from Moonshot) + oil surge → semi sector headwinds. Stop protecting floor well above −7% manual cut.
+- **Next trigger:** VIX sustained close <17 + sector stabilizes → evaluate TSM entry ($415–440 zone, stop ~$374 GTC trail, ~22sh, ~9.4% equity). Weekly capacity 0/3 — full.
+
+### Weekly Trade Count: 0 confirmed (Week 12 — no trades)
