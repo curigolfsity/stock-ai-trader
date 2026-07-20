@@ -182,3 +182,11 @@ Decision: HOLD
 Ideas: JPM 27.61 pre-mkt (IN 30-338 range, gated by VIX), ASML Q2 earnings today (watch post-print)
 Market: SPX futures +0.11%, VIX 17.72, Oil WTI ~8/Brent ~5
 Risks: PPI June 8:30 AM ET (May was +6.5% YoY hot), Warsh Senate testimony (hawkish risk), 100% cash
+
+---
+## 2026-07-20 10:14 UTC (fallback — proxy blocked ntfy+discord)
+Pre-market 2026-07-20
+Decision: HOLD
+Ideas: ASML hold (stop 5.28% buffer — watch $1,686 cut line), TSM watchlist (blocked VIX >17)
+Market: SPX futures +0.2%, VIX 18.77 (BLOCKED), Oil WTI $83.48 (+2.1%) Brent $90.26
+Risks: SOXX bear (-20.3%), Iran escalation oil $90+, Kimi K3 AI skepticism, ASML stop buffer tightening

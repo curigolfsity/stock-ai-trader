@@ -4446,3 +4446,60 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Patience > activity — high-uncertainty Friday; let sector digest TSM/Netflix news**
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-07-20 — Pre-market Research (Day 55, Monday — Week 12 Day 1)
+
+### Account
+- Equity: $98,724.16 | Cash: $81,112.96 (82.2%) | Buying power: $89,918.56
+- Daytrade count: 0 (fresh week)
+- Weekly trades: 0/3 (new week — Week 12)
+- ASML: 10sh @ $1,812.982 avg | Current $1,761.12 (+$13.54 intraday from $1,747.58 Fri close) | Unrealized P&L: -$518.62 (−2.86%)
+- Trailing stop: order ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 (10% GTC) | Buffer: $93.01 (5.28%) ⚠️ TIGHTENING
+- Manual cut threshold (−7%): $1,686.07 | Current $1,761.12 — above threshold ✓
+
+### Market Context
+- **WTI:** $83.48 (+2.07%) | **Brent:** $90.26 (+2.33%) — oil surging on Iran escalation
+- **SPX Futures:** +0.13–0.24% premarket (muted positive despite oil spike)
+- **VIX:** 18.77 (Friday close, up +12.19% from 16.73 Thursday) — **NEW ENTRY GATE BLOCKED (>17)** ✗
+- **Key catalysts:**
+  - US conducted 9th consecutive night of airstrikes on Iran (targeting Strait of Hormuz vessel-attack capabilities); Brent near $90.26; gasoline above $4/gal — inflation tail risk
+  - SOXX (semiconductor ETF) entered bear market territory: −20.3% from June 2 peak; Ed Yardeni warns another −12% to 200-day MA
+  - Chinese AI lab Moonshot launched Kimi K3 (2.8T-parameter open-weight model) — AI capex ROI skepticism intensifying pressure on semis
+  - TSMC committed additional $100B to Arizona fabs (total $265B pipeline); FY2026 capex raised to $60–64B — long-term AI demand signal, but near-term sector headwind unchanged
+- **Earnings BMO today:** None of significance (AGNC, CCK report AMC)
+- **Economic calendar:** Empty today — FOMC Jul 29 | CPI Aug 12 | Jobs Aug 7
+- **Sector momentum YTD (~Jul 8):** Technology +34.68% | Capital Goods +32.38% | Energy +22.38% | Transportation +18.53% | Healthcare +11.62% | Financial +5.90% | Consumer Discretionary +0.75%
+
+### Trade Ideas
+1. **ASML (current position) — HOLD**
+   - Thesis: INTACT — FY2026 guide €43–45B; Q2 beat (€9.3B sales; 54% gross margin); analyst avg PT $2,122 (Strong Buy, 44 analysts; JPM $2,400 / Wells $2,500)
+   - Risk: Stop buffer only 5.28% ($93.01); SOXX in bear territory; Kimi K3 AI skepticism = sector headwind
+   - Manual cut: $1,686.07 (−7%); GTC stop: $1,668.105 (−10% from HWM)
+   - Watch: if ASML breaches $1,686 intraday → manual close; do NOT let GTC stop be the only protection
+   - Tighten trail: 7% at +15% ($2,084.93); 5% at +20% ($2,175.58)
+
+2. **TSM — WATCHLIST (blocked)**
+   - Catalyst: FY2026 capex $60–64B (raised); Arizona $265B pipeline; AI chip demand cycle intact
+   - Blocked: VIX 18.77 >17 + SOXX bear market + sector contagion risk ✗
+   - Re-evaluate: When VIX sustains <17 AND sector stabilizes; entry zone $415–440
+
+3. **No new entries today** — VIX 18.77 blocks all new positions per strategy
+
+### Risk Factors
+- **VIX 18.77:** Well above 17 new-entry gate; elevated volatility environment
+- **SOXX bear market (−20.3%):** Semi sector in structural decline phase; ASML exposed
+- **Iran escalation → oil $90+:** Inflation tail risk; could push VIX higher; energy cost headwind for capex-heavy tech
+- **Kimi K3 AI skepticism:** 2.8T open-weight model from Moonshot challenges AI infrastructure ROI narrative — direct headwind to EUV/semiconductor thesis
+- **ASML stop buffer 5.28%:** With sector under pressure, only $93 of protection before GTC stop triggers; close monitoring required
+- **Deployment gap:** 17.8% deployed vs 75–85% target; impossible to deploy in current risk environment
+
+### Decision: **HOLD**
+- VIX 18.77 blocks all new entries
+- Hold ASML: thesis intact; monitor $1,686.07 manual cut line closely given tight stop buffer (5.28%)
+- Patience > activity — hostile environment for new entries (VIX elevated, semi bear market, oil surging)
+- TSM re-eval when VIX <17 and sector stabilizes
+- Weekly capacity: 0/3 trades used; full 3 slots available when conditions clear
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
