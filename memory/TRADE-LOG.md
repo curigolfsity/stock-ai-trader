@@ -2043,3 +2043,19 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | ASML | 10 | $1,812.982 | $1,732.76 | -0.85% | -$802.22 (-4.43%) | $1,668.105 (10% GTC; HWM $1,853.45) |
 
 **Notes:** Day 55 (Monday, Week 12 Day 1) was a hold day with no new trades. ASML closed at $1,732.76, down -0.85% intraday from $1,747.58 prior close and -4.43% unrealized from $1,812.982 entry. All new-entry gates blocked: VIX 18.77 (elevated; +12.19% WoW), SOXX bear market (-20.3% from Jun 2 peak), and Iran escalation driving oil surge (WTI $83.48 +2.07%; Brent $90.26 +2.33%; 9th consecutive night of US airstrikes on Strait of Hormuz). Trailing stop ccf3c4d9 ACTIVE: stop $1,668.105 (HWM $1,853.45, 10% trail GTC), buffer $64.66 (3.73% from close) — above -7% manual cut threshold ($1,686.07 = $1,812.982 × 0.93); ASML at $1,732.76 above the cut threshold ✓. ASML thesis intact: Q2 beat (€9.3B sales, 54% gross margin, EPS beat), FY2026 guide raised €43-45B, JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150, 44 analysts Strong Buy. Cash 82.4% ($81,112.96). Phase P&L: -$1,559.44 (-1.56%) vs $100,000 starting equity. Trades this week: 0/3. Next trigger: VIX sustained close <17 + SOXX stabilizes → evaluate TSM entry ($415-440 zone, stop ~$374 GTC trail, ~22sh). Trail tighten: +15% ($2,084.93) → 7%; +20% ($2,175.58) → 5%.
+
+---
+
+### Market-Open Scan — 2026-07-21 (Day 56, Tuesday — Week 12 Day 2)
+
+- **Account:** Equity $99,055.16 | Cash $81,112.96 (82.0%) | Daytrade count: 0 | Weekly trades: 0/3
+- **ASML:** $1,794.54 (+3.19% intraday from $1,739.02 prior close; −1.02% unrealized from $1,812.982 entry) — no −7% trigger ($1,686.07 threshold) ✓
+- **Trailing stop:** order ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-14) | Buffer: $126.43 (7.05%) ✓ — meaningfully improved from Monday's 3.73%
+- **Loser check:** ASML −1.02% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ASML below +15% tightening threshold ($2,084.93). NO tightening needed. ✓
+- **VIX:** ~18.65 (Jul 20 close) — new-entry gate BLOCKED ✗ (need sustained close <17)
+- **Market:** SPX futures +0.45% premarket (risk-on) | WTI ~$82.43 (−1.25%) / Brent ~$88.56 (−1.89%) — easing on Iran ceasefire diplomacy; 10th consecutive night of airstrikes but mediators pushing 10-day ceasefire
+- **New entry evaluation:** TSM watchlist — VIX ✗ | SOXX recovery unconfirmed (bear territory) ✗ | All new entries BLOCKED
+- **Action:** No trades. All new-entry gates blocked. Hold ASML. No stop adjustments needed.
+- **Thesis check (ASML):** INTACT. Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est), FY2026 guide raised €43–45B; backlog expanding. Intel earnings Jul 23 = potential ASML upside catalyst (EUV/DUV supply chain demand). JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy). SOXX recovering +3.2% intraday.
+- **Next trigger:** VIX sustained close <17 + SOXX confirms recovery → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Intel earnings Jul 23 AH = ASML upside catalyst to watch. Weekly capacity 0/3 — full.
