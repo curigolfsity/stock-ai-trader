@@ -4503,3 +4503,61 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Weekly capacity: 0/3 trades used; full 3 slots available when conditions clear
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## 2026-07-21 — Pre-market Research (Day 56, Tuesday — Week 12 Day 2)
+
+### Account
+- Equity: $99,063.76 | Cash: $81,112.96 (81.9%) | Long market value: $17,950.80 (18.1%)
+- Buying power (RegT): $180,176.72 | Daytrade count: 0 | Weekly trades: 0/3
+- ASML: 10sh @ $1,812.982 avg | Current $1,795.08 (+3.22% intraday from $1,739.02 close) | Unrealized: -$179.02 (−0.99%)
+- Trailing stop: ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 (10% GTC) ✅ ACTIVE | Buffer: $126.98 (7.07%) ✓ improving
+- Manual cut threshold (−7%): $1,686.07 | Current $1,795.08 — above threshold ✓ ($109 cushion)
+
+### Market Context
+- **WTI:** ~$82.43 (−1.25% from $83.48) | **Brent:** ~$88.56 (−1.89% from $90.26) — easing on Iran ceasefire diplomacy
+- **SPX Futures:** +0.45% premarket — risk-on tone; Polymarket 95% probability of positive open
+- **VIX:** ~18.65 (Jul 20 close) — still elevated; new-entry gate BLOCKED (>17) ✗ but trending toward close watch
+- **Iran:** 10th consecutive night of US airstrikes; mediators pushing for 10-day ceasefire → oil retreating, risk appetite improving
+- **SOXX:** recovering; early gains led by Micron, AMD, Nvidia, Intel, Broadcom (+2.1% on Monday); bulls positioning ahead of chip earnings week
+- **Earnings BMO today:** GM, 3M (MMM) — no direct tech/semi impact
+- **Later this week:** GOOGL, TSLA (AMC), IBM — heavy catalyst week; Q2 earnings up ~23% YoY (FactSet)
+- **ASML catalyst watch:** Motley Fool flags Intel catalyst for ASML after Jul 23 (Intel earnings likely) — potential upside trigger for ASML shares
+- **Economic calendar:** Nothing major today | FOMC Jul 29 | Jobs Aug 7 | CPI Aug 12
+- **Macro:** CPI Jun 3.5% YoY | Unemployment 4.2% — stable but above Fed target
+- **Sector rotation:** Tech losing relative momentum; Energy +3.7% WoW on oil; rotation out of semis/Mag 7 into defensive/Energy ongoing
+
+### Trade Ideas
+1. **ASML (current) — HOLD**
+   - Thesis: INTACT — Q2 beat (€9.3B sales, 54% gross margin), FY2026 guide €43–45B raised, backlog expanding; JPM PT $2,400 / Wells $2,500
+   - Today: +3.22% intraday recovery; stop buffer improved to 7.07% ($126.98) from 3.73% close Monday
+   - Intel earnings Jul 23 = potential ASML upside catalyst (ASML supplies EUV/DUV to Intel; Intel capex ramp = ASML order demand)
+   - Manual cut: $1,686.07 | GTC stop: $1,668.105 | Tighten: 7% at +15% ($2,084.93); 5% at +20% ($2,175.58)
+   - Action: HOLD; monitor buffer; let Intel catalyst play out this week
+
+2. **TSM — WATCHLIST (still blocked)**
+   - Catalyst: FY2026 capex $60–64B; Arizona $265B pipeline; AI chip demand intact; SOXX recovering
+   - Blocked: VIX 18.65 >17 ✗ | Sector rotation headwind ✗
+   - Re-evaluate: VIX sustained <17 + SOXX confirms recovery; entry zone $415–440; stop ~$374 GTC trail (~22sh)
+
+3. **No new entries** — VIX gate blocked; patience > activity
+
+### Risk Factors
+- **VIX 18.65:** Above 17 new-entry gate; watching for sustained close <17
+- **Iran ceasefire fragile:** Previous ceasefire (Jun 14 MOU) quickly collapsed; oil could re-spike if talks fail → VIX spike risk
+- **SOXX recovery unconfirmed:** 2.1% bounce is promising but still in bear market territory (−20.3% from Jun 2 peak); one green day ≠ trend change
+- **Sector rotation:** Capital rotating out of tech/semis into Energy/defensive — structural headwind for ASML regardless of earnings beat
+- **Q2 earnings risk:** GOOGL/TSLA this week — miss could drag broad market and re-test ASML support
+- **ASML at $1,795 still below entry ($1,812.982):** Position underwater −0.99%; requires $1,813 break to go green
+- **Deployment gap:** 18.1% deployed vs 75–85% target — cannot close gap in this risk environment
+
+### Decision: **HOLD**
+- VIX 18.65 blocks all new entries per strategy gate (>17)
+- ASML recovering strongly today; buffer improving; Intel catalyst could provide additional upside this week
+- No stop adjustments needed (buffer 7.07%, well above minimum)
+- Watch for VIX close <17 sustainably + SOXX confirmation → TSM entry re-evaluation
+- Weekly capacity: 0/3 trades used; full 3 slots available when conditions clear
+- Patience > activity — ceasefire optimism may not hold; preserve cash and optionality
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
