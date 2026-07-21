@@ -4561,3 +4561,13 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity — ceasefire optimism may not hold; preserve cash and optionality
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+### Midday Addendum — 2026-07-21
+
+- **ASML $1,813.80 (+4.31%)** — back to breakeven (+0.045% unrealized); rally driven by semi/tech sector recovery + Q2 earnings beat follow-through; High-NA EUV milestone (Intel Panther Lake using ASML's next-gen tool) adding fuel
+- **Market tone:** Risk-on; JPMorgan record Q2 profit ($21.2B); Iran ceasefire diplomacy easing oil; SOXX recovering
+- **VIX ~18.65** — still above 17 gate; all new entries remain BLOCKED
+- **Action:** No trades. Hold ASML. No stop adjustments.
+- **Intel earnings (Jul 23 AH):** Key catalyst watch for ASML — Intel capex ramp = ASML EUV/DUV demand; positive Intel guidance could push ASML toward +15% tighten zone (~$2,085)
+
+_Research via WebSearch (Perplexity key not set — fallback used)_

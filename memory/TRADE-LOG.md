@@ -2059,3 +2059,15 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action:** No trades. All new-entry gates blocked. Hold ASML. No stop adjustments needed.
 - **Thesis check (ASML):** INTACT. Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est), FY2026 guide raised €43–45B; backlog expanding. Intel earnings Jul 23 = potential ASML upside catalyst (EUV/DUV supply chain demand). JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy). SOXX recovering +3.2% intraday.
 - **Next trigger:** VIX sustained close <17 + SOXX confirms recovery → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Intel earnings Jul 23 AH = ASML upside catalyst to watch. Weekly capacity 0/3 — full.
+
+### Midday Scan — 2026-07-21 (Day 56, Tuesday — Week 12 Day 2)
+
+- **Account:** Equity ~$99,251 | Cash $81,112.96 (81.7%) | Daytrade count: 0 | Weekly trades: 0/3
+- **ASML:** $1,813.80 (+4.31% intraday from $1,739.02 prior close; +0.045% unrealized from $1,812.982 entry) — **position back to breakeven** ✓ | No −7% trigger ✓
+- **Trailing stop:** order ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE | Buffer: $145.70 (8.03%) ✓ — fully restored from Monday's stressed 3.73%
+- **Loser check:** ASML +0.045% unrealized — above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ASML well below +15% tightening threshold ($2,084.93). NO tightening. ✓
+- **Market:** VIX ~18.65 (new-entry gate BLOCKED ✗) | SOXX recovering | JPMorgan record Q2 ($21.2B profit) → risk-on tone | Iran ceasefire diplomacy ongoing → oil easing (WTI ~$82.43) | AI demand narrative intact
+- **Action:** No trades. No stop adjustments. Hold ASML.
+- **Thesis check (ASML):** INTACT. Today's +4.31% rally = semi sector recovery + Q2 beat follow-through (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est; FY2026 guide raised €43–45B). Intel earnings Jul 23 AH = potential ASML upside catalyst (Intel using ASML High-NA EUV for Panther Lake chips). JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy).
+- **Next trigger:** VIX sustained close <17 + SOXX confirms recovery → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Tighten trail: 7% at +15% ($2,084.93); 5% at +20% ($2,175.58). Intel earnings Jul 23 AH = ASML catalyst watch.
