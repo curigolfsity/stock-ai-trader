@@ -2111,3 +2111,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Thesis check (ASML):** INTACT. ASML recovering intraday from pre-market lows ($1,765 → $1,805); no ASML-specific negative catalyst. Equipment price hike plans announced (positive for margins). Dividend ex-date Jul 28. FY2026 guide €43–45B (second raise this year); Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy). Intel earnings Jul 23 AH = primary upside catalyst (capex ramp = EUV/DUV demand).
 - **Intraday note:** Oil re-escalating to $87–88 on Iran (12th consecutive strike night) is a macro headwind for broad market, not ASML-specific. VIX rising from 17.05 → 18.03 pushes the new-entry gate further out; GOOGL + TSLA AH tonight are the primary VIX catalyst.
 - **Next trigger:** GOOGL + TSLA AH → if strong beats drive VIX close <17 sustained, evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity) tomorrow AM. Intel earnings Jul 23 AH = ASML primary catalyst. Weekly capacity 0/3 — full.
+
+---
+
+### Jul 22 — EOD Snapshot (Day 57, Wednesday)
+**Portfolio:** $99,149.16 | **Cash:** $81,112.96 (81.8%) | **Day P&L:** -$24.10 (-0.02%) | **Phase P&L:** -$850.84 (-0.85%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ASML | 10 | $1,812.982 | $1,803.62 | +0.12% | -$93.62 (-0.52%) | $1,668.105 (10% GTC; HWM $1,853.45) |
+
+**Notes:** Day 57 (Wednesday, Week 12 Day 3) was a hold day with no new trades. ASML closed at $1,803.62, up +0.12% intraday from $1,801.51 prior close and -0.52% unrealized from $1,812.982 entry. Trailing stop ccf3c4d9 ACTIVE: stop $1,668.105 (HWM $1,853.45, 10% trail GTC, expires 2026-10-14); buffer $135.52 (7.51% from close) — well above -7% manual cut threshold ($1,686.07 = $1,812.982 × 0.93). VIX remained elevated (~18.03 intraday per midday scan), new-entry gate BLOCKED. GOOGL + TSLA reported AH tonight — results will inform tomorrow's VIX open and TSM entry evaluation. Intel earnings Jul 23 AH = primary ASML upside catalyst (capex ramp → EUV/DUV demand). ASML thesis intact: Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B; dividend ex-date Jul 28; JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150 (44 analysts Strong Buy). Cash 81.8% ($81,112.96). Phase P&L: -$850.84 (-0.85%) vs $100,000 starting equity. Trades this week: 0/3. Next trigger: Intel earnings Jul 23 AH = ASML catalyst; if VIX closes <17 sustained + SOXX recovery confirmed → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Trail tighten: 7% at +15% ($2,084.93); 5% at +20% ($2,175.58).
