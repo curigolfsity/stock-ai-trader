@@ -4630,3 +4630,15 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity; preserve cash optionality
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+### Afternoon Addendum — 2026-07-22 Midday Scan
+
+- **VIX:** ~18.03 (prior Jul 21 close ~17.05; +7.8% spike on day) — new-entry gate BLOCKED ✗; GOOGL/TSLA AH tonight = VIX catalyst
+- **Oil:** WTI $87–88 (+3–4%) / Brent ~$91 — 12th consecutive night of US airstrikes on Iran + naval blockade near Strait of Hormuz; re-escalation resuming after brief ceasefire optimism
+- **ASML:** $1,805.54 (+0.22% intraday) — recovered from pre-market low $1,765; no thesis-breaking news; equipment price hike plans = positive margin signal; ASML hold confirmed
+- **GOOGL AH est:** Rev ~$116.5B, EPS ~$2.87 — Google Cloud +63% Q1; AI monetization focus; beat → VIX catalyst ↓
+- **TSLA AH est:** Rev ~$25.6B, EPS ~$0.50–0.55 — Robotaxi/Optimus capex drag risk; margin focus; miss → VIX spike ↑
+- **SPX:** ~flat (+0.08%); Nasdaq −0.3%; cautious session; earnings beats tracking ~25% YoY for S&P 500
+- **Decision:** No action. Hold ASML. GOOGL/TSLA AH = binary for Jul 23 TSM entry decision.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
