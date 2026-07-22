@@ -4571,3 +4571,62 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Intel earnings (Jul 23 AH):** Key catalyst watch for ASML — Intel capex ramp = ASML EUV/DUV demand; positive Intel guidance could push ASML toward +15% tighten zone (~$2,085)
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## Pre-Market Research — 2026-07-22 (Day 57, Wednesday — Week 12 Day 3)
+
+### Account Snapshot
+- **Equity:** $98,917.46 | **Cash:** $81,112.96 (82.0%) | **Daytrade count:** 0 | **Weekly trades:** 0/3
+- **Long market value:** $17,804.50 (18.0% deployed — below 75-85% target)
+- **Phase P&L:** -$1,082.54 (-1.08%) vs $100,000 starting equity
+- **Day P&L (premarket):** -$210.60 (-0.21% intraday from $1,801.51 ASML prior close)
+
+### Positions
+- **ASML:** 10sh @ $1,812.982 avg | Current $1,780.45 (−1.17% today from $1,801.51 close) | Unrealized: −$325.32 (−1.79%)
+- **Trailing stop:** ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 (10% GTC, expires 2026-10-14) ✅ ACTIVE | Buffer: $112.35 (6.31%) ✓
+- **Manual cut threshold (−7%):** $1,686.07 | Current $1,780.45 — above threshold ✓ ($94.38 cushion)
+
+### Market Context
+- **WTI:** ~$85.23 (+2.20%) | **Brent:** ~$91.10-91.33 (+2.11%) — 11th consecutive night of US airstrikes on Iran; Houthi threats to Red Sea shipping; Strait of Hormuz risk premium elevated
+- **SPX Futures:** −0.3% premarket — risk-off; oil/inflation concerns outweighing earnings beats; Polymarket ~15% probability of higher open
+- **VIX:** ~17.21 (Jul 21 close: 17.05, fell 8.58% on Tue) — **approaching 17 gate but still blocked** ✗ (need sustained close <17)
+- **Earnings season:** ~88% of S&P 500 reporters beating bottom-line estimates; earnings growth tracking ~25% YoY
+- **Tonight AH:** GOOGL + TSLA report — major AI/EV catalyst; could swing VIX through 17 gate
+- **Semiconductor rally:** Chipmakers extended gains Tuesday on strong Taiwan/South Korea export data; SOXX recovering
+- **FOMC:** Jul 28-29 | No major economic releases today
+- **ASML specific:** Offering €20,000 employee retention bonus (vesting Jan 2030) — management confidence signal; Intel earnings Jul 23 AH = key ASML upside catalyst (Intel capex ramp = ASML EUV/DUV demand)
+
+### Trade Ideas
+1. **ASML (current) — HOLD**
+   - Thesis INTACT: Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95); FY2026 guide raised €43–45B; Q3 guide €11–12B
+   - Retention bonus = management confidence; Intel earnings Jul 23 AH = upside catalyst
+   - Risk: −1.17% today on oil-driven risk-off; stop buffer 6.31% (above −7% cut floor ✓)
+   - Action: HOLD; let Intel catalyst (Jul 23 AH) play out; no stop adjustments needed
+
+2. **TSM — Watchlist (still blocked)**
+   - Catalyst: AI demand, Arizona fab ramp ($265B pipeline), FY2026 capex $60-64B; semi export data positive
+   - Blocked: VIX 17.21 >17 ✗ | Entry zone $415-440 | Stop ~$374 GTC trail | ~22sh (~9.4% equity)
+   - Re-evaluate: if GOOGL/TSLA beats tonight drive VIX close <17 sustained → pre-market Jul 23 decision
+
+3. **GOOGL — Earnings catalyst watch**
+   - Reports tonight AH; AI monetization + cloud growth narrative intact
+   - Not entering today; evaluate post-earnings if beat + VIX clears 17 gate
+
+### Risk Factors
+- **Oil re-escalation:** 11th consecutive night of Iran strikes; WTI $85.23 (+2.20%) reviving inflation fears; ceasefire talks fragile (prior Jun 14 MOU collapsed quickly)
+- **SPX futures −0.3%:** Risk-off open likely; ASML could see continued pressure
+- **VIX 17.21:** One green close away from clearing gate; GOOGL/TSLA miss tonight could spike VIX and push back timeline
+- **ASML −1.79% unrealized:** Approaching midpoint between entry and stop; monitor buffer carefully on open
+- **Deployment gap:** 18.0% deployed vs 75-85% target — cannot close safely until VIX clears
+- **FOMC Jul 28-29:** Fed rate path uncertainty adds vol risk heading into next week
+
+### Decision: **HOLD**
+- VIX 17.21 still above 17 new-entry gate — all new entries BLOCKED
+- SPX futures −0.3% = risk-off open; oil escalation adding inflation pressure
+- ASML buffer 6.31% ($112.35) — adequate; above −7% manual cut; no action needed
+- **Catalyst watch tonight:** GOOGL + TSLA AH earnings → if beats drive VIX close <17 sustained, TSM entry opens for Jul 23
+- **Intel earnings Jul 23 AH:** Most important ASML catalyst this week — capex ramp = EUV/DUV demand
+- Patience > activity; preserve cash optionality
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
