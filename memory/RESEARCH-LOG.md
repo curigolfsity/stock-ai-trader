@@ -4642,3 +4642,63 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Decision:** No action. Hold ASML. GOOGL/TSLA AH = binary for Jul 23 TSM entry decision.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## Pre-Market Research — 2026-07-23 (Day 58, Thursday — Week 12 Day 4)
+
+### Account Snapshot
+- **Equity:** $99,091.76 | **Cash:** $81,112.96 (81.9%) | **Daytrade count:** 0 | **Weekly trades:** 0/3
+- **Deployed:** 18.1% ($17,978.80) — well below 75-85% target; gates blocking new entries
+- **ASML:** 10sh @ $1,812.982 avg | Current $1,797.88 (−0.22% intraday from $1,801.86 prior close; −0.83% unrealized)
+- **Unrealized P&L:** −$151.02 (−0.83%) | **Manual cut threshold (−7%):** $1,686.07 — ASML $111.81 above threshold ✓
+- **Trailing stop:** ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-14)
+- **Stop buffer:** $129.78 (7.22% from current price) — adequate ✓
+- **Phase P&L:** ~−$908 (est.) | **SPX YTD:** +9.6% (as of Jul 17)
+
+### Market Context
+- **WTI:** $88.17 (+1.54%) | **Brent:** $98.44 (+4.60%) — re-escalation: tanker attacks off Saudi Arabia coast + continued US airstrikes on Iran; Strait of Hormuz risk premium at multi-week high
+- **VIX:** Futures range 17.22–18.78 today (opened 18.58) — **NEW ENTRY GATE BLOCKED** ✗ (need sustained close <17)
+- **SPX Futures:** Risk-off; GOOGL capex shock + TSLA EPS miss + oil surge weighing on sentiment
+- **S&P 500 YTD:** +9.6% | **Technology sector YTD (large cap):** +43% | **Energy YTD (large cap):** −13%
+- **Economic releases today (8:30 AM ET):** Q2 GDP Advance estimate (Q1 was +2.1% annualized) + Initial jobless claims (prior: 208K); both potentially market-moving into FOMC Jul 28-29
+
+### AH Earnings Results (Jul 22 — Yesterday)
+- **GOOGL Q2 2026:** Rev $119.8B (+24% YoY) vs $116.93B est ✅ BEAT | EPS $9.11 vs $2.98 est ✅ BEAT | Cloud +82% ($24.8B) | BUT: Capex raised to $205B (from $180-190B prior guide) → stock sank AH on capex concern ❌
+- **TSLA Q2 2026:** Rev $28.24B (+26% YoY) vs $26.4B est ✅ BEAT | EPS $0.33 vs $0.53 est ❌ MISS (−38%); Operating profit −57% | FCF negative | TSLA −4.18% AH ❌
+- **Net VIX impact:** GOOGL/TSLA AH results pushed VIX UP (both had negative elements); TSM entry gate did NOT open
+
+### Intel Earnings — Tonight AH (Primary ASML Catalyst)
+- **INTC reports Q2 AH today** — conference call 2 PM PDT
+- **Estimates:** EPS $0.22 (vs −$0.10 loss prior year), Rev $14.43B (+12% YoY)
+- **Key data point:** Intel confirmed using ASML High-NA EUV for Panther Lake (18A process) in mass production; 18A yield 85% (up from 65% prior Q) — if Intel beats + raises foundry/capex guidance → ASML upside catalyst
+- **Options:** Pricing 13.59% post-earnings swing (above 12.4% avg) | INTC up 163% YTD | Extended
+- **ASML dividend ex-date:** Jul 28 ($2.151/sh = $21.51 on 10 shares)
+
+### ASML Thesis Check
+- **INTACT.** Intel mass-producing Panther Lake on ASML High-NA EUV = structural demand validation
+- Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B (2nd raise this year)
+- Dividend ex-date Jul 28 = reason to hold through next week
+- JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy)
+- Only risk: broader risk-off (oil, VIX) hitting ASML below −7% cut — current buffer 7.22% ✓
+
+### Trade Ideas
+1. **ASML — HOLD** | Intel AH tonight = primary catalyst; thesis intact; dividend ex-date Jul 28; stop buffer 7.22% ✓; no action needed
+2. **TSM — Watchlist (BLOCKED)** | VIX not clearing 17; oil $88/$98 = macro headwind; entry zone $415–440 | stop ~$374 GTC trail | ~22sh (~9.4% equity); re-evaluate if VIX closes <17 sustained
+3. **INTC — Post-earnings watchlist** | Reports AH tonight; if beats + 18A/foundry guidance strong → evaluate Friday morning; but INTC up 163% YTD = extended; VIX gate still required before entry
+
+### Risk Factors
+- **Oil re-escalation:** WTI $88.17 / Brent $98.44; tanker attacks + Iran strikes reviving inflation premium; approaching $90+ for Brent = psychological threshold; FOMC Jul 28-29 makes Fed path uncertain ↑
+- **VIX sticky:** Opened 18.58; GOOGL/TSLA AH fails to clear gate; any further oil spike or GDP miss → VIX spike; gate may stay closed through FOMC
+- **GDP surprise risk (8:30 AM):** Q2 advance estimate; weak print (<2%) = risk-off; hot print = stagflation fear if oil is high; either tail = VIX up
+- **ASML buffer shrinking:** 7.22% buffer from stop; further oil-driven risk-off could pressure ASML toward stop
+- **Deployment gap:** 18.1% deployed vs 75-85% target — cannot deploy safely while VIX elevated
+
+### Decision: **HOLD**
+- VIX 17.22–18.78 — new-entry gate BLOCKED ✗
+- GOOGL/TSLA AH pushed VIX up, not down; oil re-escalation adds macro headwind
+- ASML: above −7% cut ($1,686.07), stop buffer adequate (7.22%), thesis intact, Intel AH = catalyst tonight
+- Intel beat + strong capex guidance tonight → could lift ASML tomorrow + inform TSM/INTC entry decision Friday
+- **Patience > activity.** FOMC Jul 28-29 = hold through next week regardless of minor VIX dips
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
