@@ -2153,3 +2153,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **VIX:** ~18.58 (elevated; market-open scan) — new-entry gate BLOCKED ✗ | FOMC Jul 28-29 = patience
 - **Action:** No trades. No stop adjustments. Hold ASML. Intel results neutral-to-slight positive for ASML thesis; no thesis-breaking catalyst.
 - **Next trigger:** If Intel results drive VIX close <17 tomorrow → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). ASML dividend ex-date Jul 28 = hold through next week. FOMC Jul 28-29 = no new entries during meeting. Weekly capacity 0/3 — full.
+
+---
+
+### Jul 23 — EOD Snapshot (Day 58, Thursday)
+**Portfolio:** $99,025.06 | **Cash:** $81,112.96 (81.9%) | **Day P&L:** -$124.10 (-0.13%) | **Phase P&L:** -$974.94 (-0.97%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ASML | 10 | $1,812.982 | $1,790.83 | -0.61% | -$221.52 (-1.22%) | $1,668.105 (10% GTC; HWM $1,853.45) |
+
+**Notes:** Day 58 (Thursday, Week 12 Day 4) was a hold day with no new trades. ASML closed at $1,790.83, down -0.61% from $1,801.86 prior close and -1.22% unrealized from $1,812.982 entry. Trailing stop ccf3c4d9 ACTIVE: stop $1,668.105 (HWM $1,853.45, 10% trail GTC, expires 2026-10-14); buffer $122.73 (6.85% from close) — above -7% manual cut threshold ($1,686.07 = $1,812.982 × 0.93). Intel Q2 results reported AH today (rev $14.4B inline; EPS $0.22 met; 18A node 85% yield + major cloud deal = neutral-to-slight ASML positive, not a strong catalyst; High-NA EUV demand structurally intact). VIX remained elevated (~18.58 at open), new-entry gate BLOCKED ✗. ASML thesis INTACT: Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B (2nd raise); dividend ex-date Jul 28 ($2.151/sh = +$21.51 cash); JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150 (44 analysts Strong Buy). Cash 81.9% ($81,112.96). Phase P&L: -$974.94 (-0.97%) vs $100,000 starting equity. Trades this week: 0/3. FOMC Jul 28-29 = no new entries during meeting window. Next trigger: VIX sustained close <17 post-FOMC + SOXX recovery confirmed → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). ASML dividend ex-date Jul 28 = hold through next week. Trail tighten: 7% at +15% ($2,084.93); 5% at +20% ($2,175.58).
