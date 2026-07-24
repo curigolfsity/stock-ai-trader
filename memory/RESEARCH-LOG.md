@@ -4753,3 +4753,18 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Patience > activity.** Weekly capacity 0/3 — week ends today; full capacity resets Monday.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+### Midday Scan — 2026-07-24 (Day 59, Friday — Week 12 Day 5)
+
+- **Account:** Equity ~$99,039 | Cash $81,112.96 (81.9%) | Daytrade count: 0 | Weekly trades: 0/3
+- **ASML:** $1,792.60 (−0.58% intraday from $1,803 prior close; −1.12% unrealized from $1,812.982 entry) — no −7% trigger ($1,686.07 threshold) ✓ | Stop buffer $124.50 (6.95%) ✓ HEALTHY
+- **Trailing stop:** order ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE | status: "new" confirmed via orders API
+- **Loser check:** ASML −1.12% unrealized — well above −7% cut threshold. NO cut. ✓
+- **Winner tighten:** ASML well below +15% tightening threshold ($2,084.93). NO tightening. ✓
+- **VIX:** ~18.97 (+1.44% on day) — **NEW ENTRY GATE BLOCKED** ✗ (need sustained close <17)
+- **SPX:** +0.5% bounce to ~7,445 after Thursday's −1.2% selloff (GOOGL −7%, TSLA −14% post-earnings drove selloff; today partial recovery)
+- **Section 122 tariff expiry (confirmed):** Lapsed 12:01 AM EDT today as expected; no extension passed. Effective US tariff rate drops ~13% → ~7.2% (net positive for chip equipment supply chains incl. ASML). New country-specific tariffs simultaneously announced = partial offset; net neutral-to-positive for ASML.
+- **Oil:** WTI ~$92 / Brent ~$100.69 — holding elevated post-Houthi/Iran escalation; stagflation concern persists
+- **Thesis check (ASML):** INTACT. Tariff lapse net positive (lower effective rate = lower import cost headwind). Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B (2nd raise); ex-dividend date Jul 28 ($2.151/sh = +$21.51 on 10sh); Intel High-NA EUV Panther Lake structural demand intact; JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy).
+- **Action:** No trades. No stop adjustments. Hold ASML through ex-dividend Jul 28. VIX elevated + FOMC Jul 28-29 → patience.
+- **Next trigger:** VIX sustained close <17 post-FOMC (Jul 30+) + SOXX recovery confirmed → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Weekly capacity resets Monday (0/3 → 0/3 new week).
