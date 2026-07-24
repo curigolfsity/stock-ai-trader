@@ -553,3 +553,60 @@ Rule adherence B (ISRG entry gates correctly cleared; −7% rule never violated;
 Rule adherence A (ISRG stop auto-executed; ASML entry gates correct; T+0 stop placement maintained; JPM/TSM not chased; zero rule violations), risk management B− (ISRG GLP-1 structural risk underweighted at entry; ASML at −3.61% unrealized with 4.55% buffer entering a volatile week; no hard-rule violations), relative performance C (bot −1.40% vs S&P −1.07% = −0.33% gap; narrowest negative gap in 5 weeks; both portfolio and index down; ISRG realized loss is dominant driver). Phase P&L: −$1,411.24 (−1.41%) vs $100,000 starting equity after 11 weeks.
 
 ---
+
+## Week ending 2026-07-24
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,055.16 (Mon Jul 20 open) |
+| Ending portfolio | $98,683.86 (Fri Jul 24 live) |
+| Week return | −$371.30 (−0.37%) |
+| S&P 500 week | ~−0.7% (~7,494 Jul 17 → ~7,445 Jul 24; GOOGL/TSLA earnings selloff Thu, partial recovery Fri) |
+| Bot vs S&P | +0.33% |
+| Trades | 0 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| ASML | $1,812.982 | $1,757.09 | −$558.92 (−3.08%) | $1,668.105 (10% trail GTC; HWM $1,853.45; order ccf3c4d9) — buffer $88.99 (5.06%) |
+
+### What Worked
+- Zero rule violations all week — VIX gate strictly enforced despite full 0/3 weekly capacity and TSM ready on watchlist; patience rule executed cleanly
+- ASML stop buffer recovered from Monday's compressed 3.73% to healthy 7–8% range mid-week (Tue/Wed) before oil-driven Friday compression; automation held throughout
+- Intel Q2 AH (Jul 23) confirmed ASML High-NA EUV structural demand: Panther Lake 18A at 85% yield + major cloud deal intact; thesis resolved without a break
+- Section 122 blanket tariff lapse confirmed Friday Jul 24 — net positive for ASML (lower effective import-cost headwind for chip equipment supply chain); no thesis-breaking catalyst all week
+- Bot outperformed S&P 500 by +0.33% — first positive relative week since Week 7 (+2.10%); 82% cash acted as a natural hedge in a down market week
+
+### What Didn't Work
+- ASML closed week at −3.08% unrealized; Friday −2.96% session driven by oil shock (WTI +6.4% to $92.36; Brent briefly over $100) + macro risk-off; stop buffer compressed to 5.06% (above 3% mandate but lowest in 3 weeks)
+- VIX elevated all week (17–20 range) — TSM entry never materialized despite 0/3 weekly capacity and 81% cash; 12th consecutive week without a 2nd position established
+- GOOGL + TSLA AH (Jul 22) pushed VIX UP, not down — the expected gate-clearing catalyst failed; GOOGL capex raise ($205B) and TSLA EPS miss (−38%) drove negative AH sentiment
+- 82% cash vs 75–85% deployment target — structural under-deployment persists with no clear near-term resolution while VIX stays elevated + FOMC looms
+- Phase P&L −$1,316.14 (−1.32%) after 12 weeks; all realized gains from CAT (+$1,900.39) now more than offset by ISRG (−$1,432.13) and ASML unrealized drag
+
+### Key Lessons
+- Oil at $92–100/barrel creates compounding headwinds: direct risk-off selling + VIX elevation → new-entry gates can stay blocked for multiple weeks in succession; oil shocks are not 1-day events
+- FOMC-ahead windows (final 2 sessions before meeting) should be treated as hard no-entry zones regardless of VIX level — rate-path uncertainty + oil shock + Brent over $100 = maximum vol compression
+- ASML at −3.08% unrealized with 5.06% buffer entering an FOMC week is the highest-risk single-position configuration since CAT's 0.66% buffer (Jun 10); the <3% buffer manual-cut protocol must be verified at Monday's open before anything else
+
+### Adjustments for Next Week
+- **Monday Jul 28 first action:** Verify ASML stop (ccf3c4d9) ACTIVE at open; re-check buffer vs $1,668.105; ex-div date Jul 28 ($2.151/sh = −$2.15/sh price adjustment expected at open — is NOT a thesis break); if overnight buffer < 3% post-div-adjustment, execute manual cut immediately
+- **FOMC Jul 28–29:** No new entries during meeting window; evaluate TSM or other qualified non-Energy candidates post-decision if VIX confirms <17 sustained (Jul 30+)
+- **Oil watch:** If Brent holds above $90 post-FOMC + VIX stays elevated → extend patience on new entries; do not force deployment against oil/vol backdrop
+- **TSM watchlist:** Entry zone $415–440 still valid; stop ~$374 GTC trail; ~22sh (~9.4% equity); VIX <17 + SOXX stability required; re-verify entry zone price live post-FOMC before any order
+- **ASML tighten trigger:** 7% trail at +15% ($2,084.93); 5% trail at +20% ($2,175.58) — both far above current price; no change needed; focus is on protecting downside through FOMC
+
+### Overall Grade: C+
+Rule adherence A (zero violations all week; VIX gate strictly enforced; stop active and verified daily; T+0 placement habit maintained from prior weeks; no manual cuts needed), risk management B (ASML buffer compressed to 5.06% at week end from oil shock — above 3% mandate but the tightest since Jun 26; entering FOMC week with a single position and elevated macro risk), relative performance B− (bot −0.37% vs SPX ~−0.7% = +0.33% outperformance — first positive relative week since Week 7; driven by 82% cash acting as a hedge in a down week, not position alpha; cumulative phase P&L −$1,316 / −1.32% after 12 weeks).
+
+---
