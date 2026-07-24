@@ -190,3 +190,11 @@ Decision: HOLD
 Ideas: ASML hold (stop 5.28% buffer — watch $1,686 cut line), TSM watchlist (blocked VIX >17)
 Market: SPX futures +0.2%, VIX 18.77 (BLOCKED), Oil WTI $83.48 (+2.1%) Brent $90.26
 Risks: SOXX bear (-20.3%), Iran escalation oil $90+, Kimi K3 AI skepticism, ASML stop buffer tightening
+
+---
+## 2026-07-24 10:13 UTC
+Pre-market 2026-07-24
+Decision: HOLD
+Ideas: ASML hold (ex-div Mon $2.15), TSM watchlist blocked, SLB/energy on watch
+Market: SPX futures -0.4%, VIX 18.70, Oil WTI $92.36 (+6.4%) / Brent $100.40
+Risks: Oil shock (Brent $100+), FOMC Jul 28-29, tariff cliff today, VIX gate blocked

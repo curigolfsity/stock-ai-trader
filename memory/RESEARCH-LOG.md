@@ -4702,3 +4702,54 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Patience > activity.** FOMC Jul 28-29 = hold through next week regardless of minor VIX dips
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
+## Pre-Market Research — 2026-07-24 (Day 59, Friday — Week 12 Day 5)
+
+### Account Snapshot
+- **Equity:** $99,192.96 | **Cash:** $81,112.96 (81.9%) | **Daytrade count:** 0 | **Weekly trades:** 0/3
+- **Deployed:** 18.1% ($18,080) — well below 75-85% target; gates blocking new entries
+- **ASML:** 10sh @ $1,812.982 avg | Current $1,808 (+0.28% intraday from $1,803 prior close; −0.27% unrealized)
+- **Unrealized P&L:** −$49.82 (−0.28%) | **Manual cut threshold (−7%):** $1,686.07 — ASML $121.93 above threshold ✓
+- **Trailing stop:** ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-14)
+- **Stop buffer:** $139.90 (7.74% from current $1,808) — healthy ✓
+- **Phase P&L:** −$807.04 (−0.81%) vs $100,000 starting equity
+
+### Market Context
+- **WTI:** ~$92.36/bbl (+6.4% — significant spike) | **Brent:** ~$100.40/bbl (Brent over $100 psychological threshold)
+- **Oil driver:** Crude inventory draw of 2M barrels + ongoing Iran geopolitical risk; re-escalation = stagflation concern
+- **SPX Futures:** ~7,541 (−0.4% pre-market); 10-yr yield 4.65%
+- **VIX:** ~18.70 (range today 17.32–20.31; opened 17.67) — **NEW ENTRY GATE BLOCKED** ✗ (need sustained close <17)
+- **Today's catalysts:** Section 122 blanket 10% tariff expiry (extension vs. lapse TBD); FOMC Jul 28-29; AXP + VZ + SLB + NEE earnings BMO
+- **Economic releases:** No tier-1 release today (quiet data day); FOMC Jul 28-29 is the major macro event next week
+- **Sector YTD:** Technology +43% | Energy recovering in July (+4.8% weekly as of Jul 17; YTD still −13% large cap) | Financials +1.1% weekly | Tech −3.8% weekly (recent rotation out of tech)
+
+### ASML Thesis Check
+- **INTACT.** Dividend ex-date Jul 28 (Monday) $2.151/sh = $21.51 on 10 shares — hold through next week
+- Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B (2nd raise)
+- Intel AH results (Jul 23) neutral-to-slight positive; High-NA EUV Panther Lake structural demand intact
+- JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy)
+- Today's risk: oil shock + broader risk-off; stop buffer 7.74% — adequate but oil spike is main threat
+
+### Trade Ideas
+1. **ASML — HOLD** | Ex-div Monday Jul 28 ($21.51 on 10sh); thesis intact; stop buffer 7.74%; FOMC blocks any adds
+2. **TSM — Watchlist BLOCKED** | VIX 18.70 ✗ | WTI $92/Brent $100 = macro headwind ✗ | Entry zone $415–440; stop ~$374 GTC trail; ~22sh (~9.4% equity); re-evaluate post-FOMC (Jul 30+) if VIX closes <17 sustained
+3. **Energy sector (SLB, XLE) — On watch** | Brent $100+ = E&P/services catalyst; VIX gate ✗ + FOMC uncertainty ✗ = no entry today; monitor post-FOMC if VIX clears and energy sector momentum holds
+
+### Risk Factors
+- **Oil shock (primary):** WTI +6.4% to $92.36; Brent $100.40 — stagflation narrative gains traction; Fed may hold longer
+- **FOMC uncertainty (Jul 28-29):** No new positions before rate decision; hawkish surprise = VIX spike
+- **Tariff cliff:** Section 122 tariff expiry today — extension vs. lapse = market volatility either way
+- **VIX elevated:** 18.70 with intraday spike to 20.31; gate may stay blocked through FOMC
+- **ASML stop proximity:** Buffer 7.74% from $1,808; oil-driven selloff could pressure ASML toward stop $1,668.105; monitor
+- **Deployment gap:** 18.1% deployed vs 75-85% target — cannot close gap safely while VIX elevated + FOMC ahead
+
+### Decision: **HOLD**
+- VIX 18.70 — new-entry gate BLOCKED ✗
+- Oil shock (WTI +6.4%; Brent $100.40) = stagflation risk compounds ahead of FOMC Jul 28-29
+- ASML: above −7% cut threshold, stop buffer 7.74%, thesis intact, dividend ex-date Monday Jul 28 → hold
+- FOMC Jul 28-29 = no new entries regardless; tariff expiry = wait-and-see
+- **Patience > activity.** Weekly capacity 0/3 — week ends today; full capacity resets Monday.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
