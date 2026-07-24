@@ -2182,3 +2182,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action:** No trades. All new-entry gates blocked. Hold ASML. No stop adjustments needed.
 - **Thesis check (ASML):** INTACT. Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B (2nd raise); Intel 18A High-NA EUV demand structurally intact; dividend ex-date Jul 28; JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy).
 - **Next trigger:** VIX sustained close <17 post-FOMC (Jul 30+) + SOXX recovery confirmed → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Weekly capacity resets Monday (0/3).
+
+---
+
+### Jul 24 — EOD Snapshot (Day 59, Friday)
+**Portfolio:** $98,610.26 | **Cash:** $81,112.96 (82.3%) | **Day P&L:** -$414.80 (-0.42%) | **Phase P&L:** -$1,389.74 (-1.39%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| ASML | 10 | $1,812.982 | $1,749.65 | -2.96% | -$633.32 (-3.49%) | $1,668.105 (10% GTC; HWM $1,853.45) |
+
+**Notes:** Day 59 (Friday, Week 12 Day 5) was a hold day with no new trades. ASML closed at $1,749.65, down -2.96% on the day and -3.49% unrealized from $1,812.982 entry. Trailing stop ccf3c4d9 ACTIVE: stop $1,668.105 (HWM $1,853.45, 10% trail GTC, expires 2026-10-14); buffer $81.55 (4.66% from close) — tightened vs. open but ASML remains above -7% manual cut threshold ($1,686.07 = $1,812.982 × 0.93). Key macro drivers: oil spike to WTI $92.36 / Brent $100.40+ (inventory draw + Iran risk), VIX elevated 17.32–20.31 intraday, Section 122 tariff expiry uncertainty. All new-entry gates BLOCKED. Cash 82.3% ($81,112.96). Phase P&L: -$1,389.74 (-1.39%) vs $100,000 starting equity. Trades this week: 0/3. Week resets Monday. ASML thesis INTACT: Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B (2nd raise); dividend ex-date Monday Jul 28 ($2.151/sh = +$21.51 cash); JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150 (44 analysts Strong Buy). FOMC Jul 28-29 = no new entries; stop buffer tightening warrants monitoring — if ASML drops toward $1,700 in FOMC volatility, stop at $1,668.105 is within reach (~4.7% below). Next trigger: post-FOMC (Jul 30+) if VIX sustained close <17 + SOXX recovery confirmed → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Trail tighten: 7% at +15% ($2,084.93); 5% at +20% ($2,175.58).
