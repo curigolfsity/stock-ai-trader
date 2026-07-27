@@ -2227,3 +2227,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action:** No new trades. GTC stop executed correctly. All cash ($97,790.76). No orders placed. FOMC hard block in place.
 - **Positions:** 0 | **Cash:** $97,790.76 (100%) | **Phase P&L:** −$2,209.24 (−2.21%) vs $100,000 starting equity
 - **Next trigger:** Post-FOMC (Jul 30+) if VIX sustained close <17 + hyperscaler earnings (AMZN/META/MSFT this week) confirm AI capex → evaluate new thesis; TSM remains primary candidate ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity); oil −8% removes stagflation macro headwind. Weekly capacity 0/3.
+
+---
+
+### Jul 27 — EOD Snapshot (Day 60, Monday)
+**Portfolio:** $97,790.76 | **Cash:** $97,790.76 (100%) | **Day P&L:** -$893.10 (-0.90%) | **Phase P&L:** -$2,209.24 (-2.21%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Day 60 (Monday, Week 13 Day 1) — ASML GTC trailing stop (ccf3c4d9) triggered intraday at ~$1,667.78/share (HWM $1,853.45, 10% trail, stop level $1,668.105). Realized P&L: −$1,452.02 (−8.01% from $1,812.982 entry). Catalyst for stop trigger: Bloomberg/The Information report that Shanghai state-backed manufacturer began mass production of immersion DUV lithography tools — direct competitive threat to ASML's DUV revenue and China moat; thesis declared BROKEN; ASML removed from watchlist, not a re-entry candidate. Account now 100% cash ($97,790.76). No new trades entered today. Trades this week: 0/3 (GTC stop execution does not count as a new weekly trade). Day P&L −$893.10 (−0.90%) vs Alpaca last_equity $98,683.86 (Friday Jul 24 close). Phase P&L: −$2,209.24 (−2.21%) vs $100,000 starting equity. All orders cleared. FOMC Jul 28-29 = hard block on new entries. Next trigger: Post-FOMC (Jul 30+) if VIX sustained close <17 + hyperscaler earnings (AMZN/META/MSFT this week) confirm AI capex → evaluate new position; TSM primary candidate ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Sector semi (SOX) after 1 failed ASML trade — one more failure exits sector per rules.
