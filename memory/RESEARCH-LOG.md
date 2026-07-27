@@ -4848,3 +4848,23 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Action:** No trades. All new-entry gates blocked. Hold ASML. No stop adjustments needed.
 - **Thesis check (ASML):** INTACT. Bouncing +1.99% on oil crash (disinflationary relief); ex-dividend tomorrow ($21.51 capture on 10sh); stop buffer 6.92% healthy; Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B (2nd raise); Intel High-NA EUV Panther Lake structural demand intact; JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy).
 - **Next trigger:** Post-FOMC (Jul 30+) if VIX sustained close <17 + hyperscaler earnings (AMZN/META/MSFT this week) confirm AI capex → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). ASML ex-div tomorrow = $21.51 captured. Weekly capacity 0/3 — full week ahead.
+
+### Afternoon Addendum — 2026-07-27 (ASML Stop-Out / China DUV Thesis Break)
+
+- **ASML STOPPED OUT:** GTC trailing stop ccf3c4d9 triggered during today's session; executed at ~$1,667.78/share (stop level $1,668.105; HWM $1,853.45; 10% trail GTC); 10 shares sold; proceeds $16,677.80
+- **Realized P&L:** −$1,452.02 (−8.01% from $1,812.982 entry)
+- **Dividend:** ASML ex-dividend date tomorrow Jul 28 — NOT captured (stopped out today before close)
+- **PRIMARY CATALYST — THESIS BREAK:** Bloomberg/The Information: Shanghai-based state-backed company began **mass production of immersion DUV lithography tools** — direct competitive threat to ASML's China DUV revenue; moat erosion risk is structural, not cyclical
+- **ASML thesis: BROKEN.** China DUV mass production bypasses ASML's export-restricted EUV tools but threatens DUV (immersion) market share and long-term pricing power. ASML NOT a re-entry candidate.
+- **ASML Euronext:** Down ~7.3% (1,563 → 1,449 EUR); Wall Street analysts broadly maintained Buy but reduced near-term catalysts
+- **Market close / macro:**
+  - SPX −0.9% | NQ −1.7% | Semis (SOXX) broadly hit on China DUV news
+  - VIX 17.76 (down from 18.96 open; US-Iran ceasefire holding reduces tail risk; still above 17 new-entry gate)
+  - Oil: WTI $83.25 (−6.8%) / Brent $89.58 (−7.4%) — Iran ceasefire holding, supply fears easing
+  - FOMC starts TOMORROW Jul 28 → hard block all new entries; rate decision Wed Jul 29 2pm ET (Chair Warsh)
+- **Account:** Equity $97,790.76 | Cash $97,790.76 (100%) | Phase P&L: −$2,209.24 (−2.21%)
+- **Watchlist post-ASML:**
+  - **TSM** (primary): VIX ✗ | FOMC ✗ | Entry zone $415–440; stop ~$374 GTC trail; ~22sh (~9.4% equity); different competitive exposure to China DUV risk — TSM is a foundry (customer of ASML); evaluate post-FOMC Jul 30+ if VIX close <17 sustained + hyperscaler AI capex confirmed
+  - **Tech rotation:** Hyperscaler earnings this week (AMZN/META/MSFT Wed/Thu; AAPL later) — if strong AI capex → tech recovery thesis; oil −8% = disinflationary tailwind for rate-sensitive tech
+  - **ASML:** REMOVED from watchlist (thesis broken)
+- **Next gate:** VIX sustained close <17 post-FOMC (Jul 30+); watch hyperscaler results for AI capex confirmation; oil stability matters
