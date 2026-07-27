@@ -4768,3 +4768,67 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Thesis check (ASML):** INTACT. Tariff lapse net positive (lower effective rate = lower import cost headwind). Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B (2nd raise); ex-dividend date Jul 28 ($2.151/sh = +$21.51 on 10sh); Intel High-NA EUV Panther Lake structural demand intact; JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg $2,122 (44 analysts Strong Buy).
 - **Action:** No trades. No stop adjustments. Hold ASML through ex-dividend Jul 28. VIX elevated + FOMC Jul 28-29 → patience.
 - **Next trigger:** VIX sustained close <17 post-FOMC (Jul 30+) + SOXX recovery confirmed → evaluate TSM entry ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Weekly capacity resets Monday (0/3 → 0/3 new week).
+
+---
+
+## Pre-Market Research — 2026-07-27 (Day 60, Monday — Week 13 Day 1)
+
+### Account Snapshot
+- **Equity:** $99,200.16 | **Cash:** $81,112.96 (81.8%) | **Daytrade count:** 0 | **Weekly trades:** 0/3 (new week)
+- **Deployed:** 18.2% ($18,087.20) — well below 75-85% target; gates blocking new entries
+- **ASML:** 10sh @ $1,812.982 avg | Current $1,808.72 (+2.94% intraday from $1,757.09 Friday close; −0.24% unrealized)
+- **Unrealized P&L:** −$42.62 (−0.24%) | **Manual cut threshold (−7%):** $1,686.07 — ASML $122.65 above threshold ✓
+- **Trailing stop:** ccf3c4d9 | HWM $1,853.45 | Stop $1,668.105 | Trail 10% GTC ✅ ACTIVE (expires 2026-10-14)
+- **Stop buffer:** $140.62 (7.77% from current $1,808.72) — healthy ✓
+- **Phase P&L:** −$799.84 (−0.80%) vs $100,000 starting equity
+
+### Market Context
+- **WTI:** ~$83.51–$85.15/bbl (DOWN ~7.7% from $92.19 Friday) | **Brent:** ~$87.89–$90.28/bbl (DOWN ~8–9%)
+- **Oil driver:** US-Iran ceasefire/diplomatic pause over weekend (Pakistan/China brokering); geopolitical risk premium unwinding; rising US inventories
+- **SPX Futures:** +0.80% to +0.94% premarket | NQ (Nasdaq) +1.6% | Dow +0.8% — risk-on relief rally
+- **VIX:** ~18.96 (elevated; NOT clearing 17 gate yet despite risk-on) — **NEW ENTRY GATE BLOCKED** ✗
+- **Sector YTD (2026):** Energy +25.37% (YTD leader; oil crash today = potential rotation out) | Financials +4.8% | Healthcare +0.1% | Technology −2.43% (recovering today with oil-driven disinflation narrative)
+- **Today's catalysts:**
+  - US-Iran de-escalation = oil −8% → disinflationary tailwind; relief rally in equities
+  - FOMC meeting starts TOMORROW (Jul 28-29); rate decision Wednesday; Chair Kevin Warsh presser
+  - Durable Goods Orders (June) — released today; key manufacturing read
+  - Busiest earnings mega-week begins: Amazon/Meta/Microsoft report Wed/Thu; Apple later
+  - ASML ex-dividend date: **Tomorrow July 28** ($2.151/sh = $21.51 on 10 shares) — hold intact
+- **Earnings BMO today (Jul 27):** Light day — BKR (Baker Hughes), AZN (AstraZeneca), ARLP; no semis/tech heavyweights
+- **Economic calendar this week:**
+  - Today: Durable Goods Orders (June)
+  - Tue Jul 28: Consumer Confidence (Conference Board)
+  - Wed Jul 29: FOMC rate decision + press conference; Q2 GDP advance estimate (BEA)
+  - Thu Jul 30: PCE Price Index; Weekly Jobless Claims
+
+### ASML Thesis Check
+- **INTACT + BOUNCING.** Up +2.94% premarket ($1,808.72); recovering from Friday's oil-driven selloff
+- Ex-dividend date **tomorrow Jul 28** ($2.151/sh = $21.51 on 10 shares) — captured by holding today ✓
+- Q2 beat (€9.3B sales, 54% gross margin, EPS $8.69 vs $7.95 est); FY2026 guide raised €43–45B (2nd raise)
+- Intel High-NA EUV Panther Lake (18A node) structural demand intact; hyperscaler AI capex week ahead (AMZN/META/MSFT) = potential ASML upside catalyst
+- Oil crash (-8%) = disinflationary relief; removes macro headwind from stagflation narrative
+- JPM PT $2,400 / Wells $2,500 / Deutsche Bank €2,150; avg analyst PT ~$2,122 (44 analysts Strong Buy)
+- Stop buffer 7.77% — healthy; no cut trigger near
+
+### Trade Ideas
+1. **ASML — HOLD** | Bouncing +2.94%; ex-div tomorrow ($21.51 capture); thesis intact; stop buffer 7.77%; FOMC hard block on any change
+2. **TSM — Watchlist BLOCKED** | VIX 18.96 ✗ | FOMC starts tomorrow ✗ | Re-evaluate post-FOMC (Jul 30+) if VIX closes <17 sustained + SOXX recovery; entry zone $415–440; stop ~$374 GTC trail; ~22sh (~9.4% equity)
+3. **Tech rotation play (post-FOMC watch)** | Oil crash = disinflationary → Fed may soften tone; NQ +1.6% today; hyperscaler earnings this week (AMZN/META/MSFT/AAPL) — if all beat + strong AI capex guidance → tech recovery thesis; monitor for VIX close <17 post-FOMC Wednesday; no entries before decision
+
+### Risk Factors
+- **FOMC (primary):** Starts tomorrow; hawkish surprise from Warsh (known hawk) → VIX spike, rate-sensitive tech selloff; gate may stay blocked all week
+- **VIX still elevated:** 18.96 despite risk-on; needs sustained close <17 for new-entry gate; oil crash helps but FOMC uncertainty caps VIX decline
+- **Oil reversal risk:** Geopolitical de-escalation priced in fast; if Iran talks collapse → oil reverses, macro headwind returns
+- **Hyperscaler earnings disappointment:** AMZN/META/MSFT reporting Wed/Thu; any AI capex pullback messaging → ASML/TSM downside
+- **ASML HWM gap:** Stop $1,668.105 vs HWM $1,853.45 — HWM hasn't been updated since ASML peaked; if today's bounce continues past $1,853.45 the HWM will ratchet up and stop will tighten (10% trail = good)
+- **Deployment gap:** 18.2% deployed vs 75-85% target — cannot safely close until VIX clears 17 post-FOMC
+
+### Decision: **HOLD**
+- VIX 18.96 — new-entry gate BLOCKED ✗
+- FOMC starts tomorrow (Jul 28-29) — hard rule: no new entries during FOMC meeting window
+- ASML: bouncing +2.94%, ex-div tomorrow ($21.51 capture), thesis intact, stop buffer 7.77% healthy
+- Oil crash is a positive macro shift (disinflationary); watch for sustained VIX move <17 post-FOMC Wednesday
+- Post-FOMC re-evaluate: if VIX closes <17 sustained (Jul 30+) + hyperscaler earnings strong → TSM entry zone $415–440 opens; oil crash removes key macro headwind
+- **Patience > activity.** Weekly capacity 0/3 — do not burn trades before FOMC clarity.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
