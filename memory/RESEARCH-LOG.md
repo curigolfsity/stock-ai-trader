@@ -4868,3 +4868,59 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
   - **Tech rotation:** Hyperscaler earnings this week (AMZN/META/MSFT Wed/Thu; AAPL later) — if strong AI capex → tech recovery thesis; oil −8% = disinflationary tailwind for rate-sensitive tech
   - **ASML:** REMOVED from watchlist (thesis broken)
 - **Next gate:** VIX sustained close <17 post-FOMC (Jul 30+); watch hyperscaler results for AI capex confirmation; oil stability matters
+
+---
+
+## 2026-07-28 — Pre-market Research (Day 61, Tuesday — Week 13 Day 2, FOMC Day 1)
+
+### Account
+- Equity: $97,790.74
+- Cash: $97,790.74 (100%)
+- Buying power: $391,162.96 (margin)
+- Daytrade count: 0
+- Weekly trades: 0/3
+- Phase P&L: −$2,209.26 (−2.21%) vs $100,000 starting equity
+- Positions: 0 (all cash; ASML stopped out Jul 27)
+
+### Market Context
+- WTI: ~$83.07/bbl (−1.5% today; down from $92.36 high last week on US-Iran ceasefire holding)
+- Brent: ~$86.58/bbl (−1.54% today)
+- SPX futures: ~7,429.50 (roughly flat to −0.2% pre-market; chip sell-off weighing)
+- VIX: ~18.70 (prev close 18.58; STILL above 17 new-entry gate ✗)
+- 10-yr Treasury: ~4.64%
+- Today's catalysts:
+  - FOMC Day 1 of 2 — rate decision Wednesday Jul 29 2pm ET (Chair Warsh); no statement today
+  - China DUV news (Jul 27) still reverberating — Asian semis down hard overnight; chip sell-off deepening
+  - 7.1 magnitude earthquake hit Kumamoto, Japan — TSMC facility assessment PENDING (stock −2.75% to $388.10)
+  - Consumer Confidence (Conference Board) release today
+  - Q2 2026 earnings season running hot: S&P 500 YoY growth ~38%
+- Earnings before open:
+  - BMY, MO, AEP, IP, HII, Labcorp, Quanta Services, Builders FirstSource, Corteva, Ingersoll Rand
+  - Big tech (AMZN, MSFT, META, AAPL) reporting later this week; confirm AI capex guidance
+- Sector momentum YTD 2026 (major rotation from 2025):
+  - Leaders: Energy +22.3%, Consumer Staples +16.0%, Materials +15.7%, Industrials +11.9%
+  - Laggards: Financials −5.7%, Consumer Discretionary −4.6%, Information Technology −3.8%
+  - Broad breadth: 60%+ of S&P 500 stocks beating the index; defensive/value thesis dominant
+
+### Trade Ideas
+1. **TSM (primary watchlist) — BLOCKED, monitor:** Q2 revenue $40.7B (+34% YoY), gross margin 67.6%, price hike +5-10% announced for 2027. BUT 7.1-magnitude earthquake in Kumamoto today — TSMC facility damage assessment pending; stock −2.75% to $388.10. Entry zone revised down: $385–415 (adjusted from $415–440 given earthquake-driven pullback + FOMC). Stop ~$349–355 GTC trail. ~22–24 shares (~9% equity). Gates: VIX ✗ | FOMC Day 1 ✗ | earthquake damage unknown ✗. Re-evaluate post-FOMC (Jul 30+): if facility intact + VIX close <17 sustained + AMZN/MSFT/META AI capex strong → TSM entry becomes primary candidate.
+2. **Energy sector (XOM or CVX) — watchlist, post-FOMC:** Energy +22.3% YTD top sector. Oil WTI $83 stabilizing after −8% oil crash (Iran ceasefire). If oil holds $80 support + FOMC dovish → sector momentum thesis. Entry post-FOMC only. Need VIX <17. Stop 10% below entry.
+3. **Consumer Staples defensive (e.g., PG or KO) — low priority watch:** Sector +16% YTD; low beta; defensive in volatile tape; not compelling enough vs. TSM upside without new catalyst.
+
+### Risk Factors
+- **FOMC (primary):** Day 1 today; decision tomorrow Jul 29 2pm ET. Hawkish Warsh surprise → VIX spike, rate-sensitive selloff; gate may stay blocked through end of week
+- **TSM earthquake:** Kumamoto facility damage unknown; if material impact → production guidance risk, stock further downside; HOLD watchlist entry until assessment clear
+- **Chip sector contagion:** China DUV news + earthquake news = double headwind for semis; SOXX under pressure; VIX unlikely to close <17 before FOMC resolution
+- **100% cash risk:** Only −2.21% phase P&L, but fully undeployed (target 75-85%); can't deploy until VIX clears + FOMC passes; patience is correct posture
+- **Oil re-reversal:** If Iran talks collapse → oil spikes again → stagflation macro headwind returns
+- **Tech sector laggard:** IT −3.8% YTD; structural sector rotation working against tech plays short-term; must pick stocks with specific catalysts, not sector tailwind
+
+### Decision: **HOLD**
+- VIX 18.70 — new-entry gate BLOCKED ✗
+- FOMC Day 1 — hard rule: no new entries during meeting window ✗
+- TSM earthquake — facility damage unknown; not time to enter primary candidate ✗
+- 100% cash is correct — protect capital through FOMC uncertainty
+- **Post-FOMC trigger (Jul 30+):** VIX sustained close <17 + TSMC facility intact + AMZN/MSFT/META strong AI capex → TSM entry zone $385–415; stop ~$349–355 GTC trail; ~22–24sh (~9% equity)
+- Patience > activity.
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
