@@ -2238,3 +2238,19 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | — | — | — | — | — | — | — |
 
 **Notes:** Day 60 (Monday, Week 13 Day 1) — ASML GTC trailing stop (ccf3c4d9) triggered intraday at ~$1,667.78/share (HWM $1,853.45, 10% trail, stop level $1,668.105). Realized P&L: −$1,452.02 (−8.01% from $1,812.982 entry). Catalyst for stop trigger: Bloomberg/The Information report that Shanghai state-backed manufacturer began mass production of immersion DUV lithography tools — direct competitive threat to ASML's DUV revenue and China moat; thesis declared BROKEN; ASML removed from watchlist, not a re-entry candidate. Account now 100% cash ($97,790.76). No new trades entered today. Trades this week: 0/3 (GTC stop execution does not count as a new weekly trade). Day P&L −$893.10 (−0.90%) vs Alpaca last_equity $98,683.86 (Friday Jul 24 close). Phase P&L: −$2,209.24 (−2.21%) vs $100,000 starting equity. All orders cleared. FOMC Jul 28-29 = hard block on new entries. Next trigger: Post-FOMC (Jul 30+) if VIX sustained close <17 + hyperscaler earnings (AMZN/META/MSFT this week) confirm AI capex → evaluate new position; TSM primary candidate ($415–440; stop ~$374 GTC trail; ~22sh; ~9.4% equity). Sector semi (SOX) after 1 failed ASML trade — one more failure exits sector per rules.
+
+---
+
+### Midday Scan — 2026-07-28 (Day 61, Tuesday — Week 13 Day 2, FOMC Day 1)
+
+- **Account:** Equity $97,790.74 | Cash $97,790.74 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 (100% cash; ASML stopped out Jul 27) | **Open orders:** 0
+- **Loser check:** N/A — no positions ✓
+- **Winner tighten:** N/A — no positions ✓
+- **Thesis check:** N/A — no positions ✓
+- **VIX:** 17.94 (down 3.91% from ~18.67; approaching 17 gate but NOT cleared) — **NEW ENTRY GATE BLOCKED** ✗
+- **FOMC:** Day 1 of 2 — hard rule: NO new entries ✗. Decision tomorrow Jul 29 2pm ET (no dot plot). 68.5% odds hold; 31.5% odds hike. Fifth consecutive hold expected (last cut Dec 2025).
+- **TSM update:** Kumamoto JASM facility CONFIRMED SAFE — structural integrity cleared; personnel safe; operations gradually resuming; construction not affected. Stock ~$386.99 (prev close $399.09; −3.61% today on export-control/geopolitical concerns, not earthquake damage). Key gate partially cleared: facility damage no longer a blocker; export risk remains watch item.
+- **Hyperscaler earnings:** MSFT + META report tomorrow AH (Jul 29); AMZN + AAPL Thursday (Jul 30). AI capex confirmation ($725B combined 2026 plan, +77% YoY) = primary TSM demand catalyst.
+- **Action:** NO TRADES. All gates blocked (VIX ✗; FOMC Day 1 ✗). Patience > activity.
+- **Next trigger:** Post-FOMC (Jul 30+): VIX sustained close <17 + MSFT/META/AMZN beats + AI capex strong → evaluate TSM entry ($380–415; stop ~$342–374 GTC trail 10%; ~24sh at $390 = ~9.6% equity). FOMC decision tomorrow 2pm ET = primary binary event.

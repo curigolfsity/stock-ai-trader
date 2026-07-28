@@ -4942,3 +4942,27 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
   - TSM earthquake damage: ✗ (unknown; stock -12.7% below prior entry zone)
 - **Action:** NO TRADES. All gates blocked. 100% cash correct posture. Patience > activity.
 - **Next trigger:** Post-FOMC (Jul 30+): VIX sustained close <17 + TSMC facility damage assessment clear + AMZN/MSFT/META AI capex confirmation → re-evaluate TSM entry zone (now $340–385 given earthquake pullback; stop ~$306–347 GTC trail 10%; ~25sh at $350 = ~9% equity). If TSM facility materially damaged → exit semi sector watchlist; pivot to Energy (XOM/CVX, sector +22.3% YTD) or Consumer Staples if VIX clears. Sector semi has 1 failed trade (ASML); 1 more failure = exit sector per rules.
+
+### Midday Addendum — 2026-07-28
+
+**TSMC Kumamoto facility CONFIRMED SAFE** (GuruFocus / Digitimes / WTAQ): Structural integrity cleared; all personnel safe; operations gradually resuming; construction site unaffected (some activities paused for aftershock safety). This clears the facility-damage blocker for TSM watchlist candidacy.
+
+**TSM price update:** Trading ~$386.99 (prev close $399.09; −3.61% today). Intraday range $381.30–$390.66. Day's decline attributed to export-control concerns and geopolitical risk, not earthquake damage. Entry zone revised to **$380–415** (upward from $340–385 pre-market estimate; pre-market $340.77 data was an illiquid bid spike). Stop ~$342–374 GTC trail 10%. ~24sh at $390 = ~9.6% equity.
+
+**VIX:** 17.94 (−3.91% on day; approaching but not clearing 17 gate). FOMC hard block remains Day 1 of 2. Gate status: **BLOCKED** ✗
+
+**Hyperscaler earnings schedule:**
+- MSFT + META → tomorrow Jul 29 AH
+- AMZN + AAPL → Thursday Jul 30 AH
+- Combined AI capex plan $725B in 2026 (+77% YoY); Meta raised 2026 capex to $125–145B; MSFT Azure guided +39-40% CC growth. Strong prints = key TSM demand confirmation.
+
+**FOMC:** 68.5% market odds of hold (5th consecutive no-change since Dec 2025 last cut). Decision tomorrow 2pm ET. No dot plot. Hold expected; hawkish surprise = VIX spike, gate stays blocked.
+
+**Updated TSM gate checklist (post-FOMC, Jul 30+):**
+- VIX sustained close <17: ✗ (17.94 intraday; not yet)
+- FOMC concluded: ✗ (decision tomorrow)
+- Facility damage: ✓ CLEARED
+- Export-control risk: monitor (−3.61% today on this; not a thesis-breaker yet)
+- Hyperscaler AI capex: pending (MSFT/META tomorrow; AMZN Thursday)
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
