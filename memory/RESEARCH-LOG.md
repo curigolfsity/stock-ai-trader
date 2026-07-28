@@ -4924,3 +4924,21 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - Patience > activity.
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+### Market-Open Scan — 2026-07-28 (Day 61, Tuesday — Week 13 Day 2, FOMC Day 1)
+
+- **Account:** Equity $97,790.74 | Cash $97,790.74 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 (all cash; ASML stopped out Jul 27)
+- **Open orders:** 0
+- **TSM:** Last bid $340.77 (vs. $388.10 pre-market yesterday — earthquake impact deeper than modeled; down ~12.7% from pre-market entry zone $385–415)
+- **VIX:** ~18.70 at pre-market; still well above 17 new-entry gate ✗ (no confirmed close below 17)
+- **FOMC:** Day 1 of 2 today — hard rule: NO new entries during meeting window ✗
+- **TSM earthquake:** Kumamoto 7.1-magnitude; TSM fell to $340.77 (well below $385–415 entry zone) — facility damage assessment still pending; entry zone needs re-evaluation post-FOMC with damage clarity ✗
+- **Loser check:** No positions. N/A.
+- **Winner tighten:** No positions. N/A.
+- **Rule checks (all failed — no trade):**
+  - VIX gate: ✗ (>17)
+  - FOMC hard block: ✗ (Day 1 of 2)
+  - TSM earthquake damage: ✗ (unknown; stock -12.7% below prior entry zone)
+- **Action:** NO TRADES. All gates blocked. 100% cash correct posture. Patience > activity.
+- **Next trigger:** Post-FOMC (Jul 30+): VIX sustained close <17 + TSMC facility damage assessment clear + AMZN/MSFT/META AI capex confirmation → re-evaluate TSM entry zone (now $340–385 given earthquake pullback; stop ~$306–347 GTC trail 10%; ~25sh at $350 = ~9% equity). If TSM facility materially damaged → exit semi sector watchlist; pivot to Energy (XOM/CVX, sector +22.3% YTD) or Consumer Staples if VIX clears. Sector semi has 1 failed trade (ASML); 1 more failure = exit sector per rules.
