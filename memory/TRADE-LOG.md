@@ -2254,3 +2254,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Hyperscaler earnings:** MSFT + META report tomorrow AH (Jul 29); AMZN + AAPL Thursday (Jul 30). AI capex confirmation ($725B combined 2026 plan, +77% YoY) = primary TSM demand catalyst.
 - **Action:** NO TRADES. All gates blocked (VIX ✗; FOMC Day 1 ✗). Patience > activity.
 - **Next trigger:** Post-FOMC (Jul 30+): VIX sustained close <17 + MSFT/META/AMZN beats + AI capex strong → evaluate TSM entry ($380–415; stop ~$342–374 GTC trail 10%; ~24sh at $390 = ~9.6% equity). FOMC decision tomorrow 2pm ET = primary binary event.
+
+---
+
+### Jul 28 — EOD Snapshot (Day 61, Tuesday)
+**Portfolio:** $97,790.74 | **Cash:** $97,790.74 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** -$2,209.26 (-2.21%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Day 61 (Tuesday, Week 13 Day 2, FOMC Day 1) — complete hold day, no trades. Account remains 100% cash ($97,790.74) following ASML GTC stop execution on Jul 27. Day P&L: $0.00 (flat; all cash, no market exposure). Phase P&L: −$2,209.26 (−2.21%) vs $100,000 starting equity. FOMC Day 1 of 2 — hard rule: no new entries; decision Wednesday Jul 29 2pm ET (expected 5th consecutive hold; ~68% odds hold / ~32% odds hike; no dot plot this meeting). VIX ~17.94 at midday, approaching but not yet cleared 17 gate. TSM ~$387 (down ~3.6% on export-control concerns, not earthquake damage; Kumamoto JASM facility confirmed structurally safe). Key binary events ahead: MSFT + META earnings AH tomorrow (Jul 29); AMZN + AAPL Thursday (Jul 30); FOMC decision Wednesday. AI capex confirmation ($725B combined 2026 plan, +77% YoY) = primary TSM demand catalyst. Trades this week: 0/3. Next trigger: post-FOMC (Jul 30+) if VIX sustained close <17 + hyperscaler beats + AI capex strong → evaluate TSM entry ($380–415; stop ~$342–374 GTC trail 10%; ~24sh at $390 = ~9.6% equity).
