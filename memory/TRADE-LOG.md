@@ -2265,3 +2265,21 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | — | — | — | — | — | — | — |
 
 **Notes:** Day 61 (Tuesday, Week 13 Day 2, FOMC Day 1) — complete hold day, no trades. Account remains 100% cash ($97,790.74) following ASML GTC stop execution on Jul 27. Day P&L: $0.00 (flat; all cash, no market exposure). Phase P&L: −$2,209.26 (−2.21%) vs $100,000 starting equity. FOMC Day 1 of 2 — hard rule: no new entries; decision Wednesday Jul 29 2pm ET (expected 5th consecutive hold; ~68% odds hold / ~32% odds hike; no dot plot this meeting). VIX ~17.94 at midday, approaching but not yet cleared 17 gate. TSM ~$387 (down ~3.6% on export-control concerns, not earthquake damage; Kumamoto JASM facility confirmed structurally safe). Key binary events ahead: MSFT + META earnings AH tomorrow (Jul 29); AMZN + AAPL Thursday (Jul 30); FOMC decision Wednesday. AI capex confirmation ($725B combined 2026 plan, +77% YoY) = primary TSM demand catalyst. Trades this week: 0/3. Next trigger: post-FOMC (Jul 30+) if VIX sustained close <17 + hyperscaler beats + AI capex strong → evaluate TSM entry ($380–415; stop ~$342–374 GTC trail 10%; ~24sh at $390 = ~9.6% equity).
+
+---
+
+### Market-Open Scan — 2026-07-29 (Day 62, Wednesday — Week 13 Day 3, FOMC Day 2)
+
+- **Account:** Equity $97,790.74 | Cash $97,790.74 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 (all cash; ASML stopped out Jul 27) | **Open orders:** 0
+- **Loser check:** N/A — no positions ✓
+- **Winner tighten:** N/A — no positions ✓
+- **TSM:** ~$387 (web-confirmed; Alpaca quote shows stale $338.11 dark-pool bid — confirmed data artifact, not real price) | Entry zone $385–415 ✓ (price-wise)
+- **VIX:** 18.67 (prior close) — **NEW ENTRY GATE BLOCKED** ✗ (need sustained close <17)
+- **FOMC:** Day 2 of 2 — **HARD BLOCK: NO new entries** ✗ (decision 2pm ET; Warsh press conference 2:30pm ET)
+- **Market:** SPY pre-market $740.55 (flat); SPX futures flat to slight positive; oil spiking (WTI recovering); ~75% market odds for FOMC hold at 3.50-3.75%
+- **Gate check — ALL FAILED:**
+  - VIX gate: ✗ (18.67 > 17)
+  - FOMC hard block: ✗ (Day 2; decision 2pm ET)
+- **Action:** NO TRADES. All hard gates blocked. Hold 100% cash. Patience > activity.
+- **Next trigger:** Post-FOMC (2pm ET today) — if HOLD confirmed + VIX begins to ease → evaluate TSM for Jul 30 pre-market entry. Tonight: MSFT + META earnings AH (AI capex read-through). Tomorrow: GDP Q2 advance (8:30am ET) + AMZN/AAPL AH. Full TSM entry trigger: VIX sustained close <17 + MSFT/META strong AI capex + FOMC hold → TSM $385–415 (~24sh at $390 = ~9.6% equity; stop ~$349–374 GTC trail 10%).
