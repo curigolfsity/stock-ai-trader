@@ -5034,3 +5034,47 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - Patience > activity. Weekly capacity: 0/3 — full week ahead.
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+### Midday Scan — 2026-07-29 (Day 62, Wednesday — Week 13 Day 3, FOMC Day 2)
+
+- **Account:** Equity $97,790.74 | Cash $97,790.74 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 | **Open orders:** 0
+- **Loser check:** N/A — no positions ✓
+- **Winner tighten:** N/A — no positions ✓
+- **Thesis check:** N/A — no positions ✓
+
+#### FOMC Decision (2pm ET)
+- **HOLD at 3.50%–3.75%** (5th consecutive hold) ✓ — no rate change
+- **Warsh press conference (2:30pm ET): HAWKISH LEAN** — "prices are too high"; "no tolerance for persistently elevated inflation"; no explicit forward guidance; hike bias intact if inflation stalls
+- Internal dissent: Logan, Hammack, Kashkari, Waller favor tighter policy; oil >$100 cited as key inflation catalyst
+- Market reading: Hold was priced; hawkish tone = VIX did NOT collapse post-FOMC
+
+#### Market Update
+- **VIX:** 18.21 — **STILL ABOVE 17 NEW-ENTRY GATE** ✗ (no relief post-FOMC)
+- **SPX/SPY:** +0.2–0.33% intraday (muted; holding ahead of MSFT/META AH)
+- **Semi sector:** Continued pressure; GLW −20%, SNDK −16.1%, COHR −15.5%, MU/AMD −8% (Jul 28); spill continuing Jul 29
+- **Oil:** Brent >$100 (Warsh cited as key inflation catalyst); WTI recovering
+
+#### TSM Update
+- **Price:** $377.34 (−3.3–4.3% intraday; 7th straight down session)
+- **Status: BROKE BELOW $385–415 entry zone** ✗ — no reversal signal; 7-day downtrend intact
+- **Entry decision: DEFERRED** — VIX gate ✗ + price below zone + 7-day downtrend + MSFT AH binary = too many blockers
+
+#### Earnings AH (Tonight)
+- **META (Q2 2026):** Beat. Revenue ~$60B+ (consensus $60.2B); EPS beat. AI capex $135B FY2026 (top of range) — net mixed (Alphabet-parallel capex concern)
+- **MSFT (Q4 FY2026):** Reports AH. Consensus $87.67B rev, EPS $4.24, Azure 39–40% growth; FY2027 capex pre-disclosed $255–260B vs $190B FY2026. **Primary gating event for TSM re-entry thesis.**
+- **QCOM, LRCX, ARM:** Also AH — additional semi demand read-through
+
+#### Action: NO TRADES
+- VIX 18.21 → gate BLOCKED ✗
+- TSM below $385 entry zone ($377.34) → entry timing wrong ✗
+- MSFT AH binary event → wait ✗
+- Warsh hawkish lean → VIX easing below 17 may take days ✗
+- 100% cash ($97,790.74). Weekly capacity: 0/3. Patience > activity.
+
+#### Revised Next Trigger (Post-MSFT AH)
+- **MSFT beats + Azure 39%+ + AI capex justified → re-engage TSM thesis; entry zone $375–410**
+- **MSFT misses or capex concern → TSM deferred; semi sector = 2 failures (ASML+TSM fail) → rule triggers: EXIT SEMI, pivot Energy (XOM/CVX, sector +22.34% YTD)**
+- Tomorrow (Jul 30): GDP Q2 advance + PCE (8:30am ET) + AMZN/AAPL AH = additional gates
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
