@@ -4966,3 +4966,71 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - Hyperscaler AI capex: pending (MSFT/META tomorrow; AMZN Thursday)
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+## 2026-07-29 — Pre-Market Research (Day 62, Wednesday — Week 13 Day 3, FOMC Day 2)
+
+### Account Snapshot
+- **Equity:** $97,790.74 | **Cash:** $97,790.74 (100%) | **Positions:** 0 | **Open orders:** 0
+- **Day P&L:** $0.00 | **Phase P&L:** −$2,209.26 (−2.21%) vs $100,000 starting equity
+- **Daytrade count:** 0 | **Weekly trades:** 0/3
+
+### Market Context
+- **WTI Oil:** ~$82.34 (recovering; Jul 28 close $79.28, −4.03%; rebounding from $77.97 breakdown low)
+- **Brent Oil:** ~$89.53 (+$0.45 from prior session; WTI/Brent spread ~$7+)
+- **SPX Futures:** +0.18%–+0.20% pre-market (cautiously positive; FOMC + mega-cap AH earnings day)
+- **VIX:** 18.67 (Jul 28 close) — **ABOVE 17 new-entry gate** ✗
+- **10-yr Treasury:** ~4.64%
+
+### FOMC — Primary Event Today
+- Decision at **2:00 PM ET**, Warsh press conference 2:30 PM ET
+- Consensus: **HOLD at 3.50%–3.75%** (5th consecutive hold since Dec 2025 last cut)
+- Market odds: ~75% hold / ~25% hike / 0% cut
+- Warsh tone on inflation trajectory is key; hawkish surprise = VIX spike, gates stay blocked
+
+### Today's Catalysts
+- **Earnings BMO:** PG (beat watch; Consumer Staples +16% YTD), VRT (Vertiv; AI data center infrastructure; Industrials play), GD (General Dynamics), AON
+- **Earnings AMC:** **MSFT** (Q4 FY2026; rev ~$87.7B, EPS ~$4.24; Azure growth + AI capex key; FY2027 capex ~$255–260B expected), **META** (Q2 2026; rev ~$58–61B; 94.7% beat probability; capex guidance is the risk), QCOM (Q3 FY2026; rev ~$9.71B; options pricing 12.8% move), LRCX, ARM, SBUX
+- **Global semi selloff:** MU −4%+ pre-market; Nasdaq 100 approaching technical correction; broad chip weakness — TSM caught in it
+- **Tomorrow (Jul 30):** GDP advance Q2 2026 (8:30am ET) + PCE/Personal Income (8:30am ET) + AMZN/AAPL earnings AH
+
+### TSM Update
+- **Last close (Jul 28):** $392.31 | **52-wk range:** $223.70–$479.00 | **ATH:** $477.57 (Jun 30, 2026; stock −18% from ATH)
+- **Q2 results (reported):** Revenue $40.2B (beat); FY2026 guide raised to ~40%+ growth; capex raised to $18.75–20B on AI demand; Q3 guide $44.6–45.8B rev, 65–67% gross margin
+- **Analyst consensus:** 18 Buy / 0 Sell; avg PT $540.20 (+38% from current); Strong Buy unanimous
+- **Headwind today:** Participating in global semi selloff; specific entry timing remains risky
+
+### Trade Ideas
+1. **TSM — WATCHLIST PRIMARY, ALL GATES BLOCKED:**
+   - Catalyst: AI chip demand structural; Q2 beat; $40.2B rev (+34% YoY); 18 Buy / 0 Sell; avg PT $540.20
+   - Entry zone: $385–415 (stock at $392.31; currently in semi selloff — may test lower)
+   - Stop: ~$349–374 GTC trailing 10% (~24sh at $390 = ~9.6% equity)
+   - Gates: VIX ✗ | FOMC Day 2 ✗ | semi selloff contagion ✗
+   - **Trigger:** Post-FOMC (today 2pm ET) + MSFT/META/QCOM AH beats + AI capex strong → re-evaluate Jul 30 pre-market
+2. **XOM or CVX — Energy watchlist, post-FOMC:**
+   - Catalyst: Energy sector +22.34% YTD #1 sector; WTI recovering to $82 after −8% crash
+   - Entry: Post-FOMC only; need VIX <17 sustained; stop 10% below entry
+   - Risk: Oil re-reversal if Iran ceasefire collapses; WTI $80 support critical
+3. **VRT (Vertiv) — Watch BMO earnings today:**
+   - Catalyst: AI data center infrastructure; Industrials sector +11.92% YTD; reports BMO today
+   - Note: Only enter post-gate-clear; do not chase on earnings day
+
+### Risk Factors
+- **FOMC hike surprise (25% market-implied):** VIX spike → gates stay blocked well past today; semi/tech selloff accelerates
+- **MSFT/META capex narrative:** If capex guidance is too aggressive → AI ROI doubt → semi demand thesis undermined → TSM re-entry deferred
+- **Global semi contagion:** MU −4%+ pre-market; Nasdaq 100 near technical correction; TSM entry timing risky even post-FOMC
+- **GDP + PCE tomorrow (Jul 30):** If GDP misses badly or PCE hot → macro headwinds into end of week
+- **Oil re-reversal:** WTI recovering but $80 support critical; break = stagflation risk returns
+- **100% cash concentration risk:** Not deployed (target 75-85%), but patience correct given stacked uncertainties today
+
+### Decision: **HOLD**
+- VIX 18.67 → gate BLOCKED ✗
+- FOMC Day 2 decision 2pm ET → hard rule: NO new entries ✗
+- Global semi selloff → TSM entry timing premature even if VIX hypothetically cleared ✗
+- Tonight = biggest AI capex read-through of the season (MSFT + META + QCOM + LRCX + ARM)
+- **Post-FOMC trigger (Jul 30+):** VIX sustained close <17 + MSFT/META strong AI capex + FOMC hold confirmed → TSM entry zone $385–415; stop ~$349–374 GTC trail 10%; ~24sh at $390 = ~9.6% equity
+- If semi sector selloff deepens post-earnings → ASML+semi = 2 failed sector trades → pivot to Energy (XOM/CVX; sector +22.34% YTD)
+- Patience > activity. Weekly capacity: 0/3 — full week ahead.
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_

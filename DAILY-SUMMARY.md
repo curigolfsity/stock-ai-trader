@@ -205,3 +205,11 @@ Pre-market 2026-07-27 | Decision: HOLD
 Ideas: ASML hold (ex-div tomorrow +$21.51, +2.94% bounce), TSM watchlist BLOCKED (VIX+FOMC), Tech rotation watch post-FOMC
 Market: SPX futures +0.9%, VIX 18.96 (gate blocked), Oil WTI ~$84 (-7.7% Iran de-escalation)
 Risks: FOMC starts tomorrow (Warsh hawkish risk), VIX sticky >17, hyperscaler earnings mid-week (AMZN/META/MSFT)
+
+---
+## 2026-07-29 10:14 UTC (ntfy 403 fallback)
+Pre-market 2026-07-29
+Decision: HOLD
+Ideas: TSM 92 (semi selloff/FOMC block), XOM energy sector +22% YTD
+Market: SPX futures +0.2%, VIX 18.67, Oil WTI $82.34
+Risks: FOMC hike surprise (25%), global semi selloff, MSFT/META capex AH tonight
