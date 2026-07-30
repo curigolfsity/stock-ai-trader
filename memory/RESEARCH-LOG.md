@@ -5078,3 +5078,72 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - Tomorrow (Jul 30): GDP Q2 advance + PCE (8:30am ET) + AMZN/AAPL AH = additional gates
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+### Pre-Market Research — 2026-07-30 (Day 63, Thursday — Week 13 Day 4)
+
+- **Account:** Equity $97,790.74 | Cash $97,790.74 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 (all cash; ASML stopped out Jul 27) | **Open orders:** 0
+- **Loser check:** N/A — no positions ✓
+- **Winner tighten:** N/A — no positions ✓
+
+#### Market Context
+- **Oil:** WTI $84.20/bbl | Brent $89.43/bbl (both +6-7% on Jul 29; Middle East/Iran tensions; WTI briefly hit $100 earlier in July on Strait of Hormuz disruption)
+- **SPX futures:** +0.18% pre-market (SPX closed −1.52% at 7,316.15 on Jul 29)
+- **VIX:** 19.53 pre-market (down 5.47% from 20.66 close Jul 29) — **ABOVE 17 NEW-ENTRY GATE ✗**
+- **FOMC:** HOLD confirmed Jul 29 at 3.50–3.75% (5th consecutive hold) — **FOMC BLOCK LIFTED** ✓ (Warsh hawkish tone at press conference; no dot plot; internal dissent from Logan/Hammack/Waller; hike bias intact if inflation stalls)
+- **GDP Q2 advance estimate:** Due 8:30am ET — consensus +2.3% QoQ; GDPNow tracking +1.54%
+- **PCE June:** Due 8:30am ET — Core PCE YoY expected +3.3% (cooling from 3.4%); MoM expected +0.1% vs +0.3% prior
+- **Personal income/spending June:** Due 8:30am ET — income +0.3%, spending +0.4% expected
+- **Sector momentum YTD:** Energy #1 (XOM +31%, CVX +29%); Technology leading broad indices; S&P 500 +9.0% YTD as of Jul 24
+
+#### Earnings Events (Jul 29 AH / Jul 30 BMO & AH)
+- **MSFT Q4 FY2026 (AH Jul 29): MASSIVE BEAT** — Rev $90.01B (+17.8% YoY; est $87.63B); EPS $4.74 (est $4.24); Azure +43% crossed $100B annual milestone; Intelligent Cloud $39.31B (+32%); FY2027 Azure guide +45%; MSFT +8% pre-market ✓ — **AI CAPEX DEMAND CONFIRMED**
+- **META Q2 2026 (AH Jul 29): MIXED** — Rev $60.8B (+28% YoY) beat; FCF collapsed 91% to $784M (Q2 capex $31B; FY2026 guide $130–145B); net income −14% YoY; stock fell on guidance + FCF; AI overinvestment concern growing
+- **BMO today (Jul 30):** Mastercard (MA), Shell (SHEL), Bristol-Myers Squibb (BMY), Sanofi, Altria, Stryker
+- **AH tonight (Jul 30): CRITICAL** — AMZN (cons: Rev $195.97B; EPS $1.81; AWS ~$40.5B ~33% growth; CapEx FY2026 $200B+) | AAPL — primary binary events
+- **TSM pre-market Jul 30:** $405.54 (up ~7.5% from $377.34 Jul 29 close; bounced on MSFT Azure beat) — **BACK IN ENTRY ZONE $395–415** ✓
+
+#### Trade Ideas
+
+1. **TSM — HIGH PRIORITY WATCHLIST, GATES PARTIALLY CLEARED, HOLD PRE-AMZN:**
+   - **Catalyst:** MSFT Azure +43% confirms structural AI chip demand; TSM Q2 FY2026 revenue +34% YoY; 18 Buy / 0 Sell; avg PT $540.20; AMZN FY2026 CapEx $200B+ = massive chip demand signal
+   - **Entry zone:** $395–415 (pre-market $405.54 ✓)
+   - **Stop:** ~$365 GTC trailing 10% from ~$405 entry
+   - **Size:** ~24sh @ $405 = $9,720 = ~9.9% equity (within 20% limit ✓)
+   - **Target:** $480–500 (~20% upside; 2:1 R:R vs 10% stop)
+   - **Gate check:** FOMC ✓ | Catalyst ✓ | Price-in-zone ✓ | VIX ✗ (19.53) | AMZN binary tonight ✗
+   - **Entry trigger (Jul 31 pre-market):** PCE benign today + VIX closes <17 + AMZN beats AH → BUY TSM $395–415
+
+2. **XOM — Energy Secondary Watchlist:**
+   - **Catalyst:** Energy sector #1 YTD (XOM +31%); WTI $84–91 sustained on Iran/Middle East tensions; Permian + Guyana upstream strength
+   - **Entry:** Only after TSM fails (2nd semi failure triggers pivot) OR as 2nd position once VIX clears; stop 10% below entry GTC
+   - **Note:** If AMZN/AAPL disappoint AH → semi sector 2 failures (ASML + implied TSM fail) → rule triggers → pivot Energy; XOM primary candidate
+
+3. **AMZN — AH Tonight Watchlist:**
+   - **Catalyst:** AWS expected ~33% growth (vs 28% Q1); FY2026 CapEx $200B+ = enormous AI chip demand; MSFT beat raises bar AND confirms demand
+   - **Note:** Do NOT chase on earnings day; set entry level post-results for tomorrow; evaluate alongside TSM
+
+#### Risk Factors
+- **VIX 19.53 still elevated:** 2.5 points above 17 gate; no new entries permitted today
+- **PCE hot surprise (Core MoM > +0.2%):** Warsh hawkish bias reactivated; VIX spikes; gates stay blocked
+- **GDP miss (<+1.5% QoQ):** Stagflation concern (high inflation + low growth); defensive rotation; tech/semi selloff resumes
+- **AMZN/AAPL miss AH:** AI demand thesis cracks; semi sector → 2nd failure → rule: exit semi, pivot Energy
+- **META capex overinvestment narrative:** Growing; even strong MSFT beat may fade if narrative builds that AI ROI isn't materializing
+- **Oil $84–91 sustained:** Warsh internal hawks emboldened; inflation persistence increases; hike risk rises
+- **TSM pre-market gap +7.5%:** Entering into gap (buying frenzied opening) carries reversal risk; discipline: wait for VIX gate + AMZN binary resolution
+- **PDT limit:** 0/3 used; no constraint today; but must preserve daytrade capacity through week
+
+#### Decision: **HOLD**
+- VIX 19.53 → new-entry gate BLOCKED ✗ (need sustained close <17)
+- AMZN AH binary tonight → premature to enter TSM before → WAIT ✗
+- PCE/GDP data 8:30am ET pending → wait for print ✗
+- FOMC block LIFTED ✓ (hold confirmed Jul 29)
+- MSFT Azure +43% = AI capex demand CONFIRMED ✓ — TSM thesis strengthened
+- TSM $405.54 pre-market (in entry zone $395–415) ✓ — but gap-up chase without gate-clear = undisciplined
+- **Trigger for Jul 31 pre-market entry:** PCE benign (Core MoM ≤+0.1%) + VIX closes <17 today + AMZN beats AH → BUY TSM ~24sh @ $395–415; stop ~$365 GTC trail 10%
+- If VIX doesn't close <17 → hold; if AMZN misses → reassess semi thesis; if 2nd semi failure rule triggers → pivot XOM
+- Trades this week: 0/3 — full capacity; patience > activity
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
