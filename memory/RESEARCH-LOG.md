@@ -5147,3 +5147,12 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - Trades this week: 0/3 — full capacity; patience > activity
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+### Afternoon Addendum — 2026-07-30 (Midday Scan)
+
+- **GDP Q2 advance (8:30am ET):** +1.5% QoQ — MISS (est +2.1%; prior +2.1%); gov spending drag + imports; consumer spending offset. Mild stagflation concern.
+- **PCE June (8:30am ET):** Core MoM +0.1% ✓ BENIGN (est +0.2%); Core YoY +3.3% (sticky but cooling at margin). Pre-market entry trigger for inflation criterion: CLEARED.
+- **VIX midday:** ~18–21 (VIXY ~$21); prior close 20.66 (spiked 13% Wednesday on 3 Fed hawkish dissenters). Gate still BLOCKED.
+- **TSM midday:** ~$402.50 (+7.0%); in entry zone ✓; Needham raised PT $530 (Buy). Gap-up — not chasing.
+- **MSFT:** +15% (Azure +43%; fastest cloud growth in 4 years) — AI demand confirmed ✓.
+- **Decision:** HOLD. VIX ✗; AMZN/AAPL AH binary tonight ✗. Entry trigger preserved for Jul 31 AM.
