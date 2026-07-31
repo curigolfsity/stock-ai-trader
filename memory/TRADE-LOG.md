@@ -2354,3 +2354,26 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - **Action: NO TRADES.** VIX gate not cleared. Strategy rule explicit: "If VIX closes 17–18 again → HOLD, no entry; revisit Monday." Patience > activity.
 - **Key insight — Alpaca artifact corrected:** Pre-market AH Alpaca quote $455.87 was NOT real; TSM opened ~$406, within the original $395–415 entry zone — far more attractive than feared gap-up. Monday entry at $395–415 remains viable.
 - **Next trigger (Monday Aug 3):** If VIX opens/tracks toward sustained close <17 + TSM holds $390–420 + no new macro shocks → evaluate TSM entry: ~23sh @ $400 = ~$9,200 (~9.4% equity); GTC trailing stop 10% (~$360). If VIX fails to clear <17 by Aug 7 → re-evaluate thesis urgency ahead of jobs report.
+
+---
+
+### Midday Scan — 2026-07-31 (Day 64, Friday — Week 13 Day 5)
+
+- **Account:** Equity $97,790.74 | Cash $97,790.74 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 (all cash) | **Open orders:** 0 — confirmed via Alpaca API ✓
+- **Loser check:** N/A — no positions ✓
+- **Winner tighten:** N/A — no positions ✓
+- **Thesis check:** N/A — no positions ✓
+- **VIX midday:** 17.62 (+3.10% intraday from 17.09 prior close); opened 19.56; intraday low 16.64 (briefly breached <17 gate, then bounced hard); day range 16.64–18.70 — **NEW ENTRY GATE STILL BLOCKED ✗** (need sustained CLOSE <17; intraday touch does not qualify per strategy)
+- **SPX midday:** ~7,424 (−0.18% / −13pts from prior 7,437.63 close) — AAPL −7.2% drag; Treasury yields rising; stocks mixed
+- **TSM midday:** ~$401–407 — within original entry zone $395–415 ✓ (far more attractive than feared $455+ pre-open gap; confirmed artifact)
+- **AAPL:** −7.2% (services miss, China weakness) — largest index weight; net sector headwind; AI capex bifurcation theme intact (MSFT/AMZN = winners; META/AAPL = losers)
+- **Critical note — VIX intraday low 16.64:** Gate was technically touched but not sustained. Strategy requires sustained close <17, not intraday breach. VIX trajectory at 17.62 midday suggests close likely in 17–18 range = HOLD per explicit rule.
+- **Gate check:**
+  - VIX <17 sustained: ✗ (17.62 midday; intraday low 16.64 reversed)
+  - FOMC block: ✓ LIFTED
+  - PCE benign: ✓ CLEARED
+  - AMZN/AI capex: ✓ CLEARED (AWS +37%; CapEx $220B)
+  - TSM in original zone ($395–415): ✓ (~$401–407)
+- **Action: NO TRADES.** VIX gate not cleared. Intraday breach of 17 (low 16.64) reversed — not sustained. Patience > activity.
+- **Next trigger (Monday Aug 3):** VIX sustained close <17 (today or weekend gap-down) + TSM holds $390–420 + no new macro shock → BUY TSM ~23sh @ ~$400; GTC trailing stop 10% (~$360); cost ~$9,200 = 9.4% equity. If VIX fails to clear <17 by Aug 7 (jobs report week) → re-evaluate thesis urgency. Semi sector at 1 failed trade (ASML); 2nd failure (TSM) = hard rule exit semi → pivot XOM.

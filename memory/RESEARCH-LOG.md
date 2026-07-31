@@ -5276,3 +5276,16 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - Trades this week: 0/3 — full capacity preserved; patience > activity
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+### Afternoon Addendum — 2026-07-31 (Midday Scan)
+
+- **VIX midday:** 17.62 (opened 19.56; intraday low 16.64 briefly breached <17 gate, then bounced); range 16.64–18.70 — NOT sustained <17
+- **SPX:** ~7,424 (−0.18%); AAPL −7.2% drag; Treasury yields rising; mixed session
+- **TSM midday:** ~$401–407 — within original entry zone $395–415 ✓ (most attractive since TSM Q2 catalyst)
+- **Gate status update:**
+  - VIX gate: ✗ NOT CLEARED (17.62 midday; intraday low 16.64 reversed — sustained close <17 still required)
+  - All other gates (FOMC, PCE, AMZN AI capex): ✓ CLEARED
+- **Action: HOLD.** VIX gate not sustained. Strategy rule clear: "If VIX closes 17–18 → HOLD, no entry."
+- **Monday Aug 3 trigger:** VIX sustained close <17 + TSM $390–420 + no new shock → TSM entry ~23sh @ ~$400; GTC trail 10% (~$360)
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
