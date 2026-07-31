@@ -5156,3 +5156,123 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - **TSM midday:** ~$402.50 (+7.0%); in entry zone ✓; Needham raised PT $530 (Buy). Gap-up — not chasing.
 - **MSFT:** +15% (Azure +43%; fastest cloud growth in 4 years) — AI demand confirmed ✓.
 - **Decision:** HOLD. VIX ✗; AMZN/AAPL AH binary tonight ✗. Entry trigger preserved for Jul 31 AM.
+
+---
+
+### Pre-Market Research — 2026-07-31 (Day 64, Friday — Week 13 Day 5)
+
+- **Account:** Equity $97,790.74 | Cash $97,790.74 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 (all cash; ASML stopped out Jul 27) | **Open orders:** 0
+- **Loser check:** N/A — no positions ✓
+- **Winner tighten:** N/A — no positions ✓
+
+#### Market Context
+- **Oil:** WTI ~$83–85/bbl (range $83.01–$85.93) | Brent ~$87–89/bbl (range $86.31–$89.50) — elevated on Middle East tensions; WTI +~20% for July month
+- **SPX futures:** +0.48% pre-market; Polymarket 94% odds higher open; driven by AMZN beat + MSFT residual
+- **VIX:** Jul 30 close ~18.01 (down 12.83% from 20.66 Jul 29) — **did NOT close <17 yesterday ✗**; pre-market Jul 31 declining further on tech rally; need sustained close <17 — monitoring; one source projects ~17.09 close today (borderline)
+- **FOMC:** HOLD confirmed Jul 29 at 3.50–3.75% — **FOMC BLOCK LIFTED ✓** | BUT: fed funds futures now pricing September quarter-point hike (hawkish tail risk)
+- **PCE June (Jul 30 release):** Core MoM +0.1% ✓ BENIGN — **entry gate criterion: CLEARED ✓**
+- **GDP Q2 advance (Jul 30 release):** +1.5% QoQ MISS (est +2.1%) — mild stagflation residue; consumer spending partially offset
+- **Month-end:** Last trading day of July — rebalancing flows; institutional positioning activity; indices re-weighting
+
+#### Today's Economic Calendar (Jul 31)
+- **Employment Cost Index Q2** — wage inflation proxy; hawkish if hot
+- **MNI Chicago PMI July** (prev 56.7) — manufacturing gauge
+- **U. Michigan Consumer Sentiment Final July** (prev 54.4 preliminary; est 54.4) — sentiment still depressed vs history
+- **U. Michigan 1-Year Inflation Expectations Final** (prev 4.2%) — key for Fed optics
+- **No PCE today** (released Jul 30); no jobs data until Aug 7
+
+#### Earnings — AH Jul 30 (Critical Binary Events)
+
+**AMZN Q2 2026 — MASSIVE BEAT ✓✓✓**
+- Revenue: $200.61B (+20% YoY; est $196.47B) — **FIRST TIME ABOVE $200B**
+- EPS: $5.75 (est $1.82) — includes $53.4B non-operating gain from Anthropic investment; core ops still beat
+- AWS: $42.2B (+37% YoY; est ~31–33%) — **fastest AWS growth in 5 years (since 2021)**; 5th straight acceleration
+- AI + Chips: each "eclipsed $25B annual run rate" per CEO Jassy
+- CapEx FY2026: **$220B** (raised from ~$200B guidance) — massive TSM demand signal ✓
+- Stock: +9–12% pre-market ✓
+
+**AAPL Q3 FY2026 — MIXED / NEGATIVE REACTION**
+- Revenue: $109.4B (+16% YoY; beat est by ~$560M)
+- EPS: $2.02 (beat $1.89 est; +29% YoY) ✓
+- Services: **$30.74B — MISS vs $31.22B est** ✗ — key negative surprise
+- iPhone: $54.25B (+22% YoY) — beat ✓
+- iPad: $6.19B — MISS vs $6.92B est ✗
+- Stock: **−6.6% to −7% pre-market** ✗ — services miss + AI monetization uncertainty; Tim Cook context (possible final call)
+- Net index impact: AAPL −7% partially offsets AMZN/MSFT rally
+
+#### TSM Update
+- Jul 30 close: $401.54 (+7.1% on day from $374.67; driven by MSFT Azure beat + TSM Q2 earnings read-through)
+- Alpaca pre-market ask: **$455.87** (timestamp Jul 30 20:00 UTC) — treat with caution; Alpaca data has shown artifacts; directionally confirms strong pre-market bid
+- Semiconductor sector (SOXX) **+3% pre-market Jul 31** — AMZN $220B capex = semi demand powerfully confirmed
+- Needham PT $530 (Buy); ARK bought ~37,916sh at ~$14.87M on Jul 29; 19-analyst avg PT $537
+- **ENTRY ZONE REASSESSMENT:** Original zone $395–415 now likely below market; if Alpaca ask ~$455 is real, TSM has gapped above original zone — do NOT chase; new potential entry zone $440–460 intraday if VIX clears
+
+#### Sector Momentum YTD (as of late July 2026)
+- **#1 Energy:** +25% YTD (XOM +31%, CVX +29%); elevated oil ($83–89/bbl) + geopolitical premium ✓ primary backup pivot
+- **#2 Industrials / Materials:** outperforming broad market; infrastructure + defense spending
+- **Tech (XLK):** −2.43% YTD overall; but Q2 AI earnings cycle driving sharp rebound (MSFT +16%, NVDA/AMD strength)
+- **Laggards:** Consumer discretionary, rate-sensitive sectors on Fed hike pricing
+
+#### Other Market-Moving News
+- **MSFT +15% Jul 30** — Azure +43% (fastest in 4 years); added ~$450B market cap in single day — largest single-day gain by any stock
+- **September rate hike:** Fed funds futures pricing ~25bps hike; 3 FOMC dissenters (Logan, Hammack, Waller) favoring hike — Warsh hawkish bias; hawkish tail risk for markets
+- **META Jul 30:** FCF collapsed 91% to $784M; Q2 capex $31B; FY2026 guide $130–145B; AI overinvestment narrative building; stock fell
+- **AI capex bifurcation:** MSFT + AMZN (winners, ROI demonstrated) vs META + AAPL (losers, ROI questioned) — key market theme
+
+#### Gate Check — TSM Entry
+| Gate | Status |
+|------|--------|
+| FOMC block lifted | ✓ CLEARED |
+| PCE benign (Core MoM ≤+0.1%) | ✓ CLEARED (+0.1%) |
+| AMZN beats + AI capex confirmed | ✓ CLEARED ($220B; AWS +37%) |
+| VIX sustained close <17 | ✗ NOT YET (Jul 30 close ~18.01; monitoring today's close) |
+| TSM price in zone | ✗ ZONE EXCEEDED (prev zone $395–415; TSM ~$401–455+) |
+| Positions ≤6 | ✓ (0 currently) |
+| Weekly trades ≤3 | ✓ (0/3 used) |
+| Daytrade count <3 | ✓ (0/3) |
+
+#### Trade Ideas
+
+1. **TSM — TRIGGER CONDITION WATCHING (3 of 5 gates cleared):**
+   - **Catalyst:** AMZN AWS +37%, CapEx $220B = chip demand confirmed; MSFT Azure +43%; TSM Q2 net profit +77.4% YoY; avg PT $537; SOXX +3% pre-market
+   - **Original entry zone:** $395–415 (EXCEEDED pre-market; TSM likely $420–460)
+   - **Revised entry zone:** $430–460 intraday if VIX closes <17 today; avoid chasing open
+   - **Stop:** ~10% GTC trailing from entry (e.g. ~$392–414 at $436–460 entry)
+   - **Size:** ~21–22sh @ $440–460 = ~$9,240–$10,120 ≈ 9.5–10.3% equity (within 20% limit ✓)
+   - **Target:** $530–545 (~20% upside from revised zone; 2:1 R:R vs 10% stop ✓)
+   - **Intraday trigger:** If VIX tracks clearly toward <17 + TSM stabilizes below $460 → enter afternoon today or Monday open
+   - **Risk:** Buying gap-up Friday (chasing); September hike pricing; AAPL weakness weights indices
+
+2. **XOM — Energy backup (still valid):**
+   - Energy #1 sector YTD; WTI $83–85 sustained on Middle East tensions
+   - Only activates if TSM fails (2nd semi failure) OR as 2nd position after TSM
+   - Not today
+
+3. **AMZN — Post-earnings watchlist:**
+   - +9–12% gap; do not chase earnings day
+   - Evaluate next week at pullback if AWS thesis holds
+   - Not today
+
+#### Risk Factors
+- **VIX gate not yet cleared:** Jul 30 close ~18.01 — still 1+ point above gate; one source suggests ~17.09 close today; borderline
+- **TSM gap-up above entry zone:** Chasing $455 without discipline = undisciplined; new zone needs intraday confirmation of stabilization
+- **September Fed hike now priced in:** 25bps hike risk = headwind for growth/tech in H2; VIX floor elevated
+- **AAPL −7% drag:** Largest index weight falling; net tech sector pressure partially offsets AMZN/MSFT
+- **Month-end flows:** Institutional rebalancing could create intraday volatility; whipsaws possible
+- **GDP miss (+1.5%):** Stagflation residue; growth concern persists; if hike hits soft economy = recession risk
+- **META AI ROI narrative:** If investor sentiment shifts to AI overinvestment → multi-sector de-rating
+- **Semi sector count:** ASML = 1 failed trade; if TSM triggers and fails = 2nd semi failure → RULE: exit semi, hard pivot to XOM
+
+#### Decision: **CONDITIONAL — WATCH VIX CLOSE TODAY**
+- AMZN trigger: ✓ CLEARED (AWS +37%; CapEx $220B — strongest AI demand signal of earnings season)
+- PCE: ✓ CLEARED (Core MoM +0.1%)
+- FOMC: ✓ CLEARED
+- VIX gate: ✗ NOT YET — was 18.01 at Jul 30 close; need today's close <17
+- Entry zone: ✗ TSM gapped above $415; reassess intraday
+- **Action today:** Monitor VIX intraday. If VIX tracks to close <17 AND TSM shows intraday stabilization in $430–460 → BUY TSM intraday (afternoon) or Monday open; GTC stop ~10% below fill
+- **If VIX closes 17–18 again → HOLD, no entry; revisit Monday**
+- **If AAPL weakness cascades (SPX -1%+) → abort entry, hold cash**
+- Trades this week: 0/3 — full capacity preserved; patience > activity
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
