@@ -2331,3 +2331,26 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | — | — | — | — | — | — | — |
 
 **Notes:** Day 63 (Thursday, Week 13 Day 4) — complete hold day, no trades. Account remains 100% cash ($97,790.74). Day P&L: $0.00 (flat; all cash, no market exposure). Phase P&L: −$2,209.26 (−2.21%) vs $100,000 starting equity. VIX elevated intraday (~18–21); new-entry gate blocked ✗ (need sustained close <17). FOMC block lifted ✓ (hold confirmed Jul 29 at 3.50–3.75%; Warsh hawkish tone; 3 internal dissenters favoring hike). PCE Core MoM +0.1% ✓ (inflation gate cleared); GDP Q2 +1.5% (miss vs +2.1% est — stagflation concern from gov-spending drag). TSM +7.0% intraday (~$402.50, range $387.60–$406.77) on TSM Q2 beat + MSFT Azure +43% AI demand read-through; Needham raised PT to $530 (Buy) — price in entry zone $395–415. Key binary event tonight: AMZN AH earnings (AWS/AI capex read-through) + AAPL AH — results will determine Jul 31 pre-market TSM entry decision. All new-entry gates blocked today (VIX ✗; AMZN AH binary ✗). Trades this week: 0/3. Next trigger: AMZN beats AH + VIX closes <17 → BUY TSM ~24sh @ $395–415 Jul 31 pre-market; stop ~$365 GTC trail 10%. If AMZN misses → semi thesis weakened → evaluate 2nd-failure semi exit rule (ASML already failed); pivot Energy (XOM primary).
+
+---
+
+### Market-Open Scan — 2026-07-31 (Day 64, Friday — Week 13 Day 5)
+
+- **Account:** Equity $97,790.74 | Cash $97,790.74 (100%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 0 (all cash; ASML stopped out Jul 27) | **Open orders:** 0
+- **Loser check:** N/A — no positions ✓
+- **Winner tighten:** N/A — no positions ✓
+- **TSM intraday:** Open ~$406.08, Range $388.80–$407.43 — NOTE: Alpaca AH quote of $455.87 was confirmed data artifact; actual open well below feared gap; price within original entry zone $395–415 ✓
+- **VIX:** Jul 31 close 17.09 (down 17.28% on day from 20.66 Jul 29) — **GATE NOT CLEARED ✗** (need sustained close <17; 17.09 falls in "17–18 = HOLD" band per strategy)
+- **AMZN:** +11.5% on day (AWS +37%, CapEx $220B) — **AI capex gate: ✓ CLEARED**
+- **AAPL:** −7.2% (services miss; net index headwind)
+- **Month-end flows:** Last trading day July — institutional rebalancing; intraday volatility elevated
+- **Gate check:**
+  - VIX <17 sustained: ✗ (17.09 > 17.00 — "If VIX closes 17–18 → HOLD" per strategy)
+  - TSM price in original zone $395–415: ✓ (open $406, range $388–407)
+  - AMZN/AI capex: ✓ CLEARED
+  - FOMC block: ✓ LIFTED
+  - PCE benign: ✓ CLEARED
+- **Action: NO TRADES.** VIX gate not cleared. Strategy rule explicit: "If VIX closes 17–18 again → HOLD, no entry; revisit Monday." Patience > activity.
+- **Key insight — Alpaca artifact corrected:** Pre-market AH Alpaca quote $455.87 was NOT real; TSM opened ~$406, within the original $395–415 entry zone — far more attractive than feared gap-up. Monday entry at $395–415 remains viable.
+- **Next trigger (Monday Aug 3):** If VIX opens/tracks toward sustained close <17 + TSM holds $390–420 + no new macro shocks → evaluate TSM entry: ~23sh @ $400 = ~$9,200 (~9.4% equity); GTC trailing stop 10% (~$360). If VIX fails to clear <17 by Aug 7 → re-evaluate thesis urgency ahead of jobs report.
