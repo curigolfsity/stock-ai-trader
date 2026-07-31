@@ -610,3 +610,59 @@ Rule adherence A (ISRG stop auto-executed; ASML entry gates correct; T+0 stop pl
 Rule adherence A (zero violations all week; VIX gate strictly enforced; stop active and verified daily; T+0 placement habit maintained from prior weeks; no manual cuts needed), risk management B (ASML buffer compressed to 5.06% at week end from oil shock — above 3% mandate but the tightest since Jun 26; entering FOMC week with a single position and elevated macro risk), relative performance B− (bot −0.37% vs SPX ~−0.7% = +0.33% outperformance — first positive relative week since Week 7; driven by 82% cash acting as a hedge in a down week, not position alpha; cumulative phase P&L −$1,316 / −1.32% after 12 weeks).
 
 ---
+
+## Week ending 2026-07-31
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,683.86 (Fri Jul 24 close — ASML open at $1,749.65) |
+| Ending portfolio | $97,790.74 (Fri Jul 31 live — 100% cash) |
+| Week return | −$893.12 (−0.90%) |
+| S&P 500 week | ~+0.7% (~7,412 Jul 24 → ~7,467 Jul 31; Amazon +11.5% / MSFT +8% AI-capex-led recovery) |
+| Bot vs S&P | ~−1.60% |
+| Trades | 1 (W:0 / L:1 / open:0) |
+| Win rate | 0% (0/1 closed) |
+| Best trade | N/A |
+| Worst trade | ASML −8.01% (−$1,452.02) |
+| Profit factor | 0.00 |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| ASML | $1,812.982 (Jul 16) | $1,667.78 (Jul 27) | −$1,452.02 (−8.01%) | GTC trailing stop ccf3c4d9 auto-triggered (HWM $1,853.45; 10% trail); thesis BROKEN — Bloomberg/The Information: Shanghai state-backed co. began mass production of immersion DUV lithography tools; China moat structurally eroded; held 9 trading days |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | 100% cash ($97,790.74) |
+
+### What Worked
+- GTC trailing stop automation worked flawlessly — stop triggered at $1,667.78 without manual intervention; continued decline to ~$1,600s confirms correct exit; no process failures
+- FOMC hard-block rule adhered to perfectly — Days 1–2 (Jul 28–29) with no entries; hawkish Warsh tone post-decision validated patience; VIX stayed elevated 18–21 post-FOMC
+- VIX gate strictly enforced all week — TSM not chased on AMZN/MSFT beats despite strong AI capex confirmation; 17.09–17.62 intraday range Jul 31 correctly rejected as "not sustained <17"
+- Alpaca data artifact identified and corrected — pre-market $455.87 AH quote for TSM confirmed wrong; actual Jul 31 open was $406; entry zone $395–415 remained valid; discipline preserved
+- Post-ASML thesis assessment executed immediately — China DUV mass production classified as "thesis broken"; ASML removed from watchlist; no re-entry attempted
+
+### What Didn't Work
+- ASML −8.01% realized loss — China domestic EUV/DUV competitive threat was knowable from public reporting on state-backed semiconductor programs; moat erosion risk was underweighted at entry
+- Missed ASML ex-dividend ($21.51 on 10sh) by one trading day — stopped out Jul 27; ex-date Jul 28; cost $21.51 at the margin
+- 100% cash Tue–Fri while S&P recovered +0.7% on Amazon/MSFT AI capex beats; VIX gate kept all entries blocked through end of week
+- Semi sector at 1 confirmed failure (ASML); TSM is the last semi candidate before the 2-failure sector exit rule forces a pivot — raises stakes on next entry
+- Phase P&L −$2,209.26 (−2.21%) after 13 weeks; all realized gains from CAT (+$1,900.39) now erased by ISRG (−$1,432.13) + ASML (−$1,452.02); cumulative losses from semi/healthcare exceed the one winning trade
+
+### Key Lessons
+- **Geopolitical competitive moat risk requires active monitoring:** China's semiconductor program has been public knowledge; state-backed DUV mass production was the specific risk point not actively tracked; add competitive-threat monitoring (China chip program news) to ongoing thesis verification for any position with China moat exposure
+- **VIX "sustained close <17" rule validated again:** Jul 31 intraday low 16.64 bounced to 17.62 mid-day; requiring a confirmed close (not intraday breach) prevented an entry on the last day of a choppy FOMC week — rule is correct
+- **Semi sector 1 failure creates asymmetry on TSM entry:** if TSM fails = 2nd consecutive semi failure = mandatory sector exit (Rule 10); must evaluate whether Energy pivot (XOM; sector +25% YTD) is more risk-adjusted before entering TSM at elevated VIX
+
+### Adjustments for Next Week
+- **Monday Aug 4 first action:** VIX sustained close <17 + TSM holds $390–420 + no new macro shock → BUY TSM ~23sh @ ~$400; GTC trailing stop 10% (~$360); cost ~$9,200 = 9.4% equity; confirm stop ACTIVE via orders API immediately post-fill
+- **If TSM fails (2nd semi loss):** Rule 10 triggers — pivot XOM (Energy #1 YTD +25%; WTI $83–85 sustained); entry ~$180–185; stop 10% trail GTC; size ~8% equity; target +20%
+- **VIX floor elevated:** FOMC hawkish lean (3 dissenters; September hike ~25bps priced); if VIX stays 17–18 for 2+ weeks without clearing → consider relaxing gate to <18 with additional confirming conditions (sector momentum ✓ + catalyst ✓ + PCE benign ✓ + SPX holding)
+- **August calendar:** Aug 7 NFP (rate hike timing key binary); Aug 14 CPI; Aug 27 NVDA earnings — plan entries around these, not into them
+
+### Overall Grade: C
+Rule adherence A (FOMC hard block; VIX gate; no chasing; no process failures; GTC stop automation worked; patience throughout), risk management B− (ASML China moat risk was not on the active watchlist — structural oversight; stop system protected correctly, but entry screening missed the geopolitical competitive threat), relative performance D (bot −0.90% vs S&P ~+0.7% = −1.60% gap; 13th consecutive week of negative relative performance; phase P&L −2.21% after 13 weeks; three realized losses now exceed the one winning trade; structural deployment gap and adverse trade selection remain unresolved).
+
+---
