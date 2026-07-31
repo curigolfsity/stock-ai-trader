@@ -2377,3 +2377,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
   - TSM in original zone ($395–415): ✓ (~$401–407)
 - **Action: NO TRADES.** VIX gate not cleared. Intraday breach of 17 (low 16.64) reversed — not sustained. Patience > activity.
 - **Next trigger (Monday Aug 3):** VIX sustained close <17 (today or weekend gap-down) + TSM holds $390–420 + no new macro shock → BUY TSM ~23sh @ ~$400; GTC trailing stop 10% (~$360); cost ~$9,200 = 9.4% equity. If VIX fails to clear <17 by Aug 7 (jobs report week) → re-evaluate thesis urgency. Semi sector at 1 failed trade (ASML); 2nd failure (TSM) = hard rule exit semi → pivot XOM.
+
+---
+
+### Jul 31 — EOD Snapshot (Day 64, Friday)
+**Portfolio:** $97,790.74 | **Cash:** $97,790.74 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** -$2,209.26 (-2.21%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Day 64 (Friday, Week 13 Day 5 — final trading day of July) — complete hold day, no trades. Account remains 100% cash ($97,790.74). Day P&L: $0.00 (flat; all cash, no market exposure). Phase P&L: −$2,209.26 (−2.21%) vs $100,000 starting equity. Trades this week: 0/3. VIX closed July elevated (~17.09 prior close; midday bounced to 17.62; intraday low 16.64 briefly breached <17 gate then reversed hard) — gate NOT cleared ✗ (need sustained close <17; intraday touch does not qualify per strategy). FOMC block ✓ lifted. PCE Core MoM +0.1% ✓ cleared. AMZN +11.5% on day (AWS +37%, CapEx $220B) ✓ AI capex gate cleared. AAPL −7.2% (services miss, China) — largest index weight headwind. TSM closed within original entry zone $395–415 (range $388–407; open $406) ✓ — Alpaca pre-market artifact ($455.87) confirmed non-real. Month-end institutional rebalancing added intraday volatility; no new macro shocks. All entry gates remain blocked at close of day (VIX ✗ sole blocker). Next trigger: Monday Aug 3 — if VIX opens/tracks toward sustained close <17 + TSM holds $390–420 + no new macro shock → BUY TSM ~23sh @ ~$400 (GTC trail 10%, stop ~$360, ~$9,200 = 9.4% equity). If VIX fails to clear <17 by Aug 7 (jobs report) → re-evaluate thesis urgency. Semi sector: 1 failed trade (ASML); 2nd failure = hard exit → pivot XOM. July closes with −2.21% vs starting equity; SPX +X% (benchmark tracking TBD Monday).
