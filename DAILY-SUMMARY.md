@@ -213,3 +213,7 @@ Decision: HOLD
 Ideas: TSM 92 (semi selloff/FOMC block), XOM energy sector +22% YTD
 Market: SPX futures +0.2%, VIX 18.67, Oil WTI $82.34
 Risks: FOMC hike surprise (25%), global semi selloff, MSFT/META capex AH tonight
+
+---
+## 2026-07-31 10:16 UTC (ntfy 403 — local fallback)
+Jul 31 pre-mkt: AMZN AWS +37% $220B capex BEAT ✓ — TSM conditional trigger active; watch VIX close <17 today; TSM pre-mkt ~$455 (gapped above $415 zone); AAPL -7%
