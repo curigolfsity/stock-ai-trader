@@ -5289,3 +5289,86 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - **Monday Aug 3 trigger:** VIX sustained close <17 + TSM $390–420 + no new shock → TSM entry ~23sh @ ~$400; GTC trail 10% (~$360)
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+### Pre-Market Research — 2026-08-03 (Day 65, Monday — Week 14 Day 1)
+
+#### Account Snapshot
+- **Equity:** $97,790.74 | **Cash:** $97,790.74 (100% cash) | **Buying Power:** $195,581.48 (Reg T)
+- **Positions:** 0 | **Open orders:** 0
+- **Daytrade count:** 0/3 | **Weekly trades:** 0/3 (new week)
+- **Phase P&L:** −$2,209.26 (−2.21% vs $100K start)
+
+#### Market Context
+
+| Indicator | Level | Note |
+|-----------|-------|------|
+| WTI Crude | $79.10 (-6.58%) | Sharp drop; head-and-shoulders neckline ~$79.72; oil thesis weakened |
+| Brent Crude | ~$90.12 | Divergence from WTI; futures range |
+| SPX Futures | +0.40–0.63% | Risk-on; Middle East de-escalation weekend catalyst |
+| VIX | ~15.99 (Jul 31 close, -6.44%) | **GATE CLEARED ✓** — first sustained close <17 in weeks |
+| ISM Mfg PMI | Releasing today | Prior 49.0 (contraction); expansion >50 would boost industrials |
+| NFP | Friday Aug 7 | >150K = pushes back Sep Fed cut; big risk event this week |
+
+**Key catalysts today:**
+- Middle East geopolitical de-escalation → broad risk-on weekend gap
+- ISM Manufacturing PMI (Aug 3) — expansion signal above 50 = bullish
+- PLTR earnings before open today — AI software catalyst; beat could re-rate AI space
+- FOMC next meeting tied to September; no action today
+
+**Sector momentum YTD 2026:**
+- Leading: Technology (+43% Q2), Semiconductors, Industrials/Defense
+- Lagging: Energy (−13% Q2), Consumer Discretionary, REITs
+- SPX ATH: 7,609.78 (June 2, +11.2% YTD at that point)
+
+**Earnings today (notable):**
+- **PLTR** (AI software, pre-open) — beat = AI momentum catalyst; miss = AI sentiment headwind
+- MAR, TSN, PGR, VRTX, ON Semiconductor, FANG (135 total today)
+
+#### TSM Update
+- Current price: ~$404.25 (range $398.80–$420.35)
+- Original entry zone $395–415 ✓ — TSM is **inside the zone**
+- Q2 revenue $40.2B (beat guidance); gross margin 67.7%; 2026 revenue growth outlook raised to "slightly above 40%"
+- Q3 guidance $44.6–$45.8B; capex raised to $18.75–$20B on AI chip demand
+- Avg analyst PT: $540.20 (34% upside from current)
+
+#### Trade Ideas
+
+1. **TSM — ALL GATES CLEARED — PRIMARY ENTRY TRIGGER ✓**
+   - **Catalyst:** VIX 15.99 ✓ | AMZN AWS +37% ✓ | PCE Core +0.1% ✓ | FOMC lifted ✓ | TSM in zone ✓ | No new macro shock ✓
+   - **Entry zone:** $395–415 (current $404.25 — ideal entry midzone)
+   - **Size:** ~23sh @ ~$404 = ~$9,292 ≈ 9.5% equity (within 20% cap ✓)
+   - **Stop:** GTC trailing 10% from entry (~$364 at $404 entry)
+   - **Target:** $530–545 (avg analyst PT $540; ~34% upside; 3.4:1 R:R vs 10% stop ✓)
+   - **Timing:** Confirm pre-market quote and PLTR reaction first; enter at market open or first 15min stabilization
+   - **Risk:** NFP Friday Aug 7 (macro binary); if ISM misses badly → defer 1 session
+   - **Rule check:** Positions after fill: 1/6 ✓ | Weekly trades after: 1/3 ✓ | Cost ≤20% equity ✓ | Cash covers ✓
+
+2. **PLTR — Watchlist (do not buy today):**
+   - Earnings before open today — do not chase earnings day per rule
+   - If strong beat AND price stabilizes intraday → evaluate entry Tuesday as 2nd position
+   - Only if VIX stays <17 and we've entered TSM first
+
+3. **XOM — Degraded / Suspended:**
+   - WTI fell $79.10 (-6.58%); energy sector lagging YTD (−13% Q2)
+   - Oil price below prior thesis support ($83–85); XOM backup thesis materially weakened
+   - Keep as contingency only if semi thesis fails (semi sector: 1 failure = ASML)
+
+#### Risk Factors
+- **NFP Friday Aug 7:** If >200K jobs = aggressive Fed hold/hike speculation → VIX spike risk
+- **WTI oil -6.58%:** Global demand slowdown signal; if confirms trend → broad risk-off possible later this week
+- **PLTR miss:** Would be AI sentiment headwind → potential TSM same-session reversal; watch PLTR reaction
+- **ISM Mfg PMI miss:** If stays <50 = contraction confirmed → tech/semi could pull back; wait for number before entering
+- **Semi sector count:** ASML = 1 failed trade; TSM fail = 2nd failure → hard exit semi, pivot XOM/energy (but XOM thesis degraded too)
+- **Buying at open risk:** Avoid market open gap; prefer first 15-min stabilization or limit order in zone
+
+#### Decision: **CONDITIONAL BUY — TSM ENTRY TODAY**
+- All gates cleared for first time: VIX 15.99 ✓ | Zone ✓ | AMZN ✓ | PCE ✓ | FOMC ✓
+- Wait for: ISM PMI number + PLTR earnings reaction (both pre-open/morning) before executing
+- If ISM >50 AND PLTR not catastrophic → BUY TSM ~23sh @ limit $400–410 at market open / first 15min
+- If ISM <46 (significant miss) → defer TSM to Tuesday, reassess
+- **Action for market-open workflow:** Execute TSM entry per above; set GTC trailing stop 10%
+- Trades this week after entry: 1/3 (room for 2 more)
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
