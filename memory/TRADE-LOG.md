@@ -2470,3 +2470,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 
 #### Action: 1 action taken — trailing stop placed (was missing)
 #### Next trigger: +15% (~$458.57) → tighten trail to 7%; +20% (~$478.51) → tighten to 5%; −7% (~$370.85) → cut manually
+
+---
+
+### Aug 03 — EOD Snapshot (Day 65, Monday)
+**Portfolio:** $97,973.13 | **Cash:** $88,619.26 (90.5%) | **Day P&L:** +$182.39 (+0.19%) | **Phase P&L:** -$2,026.87 (-2.03%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $406.69 | +0.60% | +$182.39 (+1.99%) | $366.70 (10% trail, HWM $407.44, order 265e7f23) |
+
+**Notes:** Day 65 opened Week 14 with the long-awaited TSM entry — 23 shares filled at $398.76 via market order at the 9:30 AM ET open (weekly count 1/3). All six entry gates cleared at open: VIX ~16.82 ✓, TSM ~$404 in zone $395–415 ✓, AMZN AWS +37% / MSFT Azure +43% AI capex confirmed ✓, PCE Core +0.1% ✓, FOMC block lifted ✓, ISM Global Mfg PMI 53.8 ✓. TSM gained +0.60% on the day (from Jul 31 close $404.25 to $406.69 EOD), delivering +$182.39 (+1.99%) unrealized P&L from entry. Trailing stop GTC (order 265e7f23) auto-advanced intraday to HWM $407.44 / stop $366.70 — a healthy 9.84% buffer above today's close. Thesis intact: TSM Q2 revenue $40.2B beat, July 2026 sales +26% YoY, full-year growth guidance "slightly above 40%", avg analyst PT $540 (+34% upside from entry). PLTR reported earnings after close tonight — will monitor pre-market Tuesday for any semi/AI read-through. Phase P&L: -$2,026.87 (-2.03%) vs. $100,000 starting equity. No additional trades needed (1/3 this week, 1 open position).
