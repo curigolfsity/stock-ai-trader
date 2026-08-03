@@ -5372,3 +5372,23 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - Trades this week after entry: 1/3 (room for 2 more)
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+#### Midday Addendum — 2026-08-03 (~16:00 UTC / 12:00 ET)
+
+**TSM Thesis Check (midday):**
+- TSM intraday: ~$403.80 (−0.11% from prior close $404.25; well within normal range)
+- Fill confirmed: 23sh @ $398.76 avg (better than est $404 entry)
+- Trailing stop placed 10% GTC (order `265e7f23`; HWM $403.73; stop $363.36)
+- July 2026 sales +26% YoY (confirmed); AI hyperscaler demand intact
+- Q3 gross margin guide 65-67% (vs Q2 67.7%) — 2nm ramp costs; NOT a thesis break
+- Semiconductor sell-off (SOXX −23% from recent highs Jul 24-28) = valuation de-rating on moderating growth rates, NOT demand destruction
+- Total semi revenues 2026 forecast: $1.29T (+52.8% YoY); HBM demand strong ✓
+- Taiwan Strait: prediction markets 13% probability of 2026 conflict; no acute escalation ✓
+- **Thesis: INTACT — no action required**
+
+**Watch list for next session:**
+- VIX: likely 18-25 range (moderately elevated post-chip sell-off); monitor for sustained move back below 17
+- PLTR: AI software catalyst — if stabilizes post-earnings, evaluate as 2nd position (Tuesday)
+- NFP Friday Aug 7: >150K = Fed-hold pressure; >200K = VIX spike risk
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_

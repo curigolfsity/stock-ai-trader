@@ -2433,8 +2433,40 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | 2026-08-03 | TSM | LONG | 23 | ~$404 (TBD at fill) | ORDER PENDING — fill at 9:30 AM ET open | 10% GTC — TO SET AT FILL | AI chip demand; AMZN+MSFT capex read-through; Q2 $40.2B beat; semi leadership; VIX gate cleared | $530–545 (avg PT $540; +34%) | 3.4:1 |
 
 **Tighten trail:** 7% at +15% (~$464.60); 5% at +20% (~$484.80).
-**Cut rule:** Close manually if unrealized loss hits −7% (~$375.72 at $404 entry).
+**Cut rule:** Close manually if unrealized loss hits −7% (~$372.45 at $398.76 actual entry).
+**Tighten trail:** 7% at +15% (~$458.57); 5% at +20% (~$478.51).
 
-### Weekly Trade Count: 1 (TSM 23sh order placed 2026-08-03 — fill pending 9:30 AM ET)
+### Weekly Trade Count: 1 (TSM 23sh filled 2026-08-03 @ $398.76 avg)
 
-**⚠️ ACTION REQUIRED AT 9:30 AM ET:** Confirm TSM fill → immediately place 10% GTC trailing stop. Midday workflow will verify stop is active.
+---
+
+### Midday Scan — 2026-08-03 (Day 65, Monday — Week 14 Day 1)
+
+- **Account:** Equity $97,903.21 | Cash $88,619.26 | Day P&L: +$112.47 | Weekly trades: 1/3
+- **Positions:** 1 — TSM 23sh @ $398.76 | Current $403.80 | Unrealized +$115.92 (+1.26%)
+- **Open orders after midday:** 1 — TSM trailing stop 10% GTC (order `265e7f23`)
+
+#### ✅ TSM FILL CONFIRMED
+- **Fill:** 23sh @ $398.76 avg entry (market order at open)
+- **Cost basis:** $9,171.48 (9.38% of $97,903 equity ✓)
+- **Entry corrected:** $398.76 (not estimated $404; filled at better price)
+- **Stop levels revised:** Cut at −7% = ~$370.85 manual | Tighten to 7% trail at +15% (~$458.57) | 5% trail at +20% (~$478.51)
+
+#### ✅ TRAILING STOP PLACED (was missing from AM)
+- **Order ID:** `265e7f23-7ab7-4cf0-81b5-185173954538`
+- **Type:** trailing_stop SELL | Trail: 10% | TIF: GTC
+- **HWM:** $403.73 | **Stop price:** $363.36 (auto-adjusts as price rises)
+- **Note:** Stop was not placed at open — placed by midday workflow at 16:06 UTC
+
+#### Loser Check: N/A — TSM +1.26% ✓ (threshold −7%)
+#### Winner Tighten: N/A — TSM +1.26% (need +15% for 7% tighten; need +20% for 5% tighten)
+#### Thesis Check: INTACT ✓
+- TSM Q2 revenue $40.2B (beat); July 2026 sales +26% YoY; full-year growth guidance "slightly above 40%" ✓
+- Hyperscaler AI capex ($650B+ 2026) confirmed intact; MSFT Azure +43%, AMZN AWS +37% ✓
+- Q3 gross margin guide 65-67% (vs Q2 67.7%) — slight moderation on 2nm ramp costs; not a thesis break
+- Taiwan Strait: 13% probability of China-Taiwan conflict per prediction markets; no acute escalation ✓
+- Export controls: no new restrictions affecting TSM directly ✓
+- **Verdict:** AI demand thesis INTACT — no cut, no change
+
+#### Action: 1 action taken — trailing stop placed (was missing)
+#### Next trigger: +15% (~$458.57) → tighten trail to 7%; +20% (~$478.51) → tighten to 5%; −7% (~$370.85) → cut manually
