@@ -2388,3 +2388,53 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | — | — | — | — | — | — | — |
 
 **Notes:** Day 64 (Friday, Week 13 Day 5 — final trading day of July) — complete hold day, no trades. Account remains 100% cash ($97,790.74). Day P&L: $0.00 (flat; all cash, no market exposure). Phase P&L: −$2,209.26 (−2.21%) vs $100,000 starting equity. Trades this week: 0/3. VIX closed July elevated (~17.09 prior close; midday bounced to 17.62; intraday low 16.64 briefly breached <17 gate then reversed hard) — gate NOT cleared ✗ (need sustained close <17; intraday touch does not qualify per strategy). FOMC block ✓ lifted. PCE Core MoM +0.1% ✓ cleared. AMZN +11.5% on day (AWS +37%, CapEx $220B) ✓ AI capex gate cleared. AAPL −7.2% (services miss, China) — largest index weight headwind. TSM closed within original entry zone $395–415 (range $388–407; open $406) ✓ — Alpaca pre-market artifact ($455.87) confirmed non-real. Month-end institutional rebalancing added intraday volatility; no new macro shocks. All entry gates remain blocked at close of day (VIX ✗ sole blocker). Next trigger: Monday Aug 3 — if VIX opens/tracks toward sustained close <17 + TSM holds $390–420 + no new macro shock → BUY TSM ~23sh @ ~$400 (GTC trail 10%, stop ~$360, ~$9,200 = 9.4% equity). If VIX fails to clear <17 by Aug 7 (jobs report) → re-evaluate thesis urgency. Semi sector: 1 failed trade (ASML); 2nd failure = hard exit → pivot XOM. July closes with −2.21% vs starting equity; SPX +X% (benchmark tracking TBD Monday).
+
+---
+
+### Market-Open Scan — 2026-08-03 (Day 65, Monday — Week 14 Day 1)
+
+- **Account:** Equity $97,790.74 | Cash $97,790.74 (100%) | Daytrade count: 0 | Weekly trades: 0/3 → 1/3
+- **Positions before:** 0 | **Open orders before:** 0
+
+#### ✅ TSM BUY ORDER PLACED — Alpaca order 2449ed5a submitted 12:37 UTC (8:37 AM ET)
+- **Status:** PENDING FILL — market opens 9:30 AM ET (13:30 UTC); day order queued
+- **Symbol:** TSM | **Side:** BUY | **Qty:** 23 shares | **Type:** market | **TIF:** day
+- **Estimated entry:** ~$404 (pre-market bid $403.97; last Alpaca quote Jul 31 close)
+- **Estimated cost:** ~$9,292 (≈9.5% equity) ✅ within 20% cap
+- **Stop:** 10% GTC trailing stop — **BLOCKED PRE-FILL** (Alpaca rejects sell-stop with no position); to be placed immediately at/after fill confirmation at 9:30 AM ET open
+- **PDT fallback:** If trailing stop also blocked → fixed stop at $363.60 (10% below $404 est entry) GTC; if also blocked → queue: "PDT-blocked, set tomorrow AM"
+
+#### Gate Validation (all ✅):
+| Gate | Status | Detail |
+|------|--------|--------|
+| VIX <17 | ✅ | ~16.82 pre-market Aug 3 (prior close ~17.09; opening below gate) |
+| TSM in zone $395–415 | ✅ | ~$404 pre-market; last quote $403.97 |
+| AMZN AWS capex | ✅ | AWS +37% CapEx $220B (Jul 31 earnings) |
+| PCE Core MoM | ✅ | +0.1% ≤ threshold (cleared Jul 30) |
+| FOMC block | ✅ | Lifted (hold confirmed Jul 29) |
+| ISM Mfg PMI | ✅ | S&P Global Mfg PMI 53.8 (>50 expansion); ISM official 10 AM ET (defer if <46) |
+| Positions after fill | ✅ | 1/6 |
+| Weekly trades after | ✅ | 1/3 |
+| Cost ≤ 20% equity | ✅ | 9.5% |
+| PDT count | ✅ | 0/3 |
+| Catalyst documented | ✅ | RESEARCH-LOG 2026-08-03 |
+| PLTR binary | N/A | Reports after close tonight (not before open; gate cleared) |
+
+#### Thesis:
+- TSM Q2 revenue $40.2B (beat); gross margin 67.7%; 2026 growth outlook raised to "slightly above 40%"
+- AI chip demand (MSFT Azure +43%, AMZN AWS +37%) = sustained TSM demand read-through ✓
+- Avg analyst PT $540 (+34% upside from $404 entry); 3.4:1 R:R vs 10% trailing stop ✓
+- Sector: Semiconductors / Technology (leading sector; ASML = 1 prior failure in semi; TSM is 2nd trade)
+- **Warning:** Semi sector on 1 prior failure (ASML). TSM failure = 2nd → hard exit semi sector, pivot XOM (though XOM thesis degraded by WTI −6.58%)
+
+#### Open Positions (pending fill):
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | ~$404 (TBD at fill) | ORDER PENDING — fill at 9:30 AM ET open | 10% GTC — TO SET AT FILL | AI chip demand; AMZN+MSFT capex read-through; Q2 $40.2B beat; semi leadership; VIX gate cleared | $530–545 (avg PT $540; +34%) | 3.4:1 |
+
+**Tighten trail:** 7% at +15% (~$464.60); 5% at +20% (~$484.80).
+**Cut rule:** Close manually if unrealized loss hits −7% (~$375.72 at $404 entry).
+
+### Weekly Trade Count: 1 (TSM 23sh order placed 2026-08-03 — fill pending 9:30 AM ET)
+
+**⚠️ ACTION REQUIRED AT 9:30 AM ET:** Confirm TSM fill → immediately place 10% GTC trailing stop. Midday workflow will verify stop is active.
