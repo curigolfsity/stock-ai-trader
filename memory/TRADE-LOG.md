@@ -2513,3 +2513,31 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.00 | +$419.52 (+4.57%) | 10% GTC (265e7f23, ~$375.30 effective) | AI chip demand; AMZN+MSFT capex; Q2 $40.2B beat | $530–545 | 3.4:1 |
+
+---
+
+### Midday Scan — 2026-08-04 (Day 66, Tuesday — Week 14 Day 2)
+
+- **Account:** Equity $98,178.97 | Cash $88,619.25 (90.3%) | Daytrade count: 0 | Weekly trades: 1/3
+- **Positions:** 1 — TSM 23sh @ $398.76 | Current $416.34 | Unrealized +$404.34 (+4.41%)
+- **Open orders:** 1 — TSM trailing stop 10% GTC (order `265e7f23`, HWM $418.00, stop $376.20)
+
+#### Loser Check: NO CUT
+- TSM unrealized_plpc: +4.41% — threshold −7% not triggered ✓
+
+#### Winner Tighten Check: NO ACTION
+- TSM +4.41% — below +15% tighten threshold ($458.57) ✓
+- +15% trigger: $458.57 | +20% trigger: $478.51 | Not reached
+
+#### Thesis Check: INTACT ✓
+- Sector bounce day: PhillySOX -21% in July (worst since Oct 2008); today's +2.52% intraday is partial mean-reversion, no TSM-specific catalyst
+- Needham raised PT to $530 (from $480) Aug 3 — fresh upgrade ✓
+- AI capex intact: PLTR Q2 beat (+93% rev YoY, US Commercial +149%) = continued AI demand signal ✓
+- Export controls: neutral-to-positive (no new restrictions; H200 exports to China approved Dec 2025) ✓
+- Taiwan Strait: gray-zone drills (26 PLA aircraft); no kinetic escalation; not equity-moving ✓
+- CoWoS fully booked; supply-demand gap narrowing from ~20% to ~10% by year-end ✓
+- **Verdict:** AI demand thesis INTACT — no cut, no change
+
+#### Action: NONE — no trades, no stop adjustments
+#### Next triggers: +15% ($458.57) → tighten trail to 7% | +20% ($478.51) → tighten to 5% | −7% ($370.85) → cut manually
+
