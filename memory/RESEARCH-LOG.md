@@ -5392,3 +5392,75 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - NFP Friday Aug 7: >150K = Fed-hold pressure; >200K = VIX spike risk
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+### Pre-Market Research — 2026-08-04 (Day 66, Tuesday — Week 14 Day 2)
+
+#### Account Snapshot
+- **Equity:** $98,086.74 | **Cash:** $88,619.25 | **BP:** $380,985.97 | **Long MV:** $9,467.49
+- **Intraday P&L (pre-market):** +$126.96 (+1.36% on TSM) | **Phase P&L:** ~−$1,913.26 (−1.91%)
+- **Weekly trades:** 1/3 | **Open positions:** 1/6 (TSM)
+- **Daytrade count:** 0/3
+
+#### Positions
+| Ticker | Shares | Entry | Pre-Market | Unrealized P&L | Stop |
+|--------|--------|-------|------------|----------------|------|
+| TSM | 23 | $398.76 | $411.63 | +$296.01 (+3.23%) | $366.70 (10% trail, HWM $407.44, order 265e7f23 — will auto-advance on open) |
+
+#### Market Context
+- **WTI:** ~$79.26/bbl (−6% Monday; Iran peace talk resumption canceled planned US military strike — oil war-premium collapsing)
+- **Brent:** ~$89.81/bbl (WTI/Brent spread ~$10.5; unusually wide)
+- **S&P 500:** Closed 7,600.50 Monday (+1.48%); ES futures +0.21% pre-market Tuesday
+- **VIX:** ~15.83 (below 17 gate ✓; complacent/risk-on)
+- **Economic calendar today:** Nothing major; NFP Friday Aug 7; CPI Wed Aug 12; FOMC Sep 16
+
+#### Earnings Today (BMO)
+CAT, MCD, PFE, MRK, SPOT, BP, MPC, DD, APO, BNTX, CMI, FIS, GWW, IDXX
+
+#### Key Catalysts
+- **Iran de-escalation:** Trump paused strike → WTI −6%; broad equity tailwind via lower input costs
+- **PLTR +16.1% premarket (~$145.85):** Q2 EPS $0.41 vs $0.35E (+18.5% beat); Rev $1.94B vs $1.81BE (+92.8% YoY); US Commercial +149% YoY; FY26 guidance raised; Rule of 40 = 155 → massive AI demand signal
+- **SpaceX first earnings:** $6.9B revenue est (+68% YoY); headline risk/catalyst for space/tech names
+- **Sector rotation:** Value/cyclicals leading YTD — Energy +22%, Staples +16%, Materials +16%, Industrials +12%; Discretionary −5%, Financials −6%; large-cap value +15.5% vs growth +2.1%
+
+#### TSM Thesis Check
+- PLTR beat (+92.8% YoY Rev) = massive AI demand signal → read-through POSITIVE for TSM ✓
+- TSM pre-market $411.63; entry $398.76; unrealized +3.23%
+- Trailing stop HWM $407.44 → stop $366.70; expect auto-advance to ~$370.47 as TSM opens above prior HWM
+- Q2 record profit, revenue $40.2B, +77% YoY; 2026 growth outlook >40%; AI capex from MSFT/AMZN confirmed
+- **Verdict: INTACT — no action needed**
+
+#### Trade Ideas
+
+1. **PLTR — Evaluate Wednesday (do not buy gap today)**
+   - **Catalyst:** Q2 EPS +18.5% beat; Rev +92.8% YoY; US Commercial +149%; FY26 guide raised; AI enterprise adoption accelerating
+   - **Why not today:** 16% gap-up on earnings day; gap-fill risk to $122-130 zone; strategy disfavors chasing earnings day gaps
+   - **Entry zone (Wednesday):** $138–150 (buy if holds above $140 post-gap-up through today's session)
+   - **Size:** ~67sh @ $147 est = ~$9,849 (10.0% equity; within 20% cap ✓)
+   - **Stop:** 10% trailing GTC (entry ×0.90)
+   - **Target:** $195–207 (near ATH $207.52; +34–41% upside; 3.4–4.1:1 R:R ✓)
+   - **Gate check:** Positions after = 2/6 ✓ | Trades after = 2/3 ✓ | Cost ≤20% ✓ | Cash ✓ | Catalyst documented ✓
+
+2. **TSM — HOLD (existing)**
+   - No action; PLTR beat = AI demand confirmation ✓; stop healthy; thesis intact
+
+3. **CAT — Monitor post-earnings (not today)**
+   - Industrials leading sector YTD (+12%); infrastructure/heavy equipment demand
+   - If beats with raised guidance → evaluate Thursday/Friday entry (do not buy on earnings day)
+   - Would be sector diversification (non-semi)
+
+#### Risk Factors
+- **NFP Friday Aug 7:** >200K print = Fed hold/hike speculation → VIX spike risk; would pressure growth stocks (TSM, PLTR)
+- **PLTR gap-fill:** Earnings momentum stocks often revisit the gap ($122-130 area); a Wednesday entry at lower price could be better than chasing today
+- **TSM stop update:** Monitor HWM at open; stop should auto-advance to ~$370.47; verify trail is functioning
+- **Semi sector:** ASML = 1 failed trade; if TSM stopped out = 2nd failure → hard exit all semi, reassess pivot (energy thesis degraded by WTI fall)
+- **Iran flip-flop risk:** If peace talks collapse → WTI spike, market risk-off; watch headlines
+
+#### Decision: **HOLD — no new trades today**
+- TSM performing strongly (+3.23%); PLTR gap too extended to chase on earnings day
+- **Plan:** Monitor PLTR through today's session; if stabilizes above $140 → BUY PLTR Wednesday (~67sh, 10% trailing stop GTC)
+- Capital deployed: 9.66% (well below 75-85% target); prioritize quality entries
+- Weekly remaining: 2/3 trades, room to add PLTR Wednesday + 1 more
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
