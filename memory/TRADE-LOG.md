@@ -2481,3 +2481,35 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | TSM | 23 | $398.76 | $406.69 | +0.60% | +$182.39 (+1.99%) | $366.70 (10% trail, HWM $407.44, order 265e7f23) |
 
 **Notes:** Day 65 opened Week 14 with the long-awaited TSM entry — 23 shares filled at $398.76 via market order at the 9:30 AM ET open (weekly count 1/3). All six entry gates cleared at open: VIX ~16.82 ✓, TSM ~$404 in zone $395–415 ✓, AMZN AWS +37% / MSFT Azure +43% AI capex confirmed ✓, PCE Core +0.1% ✓, FOMC block lifted ✓, ISM Global Mfg PMI 53.8 ✓. TSM gained +0.60% on the day (from Jul 31 close $404.25 to $406.69 EOD), delivering +$182.39 (+1.99%) unrealized P&L from entry. Trailing stop GTC (order 265e7f23) auto-advanced intraday to HWM $407.44 / stop $366.70 — a healthy 9.84% buffer above today's close. Thesis intact: TSM Q2 revenue $40.2B beat, July 2026 sales +26% YoY, full-year growth guidance "slightly above 40%", avg analyst PT $540 (+34% upside from entry). PLTR reported earnings after close tonight — will monitor pre-market Tuesday for any semi/AI read-through. Phase P&L: -$2,026.87 (-2.03%) vs. $100,000 starting equity. No additional trades needed (1/3 this week, 1 open position).
+
+---
+
+### Market-Open Scan — 2026-08-04 (Day 66, Tuesday — Week 14 Day 2)
+
+- **Account:** Equity $98,210.25 | Cash $88,619.25 (90.2%) | Daytrade count: 0 | Weekly trades: 1/3
+- **Positions:** 1 — TSM 23sh @ $398.76 | Current $417.00 | Unrealized +$419.52 (+4.57%)
+- **Open orders:** 1 — TSM trailing stop 10% GTC (order `265e7f23`, HWM $407.44, stop ~$366.70; auto-advancing as price exceeds HWM)
+
+#### Hard-Rule Check
+| Gate | Status | Detail |
+|------|--------|--------|
+| Tighten to 7% (≥+15%) | ✅ NOT YET | Threshold $458.57; current $417.00 |
+| Tighten to 5% (≥+20%) | ✅ NOT YET | Threshold $478.51; current $417.00 |
+| Cut at −7% | ✅ NOT TRIGGERED | Threshold $370.85; current $417.00 |
+| Trailing stop active | ✅ | Order 265e7f23 GTC; HWM auto-advancing above $407.44 |
+| Weekly trades remaining | ✅ | 2/3 remaining |
+
+#### TSM Thesis Check
+- PLTR Q2 beat (EPS +18.5%, Rev +92.8% YoY, US Commercial +149%, FY26 raised) = AI demand signal ✓
+- TSM +4.57% unrealized; +2.68% intraday
+- Thesis: INTACT — no action needed
+
+#### Decision: **HOLD — no new trades today**
+- PLTR gap too extended to chase on earnings day (+16.1% pre-market); strategy disfavors chasing earnings-day gaps
+- Plan: Monitor PLTR through today's session; if stabilizes above $140 → evaluate BUY Wednesday (~67sh @ ~$147, 10% trail GTC)
+- Capital deployed: ~9.77% of equity (well below 75-85% target); next entry PLTR Wednesday if zone holds
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.00 | +$419.52 (+4.57%) | 10% GTC (265e7f23, ~$375.30 effective) | AI chip demand; AMZN+MSFT capex; Q2 $40.2B beat | $530–545 | 3.4:1 |
