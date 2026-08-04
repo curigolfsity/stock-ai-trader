@@ -2541,3 +2541,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 #### Action: NONE — no trades, no stop adjustments
 #### Next triggers: +15% ($458.57) → tighten trail to 7% | +20% ($478.51) → tighten to 5% | −7% ($370.85) → cut manually
 
+
+---
+
+### Aug 04 — EOD Snapshot (Day 66, Tuesday)
+**Portfolio:** $98,269.82 | **Cash:** $88,619.25 (90.2%) | **Day P&L:** +$310.04 (+0.32%) | **Phase P&L:** -$1,730.18 (-1.73%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $419.58 | +3.32% | +$478.86 (+5.22%) | $378.21 (10% trail, HWM $420.23, order 265e7f23) |
+
+**Notes:** Day 66 / Week 14 Day 2 closed with TSM surging another +3.32% intraday to $419.58, lifting unrealized P&L to +$478.86 (+5.22% from $398.76 entry). Trailing stop auto-advanced to HWM $420.23 / stop $378.21 — 9.85% buffer below close. No new trades today (0 today, 1/3 this week — TSM entered Monday Aug 03). PLTR Q2 beat (+93% rev YoY, US Commercial +149%) continues to confirm AI demand thesis. Needham $530 PT raise on TSM (from $480, Aug 03) remains the strongest near-term catalyst. Phase P&L improving from -$2,026.87 (Day 65) to -$1,730.18 (-1.73%) vs. $100,000 starting equity. Next triggers: +15% ($458.57) → tighten trail to 7%; +20% ($478.51) → tighten to 5%; -7% ($370.85) → manual cut.
