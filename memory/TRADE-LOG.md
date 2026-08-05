@@ -2552,3 +2552,41 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | TSM | 23 | $398.76 | $419.58 | +3.32% | +$478.86 (+5.22%) | $378.21 (10% trail, HWM $420.23, order 265e7f23) |
 
 **Notes:** Day 66 / Week 14 Day 2 closed with TSM surging another +3.32% intraday to $419.58, lifting unrealized P&L to +$478.86 (+5.22% from $398.76 entry). Trailing stop auto-advanced to HWM $420.23 / stop $378.21 — 9.85% buffer below close. No new trades today (0 today, 1/3 this week — TSM entered Monday Aug 03). PLTR Q2 beat (+93% rev YoY, US Commercial +149%) continues to confirm AI demand thesis. Needham $530 PT raise on TSM (from $480, Aug 03) remains the strongest near-term catalyst. Phase P&L improving from -$2,026.87 (Day 65) to -$1,730.18 (-1.73%) vs. $100,000 starting equity. Next triggers: +15% ($458.57) → tighten trail to 7%; +20% ($478.51) → tighten to 5%; -7% ($370.85) → manual cut.
+
+---
+
+### Market-Open Scan — 2026-08-05 (Day 67, Wednesday — Week 14 Day 3)
+
+- **Account:** Equity $98,223.13 | Cash $88,619.25 (90.2%) | Daytrade count: 0 | Weekly trades: 1/3
+- **Positions:** 1 — TSM 23sh @ $398.76 | Current $417.56 | Unrealized +$432.40 (+4.72%)
+- **Open orders:** 1 — TSM trailing stop 10% GTC (order `265e7f23`, HWM $420.23, stop $378.21)
+
+#### Hard-Rule Check
+| Gate | Status | Detail |
+|------|--------|--------|
+| Tighten to 7% (≥+15%) | ✅ NOT YET | Threshold $458.57; current $417.56 |
+| Tighten to 5% (≥+20%) | ✅ NOT YET | Threshold $478.51; current $417.56 |
+| Cut at −7% | ✅ NOT TRIGGERED | Threshold $370.85; current $417.56 |
+| Trailing stop active | ✅ | Order 265e7f23 GTC; HWM $420.23; stop $378.21 |
+| Weekly trades remaining | ✅ | 2/3 remaining |
+
+#### TSM Thesis Check
+- AMD Q2 Data Center +107% YoY; PLTR +28% Tue ($160.15); SpaceX AI +250% = AI demand fully intact ✓
+- TSM +4.72% unrealized; trailing stop HWM $420.23 auto-advancing ✓
+- Thesis: INTACT — no action needed
+
+#### AMD Trade Plan Gate Check
+- **Research plan:** Buy ~55sh @ $175–185 if holds 15–30 min post-open
+- **Live Alpaca quote (Aug 4 20:15 UTC):** Ask $508.79 / Bid $500.01
+- **Decision: PASS** — AMD live price $500+ is far outside planned $175–185 entry zone; condition NOT met; do not chase
+
+#### Decision: **HOLD — no new trades today**
+- AMD entry zone $175–185 missed; live price ~$500+ (extended)
+- PLTR: still extended past entry zone ($160+ vs planned $138–150); pass
+- TSM: healthy hold; stop auto-advancing; thesis intact
+- Capital deployed: ~9.77% (well below 75–85% target); weekly remaining: 2/3
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.56 | +$432.40 (+4.72%) | 10% GTC (265e7f23, HWM $420.23, stop $378.21) | AI chip demand; AMD DC +107%; PLTR +93% YoY | $530–545 | 3.4:1 |
