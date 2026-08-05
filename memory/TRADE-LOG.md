@@ -2590,3 +2590,35 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.56 | +$432.40 (+4.72%) | 10% GTC (265e7f23, HWM $420.23, stop $378.21) | AI chip demand; AMD DC +107%; PLTR +93% YoY | $530–545 | 3.4:1 |
+
+---
+
+### Midday Scan — 2026-08-05 (Day 67, Wednesday — Week 14 Day 3)
+
+- **Account:** Equity $98,183 | Cash $88,619.25 (90.3%) | Daytrade count: 0 | Weekly trades: 1/3
+- **Positions:** 1 — TSM 23sh @ $398.76 | Current $415.69 | Unrealized +$389.39 (+4.25%)
+- **Open orders:** 1 — TSM trailing stop 10% GTC (order `265e7f23`, HWM $426.26, stop $383.63)
+
+#### Loser Check: NO CUT
+- TSM unrealized_plpc: +4.25% — threshold −7% not triggered ✓
+
+#### Winner Tighten Check: NO ACTION
+- TSM +4.25% — below +15% tighten threshold ($458.57) ✓
+- HWM auto-advanced from $420.23 (open) to $426.26 (midday); stop $383.63
+- +15% trigger: $458.57 | +20% trigger: $478.51 | Not reached
+
+#### Thesis Check: INTACT ✓
+- TSM intraday fade −0.36% ($417.17 close → $415.69); no fundamental catalyst — profit-taking after 4-day run
+- GFS Q2 beat: Rev $1.786B (+6% YoY); comms/DC segment +62% YoY on silicon photonics/SiGe; Q3 guide $1.885B above consensus = adjacent foundry confirming AI infrastructure demand ✓
+- TSM full-year guidance raised >40% growth; $40.2B Q2, 67.7% gross margin — fundamental trajectory intact ✓
+- Capex step-up ($60–64B vs prior $52–56B guide) = known margin compression risk; demand thesis unchanged ✓
+- Sector context: PhillySOX recovering from July −21% rout (worst since Oct 2008); AI chip forecasts intact ($500B+ in 2026; 50%+ of $1.29T total) ✓
+- **Verdict:** AI demand thesis INTACT — no cut, no change
+
+#### Action: NONE — no trades, no stop adjustments
+#### Next triggers: +15% ($458.57) → tighten trail to 7% | +20% ($478.51) → tighten to 5% | −7% ($370.85) → cut manually
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $415.69 | +$389.39 (+4.25%) | 10% GTC (265e7f23, HWM $426.26, stop $383.63) | AI chip demand; GFS DC +62% YoY; TSM full-year guide >40% | $530–545 | 3.4:1 |

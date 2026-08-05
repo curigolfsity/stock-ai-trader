@@ -5548,3 +5548,27 @@ LLY, DIS, UBER, SHOP, CVS, PSX, GFS (GlobalFoundries), KHC, CG, FLUT, HMC, GPN, 
 - Weekly remaining: 2/3 trades
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+#### Afternoon Addendum — 2026-08-05 Midday Scan
+
+**GFS Q2 Earnings (reported BMO Aug 5) — Adjacent Foundry Signal:**
+- Revenue: $1.786B (+6% YoY, +9% QoQ); adj EPS $0.46 vs $0.45 est — small beat
+- Comms & Data Center segment: +62% YoY driven by silicon photonics and SiGe demand
+- Q3 guide: $1.885B — above consensus
+- Implication for TSM: mature-node foundry acceleration in AI-adjacent silicon photonics is consistent with AI infrastructure buildout thesis; does not undercut TSMC advanced-node demand
+
+**TSM Intraday Action:**
+- Opened ~$416.56; hit HWM $426.26 before pulling back to $415.69
+- Intraday fade −0.36% attributed to positioning/profit-taking after 4-day run; no fundamental catalyst
+- Analyst note: TSM capex step-up ($60–64B vs $52–56B prior) compresses near-term margins if AI orders soften — a supply/capacity debate, not a demand question; thesis unchanged
+
+**Sector Context:**
+- PhillySOX recovering from July −21% rout; global semi revenue record $120.6B in May (+104% YoY)
+- AI chip forecast: $500B+ (>50% of $1.29T full-year total) — supercycle structurally intact
+- No new negative catalysts for TSM today
+
+**Verdict: THESIS INTACT — HOLD TSM**
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
