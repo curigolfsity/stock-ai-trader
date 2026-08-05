@@ -2622,3 +2622,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $415.69 | +$389.39 (+4.25%) | 10% GTC (265e7f23, HWM $426.26, stop $383.63) | AI chip demand; GFS DC +62% YoY; TSM full-year guide >40% | $530–545 | 3.4:1 |
+
+---
+
+### Aug 05 — EOD Snapshot (Day 67, Wednesday)
+**Portfolio:** $98,226.58 | **Cash:** $88,619.25 (90.2%) | **Day P&L:** -$43.24 (-0.04%) | **Phase P&L:** -$1,773.42 (-1.77%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $417.71 | +0.13% | +$435.85 (+4.75%) | $383.63 (10% trail, HWM $426.26, order 265e7f23) |
+
+**Notes:** Day 67 (Week 14 Day 3, Wednesday) closed quietly with TSM at $417.71 (+0.13% per Alpaca session data), a mild consolidation after Monday–Tuesday's strong consecutive gains (+1.99% / +5.22%). Trailing stop HWM auto-advanced intraday from $420.23 (market-open) to $426.26 (confirmed midday and EOD orders API), placing stop at $383.63 — an 8.16% buffer below close. No new trades today (0 today; 1/3 this week — TSM entered Mon Aug 03; 2/3 weekly capacity remains). GFS Q2 beat (comms/DC segment +62% YoY, Q3 guide above consensus) + AMD DC +107% YoY + PLTR +93% YoY all confirm intact AI capex demand thesis. Capital deployed: 9.77% of equity ($9,607.33 position value) — well below the 75–85% target; portfolio under-deployed. Phase P&L: -$1,773.42 (-1.77%) vs. $100,000 starting equity. Next triggers: TSM +15% ($458.57) → tighten trail to 7%; +20% ($478.51) → tighten to 5%; -7% ($370.85) → manual cut.
