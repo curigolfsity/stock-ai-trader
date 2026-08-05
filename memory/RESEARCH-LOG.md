@@ -5464,3 +5464,87 @@ CAT, MCD, PFE, MRK, SPOT, BP, MPC, DD, APO, BNTX, CMI, FIS, GWW, IDXX
 - Weekly remaining: 2/3 trades, room to add PLTR Wednesday + 1 more
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+## Pre-Market Research — 2026-08-05 (Day 67, Wednesday — Week 14 Day 3)
+
+#### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,218.07 |
+| Cash | $88,619.25 (90.2%) |
+| Buying Power | $381,353.70 |
+| Long Market Value | $9,598.82 |
+| Daytrade Count | 0 |
+| Weekly Trades | 1/3 (TSM entered Mon Aug 03) |
+
+#### Positions
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $417.34 | +$427.34 (+4.66%) | $378.21 (10% trail, HWM $420.23, order 265e7f23) |
+
+#### Market Context
+- **WTI:** ~$75.40/bbl (−0.49%; down ~6% this week; US-Iran diplomacy + Strait of Hormuz reopening talks = oil war-premium deflating)
+- **Brent:** ~$83.72/bbl (down $6+ since Monday)
+- **S&P 500:** SPX closed Tue Aug 4 at 7,736.52 (+1.79%); ES futures +0.34–0.39% pre-market Wednesday
+- **VIX:** ~16.50 (closed Tue +4.29%; risk-on but slightly elevated from Monday; still below 17 gate ✓)
+- **Economic calendar today:** No major releases — no CPI, PPI, FOMC, NFP; next CPI Aug 12
+
+#### Earnings Today (BMO — August 5)
+LLY, DIS, UBER, SHOP, CVS, PSX, GFS (GlobalFoundries), KHC, CG, FLUT, HMC, GPN, CDW, BWA, BLMN, SHAK, FUBO, RIOT, CMPS
+
+#### Key Catalysts
+- **AMD all-time Q2:** Revenue $11.5B, adj EPS $1.66; Data Center +107% YoY to $6.7B (beat); shares dipped slightly post-print → potential buy-the-dip setup in AI semis
+- **PLTR continuation:** Closed Tue Aug 4 at $160.15 (+28% day); pre-market Wed Aug 5 up ~16% → implied open ~$185; Q2 EPS $0.41, Rev $1.94B (+93% YoY), 11 consecutive beats, FY26 guide raised
+- **SpaceX Q2:** Revenue $7.8B (+92% YoY), AI +250%, Starlink 12M customers; net loss narrowed; space/AI read-through positive for semis and AI infrastructure
+- **Iran diplomacy:** US-Iran Strait of Hormuz reopening talks (Qatar/Oman mediating) = oil supply-fear deflation; broad equity tailwind via lower input costs
+- **GFS (GlobalFoundries) BMO:** Semi foundry reporting today; watch for AI/advanced node commentary — indirect TSM read-through
+
+#### TSM Thesis Check
+- Pre-market $417.34; entry $398.76; unrealized +4.66%
+- Trailing stop: HWM $420.23 → stop $378.21 (10% trail GTC, order 265e7f23 active)
+- AMD Data Center +107% YoY = continued AI silicon demand confirmation ✓
+- PLTR +28% Tuesday = AI enterprise demand signal ✓
+- SpaceX AI +250% = hyperscaler build-out expanding ✓
+- TSM +15% tighten threshold: $458.57 (not yet) | +20% threshold: $478.51 (not yet)
+- **Verdict: INTACT — no action needed**
+
+#### Trade Ideas
+
+1. **PLTR — PASS (blown past entry zone)**
+   - **Planned entry zone Tue night:** $138–150 (stabilize above $140)
+   - **Actual:** Closed $160.15 Tue; pre-market Wed ~$185; entry zone missed entirely
+   - **Action:** Do not chase. Gap too extended. Monitor for base-building; entry only if pulls back to $150–160 range in future sessions
+   - **Gate check:** FAILS entry — no catalyst within range; chasing earnings momentum violates strategy
+
+2. **AMD — Monitor for buy-the-dip (do not buy pre-market)**
+   - **Catalyst:** Q2 all-time revenue $11.5B; Data Center +107% YoY to $6.7B; MI300X GPU demand; AI acceleration intact
+   - **Why not today:** Shares dipped post-print; wait for intraday price action to stabilize/confirm direction
+   - **Entry zone (if holds):** $175–185 (watch 9:30–10:00 AM open behavior; buy only if volume confirms support)
+   - **Size:** ~55sh @ ~$182 = ~$10,010 (10.2% equity; within 20% cap ✓)
+   - **Stop:** 10% trailing GTC (entry ×0.90)
+   - **Target:** $225–240 (analyst consensus $230+; +26–32% upside; ~2.7–3.2:1 R:R ✓)
+   - **Gate check:** Positions after = 2/6 ✓ | Trades after = 2/3 ✓ | Cost ≤20% ✓ | Cash ✓ | Catalyst documented ✓
+   - **Sector note:** Tech sector -3.83% YTD (lagging); but AI subsector diverging positively from broad tech; acceptable given specific catalyst
+
+3. **TSM — HOLD (existing)**
+   - No action; AMD Data Center +107% + SpaceX AI +250% + PLTR +93% = AI demand fully intact ✓
+   - Stop healthy at $378.21; HWM auto-advancing
+
+#### Risk Factors
+- **NFP Friday Aug 7:** Strong print (>200K) = Fed hold/hike speculation → VIX spike risk for growth stocks (TSM, AMD)
+- **PLTR gap-fill risk:** $185 open is very extended; if reverses, AI sentiment could cool; monitor TSM for any sympathy weakness
+- **Iran diplomacy reversal:** If peace talks fail → WTI spike, risk-off; headwind for broad equity market
+- **Tech sector drag:** AMD in underperforming sector; AI-specific names can decouple but sector headwind is real
+- **GFS earnings today:** If GlobalFoundries misses or cuts guidance → semi sector read-through negative for TSM
+
+#### Decision: **HOLD — no new trades pre-market**
+- PLTR blown past entry zone; cannot chase at $185+ (was planned at $138–150)
+- AMD is the strongest new candidate; wait for intraday open price action to confirm support at $175–185 before committing
+- TSM healthy at +4.66%; no action needed
+- Capital deployed: 9.77% (well below 75–85% target); can absorb AMD if it confirms
+- **Plan:** If AMD opens in $175–185 zone and holds for 15–30 min post-open → evaluate BUY AMD (~55sh, 10% trailing stop GTC); otherwise HOLD and revisit Thursday
+- Weekly remaining: 2/3 trades
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
