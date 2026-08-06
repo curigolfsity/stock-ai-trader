@@ -5571,4 +5571,86 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 
 **Verdict: THESIS INTACT — HOLD TSM**
 
+---
+
+### Pre-Market Research — 2026-08-06 (Day 68, Thursday — Week 14 Day 4)
+
+#### Account Snapshot
+- **Equity:** $98,106.98 | **Cash:** $88,619.25 (90.3%) | **Daytrade count:** 0 | **Weekly trades:** 1/3
+- **Positions:** 1 — TSM 23sh @ $398.76 avg | Current $412.51 | Unrealized +$316.25 (+3.45%)
+- **Open orders:** 1 — TSM trailing stop 10% GTC (order `265e7f23`, HWM $426.26, stop $383.63)
+- **Stop buffer vs current:** $412.51 vs $383.63 = −7.0% below; HWM not advancing (TSM below $426.26)
+
+#### Market Context
+- **WTI:** ~$75.16/bbl (declining; Strait of Hormuz deal optimism)
+- **Brent:** ~$79.26/bbl (below $80; −5% over prior two sessions)
+- **S&P 500 futures:** +0.08–0.1% (muted); Dow at record highs
+- **Nasdaq-100 futures:** −0.1% (slight dip)
+- **VIX:** 16.15 (moderate; 52-week range 15.48–18.43)
+- **Dow:** Record highs; AI capex monetization in focus
+
+#### Today's Catalysts & Calendar
+- **Initial Jobless Claims:** Released today (high-frequency labor read ahead of NFP)
+- **NFP tomorrow (Aug 7):** Consensus 100K–130K jobs; unemployment 4.2–4.3%; avg hourly earnings ~3.5% YoY — KEY risk event
+- **CPI July:** Aug 12 (not today)
+- **FOMC:** No August meeting; next decision September
+- **Pre-market earnings (notable):**
+  - LLY (Eli Lilly): Massive beat — EPS $8.38 vs ~$6.01 est (+$2.37 beat); revenue +47.7% YoY to $22.97B; stock +~5% pre-market; GLP-1/Mounjaro demand secular
+  - COP (ConocoPhillips): Before open
+  - NET (Cloudflare): Before open
+  - ABNB (Airbnb): Before open
+  - DIS, CVS, UBER, KHC, GPN: In the broader slate
+
+#### TSM News (Last 24h)
+- Capex raised to $60–64B; 70–80% directed to advanced nodes (3nm, 2nm)
+- 3 new 3nm fabs: Taiwan, Arizona, Kumamoto (Japan); accelerating 3nm output to meet AI chip demand
+- Market reacted negatively to elevated capex spend (compresses near-term margins debate)
+- TSM closed Aug 4 $417.17; premarket Aug 6 $412.51 (−1.1% from 2 days ago)
+- Stop HWM $426.26 not advancing — TSM needs to clear $426.26 before HWM moves
+- Thesis: intact — accelerating 3nm is demand signal, not supply risk
+
+#### Sector Context
+- Energy: +12% in July YTD leader; now softening with oil on Hormuz optimism → headwind
+- IT/Tech: Facing headwinds broadly; AI names diverging positively
+- S&P 500 YTD: Was −4.37% as of Q1 (March 31); recovery continues
+- Dow: Record highs; broader market resilience despite Nasdaq dip
+
+#### Trade Ideas
+
+1. **LLY (Eli Lilly) — WATCH: Post-gap consolidation (do not chase pre-market)**
+   - Catalyst: Q2 blowout beat (+$2.37 EPS vs est; rev +47.7% YoY to $22.97B); GLP-1 (Mounjaro/Zepbound) secular demand; raised guidance
+   - Risk: Healthcare sector not in primary momentum; +5% gap-up without consolidation = chasing; entry only if stock base-builds intraday after open
+   - Action: Watch for 30-min consolidation post-open; if holds above gap-up and volume confirms — evaluate entry
+   - Size: ~10% equity
+   - Stop: 10% trailing GTC
+   - Gate: Positions after = 2/6 ✓ | Trades after = 2/3 ✓ | Catalyst documented ✓
+
+2. **NET (Cloudflare) — WATCH: Earnings today pre-market**
+   - Catalyst: AI networking/security infrastructure play; reporting before open today
+   - Action: Check results at open; only consider if strong beat + positive guidance + intraday confirmation
+   - Risk: Unknown results at time of this writing; no entry without seeing numbers and price action
+
+3. **TSM — HOLD (existing)**
+   - Current +3.45% unrealized; stop $383.63 (7.0% below current)
+   - HWM not advancing — TSM needs to reclaim $426.26 to push stop higher
+   - NFP tomorrow = volatility risk for semis/AI; no thesis change needed
+   - Watch: If TSM falls below $412 and accelerates → monitor vs −7% cut at $370.85
+
+#### Risk Factors
+- **NFP tomorrow (Aug 7):** If jobs come in weak (below 100K) → recession fear → growth/AI selloff → TSM, all tech at risk. If strong → rate hike fears → same selloff risk. Twin-tailed event.
+- **TSM stop narrowing:** 7.0% buffer vs 10% trail = stop hasn't advanced in 24h; TSM must recover above $426.26 or risk gives up gains on reversal
+- **Nasdaq headwinds:** AMD weakness + SpaceX AI + Nasdaq futures −0.1% suggest rotation out of tech leaders today
+- **Oil declining on Hormuz:** Positive for broad market (lower energy costs) but removes energy sector tailwind
+- **Cloudflare/Airbnb earnings:** Could set sentiment for broader growth tech if beats/misses are large
+
+#### Decision: **HOLD — no new trades today**
+- NFP tomorrow creates too much uncertainty to add new positions; patience > activity rule applies
+- LLY gap-up is tempting (massive fundamental beat) but do not chase pre-market; revisit at open if consolidation confirms
+- NET: Wait for actual earnings results; no position pre-print
+- TSM: Healthy hold; thesis intact; no action needed
+- Capital deployed: 9.67% of equity (well below 75–85% target); remain patient ahead of NFP
+- **Plan:** If NFP (Fri Aug 7) prints in-line or better → evaluate fresh entries on TSM add, LLY, or NET; if weak NFP → defensive posture, protect TSM stop
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
