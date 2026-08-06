@@ -2673,3 +2673,40 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $411.88 | +$301.83 (+3.29%) | 10% GTC (265e7f23, HWM $426.26, stop $383.634) | AI chip demand; AMD DC +107%; PLTR +93% YoY; TSM guide >40% | $530–545 | 3.4:1 |
+
+---
+
+### Midday Scan — 2026-08-06 (Day 68, Thursday — Week 14 Day 4)
+
+- **Account:** Equity ~$98,252 | Cash $88,619.25 (90.3%) | Daytrade count: 0 | Weekly trades: 1/3
+- **Positions:** 1 — TSM 23sh @ $398.76 | Current $418.82 | Unrealized +$461.38 (+5.03%) | Intraday +1.16%
+- **Open orders:** 1 — TSM trailing stop 10% GTC (order `265e7f23`, HWM $426.26, stop $383.634)
+
+#### Loser Check: NO CUT
+- TSM unrealized_plpc: +5.03% — threshold −7% not triggered ✓
+
+#### Winner Tighten Check: NO ACTION
+- TSM +5.03% — below +15% tighten threshold ($458.57) ✓
+- HWM $426.26 not advancing — TSM at $418.82 is 1.77% below HWM; stop remains $383.634
+
+#### Thesis Check: INTACT ✓
+- TSM +1.16% intraday — recovering from morning softness; no new catalyst
+- Analyst consensus: Strong Buy; avg target $540 (28.9% upside from current)
+- Jobless claims 199K (week ended Aug 1) — tame; below 200K; labor market healthy; slightly reduces NFP tail risk tomorrow
+- AI chip demand thesis intact; TSM Q2 beat + >40% full-year guidance unchanged ✓
+- **Verdict:** HOLD — no action
+
+#### Trade Ideas
+- **NET (Cloudflare):** CORRECTION — earnings AFTER CLOSE today (not pre-market as noted in morning scan); consensus $665M rev (+30% YoY), EPS $0.27; no position pre-print; evaluate after-hours results
+- **LLY:** Trading ~$1,183 post-gap; too extended to chase; pass
+- **NFP tomorrow (Aug 7):** Patience > activity; no new positions pre-NFP
+
+#### Decision: **HOLD — no new trades**
+- TSM healthy; stop active; thesis intact
+- NET reporting after close — no position before print
+- NFP tomorrow = twin-tailed risk; hold cash
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $418.82 | +$461.38 (+5.03%) | 10% GTC (265e7f23, HWM $426.26, stop $383.634) | AI chip demand; TSM guide >40%; analyst target $540 | $530–545 | 3.4:1 |

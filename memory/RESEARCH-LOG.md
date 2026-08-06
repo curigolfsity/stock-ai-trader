@@ -5654,3 +5654,11 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+#### Afternoon Addendum — 2026-08-06 Midday
+- **Jobless claims 199K** (week ended Aug 1) — tame; below 200K; dollar firm; labor market "slow-hire, slow-fire"; slightly reduces NFP tail risk
+- **NET (Cloudflare):** CORRECTION — reports Q2 AFTER CLOSE today (~5pm ET), not pre-market; consensus $665M rev (+30% YoY), EPS $0.27; no position pre-print; evaluate after-hours results
+- **LLY:** ~$1,183 intraday post-gap (Q2 rev $22.97B +47.7% YoY; 2026 guidance raised to ~$86B midpoint); too extended post-gap — pass
+- **TSM:** $418.82 +1.16% intraday; analyst avg target $540 (Strong Buy consensus); HWM $426.26 not yet breached; AI thesis intact
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
