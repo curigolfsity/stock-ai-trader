@@ -2710,3 +2710,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $418.82 | +$461.38 (+5.03%) | 10% GTC (265e7f23, HWM $426.26, stop $383.634) | AI chip demand; TSM guide >40%; analyst target $540 | $530–545 | 3.4:1 |
+
+---
+
+### Aug 06 — EOD Snapshot (Day 68, Thursday)
+**Portfolio:** $98,299.61 | **Cash:** $88,619.25 (90.2%) | **Day P&L:** +$73.03 (+0.07%) | **Phase P&L:** -$1,700.39 (-1.70%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $421.02 | +1.69% | +$511.87 (+5.58%) | $383.63 (10% trail, HWM $426.26, order 265e7f23) |
+
+**Notes:** Day 68 (Week 14 Day 4, Thursday) TSM closed at $421.02 (+1.69%), recovering solidly from morning softness (opened ~$411.88) to finish near the day's high. Trailing stop HWM remains at $426.26 — TSM still needs to clear that level to push stop higher; current stop $383.63 gives an 8.9% buffer below close. No trades today (0 this session; 1/3 weekly capacity used — TSM entered Mon Aug 03; 2/3 weekly capacity remains). Pre-NFP patience: no new positions entered ahead of Friday's jobs report as planned. NET earnings reported after close today — results to be assessed pre-market tomorrow. Phase P&L improves from -$1,773.42 to -$1,700.39 (-1.70%) vs. $100,000 starting equity. Capital deployed: 9.85% of equity ($9,680.36 position value) — well below 75–85% target; portfolio remains under-deployed. Next triggers: TSM +15% ($458.57) → tighten trail to 7%; +20% ($478.51) → tighten to 5%; -7% ($370.85) → manual cut.
