@@ -5852,3 +5852,35 @@ _Run time: 08:44 AM ET_
 - **Midday trigger**: If market stabilizes post-open AND NET holds near $330+ AND no macro deterioration → re-evaluate NET entry at midday scan
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+### Midday Addendum — 2026-08-07 (NFP Day)
+
+_Run time: midday scan_
+
+#### Market Update
+| Indicator | Level | Note |
+|-----------|-------|------|
+| S&P 500 | +0.33% | Holding; "bad news is good news" on NFP miss |
+| Nasdaq | +0.86% | Growth outperforming; rate-cut optimism |
+| VIX | Calm | No panic despite -23K NFP print |
+
+#### TSM Update
+- $419.298 (+0.26% intraday); day range $421.64–$424.79 (narrow, orderly)
+- HWM $426.26 still not cleared (gap: $6.97, 1.63%); stop $383.634 unchanged
+- Thesis INTACT; no action taken
+
+#### NET (Cloudflare) — Midday Re-evaluation
+- Price: $330.40; day range: $275.01–$337.99
+- Gap gapped +17% pre-market (~$333.95) → opened and crashed to $275 (near full gap-fill) → recovered to $330
+- Intraday range of $63 signals extreme volatility; gap-fill attempted intraday = caution signal
+- Midday trigger conditions technically met but gap-fill attempt overrides → **PASS**
+- Re-evaluate Monday: if NET consolidates above $310–$315 cleanly, entry becomes valid on confirmed momentum
+
+#### Decisions
+- No trades taken today
+- TSM: hold; no stop changes
+- NET: PASS — re-evaluate Monday
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_

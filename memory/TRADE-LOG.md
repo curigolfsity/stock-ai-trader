@@ -2721,3 +2721,44 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | TSM | 23 | $398.76 | $421.02 | +1.69% | +$511.87 (+5.58%) | $383.63 (10% trail, HWM $426.26, order 265e7f23) |
 
 **Notes:** Day 68 (Week 14 Day 4, Thursday) TSM closed at $421.02 (+1.69%), recovering solidly from morning softness (opened ~$411.88) to finish near the day's high. Trailing stop HWM remains at $426.26 — TSM still needs to clear that level to push stop higher; current stop $383.63 gives an 8.9% buffer below close. No trades today (0 this session; 1/3 weekly capacity used — TSM entered Mon Aug 03; 2/3 weekly capacity remains). Pre-NFP patience: no new positions entered ahead of Friday's jobs report as planned. NET earnings reported after close today — results to be assessed pre-market tomorrow. Phase P&L improves from -$1,773.42 to -$1,700.39 (-1.70%) vs. $100,000 starting equity. Capital deployed: 9.85% of equity ($9,680.36 position value) — well below 75–85% target; portfolio remains under-deployed. Next triggers: TSM +15% ($458.57) → tighten trail to 7%; +20% ($478.51) → tighten to 5%; -7% ($370.85) → manual cut.
+
+---
+
+### Midday Scan — 2026-08-07 (Day 69, Friday — Week 14 Day 5 — NFP Day)
+
+- **Account:** Equity ~$98,263 | Cash $88,619.25 (90.2%) | Daytrade count: 0 | Weekly trades: 1/3
+- **Positions:** 1 — TSM 23sh @ $398.76 | Current $419.298 | Unrealized +$472.37 (+5.15%) | Intraday +0.26%
+- **Open orders:** 1 — TSM trailing stop 10% GTC (order `265e7f23`, HWM $426.26, stop $383.634)
+
+#### Loser Check: NO CUT
+- TSM unrealized_plpc: +5.15% — threshold −7% not triggered ✓
+
+#### Winner Tighten Check: NO ACTION
+- TSM +5.15% — below +15% tighten threshold ($458.57) ✓
+- HWM $426.26 not cleared; TSM at $419.298 is 1.63% below HWM; stop remains $383.634
+
+#### Thesis Check: INTACT ✓
+- TSM $419.298 +0.26% intraday; day range $421.64–$424.79 (narrow); recovering with Nasdaq
+- NFP July: −23K vs. +83K consensus — massive miss; market reaction "bad news is good news" (rate-cut thesis)
+- Nasdaq +0.86%, S&P +0.33% — market holding on Fed-cut optimism; no macro deterioration
+- AI chip demand thesis intact; no news negative to TSM specifically ✓
+- **Verdict:** HOLD — no action
+
+#### NET (Cloudflare) — Midday Trigger Re-evaluation
+- Trigger conditions: market stable ✓ | NET $330.40 (>$330 threshold) ✓ | no macro deterioration ✓
+- **PASS — despite conditions met, reason:**
+  - NET intraday range: $275.01–$337.99 — crashed to $275 intraday (BELOW prior close ~$285), then recovered to $330. Gap nearly filled intraday = extreme volatility signal
+  - Entering at $330 post-gap ($285 prior close) = still up 16%; chasing with elevated intraday volatility
+  - NFP gate explicitly NOT met (required +70K–100K; actual −23K)
+  - "Patience > activity" rule applies; no 30-min clean consolidation confirmed
+- **Decision: PASS — re-evaluate Monday**
+
+#### Decision: **HOLD — no new trades**
+- TSM: healthy hold; stop active; thesis intact
+- NET: Midday conditions technically met but intraday volatility (gap nearly filled at $275) overrides; PASS per patience rule
+- NFP miss confirms patience stance
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $419.298 | +$472.37 (+5.15%) | 10% GTC (265e7f23, HWM $426.26, stop $383.634) | AI chip demand; TSM guide >40%; analyst target $540 | $530–545 | 3.4:1 |
