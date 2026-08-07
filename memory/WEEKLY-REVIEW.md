@@ -666,3 +666,62 @@ Rule adherence A (zero violations all week; VIX gate strictly enforced; stop act
 Rule adherence A (FOMC hard block; VIX gate; no chasing; no process failures; GTC stop automation worked; patience throughout), risk management B− (ASML China moat risk was not on the active watchlist — structural oversight; stop system protected correctly, but entry screening missed the geopolitical competitive threat), relative performance D (bot −0.90% vs S&P ~+0.7% = −1.60% gap; 13th consecutive week of negative relative performance; phase P&L −2.21% after 13 weeks; three realized losses now exceed the one winning trade; structural deployment gap and adverse trade selection remain unresolved).
 
 ---
+
+## Week ending 2026-08-07
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $97,790.74 (Mon Aug 03 open — 100% cash from Jul 31) |
+| Ending portfolio | $98,295.35 (Fri Aug 07 live — TSM open) |
+| Week return | +$504.61 (+0.52%) |
+| S&P 500 week | +2.86% (7,489.72 Jul 31 → ~7,704 Aug 07; strongest week since April) |
+| Bot vs S&P | −2.34% |
+| Trades | 1 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TSM | $398.76 (Aug 03) | $420.70 | +$504.62 (+5.50%) | $383.63 (10% trail GTC, HWM $426.26, order 265e7f23) — buffer 8.7% ✓ |
+
+### What Worked
+- TSM entry (Aug 03) executed cleanly — all gates cleared (VIX <17 ✓, Technology #1 sector ✓, AI chip demand catalyst documented ✓, 14.4% equity ≤ 20% ✓); filled at open $398.76; 2-day recovery to +5.50% unrealized by week end
+- T+0 trailing stop placed at fill — fourth consecutive entry with no stop-delay failure; process improvement fully sustained
+- TSM held through NFP −23K shock (Aug 07) — "bad news is good news" rate-cut thesis held; Nasdaq +0.86%, S&P +0.33% on the day; thesis never under pressure
+- NET patience executed twice (pre-market PASS on gate failure; midday PASS on extreme intraday volatility — gap to $275 gap-fill from $285 prior close overrode technically-met trigger conditions); discipline saved entering a volatile gap-chase
+- Phase P&L recovered from −$2,209.26 (Jul 31) to −$1,717.64 (Aug 07), a +$491.62 improvement — sole realized improvement this week from TSM unrealized gains
+
+### What Didn't Work
+- Bot underperformed S&P 500 by −2.34% — S&P had its strongest week since April (+2.86%); 90% cash captured almost none of the market-wide rally
+- 90% cash deployed all week — worst deployment reading of the challenge; 2/3 weekly capacity unused; structural under-deployment is now the single dominant phase risk factor
+- TSM HWM ($426.26) never cleared — stop at $383.63 never auto-advanced despite 5 trading days of positive price action; bot rode only a portion of the AI-semis rally
+- Net opportunity cost: NET gapped +17% post-Q2 beat (revenue +36% YoY, guidance raised, record customer adds); correct to PASS given gate failures and extreme volatility, but the underlying catalyst was compelling — a qualified setup that slipped through
+- 15th consecutive week of negative relative performance vs. S&P 500 (excluding Week 7 +2.10% and Week 9 +0.20% outliers)
+
+### Key Lessons
+- 90% cash is more harmful than any individual loss in a +2.86% market week — even a 15% deployed position captures only a fraction of index moves; structural deployment gap is the #1 phase risk and continues unaddressed
+- NFP −23K (worst headline miss in recent cycle) yet S&P +2.86% on rate-cut optimism — the "bad news is good news" macro response was predictable given Warsh FOMC context; consider whether NFP gate (requiring +70K–100K) is too strict a binary blocker vs. a caution-signal requiring extra confirmation but allowing entry post-print resolution
+- NET intraday gap-fill attempt validated the PASS — gapped +17%, fell to near gap-fill ($275 from $285 prior), recovered $330 in one session; that $63 intraday range confirms no clean 30-min consolidation was possible; the patience rule was correctly applied
+
+### Adjustments for Next Week
+- **Monday Aug 10 first action:** verify TSM stop (265e7f23) ACTIVE at open; buffer check vs $383.63; if <3% buffer → execute manual cut at open per protocol
+- **NET re-evaluation Mon Aug 10:** if NET consolidates above $310–315 with VIX <17 + market stable → entry ~10% equity (~$9,800), 10% trail GTC; catalyst: Q2 beat + AI security/networking + >50% non-human traffic milestone; entry zone: $310–$335
+- **Structural deployment:** actively identify 2nd and 3rd position candidates — 90% cash is the primary underperformance driver; priority is diversification without forcing marginal setups
+- **Aug 14 CPI:** no new entries on or directly before CPI print; post-print resolution is the entry window
+- **TSM tighten triggers:** +15% ($458.57) → 7% trail | +20% ($478.51) → 5% trail; watch for HWM advance above $426.26 as stock must first clear that level
+- **LLY:** Q2 massive beat ($8.38 EPS vs $6.01 est, rev +47.7% YoY); if LLY consolidates 3–5% below gap-open level → evaluate entry; requires VIX <17 + Healthcare sector watch (1 prior failure = ISRG; 1 more Healthcare loss = Rule 10 sector exit)
+- **NFP gate re-eval:** consider whether −23K miss + "bad news is good news" reaction argues for a gate re-calibration to: NFP prints + market reaction stable 30 min post-print → entry allowed (removing the directional floor requirement)
+
+### Overall Grade: C+
+Rule adherence A (all gates correctly applied; T+0 stop placed; NFP patience upheld; NET PASS correctly executed twice; no violations), risk management A (stop buffer 8.7% at week close; no cut triggers reached; thesis intact; no stop failures), relative performance D (bot +0.52% vs S&P +2.86% = −2.34% gap; 15th consecutive week of negative relative performance in the strongest week since April; 90% cash drag is the structural driver). Phase P&L: −$1,717.64 (−1.72%) after 14 weeks.
+
+---
