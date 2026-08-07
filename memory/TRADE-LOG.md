@@ -2762,3 +2762,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $419.298 | +$472.37 (+5.15%) | 10% GTC (265e7f23, HWM $426.26, stop $383.634) | AI chip demand; TSM guide >40%; analyst target $540 | $530–545 | 3.4:1 |
+
+---
+
+### Aug 07 — EOD Snapshot (Day 69, Friday — NFP Day)
+**Portfolio:** $98,282.36 | **Cash:** $88,619.25 (90.2%) | **Day P&L:** +$44.51 (+0.05%) | **Phase P&L:** -$1,717.64 (-1.72%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $419.95 | +0.42% | +$487.37 (+5.31%) | $383.63 (10% trail, HWM $426.26, order 265e7f23) |
+
+**Notes:** Day 69 (Week 14 Day 5, Friday — NFP Day). TSM closed at $419.95 (+0.42%), holding firm despite a massive NFP miss (−23K vs. +83K consensus). Market took it as "bad news is good news" (Fed rate-cut thesis re-priced): Nasdaq +0.86%, S&P +0.33%; TSM rode the tech bid. Trailing stop HWM remains at $426.26 — TSM still needs to clear that level to push the stop higher; current stop $383.63 provides 8.7% buffer below close. No trades today (0 this session; 1/3 weekly capacity used — TSM entered Mon Aug 03; 2/3 weekly capacity remains for next week). NET (Cloudflare) passed at midday despite trigger conditions being technically met — intraday gap nearly filled at $275 (from ~$285 prior close = extreme volatility) overrode the setup; "patience > activity" upheld. Phase P&L: −$1,717.64 (−1.72%) vs. $100,000 starting equity. Capital deployed: 9.83% of equity — well under-deployed; weekend hold with TSM only. Next triggers: TSM +15% ($458.57) → tighten trail to 7%; +20% ($478.51) → tighten to 5%; −7% ($370.85) → manual cut. Weekend watchlist: NET (Monday re-evaluate), LLY (pullback entry), sector momentum check.
