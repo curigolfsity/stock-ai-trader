@@ -5756,3 +5756,99 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - **Trigger for new trade:** In-line or better NFP (+70K–100K) + NET holds or gains post-open + 30-min consolidation confirms → midday entry on NET
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+### Pre-Market Research — 2026-08-07 (Day 69, Friday — Week 14 Day 5 — NFP Day)
+
+_Run time: 08:44 AM ET_
+
+#### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,355.61 |
+| Cash | $88,619.25 (90.1%) |
+| Long Market Value | $9,736.36 (TSM) |
+| Phase P&L | −$1,644.39 (−1.64% vs $100K start) |
+| Daytrade count | 0/3 |
+| Weekly trades used | 1/3 (2/3 remaining) |
+| Positions | 1/6 (TSM) |
+
+#### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $423.32 | +$564.88 (+6.16%) | 10% trail GTC (265e7f23, HWM $426.26, stop $383.634, exp 2026-10-30) |
+
+#### Open Orders
+- TSM trailing stop 10% GTC (265e7f23); HWM $426.26; stop $383.634; expires 2026-10-30
+
+#### Market Context
+| Indicator | Level | Note |
+|-----------|-------|------|
+| WTI crude | ~$77.97/bbl | Firm; Hormuz tensions supporting; range $77.75–$78.75 |
+| S&P 500 futures (ES) | ~7,749–7,763 (+0.3%) | Holding despite NFP miss; rate-cut optimism offsetting recession fear |
+| VIX | ~15.15 | Benign; market not in panic mode |
+| **NFP (July) — 8:30 AM ET** | **−23,000 jobs** | **Massive miss** vs. +83K consensus; June revised +57K; unemployment 4.1% (from 4.2%) |
+| Earnings focus | NET +17% pre-mkt | Cloudflare Q2 beat; AMD, PLTR reporting this week |
+
+#### NFP Analysis
+- Print: −23K vs. +83K consensus → largest single-month miss in recent cycle
+- Unemployment: 4.1% (slight improvement from 4.2%) — contradicts headline job loss
+- Market reaction: SPX futures +0.3% — market interpreting as "bad news is good news" (more Fed cuts)
+- Risk: Delayed recession-fear repricing is possible; VIX low now but tail risk elevated intraday
+- Pre-market plan NFP gate: "in-line or better (+70K–100K)" — **GATE NOT MET** (actual: −23K)
+
+#### NET (Cloudflare) — Q2 Results
+- Pre-market: **+17% (~$333.95)** vs. prior close
+- Revenue: $696.1M (+36% YoY) — beat $664.7M estimate
+- EPS: $0.29 vs. $0.27 est — beat
+- Large customers ($100K+): 4,698 (+27% YoY; 986 net adds — record)
+- FY2026 guidance raised: $2,864M–$2,870M revenue; EPS $1.25–$1.26
+- AI milestone: >50% of network traffic now non-human (first time ever)
+- FCF: $56.4M (8% margin)
+- Thesis: Compelling AI security/networking plays; secular tailwind confirmed
+
+#### TSM Update
+- Live: $423.32 (+1.22% intraday, +6.16% unrealized)
+- HWM $426.26 — gap to HWM: $2.94 (0.69%); approaching auto-advance trigger
+- Capex headwind: $60B–$64B spend guide (up from $52–56B); known risk, demand thesis unchanged
+- Tariff note: Polysilicon Section 232 tariff announced; limited direct TSM impact (leading-edge nodes)
+- Consensus: Strong Buy; avg target $540.20 (+28% upside)
+- Thesis: INTACT ✓
+
+#### Trade Ideas
+
+1. **NET (Cloudflare) — PASS today despite catalyst**
+   - Catalyst: Q2 beat; +36% revenue growth; AI traffic >50%; guidance raised; record customer adds
+   - Gate failure: Pre-market plan required NFP "in-line or better (+70K–100K)"; actual −23K → gate NOT met
+   - Additional: NET already gapped +17% — entering now = chasing the gap with no 30-min consolidation
+   - 30-min post-open window not yet available (it's 8:44 AM ET, market opens 9:30 AM)
+   - **Decision: PASS today; re-evaluate at midday if NFP fear doesn't materialize**
+
+2. **TSM — HOLD (existing position)**
+   - Approaching HWM $426.26; if TSM closes above → trailing stop auto-advances
+   - No loser check trigger (+6.16% vs. −7% threshold)
+   - No tighten trigger (+6.16% vs. +15% threshold at $458.57)
+   - Action: NONE — monitor HWM advance
+
+3. **New sector/position — HOLD**
+   - Under-deployed (9.85% vs. 75–85% target)
+   - NFP miss = macro uncertainty; "patience > activity" rule overrides deployment urgency
+   - No new ticker with documented catalyst + confirmed entry zone today
+
+#### Risk Factors
+- **NFP -23K**: Worst headline miss in recent cycle; if rate-cut thesis fails to materialize, risk-off could hit growth names hard intraday
+- **TSM stop vulnerability**: Current stop $383.634 (9.4% buffer below $423.32); NFP whipsaw unlikely to breach but HWM advance stalls if price pulls back
+- **NET gap risk**: +17% open; gap fills are common when macro uncertainty is high; no position protects from watching it retrace
+- **Polysilicon tariffs (Section 232)**: Minor for TSM (advanced nodes); monitor for supply-chain read-through
+- **Seasonal headwind**: August–September historically weak; portfolio under-deployed is actually protective here
+- **Oil at $78**: Hormuz premium baked in; if tensions ease, energy names reprice; not directly relevant to our book
+
+#### Decision: **HOLD — no new trades today**
+- NFP gate explicitly required +70K–100K print; actual −23K → gate NOT met
+- NET is compelling but: gap already +17%, gate not met, 30-min consolidation window not yet available
+- TSM: healthy hold; stop active; approaching HWM; thesis intact
+- Capital deployed: 9.9% — well below 75–85% target; patience > activity on NFP day
+- **Midday trigger**: If market stabilizes post-open AND NET holds near $330+ AND no macro deterioration → re-evaluate NET entry at midday scan
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
