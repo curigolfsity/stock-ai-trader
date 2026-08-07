@@ -5662,3 +5662,97 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - **TSM:** $418.82 +1.16% intraday; analyst avg target $540 (Strong Buy consensus); HWM $426.26 not yet breached; AI thesis intact
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+### Pre-Market Research — 2026-08-07 (Day 69, Friday — Week 14 Day 5 — NFP Day)
+
+#### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,306.39 |
+| Cash | $88,619.25 (90.2%) |
+| Long Market Value | $9,687.14 (TSM) |
+| Phase P&L | −$1,693.61 (−1.69% vs $100K start) |
+| Daytrade count | 0/3 |
+| Weekly trades used | 1/3 (2/3 remaining) |
+| Positions | 1/6 (TSM) |
+
+#### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $421.18 | +$515.66 (+5.62%) | 10% trail GTC (order 265e7f23, HWM $426.26, stop $383.634) |
+
+#### Open Orders
+- TSM trailing stop 10% GTC (265e7f23); HWM $426.26; stop $383.634; expires 2026-10-30
+
+#### Market Context
+| Indicator | Level | Note |
+|-----------|-------|------|
+| WTI crude | ~$77.18/bbl | Bouncing after 3-session slide; Iran-Oman Hormuz deal; was ~$75 Thu |
+| S&P 500 futures (ES) | 7,749.50 (+0.13%) | Little changed pre-NFP; holding modest bid |
+| VIX | 15.18 (−3.99%) | Calm; market not pricing elevated volatility despite NFP risk |
+| NFP (July) — 8:30 AM ET | Consensus +80K–88K jobs | June miss: +57K vs +110K estimate; unemployment 4.2% expected |
+| Pre-market earnings | VST, TTWO, PPL, UA | No major sector movers for us |
+
+#### Sector Momentum YTD (as of July 31)
+- S&P 500 +10.1% YTD
+- Energy: +12% in July (now softening on Hormuz deal)
+- Consumer Discretionary: +7.6% YTD leader
+- Communication Services: +5.3%
+- IT/Tech: Facing headwinds; AI names diverging positively
+- Industrials: −1.8% | Real Estate: −2.0% | Utilities: −4.1%
+
+#### TSM Update
+- TSM $421.18 premarket (+0.71% from $418.20 close) — continuing Thursday's recovery
+- HWM $426.26 still not cleared; stop $383.634 (9.0% buffer below current)
+- TSM must close above $426.26 to advance HWM and push stop higher
+- Analyst avg target $540 (Strong Buy consensus); Q2 beat + >40% revenue growth guide intact
+- AI chip demand thesis intact; 3nm expansion confirming demand signal
+- 52-week range $223.70 – $479.00
+
+#### NET (Cloudflare) — Q2 Results (Reported After Close Aug 6)
+- Revenue: $696.1M (+36% YoY) — beat by +4.6%; consensus was ~$665M
+- Non-GAAP EPS: $0.29 vs $0.21 prior year — beat by +7.4%
+- GAAP EPS: −$0.48 (loss widened from −$0.15; due to $150.7M restructuring charge — one-time)
+- GAAP gross margin: 71.8% (from 74.9%); Non-GAAP: 73.1% (from 76.3%)
+- Large customers ($100K+/yr): 4,698 (+27% YoY; record 986 net adds)
+- Q3 2026 guidance: $736M–$737M revenue (implies continued ~35% YoY growth)
+- FY2026 revenue guidance raised to $2,864M–$2,870M
+- FCF: $56.4M (8% of revenue)
+- **Assessment:** Strong beat across key metrics; restructuring charge is one-time; customer adds accelerating; AI networking/security tailwind intact
+
+#### Trade Ideas
+
+1. **NET (Cloudflare) — POST-EARNINGS WATCH (NFP-gated)**
+   - Catalyst: Q2 beat — revenue $696.1M (+36%), EPS beat, large customer adds record; Q3/FY guidance raised; AI security/networking secular growth
+   - Risk: GAAP loss widened on restructuring (one-time but headline-negative); NFP whipsaw today; gross margin compression deserves monitoring
+   - Action: **Do NOT enter pre-NFP.** Post-8:30 AM ET — if NFP prints in-line or better AND NET holds/gains in 30-min window post-open → evaluate entry (~10% equity, 10% trail stop)
+   - Size: ~10% equity (~$9,800)
+   - Stop: 10% trailing GTC
+   - Gate check: Positions after = 2/6 ✓ | Trades after = 2/3 ✓ | Catalyst documented ✓
+
+2. **TSM — HOLD (existing position)**
+   - No new action; HWM not advancing; thesis intact
+   - Watch: If TSM clears $426.26 on good NFP → stop advances automatically
+   - TSM add only if strong NFP + TSM momentum confirms above HWM in intraday data (midday scan to assess)
+
+3. **Consumer Discretionary (XLY or leader)** — YTD +7.6%; sector in momentum
+   - Speculative idea if NFP is strong (consumer resilience thesis)
+   - No specific ticker identified yet; needs research post-NFP
+
+#### Risk Factors
+- **NFP at 8:30 AM ET (primary):** Twin-tailed — weak print (<60K) → recession fear, growth selloff; strong print (>120K) → rate hike fear, growth selloff. July consensus 80–88K is narrow target band; June miss was −53K below forecast. High variance.
+- **TSM stop vulnerability:** At $421.18 with stop $383.634 (9% buffer); NFP whipsaw could push intraday below $411 before recovering; stop not in danger but HWM advance stalls
+- **Gross margin compression at NET:** Non-GAAP gross margin 73.1% vs 76.3% prior year; if this trend continues = thesis risk for future quarters
+- **Seasonal headwind:** August–September historically weak; S&P +10.1% YTD = elevated starting point for seasonal correction
+- **Oil bounce ($77+):** Revives inflation concerns; complicates Fed path; mild negative for rate-sensitive tech
+
+#### Decision: **HOLD — no new trades pre-NFP**
+- NFP is the dominant catalyst today; no new positions before 8:30 AM ET print
+- NET is the top candidate if NFP cooperates — midday scan to evaluate post-print action
+- TSM: hold; stop active; thesis intact; no action needed
+- Capital deployed: 9.85% of equity — well below 75–85% target; patience > activity
+- **Trigger for new trade:** In-line or better NFP (+70K–100K) + NET holds or gains post-open + 30-min consolidation confirms → midday entry on NET
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_

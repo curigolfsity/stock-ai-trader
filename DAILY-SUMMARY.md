@@ -217,3 +217,11 @@ Risks: FOMC hike surprise (25%), global semi selloff, MSFT/META capex AH tonight
 ---
 ## 2026-07-31 10:16 UTC (ntfy 403 — local fallback)
 Jul 31 pre-mkt: AMZN AWS +37% $220B capex BEAT ✓ — TSM conditional trigger active; watch VIX close <17 today; TSM pre-mkt ~$455 (gapped above $415 zone); AAPL -7%
+
+---
+## 2026-08-07 10:17 UTC (fallback — no notification service configured)
+Pre-market 2026-08-07
+Decision: HOLD (NFP day — no new positions pre-8:30 AM)
+Ideas: NET post-earnings beat (+36% rev, EPS beat) — watch post-NFP; TSM hold (thesis intact)
+Market: SPX futures +0.13% (7749), VIX 15.18, Oil WTI $77.18
+Risks: NFP twin-tail at 8:30 ET (consensus +80-88K; June miss was -53K vs est); seasonal Aug headwind
