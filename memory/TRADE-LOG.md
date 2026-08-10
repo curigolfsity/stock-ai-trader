@@ -2832,3 +2832,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $423.63 | +$572.01 (+6.24%) | 10% GTC (265e7f23, HWM $426.26, stop $383.634) | AI chip demand; 3nm acceleration; analyst target $540 | $530–545 | 3.4:1 |
+
+---
+
+### Aug 10 — EOD Snapshot (Day 70, Monday)
+**Portfolio:** $98,335.37 | **Cash:** $88,619.25 (90.1%) | **Day P&L:** +$55.20 (+0.06%) | **Phase P&L:** -$1,664.63 (-1.66%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $422.44 | +0.57% | +$544.64 (+5.94%) | $383.634 (10% trail, HWM $426.26, order 265e7f23) |
+
+**Notes:** Day 70 (Week 15 Day 1, Monday). TSM closed at $422.44 (+0.57%), a quiet grind higher but still short of the HWM at $426.26 — no stop update triggered. Unrealized gain on TSM: +$544.64 (+5.94%). No trades today; weekly count 0/3. NET held below the $310–315 entry zone all session; midday gate not met; PASS upheld per patience rule. CPI Wednesday (Aug 12) remains the key binary macro event — deploy-after-print discipline maintained; no new positions pre-CPI. Capital deployed: 9.88% of equity ($9,716.12) — significantly under-deployed; TSM is the lone hold. Phase P&L: −$1,664.63 (−1.66%) vs. $100,000 starting equity. Trailing stop intact at $383.634 (HWM $426.26, GTC order 265e7f23). Next triggers: TSM +15% ($458.57) → tighten trail to 7%; −7% ($370.85) → manual cut. Watchlist: NET (reclaim $310+ pre-CPI), CPI Wednesday print → deployment decision.
