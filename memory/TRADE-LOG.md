@@ -2788,3 +2788,47 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - NET: Rules pass ($310 entry = 19.1% of equity; 0/3 weekly trades; catalyst documented) — but entry requires 30-min post-open consolidation above $310–315; **midday trigger active**
 - SMCI: No pre-earnings position; evaluate post-print this week
 - CPI Wednesday = binary macro event; disciplined sizing until print
+
+---
+
+### Midday Scan — 2026-08-10 (Day 70, Monday — Week 15 Day 1)
+
+- **Account:** Equity $98,360.67 | Cash $88,619.25 (90.1%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 1 — TSM 23sh @ $398.76 | Current $423.63 | Unrealized +$572.01 (+6.24%) | Intraday +$82.57 (+0.86%)
+- **Open orders:** 1 — TSM trailing stop 10% GTC (order `265e7f23`, HWM $426.26, stop $383.634)
+
+#### Loser Check: NO CUT
+- TSM unrealized_plpc: +6.24% — threshold −7% not triggered ✓
+
+#### Winner Tighten Check: NO ACTION
+- TSM +6.24% — below +15% tighten threshold ($458.57) ✓
+- HWM $426.26 not cleared; TSM at $423.63 is 0.62% below HWM; stop remains $383.634
+
+#### Thesis Check: INTACT ✓
+- TSM $423.63 +0.86% intraday; approaching HWM $426.26 (gap: $2.63)
+- AI chip demand thesis intact; 3nm acceleration news from pre-market confirmed
+- No negative news; analyst Strong Buy consensus unchanged; target $540 (+27.5% upside)
+- **Verdict:** HOLD — no action
+
+#### NET (Cloudflare) — Midday Trigger Evaluation
+- Current: ~$300–305 (below $310–315 entry zone)
+- Aug 9 close: $300.27; intraday high touched $331.78 but pulled back; consolidating below entry zone
+- Entry gate NOT met: need clean hold above $310–315 with orderly 30-min range
+- **Decision: PASS — re-evaluate Tuesday if NET reclaims $310+**
+
+#### Macro
+- S&P 500: +0.1% (~7,766); Nasdaq: −0.3% — mixed; growth muted
+- CPI Wednesday Aug 12 = key binary event; patience rule holds
+- Oil: Brent $84+ (Hormuz talk); no direct tech headwind yet
+- VIX: calm
+
+#### Decision: **HOLD — no new trades**
+- TSM: healthy hold; stop active; approaching HWM; thesis intact
+- NET: below $310 entry zone; gate not met; PASS
+- CPI Wednesday = deploy-after-print discipline maintained
+- No action → no notification sent
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $423.63 | +$572.01 (+6.24%) | 10% GTC (265e7f23, HWM $426.26, stop $383.634) | AI chip demand; 3nm acceleration; analyst target $540 | $530–545 | 3.4:1 |
