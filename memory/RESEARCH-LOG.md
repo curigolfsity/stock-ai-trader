@@ -5884,3 +5884,121 @@ _Run time: midday scan_
 - NET: PASS — re-evaluate Monday
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+## 2026-08-10 — Pre-Market Research (Day 70, Week 15 Day 1, Monday)
+
+### Account Snapshot
+| Metric | Value |
+|--------|-------|
+| Equity | $98,279.25 |
+| Cash | $88,619.25 (90.2%) |
+| Position Market Value | $9,660.00 (9.84%) |
+| Phase P&L | -$1,720.75 (-1.72%) vs $100K start |
+| Day P&L | -$0.92 (intraday flat) |
+| Weekly trades | 0/3 (fresh week) |
+| Daytrade count | 0 |
+| Open positions | 1 — TSM |
+
+#### Open Positions
+| Ticker | Shares | Entry | Current | Unreal P&L | Stop |
+|--------|--------|-------|---------|------------|------|
+| TSM | 23 | $398.76 | $420.00 | +$488.52 (+5.33%) | $383.634 (10% trail, HWM $426.26, order 265e7f23) |
+
+---
+
+### Market Context
+| Indicator | Level | Note |
+|-----------|-------|------|
+| WTI Crude | $78.82/bbl | +0.81%; 3rd consecutive session gain; Hormuz uncertainty |
+| Brent Crude | $84.18/bbl | +0.75%; above $84 |
+| SPX Futures | ~+0.6% | ~7,735 pre-open; positive start to week |
+| VIX | ~15.30 | Low (range 14.77–15.36); calm |
+| S&P 500 YTD | +~22% | Earnings-led stabilization; approaching all-time highs |
+
+#### Key Events This Week
+- **Wed Aug 12**: CPI — critical; confirms/denies energy price disinflation pass-through
+- **Thu Aug 13**: PPI
+- **Fri Aug 15**: Retail Sales + NFIB Small Business Optimism
+- **Earnings (week)**: Super Micro Computer (SMCI), CoreWeave, JD.com
+- **Pre-market today**: MNDY ($0.62e), SE ($0.48e), ONON ($0.18e), CAH ($1.84e), FERG ($2.85e), CAMT ($0.68e)
+
+#### Sector Momentum YTD 2026
+| Sector | YTD |
+|--------|-----|
+| Energy | +32.11% ✓ |
+| Technology | +30.69% ✓ |
+| Transportation | +26.30% ✓ |
+| Financial | +9.83% |
+| Retail | +4.17% |
+| Consumer Discretionary | -4.27% ✗ |
+→ **Stay in tech/AI/energy; avoid consumer discretionary**
+
+---
+
+### Ticker Updates
+
+#### TSM (Open Position)
+- Current: $420.00 (~flat from $419.95 Friday close)
+- News: TSMC accelerating 3nm to 180K wafers/month (ahead of schedule); CapEx $60–64B (70–80% advanced nodes); strong AI demand from NVDA/AMD/Broadcom
+- YTD: +31.4%; 12-month: +75.2%
+- Thesis: INTACT ✓ — accelerated capacity confirms AI chip super-cycle
+- Stop HWM $426.26; TSM at $420 = 1.49% below HWM; stop $383.634 (8.7% buffer)
+- Next triggers: $458.57 (+15%) → tighten to 7%; $478.51 (+20%) → tighten to 5%
+
+#### NET (Cloudflare — Watch)
+- Current: ~$300 (closed $284.43 Fri, bounced to $300.27 Aug 9)
+- Q2 print was strong (+36% rev, EPS beat, guidance raised, >50% AI traffic, record customer adds)
+- Post-earnings volatile: gapped +17% then crashed to $275 intraday (gap fill) → settled ~$285 Fri, recovered $300+ Sunday/early week
+- Plan: Need clean consolidation **above $310–315** with 30-min orderly range → valid entry zone
+- Stop: $275 (prior intraday low, ~10–11% below $310 entry)
+- Target: $370–380 (measured move from base); R:R ~2.5:1
+- Catalyst: Confirmed AI security/networking thesis; secular tailwind; institutional re-rating underway
+
+#### SMCI (Super Micro Computer — Monitor)
+- Reporting this week; AI infrastructure play; strong sector momentum (tech +30.7%)
+- If earnings beat + strong guidance → evaluate post-print entry (no pre-earnings position)
+- Stop would be 10% below entry; target 2:1 R:R minimum
+
+---
+
+### Trade Ideas
+
+1. **NET — Potential entry this week IF consolidation confirmed**
+   - Catalyst: Record Q2 beat; AI security/networking secular tailwind; guidance raised
+   - Entry zone: $310–315 if 30-min post-open consolidation holds cleanly
+   - Stop: $275 (-11% from $310) — below gap-fill low
+   - Target: $375 (~20% from entry) | R:R: ~2.5:1 ✓
+   - Position size: ~6 shares ($1,860 at $310, ~1.9% of equity — under 20% max) or up to ~60 shares (~$18,600, 19% of equity at upper limit)
+   - **Gate check**: positions would be 2 (≤6 ✓); 1 trade this week (≤3 ✓); within 20% limit ✓; daytrade count 0 ✓
+   - **Status: MONITOR — wait for intraday signal**
+
+2. **TSM — HOLD (existing)**
+   - No action; thesis intact; stop active
+   - Need close above $426.26 to advance stop HWM
+
+3. **SMCI — HOLD/MONITOR pre-print**
+   - No position before earnings print; evaluate after results this week
+
+---
+
+### Risk Factors
+- **CPI (Wed Aug 12)**: Hot print could spike VIX, crush growth names; position sizing matters
+- **TSM HWM**: Stop advances automatically if TSM closes above $426.26 (positive)
+- **NET volatility**: Post-earnings stocks can remain volatile 1–2 weeks; discipline on entry zone
+- **Hormuz/Oil**: Brent $84 with 3rd straight session gain; if oil spikes further → macro headwind for tech (yields)
+- **Under-deployed**: 9.84% deployed vs. 75–85% target; deployment pressure exists but macro uncertainty (CPI week) justifies patience
+- **Seasonal**: Aug–Sep historically weak; stay disciplined
+
+---
+
+### Decision: **HOLD — no new trades pre-open; monitor NET intraday**
+- TSM: healthy hold; thesis reinforced by 3nm acceleration news; stop active
+- NET: strong catalyst but need intraday consolidation signal above $310; no pre-open entry
+- SMCI: no pre-earnings position; evaluate post-print this week
+- CPI Wednesday = major binary event; don't over-deploy before print
+- **Midday trigger**: If NET holds $310+ with orderly 30-min consolidation after open → evaluate entry
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
