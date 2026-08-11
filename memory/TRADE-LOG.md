@@ -2861,3 +2861,44 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 - TSM loser check: +6.02% — threshold −7% not triggered ✓
 - TSM tighten check: +6.02% — below +15% threshold ($458.57) ✓; no action needed
 
+
+---
+
+### Midday Scan — 2026-08-11 (Day 71, Tuesday — Week 15 Day 2)
+
+- **Account:** Equity ~$98,330 | Cash $88,619.25 (90.2%) | Daytrade count: 0 | Weekly trades: 0/3
+- **Positions:** 1 — TSM 23sh @ $398.76 | Current $422.21 | Unrealized +$539.35 (+5.88%) | Intraday +$86.02 (+0.89%)
+- **Open orders:** 1 — TSM trailing stop 10% GTC (order `265e7f23`, HWM $426.26, stop $383.634)
+
+#### Loser Check: NO CUT
+- TSM unrealized_plpc: +5.88% — threshold −7% not triggered ✓
+
+#### Winner Tighten Check: NO ACTION
+- TSM +5.88% — below +15% tighten threshold ($458.57) ✓
+- HWM $426.26 still leads; TSM at $422.21 is $4.05 below HWM; stop remains $383.634
+
+#### Thesis Check: INTACT ✓
+- TSM: July revenue +44.7% YoY (467.58B NTD); Sony/TSMC ¥1T Japan fab talks active; analyst consensus 18/0 Strong Buy, target $540
+- No negative news; AI chip demand thesis reinforced
+- **Verdict:** HOLD — no action
+
+#### NET (Cloudflare) — Midday Trigger Evaluation
+- Current: $310.59 — right at the floor of the $310–315 entry zone
+- Sitting at ATH close (set Aug 10); structurally constructive but no upside momentum yet
+- Entry gate NOT fully met: need clean 30-min consolidation with orderly range above $310–315
+- **Decision: PASS — watch for close above $313–315 to confirm; breach below $310 = invalidated**
+
+#### Macro
+- S&P 500: mild risk-on; Nasdaq +0.4% futures; VIX ~15.5 (calm)
+- Oil: Brent ~$87.90, WTI ~$82 — elevated; Hormuz tensions; 3rd straight session gain
+- CPI tomorrow (Aug 12 8:30am ET): Headline +0.1% MoM est. (+3.4% YoY), Core +0.1% MoM est. (+2.5% YoY) — key binary event
+
+#### Decision: **HOLD — no new trades**
+- TSM: thesis intact; stop active; HWM gap $4.05; approaching potential stop advance today
+- NET: at zone floor ($310.59); no orderly consolidation signal yet; pre-CPI patience rule applies
+- No action → no notification sent
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $422.21 | +$539.35 (+5.88%) | 10% GTC (265e7f23, HWM $426.26, stop $383.634) | AI chip demand; 3nm ramp; Sony/TSMC fab talks; analyst target $540 | $530–545 | 3.4:1 |

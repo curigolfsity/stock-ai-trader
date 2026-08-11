@@ -6051,3 +6051,13 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - SMCI: no action pre-earnings; evaluate post-print
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+### Midday Addendum — 2026-08-11
+
+- **TSM $422.21** (+0.89% intraday): July revenue +44.7% YoY confirmed; Sony/TSMC ¥1T Japan fab talks; 18/0 analyst consensus Strong Buy; thesis INTACT
+- **NET $310.59** (flat from pre-market): at ATH close; at floor of $310–315 entry zone; no orderly consolidation yet; gate NOT met; PASS — pre-CPI patience
+- **HWM status**: TSM $4.05 below HWM $426.26; stop remains $383.634
+- **No actions taken** — hold TSM, monitor NET, await CPI tomorrow (Aug 12 8:30am ET)
+- Next trigger: TSM close above $426.26 → stop advances; NET close above $313–315 → re-evaluate entry Friday (post-CPI)
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
