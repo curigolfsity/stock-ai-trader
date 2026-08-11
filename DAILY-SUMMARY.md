@@ -225,3 +225,11 @@ Decision: HOLD (NFP day — no new positions pre-8:30 AM)
 Ideas: NET post-earnings beat (+36% rev, EPS beat) — watch post-NFP; TSM hold (thesis intact)
 Market: SPX futures +0.13% (7749), VIX 15.18, Oil WTI $77.18
 Risks: NFP twin-tail at 8:30 ET (consensus +80-88K; June miss was -53K vs est); seasonal Aug headwind
+
+---
+## 2026-08-11 10:18 UTC
+Pre-market 2026-08-11
+Decision: HOLD (NET midday trigger ACTIVE)
+Ideas: NET $310 entry zone—30min consolidation needed, TSM HOLD thesis intact
+Market: SPX futures +0.1%, VIX 15.5, Oil WTI $82/Brent $87.90
+Risks: CPI Wed Aug 12 binary event; tech sector lagging; oil elevated

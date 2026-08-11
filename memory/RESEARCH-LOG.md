@@ -6002,3 +6002,52 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
 
+
+---
+
+## 2026-08-11 — Pre-market Research
+
+### Account
+- Equity: $98,279.25
+- Cash: $88,619.25 (90.2%)
+- Buying power: $186,898.50 (reg-T)
+- Daytrade count: 0
+- Weekly trades: 0/3
+- Phase P&L: −$1,720.75 (−1.72%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Pre-Open | Unrealized P&L | Stop |
+|--------|--------|-------|----------|----------------|------|
+| TSM | 23 | $398.76 | ~$420 | +$488.52 (+5.33%) | $383.634 (10% trail, HWM $426.26, order 265e7f23) |
+
+### Market Context
+- **WTI:** ~$82/barrel | **Brent:** ~$87.90/barrel — elevated; 3rd straight session gain; Hormuz tensions
+- **S&P 500 futures:** +0.1% premarket; Nasdaq futures +0.4% — mild risk-on; NFP miss seen as rate-cut catalyst
+- **VIX:** ~15.46–15.81 — calm; low volatility regime
+- **Today's catalysts:** 166 earnings on calendar; DDOG +11.5% premarket on Q2 beat; key session before CPI tomorrow
+- **Earnings before open (notable):** Q2 earnings season ongoing; no single mega-cap reports pre-open today
+- **Economic calendar:** **CPI Wednesday Aug 12 (8:30am ET)** — Headline +0.1% MoM (+3.4% YoY est.), Core +0.1% MoM (+2.5% YoY est.); PPI Thursday; U of M sentiment Friday
+- **Sector momentum:** Materials (+22% YTD) leading; Healthcare defensive strength; Tech/Comm/Discretionary in "lagging" quadrant per rotation model — cautionary signal for new tech entries pre-CPI
+- **TSM:** +45% monthly sales in July; Sony/TSMC joint ¥1T factory talks; 3nm ramp confirmed; analyst consensus Strong Buy, target ~$540; thesis intact
+- **NET:** $310.59 pre-open (+3.47% yesterday) — now AT the $310–315 entry zone; 52-wk range $158.83–$324.73; strong Q2 (+36% rev, $696.1M, guidance raised, AI traffic >50%)
+
+### Trade Ideas
+1. **NET — Live midday trigger** — catalyst: AI traffic inflection, record Q2 beat, guidance raised, agent growth; entry zone $310–315 if 30-min post-open consolidation holds cleanly; stop $275 (−11.3%); target $375 (~20%); R:R ~2.5:1; size ~60 shares (~$18,600, ~19% equity); gate check: 2 positions (≤6 ✓), 1 trade (≤3 ✓), 19% (≤20% ✓), daytrade 0 ✓
+2. **TSM — HOLD** — no new action; thesis reinforced by Sony talks + 3nm ramp; need close above $426.26 HWM to advance stop; monitoring
+3. **SMCI — MONITOR** — no pre-earnings position; evaluate post-print this week if beats + guides up
+
+### Risk Factors
+- **CPI tomorrow (Aug 12)**: Hot headline (+3.4%+ YoY) could spike VIX, compress tech multiples; major binary event — biggest risk of the week
+- **Tech sector lagging**: Rotation model flags tech as lagging; increases risk on new tech entries; offset by individual stock catalysts (NET, TSM specific)
+- **Oil at $87.90 Brent**: Sustained elevation → yield pressure → tech multiple compression
+- **NFP miss (−23K vs. +83K est.)**: "Bad news is good news" framing could reverse if CPI hot — fragile thesis
+- **NET volatility**: Post-earnings stocks stay volatile 1–2 weeks; entry zone $310–315 must hold cleanly; gap at $275 (prior intraday low) is the risk
+- **Under-deployed**: 9.84% deployed vs. 75–85% target; forced-deployment temptation — resist pre-CPI; use patience rule
+
+### Decision: **HOLD pre-open — midday trigger ACTIVE for NET**
+- TSM: thesis intact; stop active; no action needed; monitoring HWM $426.26
+- NET: Now at $310 entry zone — **midday trigger live**; require 30-min post-open consolidation above $310–315 for valid entry
+- No new pre-open positions — CPI tomorrow = deploy-after-print discipline for anything beyond NET setup
+- SMCI: no action pre-earnings; evaluate post-print
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
