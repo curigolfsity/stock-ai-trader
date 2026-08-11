@@ -2843,3 +2843,21 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | TSM | 23 | $398.76 | $422.44 | +0.57% | +$544.64 (+5.94%) | $383.634 (10% trail, HWM $426.26, order 265e7f23) |
 
 **Notes:** Day 70 (Week 15 Day 1, Monday). TSM closed at $422.44 (+0.57%), a quiet grind higher but still short of the HWM at $426.26 — no stop update triggered. Unrealized gain on TSM: +$544.64 (+5.94%). No trades today; weekly count 0/3. NET held below the $310–315 entry zone all session; midday gate not met; PASS upheld per patience rule. CPI Wednesday (Aug 12) remains the key binary macro event — deploy-after-print discipline maintained; no new positions pre-CPI. Capital deployed: 9.88% of equity ($9,716.12) — significantly under-deployed; TSM is the lone hold. Phase P&L: −$1,664.63 (−1.66%) vs. $100,000 starting equity. Trailing stop intact at $383.634 (HWM $426.26, GTC order 265e7f23). Next triggers: TSM +15% ($458.57) → tighten trail to 7%; −7% ($370.85) → manual cut. Watchlist: NET (reclaim $310+ pre-CPI), CPI Wednesday print → deployment decision.
+
+---
+
+### Market-Open Scan — 2026-08-11 (Day 71, Tuesday — Week 15 Day 2)
+**Portfolio:** $98,342.50 | **Cash:** $88,619.25 (90.2%) | **Weekly trades:** 0/3 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $422.75 | +$551.77 (+6.02%) | $383.634 (10% trail, HWM $426.26, order 265e7f23) ✓ |
+
+#### Decision: **HOLD — no pre-open trades**
+- TSM: thesis intact; stop active and confirmed in Alpaca; HWM $426.26 gap only $3.51 — stop may advance today if TSM clears $426.26
+- NET: Midday trigger ACTIVE — need 30-min post-open consolidation above $310–315; last known pre-market ~$310.59; after-hours ask $322.47 (wide spread); no pre-open entry
+- SMCI: No pre-earnings position; evaluate post-print this week
+- **CPI tomorrow (Aug 12 8:30am ET)**: Major binary event — patience rule; no aggressive deployment pre-print
+- TSM loser check: +6.02% — threshold −7% not triggered ✓
+- TSM tighten check: +6.02% — below +15% threshold ($458.57) ✓; no action needed
+
