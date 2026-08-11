@@ -2902,3 +2902,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $422.21 | +$539.35 (+5.88%) | 10% GTC (265e7f23, HWM $426.26, stop $383.634) | AI chip demand; 3nm ramp; Sony/TSMC fab talks; analyst target $540 | $530–545 | 3.4:1 |
+
+---
+
+### Aug 11 — EOD Snapshot (Day 71, Tuesday)
+**Portfolio:** $98,280.17 | **Cash:** $88,619.25 (90.2%) | **Day P&L:** +$36.11 (+0.04%) | **Phase P&L:** -$1,719.83 (-1.72%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $420.02 | +0.37% | +$488.98 (+5.33%) | $383.634 (10% trail, HWM $426.26, order 265e7f23) |
+
+**Notes:** Day 71 (Week 15 Day 2, Tuesday — pre-CPI eve). TSM closed at $420.02 (+0.37%), continuing its steady grind but still shy of the HWM at $426.26 — trailing stop unchanged at $383.634, no new high-water-mark set today. Unrealized gain on TSM: +$488.98 (+5.33%) on 23 shares. No trades today; weekly count remains 0/3. NET (Cloudflare) held at the floor of the $310–315 entry zone intraday but failed to show orderly 30-min consolidation; pre-CPI patience rule maintained. CPI report tomorrow (Aug 12 8:30am ET) is the major binary macro event: headline est. +0.1% MoM (+3.4% YoY), core est. +0.1% MoM (+2.5% YoY). Capital deployed: 9.83% of equity ($9,660.46) — significantly under-deployed; awaiting post-CPI clarity to deploy toward 75–85% target. Phase P&L: −$1,719.83 (−1.72%) vs. $100,000 starting equity. Next triggers: TSM +15% ($458.57) → tighten trail to 7%; +20% ($478.51) → tighten to 5%; −7% ($370.85) → manual cut. Watchlist: CPI tomorrow → deployment decision; NET ($310–315 if clean consolidation post-CPI); LLY (pullback entry monitoring).
