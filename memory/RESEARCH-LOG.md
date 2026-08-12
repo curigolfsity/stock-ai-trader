@@ -6061,3 +6061,55 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - Next trigger: TSM close above $426.26 → stop advances; NET close above $313–315 → re-evaluate entry Friday (post-CPI)
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+---
+
+## 2026-08-12 — Pre-market Research
+
+### Account
+- Equity: $98,451.52
+- Cash: $88,619.25 (90.1%)
+- Buying power: $187,070.77 (reg-T)
+- Daytrade count: 0
+- Weekly trades: 0/3
+- Phase P&L: −$1,548.48 (−1.55%) vs. $100,000 start
+
+### Positions
+| Ticker | Shares | Entry | Pre-Open | Unrealized P&L | Stop |
+|--------|--------|-------|----------|----------------|------|
+| TSM | 23 | $398.76 | $427.49 | +$660.79 (+7.21%) | $383.634 → auto-advancing (HWM was $426.26; price now above — Alpaca should update to ~$384.74) |
+
+### Market Context
+- **CPI (July, released 8:30am ET today):** Headline +0.2% MoM / +2.7% YoY; **Core +0.32% MoM / +3.1% YoY — HOT, above consensus**; "broad heat in the core" (FX Street); yields rose, stocks sold off from pre-market highs, near-term rate-cut expectations further scaled back
+- **S&P 500 futures:** +0.19% pre-CPI → trimmed to flat/cautious after print; Nasdaq futures had been +0.31%
+- **VIX:** 15.28 — elevated but not alarming; expected to tick higher post-hot-print
+- **WTI:** ~$83–84/bbl (4th consecutive session of gains; US-Iran tensions, Hormuz risk premium)
+- **Brent:** ~$88.91–$89.65/bbl (+1.73% session, +35% YoY)
+- **10-year Treasury:** near 4.7% — headwind for growth/tech multiples
+- **Today's catalysts:** CPI hot core dominant catalyst; US-Iran geopolitics (no Hormuz deal); CSCO reports after close today; AMAT Q3 Thursday
+- **Earnings before open:** No mega-cap pre-open; SMCI reported Q4 FY2026 after close yesterday
+- **Sector momentum:** Materials/Energy leading (oil); Growth/Tech under yield compression from hot CPI
+- **TSM:** Sony/TSMC binding JV announced — "Advanced Vision Semiconductor Manufacturing," Koshi City Japan; ~¥1T (~$6.3B) total; Sony ~60%, TSMC ~40%; analyst consensus 18 Buy / 0 Sell; thesis reinforced
+- **NET:** $310.59 area; hot CPI headwind for high-multiple growth names; FedRAMP High/GovRAMP Moderate certified Aug 10 — positive for enterprise pipeline; thesis intact but timing unfavorable today
+- **SMCI:** Q4 FY2026 — Revenue +93% YoY (slight miss, low end of guidance); Gross margin 17.5% (vs. 9.5% prior year — nearly doubled, EPS beat); FY2027 guidance up to $72B; record $60B+ Q4 orders; BUT negative operating cash flow flagged
+
+### Trade Ideas
+1. **SMCI — MONITOR post-open** — catalyst: margins nearly doubled (EPS beat), FY2027 guidance $72B, record backlog $60B+; watch for 30-min post-open consolidation; entry: above $50 with orderly volume; stop: −8% from entry; target: +20%; R:R ~2.5:1; risk: revenue miss, negative cash flow, hot CPI yield compression; SIZE: ~60 shares (~19% equity) if gated
+2. **NET — DEFERRED** — thesis intact but hot CPI + 4.7% yields compress high-multiple names; entry zone $310–315 on pause; re-evaluate once market digests CPI and yields stabilize; thesis: AI traffic, FedRAMP certs, record Q2 beat
+3. **TSM — HOLD existing** — Sony/TSMC JV binding is incremental positive; current $427.49 > HWM $426.26; expect Alpaca to auto-advance trailing stop to ~$384.74; no new shares; monitor for +15% trigger ($458.57) → tighten to 7%
+
+### Risk Factors
+- **Hot CPI (core +0.32%, 3.1% YoY):** Biggest immediate risk — compresses tech multiples, delays rate cuts, supports elevated yields; today's primary threat to tech/growth positions
+- **10-year at 4.7%:** Direct headwind for TSM, NET, SMCI valuation; sustained > 4.5% = strategy risk for growth book
+- **Oil (Brent ~$89):** 4th straight gain; Hormuz tensions unresolved; yield pressure channel continues
+- **TSM downside:** If CPI-driven sell-off deepens and TSM loses $420 intraday, HWM advance may not hold; trailing stop still ~$384 as safety net
+- **SMCI volatility:** Post-earnings + mixed results (margin beat, revenue miss, cash flow risk) = elevated 2-week volatility; if entry triggered, wider stop needed
+- **Under-deployed (90.1% cash):** Temptation to deploy post-CPI; resist — patience rule applies; wait for clear market direction post-print digestion
+
+### Decision: **HOLD — no new positions pre-open; SMCI midday trigger ACTIVE**
+- TSM: thesis intact; stop auto-advancing; no action needed; monitor HWM at $427.49+
+- NET: hot CPI = yield spike risk for high-multiple names; gate NOT met today; reassess when yields stabilize
+- SMCI: mixed earnings, but margin story strong; midday trigger active — require 30-min post-open consolidation, orderly volume, and price confirmation before entry
+- Overall: CPI hot core = deploy-after-digestion discipline; no forced entries; capital preservation priority
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_

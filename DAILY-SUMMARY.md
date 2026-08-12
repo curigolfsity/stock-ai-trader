@@ -233,3 +233,15 @@ Decision: HOLD (NET midday trigger ACTIVE)
 Ideas: NET $310 entry zone—30min consolidation needed, TSM HOLD thesis intact
 Market: SPX futures +0.1%, VIX 15.5, Oil WTI $82/Brent $87.90
 Risks: CPI Wed Aug 12 binary event; tech sector lagging; oil elevated
+
+---
+## 2026-08-12 10:23 UTC (fallback — no notification service configured)
+test message
+
+---
+## 2026-08-12 10:23 UTC (fallback — no notification service configured)
+Pre-market 2026-08-12
+Decision: HOLD (CPI hot core +3.1% YoY)
+Ideas: SMCI midday trigger (margins doubled, $72B FY2027 guide), NET deferred (yields 4.7%), TSM HOLD
+Market: SPX futures ~flat post-CPI, VIX 15.28, Oil WTI ~$83-84/Brent ~$89
+Risks: Hot core CPI, 10yr 4.7%, oil 4th gain, 90% cash under-deployed
