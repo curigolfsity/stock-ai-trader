@@ -2969,3 +2969,14 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $429.50 | +$707.02 (+7.71%) | 10% GTC (265e7f23, HWM $432.99 confirmed, stop $389.691) | AI chip demand; Sony/TSMC JV binding; 3nm ramp; analyst target $540 | $530–545 | 3.4:1 |
 
 _Midday 2026-08-12: HWM confirmed $432.99 (API), stop $389.691. No loser cut, no trail tighten (below +15%). SMCI midday trigger invalidated ($36.22, needed >$50). NET patience rule maintained (hot CPI, 4.7% yields). No action._
+
+---
+
+### Aug 12 — EOD Snapshot (Day 72, Wednesday — Week 15 Day 3)
+**Portfolio:** $98,538.00 | **Cash:** $88,619.25 (90.0%) | **Day P&L:** +$211.37 (+0.22%) | **Phase P&L:** -$1,462.00 (-1.46%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $431.26 | +2.18% | +$747.50 (+8.15%) | $389.691 (10% trail, HWM $432.99, order 265e7f23) |
+
+**Notes:** Day 72, CPI-day close (Wednesday, Week 15 Day 3). TSM closed at $431.26 (+2.18% on the day), a strong CPI session where AI semiconductor demand overrode the yield headwind from hot core CPI (+3.1% YoY, above consensus). Trailing stop HWM confirmed at $432.99 via API; stop $389.691 (GTC order 265e7f23) active. Unrealized gain: +$747.50 (+8.15%) on 23 shares. No new trades today; weekly count 0/3. NET watch maintained — 10-year at ~4.7% and hot CPI continue to suppress entry gate for high-multiple growth names. Capital deployed: 10.07% of equity — below 75–85% target; awaiting macro clarity for deployment. Phase P&L: −$1,462.00 (−1.46%) vs. $100,000 starting equity. Next thresholds: TSM +15% ($458.57) → trail tightens to 7%; +20% ($478.51) → trail tightens to 5%; −7% ($370.85) → manual cut.
