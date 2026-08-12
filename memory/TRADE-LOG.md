@@ -2913,3 +2913,57 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 | TSM | 23 | $398.76 | $420.02 | +0.37% | +$488.98 (+5.33%) | $383.634 (10% trail, HWM $426.26, order 265e7f23) |
 
 **Notes:** Day 71 (Week 15 Day 2, Tuesday — pre-CPI eve). TSM closed at $420.02 (+0.37%), continuing its steady grind but still shy of the HWM at $426.26 — trailing stop unchanged at $383.634, no new high-water-mark set today. Unrealized gain on TSM: +$488.98 (+5.33%) on 23 shares. No trades today; weekly count remains 0/3. NET (Cloudflare) held at the floor of the $310–315 entry zone intraday but failed to show orderly 30-min consolidation; pre-CPI patience rule maintained. CPI report tomorrow (Aug 12 8:30am ET) is the major binary macro event: headline est. +0.1% MoM (+3.4% YoY), core est. +0.1% MoM (+2.5% YoY). Capital deployed: 9.83% of equity ($9,660.46) — significantly under-deployed; awaiting post-CPI clarity to deploy toward 75–85% target. Phase P&L: −$1,719.83 (−1.72%) vs. $100,000 starting equity. Next triggers: TSM +15% ($458.57) → tighten trail to 7%; +20% ($478.51) → tighten to 5%; −7% ($370.85) → manual cut. Watchlist: CPI tomorrow → deployment decision; NET ($310–315 if clean consolidation post-CPI); LLY (pullback entry monitoring).
+
+---
+
+### Market-Open Scan — 2026-08-12 (Day 72, Wednesday — Week 15 Day 3)
+**Portfolio:** $98,540.38 | **Cash:** $88,619.25 (90.0%) | **Weekly trades:** 0/3 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $431.20 | +$746.12 (+8.14%) | 10% trail GTC (265e7f23, HWM $426.26→auto-adv ~$431.20, est. stop ~$388.08) |
+
+#### Loser Check: NO CUT
+- TSM unrealized +8.14% — threshold −7% ($370.85) not triggered ✓
+
+#### Winner Tighten Check: NO ACTION
+- TSM +8.14% — below +15% tighten threshold ($458.57) ✓
+- No trail tighten needed; Alpaca stop auto-advancing with new HWM
+
+#### Trailing Stop HWM Update
+- Old HWM: $426.26 | Old stop: $383.634
+- TSM opened above HWM; current $431.20 → Alpaca auto-advances HWM intraday
+- Est. new stop: ~$388.08 ($431.20 × 0.90); API snapshot still shows lag (HWM $426.26)
+- No manual order action needed; confirmed GTC order 265e7f23 active ✓
+
+#### Watchlist Evaluation
+
+**SMCI** — gate FAILS; no trade
+- Current: $34.46 ask (live quote) — well below $50+ entry zone from pre-market plan
+- Hot CPI core (+3.1% YoY) + revenue miss + negative cash flow = post-earnings selloff
+- Pre-market entry gate required: price above $50 with 30-min orderly consolidation
+- At $34.46 → gate NOT met; thesis invalidated at this level → PASS
+
+**NET** — deferred; gate NOT met
+- Quote stale (last bid $285.57 from Aug 11 close); no live quote available
+- Hot CPI (core +3.1%) = yield compression headwind for high-multiple growth names
+- 10-year near 4.7% = direct valuation headwind; patience rule upheld
+- Re-evaluate when yields stabilize and NET reclaims $310–315 with clean consolidation
+
+#### Macro Context (CPI Day)
+- CPI July: Headline +0.2% MoM / +2.7% YoY; Core +0.32% MoM / +3.1% YoY — HOT, above consensus
+- 10-year Treasury: ~4.7% — growth/tech multiple compression
+- Oil: Brent ~$89 (4th consecutive gain; Hormuz tensions)
+- S&P 500: flat-to-cautious post-CPI print; Nasdaq under pressure
+- VIX: ~15–16; elevated from hot CPI surprise
+
+#### Decision: **HOLD — no new trades**
+- TSM: +8.14%, thesis intact; trailing stop auto-advancing; Sony/TSMC JV binding adds tailwind
+- SMCI: $34.46 — entry zone invalidated; not chasing post-earnings breakdown; PASS
+- NET: deferred; hot CPI = yield headwind for high-multiple names; patience rule
+- No action → no notification sent
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $431.20 | +$746.12 (+8.14%) | 10% GTC (265e7f23, HWM auto-adv ~$431.20, est. stop ~$388.08) | AI chip demand; Sony/TSMC JV binding; 3nm ramp; analyst target $540 | $530–545 | 3.4:1 |
