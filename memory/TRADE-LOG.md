@@ -2966,4 +2966,6 @@ None. Flat (100% cash) after CAT manual cut at the open, 2026-06-29.
 #### Open Positions
 | Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
 |------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
-| 2026-08-03 | TSM | LONG | 23 | $398.76 | $431.20 | +$746.12 (+8.14%) | 10% GTC (265e7f23, HWM auto-adv ~$431.20, est. stop ~$388.08) | AI chip demand; Sony/TSMC JV binding; 3nm ramp; analyst target $540 | $530–545 | 3.4:1 |
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $429.50 | +$707.02 (+7.71%) | 10% GTC (265e7f23, HWM $432.99 confirmed, stop $389.691) | AI chip demand; Sony/TSMC JV binding; 3nm ramp; analyst target $540 | $530–545 | 3.4:1 |
+
+_Midday 2026-08-12: HWM confirmed $432.99 (API), stop $389.691. No loser cut, no trail tighten (below +15%). SMCI midday trigger invalidated ($36.22, needed >$50). NET patience rule maintained (hot CPI, 4.7% yields). No action._

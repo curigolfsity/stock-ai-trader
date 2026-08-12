@@ -6113,3 +6113,25 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - Overall: CPI hot core = deploy-after-digestion discipline; no forced entries; capital preservation priority
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)_
+
+### Midday Addendum — 2026-08-12 (~12:00 ET)
+
+#### Live Snapshot
+| Ticker | Current | Unrealized P&L | Trail Stop HWM | Stop Price |
+|--------|---------|----------------|----------------|------------|
+| TSM | $429.50 | +$707.02 (+7.71%) | $432.99 | $389.691 |
+
+#### Checks
+- **Loser cut (-7%):** TSM +7.71% — NO CUT ✓
+- **Trail tighten (+15%/$458.57):** +7.71% — below threshold → NO TIGHTEN ✓
+- **Thesis:** TSM intact; Sony/TSMC JV binding; 3nm ramp; HWM confirmed auto-advanced to $432.99 (stop $389.691); order 265e7f23 active ✓
+
+#### Watchlist Midday
+- **SMCI:** $36.22 — gate NOT met; required >$50 with 30-min consolidation; post-earnings slide continues; PASS
+- **NET:** Bid $314.54 / Ask $324.50 — top of entry zone; hot CPI + 4.7% yields = headwind; patience rule maintained; PASS
+
+#### Decision: **HOLD — no action**
+- No losers, no tighten triggers, no thesis breaks
+- SMCI midday trigger invalidated at $36.22 (entry zone was >$50)
+- Capital deployed: 10.03% of equity ($9,876.66); 89.97% cash
+- No notification sent
