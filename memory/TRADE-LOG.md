@@ -3019,3 +3019,14 @@ _Midday 2026-08-13: HWM auto-advanced $436.03 (stop $392.427). PPI flat = disinf
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $433.69 | +$803.39 (+8.76%) | 10% GTC (265e7f23, HWM $436.03 auto-adv, stop $392.427) | AI chip demand; Sony/TSMC JV binding ($1.77B); $62B capex; $265B AZ; analyst target $547 | $530–545 | 3.4:1 |
 
 **Notes:** Day 72, CPI-day close (Wednesday, Week 15 Day 3). TSM closed at $431.26 (+2.18% on the day), a strong CPI session where AI semiconductor demand overrode the yield headwind from hot core CPI (+3.1% YoY, above consensus). Trailing stop HWM confirmed at $432.99 via API; stop $389.691 (GTC order 265e7f23) active. Unrealized gain: +$747.50 (+8.15%) on 23 shares. No new trades today; weekly count 0/3. NET watch maintained — 10-year at ~4.7% and hot CPI continue to suppress entry gate for high-multiple growth names. Capital deployed: 10.07% of equity — below 75–85% target; awaiting macro clarity for deployment. Phase P&L: −$1,462.00 (−1.46%) vs. $100,000 starting equity. Next thresholds: TSM +15% ($458.57) → trail tightens to 7%; +20% ($478.51) → trail tightens to 5%; −7% ($370.85) → manual cut.
+
+---
+
+### Aug 13 — EOD Snapshot (Day 73, Thursday — Week 15 Day 4)
+**Portfolio:** $98,577.33 | **Cash:** $88,619.25 (89.9%) | **Day P&L:** +$87.63 (+0.09%) | **Phase P&L:** -$1,422.67 (-1.42%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $432.96 | +0.89% | +$786.60 (+8.58%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+
+**Notes:** Day 73, Thursday (Week 15 Day 4). TSM closed at $432.96 (+0.89% on the day), supported by PPI flat (0.0% MoM) disinflationary signal that partially offset lingering hot-CPI yield pressure. Trailing stop HWM $436.03 (API-confirmed, set intraday; current close < HWM so stop holds at $392.427). Unrealized gain: +$786.60 (+8.58%) on 23 shares. No new trades today; weekly count 0/3. AMAT reported earnings after close — evaluate tomorrow AM for potential entry. NET patience rule maintained (10-year ~4.7%). Capital deployed: 10.1% — well below 75–85% target; awaiting confirmed catalyst and macro clarity. Phase P&L: -$1,422.67 (-1.42%) vs. $100,000 starting equity. Next thresholds: TSM +15% ($458.57) → trail tightens to 7%; +20% ($478.51) → trail tightens to 5%; -7% ($370.85) → manual cut.
