@@ -6135,3 +6135,53 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - SMCI midday trigger invalidated at $36.22 (entry zone was >$50)
 - Capital deployed: 10.03% of equity ($9,876.66); 89.97% cash
 - No notification sent
+
+---
+
+## 2026-08-13 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $98,492.46 | **Cash:** $88,619.25 (90.0%) | **Deployed:** $9,873.21 (10.0%)
+- **Buying Power:** $382,121.99 | **Day P&L (prior close):** +$2.76 | **Phase P&L:** -$1,507.54 (-1.51%)
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Day 73, Week 15 Day 4 (Thursday)**
+
+### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $429.27 | +$701.73 (+7.65%) | 10% trail GTC (265e7f23, HWM $432.99, stop $389.691) |
+
+### Market Context
+- **WTI:** ~$82.11/bbl (-1.39% from prior session) — oil pulling back; Hormuz tension premium easing slightly
+- **Brent:** ~$87.92/bbl (-1.19%)
+- **S&P 500 futures:** +0.08–0.20% pre-market; Nasdaq 100 +0.13%; modest positive open likely
+- **VIX:** ~15.29 (range 14.66–15.42); subdued; slight relief from yesterday's CPI shock
+- **10-year Treasury:** ~4.7% (unchanged from CPI day); growth/tech multiple headwind persists
+- **CPI backdrop (Aug 12):** Core +0.32% MoM / +3.1% YoY — HOT; rate-cut timeline pushed out
+- **Today's key release:** **PPI July (8:30am ET)** — if cool, possible modest relief rally; if hot, yields spike again; binary macro event
+- **Earnings before open:** Brookfield (BN), NetEase (NTES), JD.com (JD), Tapestry (TPR), Nu Holdings (NU) — no mega-cap pre-open
+- **Earnings after close:** **AMAT (Applied Materials)** Q3 FY2026 — most important event today; consensus $9.04B rev / $3.36 EPS; UBS target lifted $570→$705; AMAT near $548 pre-market, 28% off peak $739.67
+- **Sector momentum YTD:** Technology +43% (leading, AI-driven); Communication Services +3.8% (lagging)
+- **TSM:** Thesis fully intact — Sony JV binding; $60–64B capex plan approved; three new 3nm fabs (AZ, Taiwan, Kumamoto); analyst consensus 18 Buy/0 Sell; stock at $429.27 (+7.65% unrealized)
+- **NET:** ~$310–315 area; hot CPI + 4.7% yields suppress high-multiple entry gate; FedRAMP certs a positive but insufficient offset today
+
+### Trade Ideas
+1. **AMAT — POST-CLOSE TRIGGER ACTIVE** — catalyst: Q3 earnings after close; consensus $9.04B/$3.36 EPS; UBS $570→$705 target; AI chip buildout drives equipment demand; Citi expects above-consensus Oct guide; BUT stock 28% off peak, hot CPI = yield headwind for semis; **RULE: no buy before earnings announcement; monitor tonight** — if gap-up gap with 30-min consolidation tomorrow pre-open → entry ~$570–580; stop −8% (~$524); target $650+; est. size ~33 shares (~19% equity); R:R ~2.5:1
+2. **TSM — HOLD existing** — thesis intact; trailing stop at $389.691 (HWM $432.99); monitor +15% tighten trigger ($458.57); no new shares; PPI today → potential intraday volatility; hold through macro noise
+3. **NET — DEFERRED** — yields at 4.7% = structural headwind for high-multiple growth; entry gate ($310–315, orderly 30-min consolidation) not met; re-evaluate when 10-year stabilizes below 4.5%
+
+### Risk Factors
+- **PPI (8:30am ET today):** If hot like CPI, yields spike further → tech/growth selloff; TSM at risk intraday
+- **AMAT binary event (post-close):** Miss/weak guide = gap-down overnight; do NOT enter before announcement
+- **Under-deployment (90% cash):** Discipline required — resist forcing entries; PPI first
+- **Oil pullback:** Brent -1.2% reduces energy sector tailwind that has supported market; watch if Hormuz tensions escalate
+- **Hot CPI overhang:** Rate-cut expectations pushed further out; Fed remains data-dependent; continued multiple compression risk for growth
+- **PDT:** 0/3 daytrades used; headroom exists but preserve for meaningful opportunities
+
+### Decision: **HOLD — no pre-market trades; AMAT post-close trigger active**
+- TSM: hold; thesis intact; trailing stop auto-advancing; below all tighten thresholds
+- AMAT: monitor earnings after close tonight; entry gate opens only on strong beat + gap-up + 30-min consolidation tomorrow
+- NET: deferred; yield headwind unresolved
+- PPI at 8:30am ET is the first gate — if hot, widen AMAT entry criteria and reassess deployment plan
+- Capital preservation priority; patience rule in effect
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set)_
