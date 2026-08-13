@@ -6184,4 +6184,40 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - PPI at 8:30am ET is the first gate — if hot, widen AMAT entry criteria and reassess deployment plan
 - Capital preservation priority; patience rule in effect
 
+### Midday Addendum — 2026-08-13 (~12:47 ET)
+
+#### PPI July 2026 (Released 8:30am ET)
+- Headline MoM: 0.0% (flat) vs. +0.2% expected — disinflationary; below consensus
+- Core PPI MoM: +0.2%; Core YoY: +4.2% (4-month low)
+- Services +0.2%; goods -0.7%
+- Market read: mild relief from hot CPI; modest easing of rate-cut delay narrative
+
+#### Live Snapshot
+| Ticker | Current | Unrealized P&L | Trail Stop HWM | Stop Price |
+|--------|---------|----------------|----------------|------------|
+| TSM | $433.69 | +$803.39 (+8.76%) | $436.03 (auto-adv) | $392.427 |
+
+#### TSM News Today
+- Raised 2026 capex +$8B → ~$62B midpoint; full-year revenue guidance: 40%+ USD growth
+- $100B additional AZ investment (cumulative: $265B US fab commitment)
+- Sony JV confirmed: $1.77B next-gen image sensor development
+- Analyst consensus: 18 Buy/0 Sell; 12-mo target ~$547
+- Thesis: STRENGTHENED materially
+
+#### Checks
+- **Loser cut (-7% / $370.85):** TSM +8.76% — NO CUT ✓
+- **Trail tighten (+15% / $458.57):** +8.76% — below threshold → NO TIGHTEN ✓
+- **Stop update:** HWM auto-advanced to $436.03 (stop $392.427); order 265e7f23 active ✓
+- **Thesis check:** Fully intact; TSM raised capex + revenue guidance; no negative developments
+
+#### Watchlist Midday
+- **AMAT:** Reports after close tonight; post-close trigger active; NO BUY pre-announcement; evaluate tomorrow AM
+- **NET:** Yields still ~4.7% (PPI relief modest); patience rule maintained; re-evaluate if 10-year drops below 4.5%
+
+#### Decision: **HOLD — no action**
+- No losers, no tighten triggers, no thesis breaks
+- TSM thesis materially strengthened; monitor +15% tighten trigger ($458.57)
+- Capital deployed: ~10.13% ($9,974.87); 89.87% cash — AMAT trigger tonight may change deployment
+- No notification sent
+
 _Research via WebSearch (PERPLEXITY_API_KEY not set)_

@@ -2979,4 +2979,43 @@ _Midday 2026-08-12: HWM confirmed $432.99 (API), stop $389.691. No loser cut, no
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $431.26 | +2.18% | +$747.50 (+8.15%) | $389.691 (10% trail, HWM $432.99, order 265e7f23) |
 
+---
+
+### Midday Scan — 2026-08-13 (Day 73, Thursday — Week 15 Day 4)
+**Portfolio (est.):** ~$98,703 | **Cash:** $88,619.25 | **Weekly trades:** 0/3 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $433.69 | +$803.39 (+8.76%) | 10% trail GTC (265e7f23, HWM $436.03 auto-adv, stop $392.427) |
+
+#### Loser Check: NO CUT
+- TSM +8.76% — threshold −7% ($370.85) not triggered ✓
+
+#### Winner Tighten Check: NO ACTION
+- TSM +8.76% — below +15% threshold ($458.57) ✓
+- Alpaca stop auto-advancing with new HWM $436.03; no manual action needed
+
+#### Thesis Check: INTACT — STRENGTHENED
+- Raised 2026 capex +$8B → ~$62B midpoint; full-year revenue guidance: 40%+ USD growth
+- $100B additional AZ investment announced (cumulative: $265B US fab commitment)
+- Sony JV confirmed: $1.77B next-gen image sensor development
+- Analyst consensus: 18 Buy/0 Sell; 12-mo target ~$547
+
+#### Macro
+- **PPI July (8:30am ET):** Headline 0.0% MoM (flat) vs. +0.2% est. — disinflationary; eases rate-cut delay from hot CPI
+- Core PPI YoY +4.2% (4-month low); goods -0.7%
+- Market: mild relief rally; Nasdaq modestly positive
+
+#### Decision: **HOLD — no action**
+- No cuts, no tighten, no thesis breaks
+- AMAT post-close trigger active — no buy today; evaluate tomorrow AM on earnings result
+- NET: patience rule maintained; yields still elevated (~4.7%)
+
+_Midday 2026-08-13: HWM auto-advanced $436.03 (stop $392.427). PPI flat = disinflationary relief. TSM thesis strengthened (capex raise, $100B AZ, Sony JV confirmed). No action taken._
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $433.69 | +$803.39 (+8.76%) | 10% GTC (265e7f23, HWM $436.03 auto-adv, stop $392.427) | AI chip demand; Sony/TSMC JV binding ($1.77B); $62B capex; $265B AZ; analyst target $547 | $530–545 | 3.4:1 |
+
 **Notes:** Day 72, CPI-day close (Wednesday, Week 15 Day 3). TSM closed at $431.26 (+2.18% on the day), a strong CPI session where AI semiconductor demand overrode the yield headwind from hot core CPI (+3.1% YoY, above consensus). Trailing stop HWM confirmed at $432.99 via API; stop $389.691 (GTC order 265e7f23) active. Unrealized gain: +$747.50 (+8.15%) on 23 shares. No new trades today; weekly count 0/3. NET watch maintained — 10-year at ~4.7% and hot CPI continue to suppress entry gate for high-multiple growth names. Capital deployed: 10.07% of equity — below 75–85% target; awaiting macro clarity for deployment. Phase P&L: −$1,462.00 (−1.46%) vs. $100,000 starting equity. Next thresholds: TSM +15% ($458.57) → trail tightens to 7%; +20% ($478.51) → trail tightens to 5%; −7% ($370.85) → manual cut.
