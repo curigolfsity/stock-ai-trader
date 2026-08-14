@@ -725,3 +725,62 @@ Rule adherence A (FOMC hard block; VIX gate; no chasing; no process failures; GT
 Rule adherence A (all gates correctly applied; T+0 stop placed; NFP patience upheld; NET PASS correctly executed twice; no violations), risk management A (stop buffer 8.7% at week close; no cut triggers reached; thesis intact; no stop failures), relative performance D (bot +0.52% vs S&P +2.86% = −2.34% gap; 15th consecutive week of negative relative performance in the strongest week since April; 90% cash drag is the structural driver). Phase P&L: −$1,717.64 (−1.72%) after 14 weeks.
 
 ---
+
+## Week ending 2026-08-14
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,295.35 (Mon Aug 10 open) |
+| Ending portfolio | $98,425.53 (Fri Aug 14 live) |
+| Week return | +$130.18 (+0.13%) |
+| S&P 500 week | ~+0.69% (7,704 Aug 7 → ~7,757 Aug 14 record close) |
+| Bot vs S&P | −0.56% |
+| Trades | 0 (W:0 / L:0 / open:1) |
+| Win rate | N/A |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TSM | $398.76 (Aug 3) | $426.36 | +$634.80 (+6.92%) | $392.427 (10% trail GTC, HWM $436.03, order 265e7f23) — buffer 7.96% ✓ |
+
+### What Worked
+- TSM thesis materially strengthened mid-week — capex raised to $62B midpoint (+$8B), $100B additional AZ investment ($265B cumulative US fab commitment), Sony JV confirmed at $1.77B; July 2026 revenue +44.7% YoY (record NT$467.58B); 18 Buy/0 Sell consensus unchanged
+- HWM auto-advanced from $426.26 → $436.03 on CPI day (Aug 12) rally; trailing stop ratcheted from $383.63 → $392.43 automatically without manual intervention; automation functioned correctly all week
+- Pre-CPI and pre-PPI patience rules held perfectly — no entries attempted on or before the binary macro prints (CPI Aug 12 hot core +3.1%; PPI Aug 13 flat 0.0%); deploy-after-print discipline maintained
+- AMAT trigger correctly PASSED — AH −3.89% on slight revenue miss; premarket ~$550 vs. required $570–580 gap-up zone; not chased; Q4 guide ($10.25B rev, $4.02 EPS, +51%/+85% YoY) preserved as next-week catalyst
+- SMCI correctly PASSED at midday Aug 12 — post-earnings slide to $34–36 vs. required >$50 entry zone; no impulse into a broken setup; negative cash flow flagged as risk
+- VIX 14.63 at week close — lowest VIX reading in weeks; fully open gate heading into Week 16; constructive macro backdrop for AMAT entry attempt next week
+- Stop buffer 7.96% at week end — healthy, well above 3% mandate; no manual-cut trigger reached all week
+
+### What Didn't Work
+- 90% cash — seventh consecutive week without establishing a 2nd position; structural under-deployment remains the single largest performance drag of the phase; 16th week of failing to reach 75–85% deployment target
+- TSM gave back Thursday's gains — HWM $436.03 (Thursday intraday peak) vs. Friday close $426.36 (−2.2% from HWM); AMAT sympathy selling (−3.9% on slight revenue miss + China revenue declining) + Taiex resistance at 46,000 compressed the week's peak
+- Bot underperformed S&P by −0.56% — S&P hit a record close (~7,757) while 90% of portfolio sat in cash; single-position concentration captured only a fraction of the market move
+- NET opportunity deferred for 3rd consecutive week — entry zone $310–315 was at hand Monday ($310.59) and Tuesday ($310.59) but hot CPI core (+3.1%) + 4.7% 10-year yields blocked deployment; yields remaining elevated vs. 4.5% NET gate threshold
+- Weekly trade capacity 0/3 unused — 7th straight week without a new position; full capacity carries forward into Week 16
+
+### Key Lessons
+- Hot CPI core (+3.1% YoY, above consensus) on Aug 12 drove 10-year to 4.73% and has become the recurring structural yield headwind of 2H 2026; the strategy must explicitly account for a "sustained 4.5%+ yield regime" when evaluating high-multiple entries — NET, LLY, and similar names all blocked by the same gate; need a yield-regime rule or explicit yield floor threshold separate from VIX
+- AMAT Q4 guide (+51%/+85% YoY) with AH −3.89% confirms the post-200%-rally "sell the news" pattern in AI equipment stocks; a mandatory post-earnings consolidation window (minimum 2 sessions of orderly trading) before entry is required for names that have already ripped 2× or more from their base
+- TSM's intraweek arc (CPI day +2.18% → PPI day +0.89% → AMAT-day −0.97%) validates the "thesis-based hold through macro noise" approach — none of these moves were TSM-specific; position never threatened the stop or the −7% cut trigger
+
+### Adjustments for Next Week
+- **AMAT — priority setup Mon/Tue:** if consolidation $540–555 with orderly 30-min post-open pattern → entry valid; stop ~−8% (~$505 GTC trail); target $650+; size ~33 shares (~$18.2k, ~19% equity); Q4 guide ($10.25B rev, $4.02 EPS, +51%/+85% YoY) is the catalyst; no entry above $560 (chasing)
+- **TSM — hold:** thesis at phase-high strength; monitor +15% tighten trigger ($458.57 → 7% trail); +20% ($478.51 → 5% trail); stop buffer 7.96% ✓; no action unless tighten thresholds crossed
+- **NET — yield gate:** re-evaluate only if 10-year stabilizes sustained below 4.5%; at 4.73% the gate is structurally blocked; entry zone $310–335 remains valid on technicals when yield condition clears
+- **Energy sector:** YTD +32% leadership; Hormuz risk premium sustaining WTI $80+/Brent $87+; add specific name + catalyst research to next pre-market; no action without documented catalyst; note Energy sector still off-limits per Rule 10 (GEV + OXY confirmed failures; XOM = 3rd; rule is triggered); only a genuinely distinct catalyst with a non-correlated name could re-qualify
+- **Yield regime note:** consider adding explicit rule to TRADING-STRATEGY.md: "10-year yield sustained >4.5% = hold-only mode for high-multiple growth names (P/E >40); defer new growth entries until yield breaks below 4.5% for 2+ sessions"
+
+### Overall Grade: B−
+Rule adherence A (all five-day gates correctly applied; CPI/PPI patience maintained; AMAT PASS; SMCI PASS; T+0 stop process sustained; no violations), risk management A (stop buffer 7.96% at week end; HWM auto-advanced without manual intervention; no cut triggers reached; thesis stronger than at entry), relative performance C (bot +0.13% vs S&P ~+0.69% = −0.56% gap; positive absolute return for 2nd consecutive week; structural under-deployment remains the only material drag; discipline on entries was correct given the binary-dense macro week). Phase P&L: −$1,574.47 (−1.57%) after 15 weeks.
+
+---
