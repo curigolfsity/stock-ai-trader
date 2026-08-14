@@ -3029,4 +3029,27 @@ _Midday 2026-08-13: HWM auto-advanced $436.03 (stop $392.427). PPI flat = disinf
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $432.96 | +0.89% | +$786.60 (+8.58%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 
+---
+
+## Week of 2026-08-14
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | FILLED | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony/TSMC JV ($1.77B); $60-64B capex; $265B AZ commitment; July rev +44.7% YoY; 18 Buy/0 Sell; analyst target $547 | $530–545 | 3.4:1 |
+
+### Midday Scan — 2026-08-14 (Day 74, Friday — Week 15 Day 5)
+
+- **Account:** Equity ~$98,420 | Cash $88,619.25 (90.1%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM:** $426.12 (−1.01% intraday from $430.49; +6.86% unrealized from $398.76 entry) — no −7% trigger ($370.85); below +15% tighten threshold ($458.57) ✓
+- **Trailing stop:** order 265e7f23 | HWM $436.03 | Stop $392.427 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API)
+- **Loser cut:** NO CUT — TSM +6.86% unrealized ✓
+- **Winner tighten:** NO TIGHTEN — +6.86% below +15% threshold ($458.57) ✓
+- **Thesis check (TSM):** INTACT. −1.01% intraday = AMAT sympathy selling (AMAT −3.9% on slight revenue miss + China revenue declining) + technical resistance near HWM $436 + profit-taking in Taipei (Taiex resistance at 46,000). No TSM-specific negative. July 2026 revenue +44.7% YoY (NT$467.58B, record); AI/HPC = 66% of Q2 revenue; capex $60-64B confirmed; Sony JV $1.77B binding; 18 Buy/0 Sell; analyst target $547 unchanged.
+- **Macro:** Retail Sales July −0.6% MoM (miss vs +0.1% est; Prime Day timing distortion — online retail shifted June) → muted market reaction; Nasdaq +0.2%. 10-year ~4.73%. VIX 14.63. Brent ~$87 (Hormuz crisis ongoing; US-Iran MOU collapsed; no new acute escalation today).
+- **AMAT:** Trigger confirmed FAILED — AH −3.89% + premarket ~$549.99 (not a gap-up above $570–580 required); PASS. Re-evaluate next week on consolidation $540–555 with strong Q4 guide ($10.25B rev, $4.02 EPS) as intact catalyst.
+- **Action:** None. No losers cut. No stop tightenings. No new trades.
+- **Next:** TSM monitor +15% tighten trigger ($458.57 → 7% trail); +20% ($478.51 → 5% trail). AMAT consolidation check Mon/Tue. Energy sector (YTD +32%) — specific name + catalyst TBD next pre-market. Weekly capacity 0/3 — full week remaining.
+
 **Notes:** Day 73, Thursday (Week 15 Day 4). TSM closed at $432.96 (+0.89% on the day), supported by PPI flat (0.0% MoM) disinflationary signal that partially offset lingering hot-CPI yield pressure. Trailing stop HWM $436.03 (API-confirmed, set intraday; current close < HWM so stop holds at $392.427). Unrealized gain: +$786.60 (+8.58%) on 23 shares. No new trades today; weekly count 0/3. AMAT reported earnings after close — evaluate tomorrow AM for potential entry. NET patience rule maintained (10-year ~4.7%). Capital deployed: 10.1% — well below 75–85% target; awaiting confirmed catalyst and macro clarity. Phase P&L: -$1,422.67 (-1.42%) vs. $100,000 starting equity. Next thresholds: TSM +15% ($458.57) → trail tightens to 7%; +20% ($478.51) → trail tightens to 5%; -7% ($370.85) → manual cut.

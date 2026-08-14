@@ -6284,4 +6284,42 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Energy: on radar but no specific catalyst researched
 - Capital preservation priority; wait for Retail Sales print before any reassessment
 
+### Midday Addendum — 2026-08-14 (~midday ET)
+
+#### Macro Releases (8:30am ET)
+- **Retail Sales July MoM: −0.6%** (miss vs +0.1% est) — largest monthly decline in 9 months; almost entirely explained by Amazon Prime Day shift from July to June (pulled ~$3.15B of online spend forward); market read it as a timing distortion. Nasdaq +0.2%, S&P 500 +0.05%, Dow −0.06% — muted reaction.
+- **Michigan Sentiment (10am ET):** est. 54.1; result pending at time of scan.
+
+#### Live Position Snapshot
+| Ticker | Current | Unrealized P&L | Trail Stop HWM | Stop Price |
+|--------|---------|----------------|----------------|------------|
+| TSM | $426.12 | +$629.28 (+6.86%) | $436.03 (confirmed API) | $392.427 |
+
+#### TSM Intraday Check
+- −1.01% intraday from $430.49 close. Driver: AMAT sympathy selling (AMAT −3.9% on slight revenue miss + China revenue declining) + technical resistance at HWM $436 + profit-taking in Taipei (Taiex 46,000 resistance). No TSM-specific negative catalyst.
+- July 2026 revenue +44.7% YoY (record); HPC/AI = 66% of Q2 revenue; $60–64B capex; Sony JV $1.77B binding; 18 Buy/0 Sell; target $547. Thesis: INTACT, no deterioration.
+
+#### AMAT Trigger Confirmed FAILED
+- AH −3.89% (profit-taking after ~200% pre-earnings rally; slight revenue miss $9.12B vs $9.18B est; China revenue declining to ~28% of sales)
+- Premarket open ~$549.99 — NOT a gap-up above required $570–580 zone
+- **PASS.** Next entry window: if AMAT consolidates $540–555 Mon/Tue with orderly 30-min pattern; Q4 guide ($10.25B, $4.02 EPS, +51%/+85% YoY) remains compelling catalyst intact.
+
+#### Hormuz / Geopolitical
+- US-Iran MOU (signed Jun 17) collapsed — disputes over routing rules, sanctions relief, war reparations. Strait effectively closed (8-15 ships/day vs. 130 normal). Brent ~$87 (sustained). No new acute escalation today.
+
+#### Checks
+- **Loser cut (−7% / $370.85):** TSM +6.86% → NO CUT ✓
+- **Trail tighten (+15% / $458.57):** +6.86% → below threshold → NO TIGHTEN ✓
+- **Stop order 265e7f23:** HWM $436.03, stop $392.427, GTC ✓ ACTIVE
+
+#### Decision: **HOLD — no action**
+- TSM: -1% technical/sympathy pullback; thesis intact and strengthened; stop valid
+- AMAT: pass; consolidation check Mon/Tue
+- Energy sector: on radar; specific name + catalyst research deferred to next pre-market
+- No notification sent (no action taken)
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set)_
+
+---
+
 _Research via WebSearch (PERPLEXITY_API_KEY not set)_
