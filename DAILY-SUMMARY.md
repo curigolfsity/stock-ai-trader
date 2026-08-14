@@ -245,3 +245,11 @@ Decision: HOLD (CPI hot core +3.1% YoY)
 Ideas: SMCI midday trigger (margins doubled, $72B FY2027 guide), NET deferred (yields 4.7%), TSM HOLD
 Market: SPX futures ~flat post-CPI, VIX 15.28, Oil WTI ~$83-84/Brent ~$89
 Risks: Hot core CPI, 10yr 4.7%, oil 4th gain, 90% cash under-deployed
+
+---
+## 2026-08-14 10:35 UTC (fallback — ntfy.sh blocked by proxy)
+Pre-market 2026-08-14
+Decision: HOLD
+Ideas: AMAT trigger failed (gap-down premarket ~$550, need gap-up $570+; re-eval next week consolidation), Energy sector watch (Hormuz/WTI $81 no specific name yet)
+Market: SPX futures +0.12%, VIX 14.63, Oil WTI $81.27
+Risks: Retail Sales 8:30am ET, Hormuz escalation, yields 4.73%, AMAT AH drag on semis

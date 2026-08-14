@@ -6221,3 +6221,67 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set — WebSearch fallback used)
 - No notification sent
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set)_
+
+---
+
+## 2026-08-14 — Pre-market Research (Day 74, Friday — Week 15 Day 5)
+
+### Account Snapshot
+- **Equity:** $98,509.48 | **Cash:** $88,619.25 (89.9%) | **Buying Power:** $187,128.73
+- **Phase P&L:** -$1,490.52 (-1.49%) vs. $100,000 starting equity
+- **Weekly trades:** 0/3 | **Daytrade count:** 0 | **Positions:** 1/6 (TSM)
+
+| Ticker | Shares | Avg Entry | Premarket | Unrealized P&L | Trail Stop |
+|--------|--------|-----------|-----------|----------------|------------|
+| TSM | 23 | $398.76 | $430.01 | +$718.75 (+7.84%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) |
+
+### Market Context
+- **WTI:** $81.27 (+0.02%) | **Brent:** $87.18 (+0.13%) — Hormuz risk premium; 4th session of gains
+- **S&P 500 futures (ES=F):** 7,779.50, +0.12% — slightly positive; Nasdaq -0.15%; Russell -0.08%
+- **VIX:** 14.63 (+0.55%) — complacency territory
+- **10-year yield:** ~4.73% (unchanged; still elevated)
+- **Fed rate hike odds (Sep):** ~34% — fell sharply on cooler CPI (Aug 12) + PPI (Aug 13); constructive
+- **Sector YTD 2026:** Energy +32%, Tech +30.7%, Cap Goods +25.2% lead; ConsDisc -4.3% lags
+
+### Economic Calendar Today
+- **08:30 AM ET — Retail Sales July MoM:** est. +0.3% (prev. +0.2%) — key consumer health read
+- **08:30 AM ET — Core Retail Sales (ex-Autos) July:** est. +0.2% (prev. -0.2%)
+- **10:00 AM ET — U of M Consumer Sentiment (Aug prelim):** est. 54.1 (prev. 55.2) — historically low
+- **10:00 AM ET — U of M 1-Year Inflation Exp.:** est. 4.2%
+- No FOMC, no jobs data today
+
+### News on Held Positions
+- **TSM:** Premarket $430.01 ($430.49 close); July 2026 revenue +44.7% YoY (NT$467.58B, record); Jan-Jul cumulative +37% YoY; 2026 capex $60-64B; HPC/AI = 66% of Q2 revenue; 18 Buy/0 Sell; thesis intact and strengthened
+- **Trailing stop:** GTC 265e7f23, HWM $436.03 confirmed, stop $392.427 active
+
+### AMAT Earnings Result (Trigger Evaluation)
+- **Q3 FY2026 (reported Aug 13 AMC):**
+  - Revenue: $9.12B record (+24.8% YoY) — slight beat vs $9.0B cons
+  - EPS (non-GAAP): $3.50 vs $3.38 est — beat; 5th consecutive EPS beat
+  - Operating income: $3.10B (34% margin); Cash from ops: $3.04B (record)
+  - **Q4 Guidance: $10.25B ±$0.50B revenue (+51% YoY!), EPS $4.02 ±$0.20 (+85% YoY)** — significantly above consensus
+- **AH reaction:** -3.89% (profit-taking after ~200% pre-earnings rally)
+- **Premarket price:** ~$549.99 — NOT a gap-up; trigger condition FAILED
+- **Trigger rule:** Gap-up + 30-min consolidation ≥$570–580 required → NOT MET
+- **Decision: PASS AMAT today** — review next week for consolidation entry near $550 with Q4 guide catalyst intact
+
+### Trade Ideas
+1. **TSM — HOLD existing:** Thesis fully intact (+44.7% July revenue, $60-64B capex, 18B/0S). Monitor +15% tighten trigger ($458.57). No new shares (below 75-85% deployment target but no catalyst for adding at 7.84% gain).
+2. **AMAT — DEFERRED to next week:** Strong Q4 guide ($10.25B, $4.02 EPS) is compelling catalyst. If AMAT consolidates $540-555 range Mon/Tue with orderly 30-min pattern → entry zone re-opens; stop -8% (~$505); target $650+; R:R ~2.5:1; max size ~33 shares (~$18.2k, ~18.5% equity).
+3. **Energy sector** (new watch): YTD leader +32%; Hormuz risk premium sustaining WTI $80+ / Brent $87+; no single-stock catalyst researched; defer to next pre-market with specific name + catalyst. No action today.
+
+### Risk Factors
+- **Retail Sales 8:30am:** Weak print = risk-off; could pressure TSM intraday
+- **Michigan Sentiment 10am:** 54.1 est is historically very depressed; miss could weigh on market
+- **Hormuz escalation:** Any breakdown in negotiations → oil spike → inflation fears → tech/growth selloff → TSM exposure
+- **AMAT drag on semi sector:** AH selloff could weigh on semis broadly; TSM may see sympathy pressure at open
+- **Yield floor:** 10-year at 4.73%; no cut until core inflation drops further; multiple compression for growth ongoing
+- **Under-deployment (90% cash):** Resisting deployment urge; no trigger met today; patience rule in effect
+
+### Decision: **HOLD — no new trades**
+- TSM: hold; thesis strongest yet; trailing stop auto-advancing; below all tighten thresholds
+- AMAT: trigger failed; re-evaluate next week on consolidation
+- Energy: on radar but no specific catalyst researched
+- Capital preservation priority; wait for Retail Sales print before any reassessment
+
+_Research via WebSearch (PERPLEXITY_API_KEY not set)_
