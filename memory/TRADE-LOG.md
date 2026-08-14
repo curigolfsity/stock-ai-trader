@@ -3053,3 +3053,14 @@ _Midday 2026-08-13: HWM auto-advanced $436.03 (stop $392.427). PPI flat = disinf
 - **Next:** TSM monitor +15% tighten trigger ($458.57 → 7% trail); +20% ($478.51 → 5% trail). AMAT consolidation check Mon/Tue. Energy sector (YTD +32%) — specific name + catalyst TBD next pre-market. Weekly capacity 0/3 — full week remaining.
 
 **Notes:** Day 73, Thursday (Week 15 Day 4). TSM closed at $432.96 (+0.89% on the day), supported by PPI flat (0.0% MoM) disinflationary signal that partially offset lingering hot-CPI yield pressure. Trailing stop HWM $436.03 (API-confirmed, set intraday; current close < HWM so stop holds at $392.427). Unrealized gain: +$786.60 (+8.58%) on 23 shares. No new trades today; weekly count 0/3. AMAT reported earnings after close — evaluate tomorrow AM for potential entry. NET patience rule maintained (10-year ~4.7%). Capital deployed: 10.1% — well below 75–85% target; awaiting confirmed catalyst and macro clarity. Phase P&L: -$1,422.67 (-1.42%) vs. $100,000 starting equity. Next thresholds: TSM +15% ($458.57) → trail tightens to 7%; +20% ($478.51) → trail tightens to 5%; -7% ($370.85) → manual cut.
+
+---
+
+### Aug 14 — EOD Snapshot (Day 74, Friday — Week 15 Day 5)
+**Portfolio:** $98,424.50 | **Cash:** $88,619.25 (90.0%) | **Day P&L:** -$96.02 (-0.09%) | **Phase P&L:** -$1,575.50 (-1.58%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $426.31 | -0.97% | +$633.54 (+6.91%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+
+**Notes:** Day 74, Friday (Week 15 Day 5). TSM closed at $426.31 (−0.97% on the day), finishing the week with mild profit-taking after AMAT sympathy selling and technical resistance near the prior HWM of $436.03. The pullback is entirely within normal noise — trailing stop at $392.427 (HWM $436.03, 10% GTC) remains intact and well above the −7% manual cut threshold ($370.85). Unrealized gain: +$633.54 (+6.91%) on 23 shares. No new trades this week (0/3); no losers cut; no stop tightenings triggered (below +15% = $458.57 threshold). AMAT entry trigger failed (premarket ~$550, not a gap-up above $570–580 required); re-evaluate next week on consolidation. Capital deployed: 9.96% — well below 75–85% target; patient stance maintained given elevated 10-year (~4.73%) and lack of confirmed catalyst. Phase P&L: −$1,575.50 (−1.58%) vs. $100,000 starting equity. Weekend watch: TSM thesis intact (July rev +44.7% YoY, AI/HPC 66% of Q2, Sony JV $1.77B, analyst target $547). Next thresholds: +15% ($458.57) → trail tightens to 7%; +20% ($478.51) → trail tightens to 5%; −7% ($370.85) → manual cut.
