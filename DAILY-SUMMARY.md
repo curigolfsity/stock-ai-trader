@@ -253,3 +253,11 @@ Decision: HOLD
 Ideas: AMAT trigger failed (gap-down premarket ~$550, need gap-up $570+; re-eval next week consolidation), Energy sector watch (Hormuz/WTI $81 no specific name yet)
 Market: SPX futures +0.12%, VIX 14.63, Oil WTI $81.27
 Risks: Retail Sales 8:30am ET, Hormuz escalation, yields 4.73%, AMAT AH drag on semis
+
+---
+## 2026-08-17 10:22 UTC (fallback — no notification service configured)
+Pre-market 2026-08-17
+Decision: HOLD
+Ideas: TSM hold (+7.91% unrealized, thesis intact), AMAT pass (broken ~$507 below $540 zone), OXY/CVX energy watch (defer post-FOMC-minutes Wed)
+Market: SPX futures +0.11%, VIX ~14.25, Oil WTI $82.40 / Brent $88.31
+Risks: Empire State Mfg miss; FOMC Minutes Wed hawkish risk; yield ~4.7%; AMAT semi drag
