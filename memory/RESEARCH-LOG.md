@@ -6322,4 +6322,95 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 
 ---
 
+## 2026-08-17 — Pre-Market Research (Day 75, Monday — Week 16 Day 1)
+
+### Account Snapshot
+| Metric | Value |
+|--------|-------|
+| Equity | $98,515.92 |
+| Cash | $88,619.25 (89.9%) |
+| Long Market Value | $9,896.67 |
+| Daytrade Count | 0 |
+| Weekly Trades | 0/3 |
+| Phase P&L | −$1,484.08 (−1.48%) |
+
+### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $430.29 | +$725.19 (+7.91%) | 10% trail GTC (265e7f23, HWM $436.03, stop $392.427) |
+
+**Loser check:** TSM +7.91% — NO CUT (threshold −7% / $370.85) ✓
+**Tighten check:** +7.91% below +15% threshold ($458.57) → NO TIGHTEN ✓
+**Stop valid:** order 265e7f23, HWM $436.03, stop $392.427, GTC ✓
+
+### Market Context
+| Indicator | Value |
+|-----------|-------|
+| WTI Crude | ~$82.40/bbl |
+| Brent Crude | ~$88.31/bbl (−0.24%) |
+| S&P 500 Futures | +0.11% premarket (62% chance higher open) |
+| VIX | ~14.25 (prior close) |
+| 10-Year Yield | ~4.7% (elevated; growth headwind sustained) |
+| Hormuz | Effective closure sustained; 8-15 ships/day vs. 130 normal; US-Iran MOU collapsed |
+
+### Economic Calendar — Today (Aug 17)
+- **08:30 AM ET — NY Empire State Mfg (Aug):** Est. 10.2 | Prev. 15.6 — secondary; contraction direction watched
+- **10:00 AM ET — NAHB Housing Market Index (Aug):** Est. 35.0 | Prev. 34.0 — historically depressed; slight expected uptick
+- No CPI, PPI, FOMC today (CPI Aug 12, PPI Aug 13 already released)
+
+### Week Ahead (Aug 18–21)
+- **Tue Aug 18:** HD earnings (BMO), Housing Starts July (est. 1.390M), Building Permits (est. 1.380M)
+- **Wed Aug 19:** Target + Lowe's earnings; **FOMC Minutes 2:00 PM ET** (July 28-29 meeting — key for rate-path read)
+- **Thu Aug 20:** WMT earnings (BMO), Philly Fed, Flash PMIs, Jobless Claims, Conference Board LEI
+- Heavy retail-earnings week + FOMC Minutes = Wednesday most important session
+
+### S&P 500 Sector Momentum YTD
+| Rank | Sector | YTD Return |
+|------|--------|-----------|
+| 1 | Energy | +32.11% |
+| 2 | Technology | +30.69% |
+| 3 | Transportation | +26.30% |
+| 4 | Capital Goods | +25.24% |
+| … | Consumer Discretionary | −4.27% (worst) |
+
+### News on Held Positions
+**TSM:**
+- Current $430.29 (+0.92% from $426.35 close Aug 14) — positive premarket open
+- TSMC sales surge 45% YoY — AI demand driving HPC/AI to 66% of Q2 revenue
+- 19 analysts: Strong Buy; avg 12-mo target $547.09
+- Sony JV ($1.77B image sensor development) progressing; $265B AZ commitment intact
+- No negative TSM-specific news; thesis fully intact and strengthened
+
+**AMAT (watch — not held):**
+- ~$507–525 range (high $523, low $496 on Aug 17)
+- Broken BELOW original $540–555 consolidation zone identified Aug 14
+- Consolidating near $525.58 below $537.42 descending trendline; momentum neutral-to-bearish
+- Q4 guide ($10.25B, $4.02 EPS, +51%/+85% YoY) remains compelling but stock still distributing
+- **PASS** — original trigger zone failed; wait for new base formation and volume-supported stabilization
+
+### Trade Ideas
+1. **TSM — HOLD existing (priority):** Thesis strongest yet. +7.91% unrealized. Stop auto-advancing. No tighten trigger. Weekly fresh (0/3 trades). No new shares — below 75-85% deployment floor but no add catalyst at +7.91% gain, and 10-year yield elevated.
+
+2. **AMAT — PASS/DEFERRED:** Broken below $540–555 consolidation zone; now ~$507–525. Cannot confirm new base yet. Wait for volume-supported stabilization and orderly 30-min pattern above new support before re-engaging. Q4 guide ($10.25B, +51% YoY) remains intact catalyst for eventual re-entry.
+
+3. **Energy (OXY/CVX watch):** Energy sector #1 YTD (+32.11%); Hormuz closure sustaining WTI $82+ risk premium; no single-name catalyst confirmed today. Watch list: OXY (Berkshire-backed, Hormuz leverage, Permian operational efficiency) and CVX (diversified, strong FCF). Defer entry pending FOMC Minutes (Wed) for rate-path clarity; 10-year yield headwind still active. No position today.
+
+### Risk Factors
+- **Empire State Mfg (8:30 AM):** Est. 10.2 vs prev. 15.6 — further deceleration could signal manufacturing slowdown → mild risk-off
+- **NAHB Housing (10 AM):** Est. 35.0 (historically depressed); miss = housing weakness confirmed → pressures HD/homebuilders, mild broad market drag
+- **Yield floor ~4.7%:** Sustained pressure on high-multiple growth (TSM P/E >30); no relief until Fed signals pivot; deployment gate remains half-closed
+- **Hormuz escalation:** Any new incident → oil spike → CPI upside risk → rate-hike expectations → tech/growth selloff → TSM exposure
+- **AMAT semi drag:** Continued weakness in AMAT (~$507) and semiconductor equipment could create sympathy headwinds for TSM intraday
+- **FOMC Minutes (Wed):** If minutes reveal hawkish dissent or any hike discussion → yields rise → tech selloff; magnitude risk for TSM and any potential new growth entries
+- **Under-deployment (90% cash):** Resisting deployment urge; no trigger met today; patience rule in effect
+
+### Decision: **HOLD — no new trades**
+- Light Monday calendar (Empire State + NAHB only); futures barely positive (+0.11%)
+- TSM: thesis intact; stop valid; +7.91% unrealized; no action needed
+- AMAT: broken below consolidation zone; entry trigger not met; PASS
+- Energy: on radar (OXY/CVX) but awaiting FOMC Minutes Wed for rate-path clarity before deployment
+- Yields still ~4.7% → hold-only mode for new high-multiple growth names
+- Fresh week (0/3 trades); wait for high-conviction setup with confirmed catalyst
+- Next decision gate: FOMC Minutes (Wed 2 PM ET) + HD earnings (Tue BMO) for consumer/housing read
+
 _Research via WebSearch (PERPLEXITY_API_KEY not set)_
