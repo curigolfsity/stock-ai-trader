@@ -3105,3 +3105,10 @@ _Midday 2026-08-13: HWM auto-advanced $436.03 (stop $392.427). PPI flat = disinf
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $434.54 | +$822.94 (+8.97%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; 19 Buy/0 Sell; target $547 | $530–545 | 3.4:1 |
 
 _No action taken. Empire State Mfg 20.6 (major beat) = risk-on; TSM thesis intact and strengthening. Next gates: HD earnings Tue BMO, FOMC Minutes Wed 2 PM ET._
+
+### Aug 17 — EOD Snapshot (Day 75, Monday — Week 16 Day 1)
+**Portfolio:** $98,536.28 | **Cash:** $88,619.25 (89.9%) | **Day P&L:** +$110.98 (+0.11%) | **Phase P&L:** -$1,463.72 (-1.46%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $431.18 | +1.13% | +$745.55 (+8.13%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 75, Monday (Week 16 Day 1). TSM closed at $431.18 (+1.13% on the day), continuing recovery from Friday's pullback after the Empire State Manufacturing beat (20.6 vs. 10.2 est.) confirmed risk-on momentum. Trailing stop order 265e7f23 active: HWM $436.03, stop $392.427; current close ($431.18) below HWM so no new high-water mark set — GTC order unchanged. Unrealized gain: +$745.55 (+8.13%) on 23 shares. No new trades (0/3 weekly capacity intact). No loser cut (threshold −7% = $370.85). No stop tighten (below +15% = $458.57). Capital deployed: 10.1% — below 75–85% target; patient stance maintained at 10-year ~4.7%. Phase P&L: −$1,463.72 (−1.46%) vs. $100,000 starting equity. Next catalysts: HD earnings Tue BMO, FOMC Minutes Wed 2 PM ET. TSM thresholds: +15% ($458.57) → 7% trail; +20% ($478.51) → 5% trail; −7% ($370.85) → manual cut.
