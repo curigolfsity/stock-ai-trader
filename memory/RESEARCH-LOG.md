@@ -6414,3 +6414,13 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Next decision gate: FOMC Minutes (Wed 2 PM ET) + HD earnings (Tue BMO) for consumer/housing read
 
 _Research via WebSearch (PERPLEXITY_API_KEY not set)_
+
+### Midday Addendum — 2026-08-17
+
+**NY Empire State Manufacturing (8:30 AM actual):** 20.6 vs. 10.2 est (prev 15.6) — massive beat; strongest in 4+ years. New orders 17.3, shipments 11.7. Broad-based manufacturing momentum confirmed. Risk-on tailwind for equities; bullish for semiconductor demand cycle.
+
+**TSM midday:** $434.54 (+1.92% from $426.35 close). Thesis intact. No action. HWM $436.03, stop $392.427.
+
+**NAHB (10 AM):** Actual result not confirmed in search; est. 35.0 — monitor EOD.
+
+**Energy watch:** Empire State beat supports industrial/energy demand thesis; OXY/CVX remain on watch for post-FOMC-Minutes (Wed) entry consideration.

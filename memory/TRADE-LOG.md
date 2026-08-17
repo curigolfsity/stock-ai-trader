@@ -3064,3 +3064,44 @@ _Midday 2026-08-13: HWM auto-advanced $436.03 (stop $392.427). PPI flat = disinf
 | TSM | 23 | $398.76 | $426.31 | -0.97% | +$633.54 (+6.91%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 
 **Notes:** Day 74, Friday (Week 15 Day 5). TSM closed at $426.31 (−0.97% on the day), finishing the week with mild profit-taking after AMAT sympathy selling and technical resistance near the prior HWM of $436.03. The pullback is entirely within normal noise — trailing stop at $392.427 (HWM $436.03, 10% GTC) remains intact and well above the −7% manual cut threshold ($370.85). Unrealized gain: +$633.54 (+6.91%) on 23 shares. No new trades this week (0/3); no losers cut; no stop tightenings triggered (below +15% = $458.57 threshold). AMAT entry trigger failed (premarket ~$550, not a gap-up above $570–580 required); re-evaluate next week on consolidation. Capital deployed: 9.96% — well below 75–85% target; patient stance maintained given elevated 10-year (~4.73%) and lack of confirmed catalyst. Phase P&L: −$1,575.50 (−1.58%) vs. $100,000 starting equity. Weekend watch: TSM thesis intact (July rev +44.7% YoY, AI/HPC 66% of Q2, Sony JV $1.77B, analyst target $547). Next thresholds: +15% ($458.57) → trail tightens to 7%; +20% ($478.51) → trail tightens to 5%; −7% ($370.85) → manual cut.
+
+---
+
+### Midday Scan — 2026-08-17 (Day 75, Monday — Week 16 Day 1)
+
+- **Account (API):** Equity ~$98,633 est. | Cash $88,619.25 (89.8%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM:** $434.54 (+1.92% intraday from $426.35 close) | Unrealized +$822.94 (+8.97%) | Stop order 265e7f23 active ✓
+- **Trailing stop:** HWM $436.03 (Aug 13, API confirmed) | Stop $392.427 | 10% GTC | current price $434.54 < HWM → no new HWM set ✓
+
+#### Loser Check: NO CUT
+- TSM +8.97% — threshold −7% ($370.85) not triggered ✓
+
+#### Winner Tighten Check: NO TIGHTEN
+- TSM +8.97% — below +15% threshold ($458.57) ✓
+- HWM $436.03, stop $392.427; Alpaca auto-advancing GTC confirmed ✓
+
+#### Thesis Check: INTACT
+- TSM +1.92% intraday = strength vs. Friday close
+- Empire State Manufacturing Aug: 20.6 vs 10.2 est (prev 15.6) — massive beat; strongest in 4+ years; risk-on / industrial momentum bullish for tech/semis
+- AI demand, 45% YoY sales surge, Sony JV ($1.77B), $265B AZ commitment all intact
+- 19 analysts Strong Buy; avg 12-mo target $547.09; no negative TSM-specific news
+- No thesis break; HOLD ✓
+
+#### Macro
+- **NY Empire State Mfg (8:30 AM):** 20.6 vs. 10.2 est — major upside beat; new orders 17.3, shipments 11.7; manufacturing momentum broad-based → risk-on tailwind
+- **NAHB (10 AM):** Result pending / not yet confirmed; est. 35.0
+- 10-year yield: ~4.7% (sustained; growth headwind remains; no new deployment)
+- VIX: ~14.25 (stable)
+
+#### Decision: **HOLD — no action**
+- No losers cut; no trail tighten; thesis intact
+- No new positions: yields ~4.7% + no confirmed catalyst for Energy/AMAT yet
+- FOMC Minutes (Wed) and HD earnings (Tue BMO) remain next decision gates
+- Weekly capacity: 0/3 trades
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $434.54 | +$822.94 (+8.97%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; 19 Buy/0 Sell; target $547 | $530–545 | 3.4:1 |
+
+_No action taken. Empire State Mfg 20.6 (major beat) = risk-on; TSM thesis intact and strengthening. Next gates: HD earnings Tue BMO, FOMC Minutes Wed 2 PM ET._
