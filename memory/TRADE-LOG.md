@@ -3112,3 +3112,37 @@ _No action taken. Empire State Mfg 20.6 (major beat) = risk-on; TSM thesis intac
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $431.18 | +1.13% | +$745.55 (+8.13%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 75, Monday (Week 16 Day 1). TSM closed at $431.18 (+1.13% on the day), continuing recovery from Friday's pullback after the Empire State Manufacturing beat (20.6 vs. 10.2 est.) confirmed risk-on momentum. Trailing stop order 265e7f23 active: HWM $436.03, stop $392.427; current close ($431.18) below HWM so no new high-water mark set — GTC order unchanged. Unrealized gain: +$745.55 (+8.13%) on 23 shares. No new trades (0/3 weekly capacity intact). No loser cut (threshold −7% = $370.85). No stop tighten (below +15% = $458.57). Capital deployed: 10.1% — below 75–85% target; patient stance maintained at 10-year ~4.7%. Phase P&L: −$1,463.72 (−1.46%) vs. $100,000 starting equity. Next catalysts: HD earnings Tue BMO, FOMC Minutes Wed 2 PM ET. TSM thresholds: +15% ($458.57) → 7% trail; +20% ($478.51) → 5% trail; −7% ($370.85) → manual cut.
+
+---
+
+### Midday Scan — 2026-08-18 (Day 76, Tuesday — Week 16 Day 2)
+
+- **Account (API):** Equity $98,159.65 | Cash $88,619.25 (90.3%) | Day P&L: −$376.63 (−0.38%) | Phase P&L: −$1,840.35 (−1.84%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $414.57 | Entry $398.76 | Unrealized +$363.63 (+3.97%) | Intraday −3.68% | Market value $9,535.11
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +3.97% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +3.97% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer $22.14 (5.34% > 3% min) ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM −3.68% intraday = sector/market beta, NOT thesis break
+- Context: Nasdaq −1.3%, S&P −0.5%; Tech Equipment sector −3.11%; MRVL/WDC/SNDK −7–8%
+- TSM-specific "concerns" in press (capex, overseas margin) = long-known, not new
+- 3nm ramp ongoing; Sony JV $1.77B intact; AI/HPC demand; analyst targets unchanged
+- Iran escalation → oil spike → programmatic de-risking across semi/growth names
+- HOLD ✓
+
+#### Step 6 — Intraday Research (TSM sharply lower)
+- Broad semi selloff driven by Iran tensions / oil surge (see RESEARCH-LOG afternoon addendum)
+- No TSM-specific negative catalyst confirmed
+- OXY thesis strengthening intraday; gate still FOMC Minutes Wed
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $414.57 | +$363.63 (+3.97%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; 19 Buy/0 Sell; target $547 | $530–545 | 3.4:1 |
+
+_No action taken. TSM −3.68% = sector beta to Iran risk-off; thesis intact. Next gates: FOMC Minutes Wed 2 PM ET → OXY entry decision Wed/Thu._

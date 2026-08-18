@@ -6497,3 +6497,27 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - OXY is a strong developing idea — await FOMC Minutes Wed for rate clarity before entry
 - Energy sector #1 YTD (+32%); Hormuz catalyst is fresh and specific; position well within weekly budget (0/3 trades)
 - Next action gate: HD earnings result at open → FOMC Minutes Wed 2 PM ET → OXY entry decision Wed/Thu
+
+### Afternoon Addendum — 2026-08-18 Midday Scan
+
+**TSM Intraday Research (WebSearch — PERPLEXITY_API_KEY unavailable):**
+- TSM −3.68% intraday — confirmed sector/market beta, NOT thesis break
+- Nasdaq −1.3%, S&P −0.5%, Tech Equipment sector −3.11%
+- Broader semi selloff: WDC −7%, Sandisk −8%, MRVL −8%, SNDK −8% (all far worse than TSM)
+- Iran tensions → oil spike (Brent $91, WTI $85) → programmatic de-risking across growth/semi names
+- Press "concerns" for TSM = capex $60–64B, overseas margin compression, 28x PE — all long-known, not new catalysts
+- 3nm ramp, Sony JV $1.77B, AI/HPC demand, analyst targets ($547 avg) all intact
+- **Thesis: INTACT. HOLD.**
+
+**OXY Update:**
+- Iran escalation intensifying intraday; oil prices continuing to rise
+- Energy sector outperforming broadly (safe haven + direct beneficiary)
+- OXY thesis strengthening; gate unchanged — FOMC Minutes Wed 2 PM ET before entry
+- Entry zone still $57–60; 10% trail; target $70+
+
+**Market Summary:**
+- HD Q2 earnings BMO: monitoring for consumer health read (result: missed vs beat TBD)
+- Housing Starts July: monitoring
+- No new position entries today — risk-off environment + no confirmed catalyst post-FOMC
+
+**Action taken: NONE**
