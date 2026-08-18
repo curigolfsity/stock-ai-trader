@@ -6424,3 +6424,76 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 **NAHB (10 AM):** Actual result not confirmed in search; est. 35.0 — monitor EOD.
 
 **Energy watch:** Empire State beat supports industrial/energy demand thesis; OXY/CVX remain on watch for post-FOMC-Minutes (Wed) entry consideration.
+
+---
+
+## 2026-08-18 — Pre-Market Research (Day 76, Tuesday — Week 16 Day 2)
+
+### Account Snapshot (Live API)
+| Field | Value |
+|-------|-------|
+| Equity | $98,266.83 |
+| Cash | $88,619.25 (90.2%) |
+| Long Market Value | $9,647.58 |
+| Deployed | 9.82% (target 75–85%) |
+| Day P&L (premarket) | −$264.73 (−0.27%) |
+| Phase P&L | −$1,733.17 (−1.73%) vs $100,000 start |
+| Daytrade Count | 0 |
+| Weekly Trades | 0/3 |
+| Buying Power | $381,490.22 |
+
+### Positions (Live API)
+| Ticker | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop |
+|--------|--------|-----------|---------|----------------|------------|
+| TSM | 23 | $398.76 | $419.46 | +$476.10 (+5.19%) | $392.427 (10% GTC, HWM $436.03, order 265e7f23) |
+
+**TSM stop safety:** $419.46 current vs $392.427 stop = 6.44% buffer ✓ (>3% required). Manual cut at $370.85 (−7% from entry) — not triggered ✓.
+
+### Market Context
+| Indicator | Value |
+|-----------|-------|
+| S&P 500 Futures | −0.41% (bearish open; 27% chance higher on Polymarket) |
+| Nasdaq 100 Futures | −0.76% |
+| WTI Crude | ~$84.85/bbl (+2.6% vs yesterday close) |
+| Brent Crude | ~$91.01/bbl (+rising) |
+| VIX | ~14.74 (up 3.83% from 14.25 prior close) |
+| 10-Year Yield | ~4.7% (sustained; growth headwind; hold-only gate for high-multiple) |
+
+### Catalyst: Iran Ceasefire EXPIRED/REJECTED — Major Escalation
+- Trump rejected extension of 60-day US-Iran ceasefire (signed June, expired Mon Aug 17)
+- Tehran threatening "fully offensive" military posture
+- Hormuz effective closure ongoing (8–15 ships/day vs 130 normal)
+- Brent surged to $91, WTI to $85 → energy sector tailwind; broad market risk-off
+
+### Economic Calendar Today
+- **08:30 AM ET — Housing Starts July:** Est. 1.390M (June actual 1.427M)
+- **08:30 AM ET — Building Permits July:** Est. 1.380M (June actual 1.367M)
+- **HD Q2 Earnings BMO (6 AM ET):** Est. EPS $4.71 vs $4.68 YoY; Revenue ~$47B. Consumer/housing health read. Key for market tone pre-open.
+- **Wed Aug 19:** Target, Lowe's earnings + **FOMC Minutes 2 PM ET** (week's most important event)
+- **Thu Aug 20:** WMT BMO, Philly Fed, Flash PMIs, Jobless Claims
+
+### TSM News
+- No TSM-specific negative news. Decline is market risk-off (Nasdaq −0.76% premarket)
+- TSM dividend: $1.114 cash, ex-date Sep 16, 2026 (not yet relevant)
+- Soros boosted TSMC stake (13F filing) — bullish institutional signal
+- 3nm ramp ongoing; thesis intact
+- Down premarket entirely from macro risk-off + Iran escalation → semi beta to Nasdaq
+
+### Trade Ideas
+1. **TSM — HOLD (existing):** Thesis intact. +5.19% unrealized, stop 6.4% buffer safe. Today's decline = market beta, not thesis break. No action — thesis requires only monitoring.
+2. **OXY — CONDITIONAL WATCH:** Iran ceasefire collapsed; Brent $91; Hormuz sustained closure. OXY (Berkshire-backed, Permian domestic ops) benefits from elevated oil without direct Hormuz supply risk. 10-year headwind doesn't penalize this value/FCF name. Entry zone: $57–60 range with 10% trailing stop, target $70+. **GATE: Wait for HD earnings clarity + market stabilization pre-open, then FOMC Minutes Wed for rate read before committing capital.**
+3. **AMAT — PASS:** Broken below $540–555 zone; no new base confirmed. Deferred.
+
+### Risk Factors
+- Iran escalation → oil spike → CPI upside → Fed hawkish surprise (FOMC Minutes Wed)
+- TSM: Nasdaq −0.76% premarket + semi beta could push TSM below $415 intraday; stop still safe (392.43 stop)
+- HD earnings miss → consumer weakness confirmed → broad risk-off intensifies
+- Housing Starts July miss → homebuilder / rate-sensitive selloff
+- FOMC Minutes Wed hawkish dissent → yields spike → growth names (TSM) pressure → magnitude risk
+
+### Decision: **HOLD — no new trades today**
+- Market risk-off (SPX −0.41%, NDX −0.76%); not a day to deploy
+- TSM thesis fully intact; stop secure; patience warranted
+- OXY is a strong developing idea — await FOMC Minutes Wed for rate clarity before entry
+- Energy sector #1 YTD (+32%); Hormuz catalyst is fresh and specific; position well within weekly budget (0/3 trades)
+- Next action gate: HD earnings result at open → FOMC Minutes Wed 2 PM ET → OXY entry decision Wed/Thu
