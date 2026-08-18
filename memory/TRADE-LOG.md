@@ -3146,3 +3146,10 @@ _No action taken. Empire State Mfg 20.6 (major beat) = risk-on; TSM thesis intac
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $414.57 | +$363.63 (+3.97%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; 19 Buy/0 Sell; target $547 | $530–545 | 3.4:1 |
 
 _No action taken. TSM −3.68% = sector beta to Iran risk-off; thesis intact. Next gates: FOMC Minutes Wed 2 PM ET → OXY entry decision Wed/Thu._
+
+### Aug 18 — EOD Snapshot (Day 76, Tuesday — Week 16 Day 2)
+**Portfolio:** $98,125.84 | **Cash:** $88,619.25 (90.3%) | **Day P&L:** -$405.72 (-0.41%) | **Phase P&L:** -$1,874.16 (-1.87%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $413.37 | -4.08% | +$336.03 (+3.66%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 76, Tuesday (Week 16 Day 2). TSM closed at $413.37 (−4.08% on the day), extending the Iran risk-off selloff that began midday. Trailing stop order 265e7f23 remains active: HWM $436.03, stop $392.427; current close ($413.37) well above stop, providing a $21.00 buffer (5.09% — above the 3% minimum floor). Unrealized gain contracted to +$336.03 (+3.66%) on 23 shares, down from +$745.55 (+8.13%) yesterday. No trades today (0/3 weekly capacity intact); no loser cut (threshold −7% = $370.85 not triggered); no stop tighten (below +15% = $458.57 threshold). Capital deployed: 9.68% — well below 75–85% target; patient stance maintained. Phase P&L: −$1,874.16 (−1.87%) vs. $100,000 starting equity. FOMC Minutes Wed 2 PM ET remain primary gate for OXY entry decision (Wed/Thu). TSM thesis intact: AI/HPC demand, Sony JV $1.77B, $62B capex, 45% YoY revenue growth, analyst target $547 unchanged. Next thresholds: +15% ($458.57) → 7% trail; +20% ($478.51) → 5% trail; −7% ($370.85) → manual cut.
