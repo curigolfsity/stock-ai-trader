@@ -6580,3 +6580,28 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - If minutes hawkish (Sep rate hike signaled) → hold all cash, reassess Thursday
 - TSM: no cut, no tighten, thesis intact — pure HOLD
 - Weekly capacity: 0/3 trades intact
+
+### Midday Addendum — 2026-08-19 (Post-FOMC Minutes)
+
+**FOMC Minutes — July 28-29 2026 (Released 2 PM ET today):**
+- Fed held at 3.50–3.75% — 9-3 vote; 3 dissenters favored 25bp hike
+- Economic activity "expanding at solid pace despite elevated uncertainty" (Middle East cited)
+- July inflation "easing slightly"; unemployment steady at 4.1%
+- No explicit September 2026 rate hike signal → NOT hawkish surprise
+- **OXY gate: CLEARED** — entry viable if price returns to $57–60 zone
+
+**OXY Live Quote (post-gate check):**
+- Bid $60.33 / Ask $60.34 — ABOVE $60 ceiling
+- Pre-market rule: "if we chase above $60 = chasing; pullback first preferred"
+- **NO ENTRY** — price disqualified. Watch for pullback to $57–60; thesis intact.
+
+**TSM:**
+- Bid $413.51 / Ask $414.50 — essentially flat on the day
+- Stop buffer 5.21% (HWM $436.03, stop $392.427) — safe
+- Thesis intact; FOMC no-hike = mild relief for growth names
+
+**Iran/Hormuz:** No new ceasefire breakthrough confirmed Aug 19. Closure ongoing → OXY thesis structurally intact pending price pullback.
+
+**10-year yield:** 4.70% — stable. Growth hold-only still active (P/E >40 threshold; TSM ~28x not restricted).
+
+**Decision: NO ACTION** — TSM hold, OXY watching for $57–60 re-entry window.

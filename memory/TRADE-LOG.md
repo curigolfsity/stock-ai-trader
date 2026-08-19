@@ -3167,3 +3167,34 @@ _No action taken. TSM −3.68% = sector beta to Iran risk-off; thesis intact. Ne
 - **OXY:** After-hours bid $56.82 / ask $62.97 (stale); prior close ~$59.80 (within $57–60 zone). Gate: FOMC Minutes today 2 PM ET. If neutral/dovish → evaluate entry at live price; if hawkish → defer.
 - **Thesis (TSM):** INTACT. Iran Hormuz closure ongoing (Brent ~$91, WTI ~$85); TSM decline = market beta, not thesis break. 3nm ramp, Sony JV $1.77B, AI/HPC demand all intact; analyst target $547.
 - **Next:** FOMC Minutes 2 PM ET → OXY entry decision (midday scan).
+
+### Midday Scan — 2026-08-19 (Day 77, Wednesday — Week 16 Day 3)
+
+- **Account (API):** Equity $98,130.10 | Cash $88,619.25 (90.3%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Bid $413.51 / Ask $414.50 (~$414.00 mid) | Entry $398.76 | Unrealized +$349.56 (+3.82%) | Stop 265e7f23: HWM $436.03, stop $392.427 | Buffer 5.21% ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +3.82% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +3.82% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 5.21% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- FOMC Minutes (2 PM ET): Fed held at 3.50–3.75%; 9-3 vote; 3 dissenters favored hike (known/priced); no explicit Sep 2026 rate hike signal → NOT hawkish surprise ✓
+- TSM macro pressure = rate hike fear beta, not company-specific; 3nm ramp, Sony JV, AI/HPC demand intact
+- 10-year yield 4.70% stable; TSM P/E ~28x (below >40 hold-only threshold) → not restricted ✓
+
+#### Step 6 — OXY Entry Decision (Post-FOMC)
+- FOMC gate cleared: rates held, no explicit Sep hike → OXY entry viable per strategy
+- Live OXY quote (Alpaca): bid $60.33 / ask $60.34
+- Pre-market rule: "if we chase above $60 = chasing; pullback first preferred"
+- **DECISION: NO ENTRY** — OXY at $60.34 is above $60 ceiling; rule prohibits chasing
+- Watch for pullback to $57–60 zone; gate remains open (FOMC cleared, thesis intact)
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $414.00 | +$349.56 (+3.82%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; 19 Buy/0 Sell; target $547 | $530–545 | 3.4:1 |
+
+_No action taken. FOMC Minutes: rates held (not hawkish surprise); OXY gate cleared but price $60.34 > $60 — no chase per rule. TSM thesis intact. Next: OXY pullback to $57–60 → entry opportunity (Thu/Fri scan)._
