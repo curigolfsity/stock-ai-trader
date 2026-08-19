@@ -6521,3 +6521,62 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - No new position entries today — risk-off environment + no confirmed catalyst post-FOMC
 
 **Action taken: NONE**
+
+---
+
+## 2026-08-19 — Pre-Market Research (Day 77, Wednesday — Week 16 Day 3)
+
+### Account Snapshot
+- **Equity:** $98,108.96 | **Cash:** $88,619.25 (90.3%) | **Phase P&L:** -$1,891.04 (-1.89%)
+- **Daytrade count:** 0 | **Weekly trades:** 0/3
+- **Deployed:** $9,489.71 (9.7%) — well below 75–85% target; patient stance
+- **TSM (23 shares):** Entry $398.76 | Premarket $412.60 | Unrealized +$318.23 (+3.47%) | Stop 265e7f23: HWM $436.03, stop $392.427 (10% GTC)
+- **Stop buffer:** ($412.60 − $392.427) / $412.60 = 4.89% — above 3% floor ✓
+
+### Market Context
+- **Brent crude:** $91.52 (+0.55%), climbing toward $92 for 4th consecutive session — Hormuz closure ongoing (8–15 ships/day vs 130 normal), no US-Iran deal progress
+- **WTI:** ~$85 (Aug 18 close $84.92, trending up)
+- **SPX futures:** −0.18% premarket; lower on Asian market rout + FOMC Minutes anxiety
+- **VIX:** 15.84 as of Aug 18 close (up 4.28% yesterday); prior low 14.18 on Aug 17 — elevated from Iran-driven risk-off
+- **10-year yield:** ~4.7% (sustained; growth hold-only mode still active)
+
+### Today's Events (Aug 19)
+- **BMO — Lowe's (LOW) Q2:** Est. EPS $4.22 (−3% YoY), revenue $26.14B (+9%); analysts mixed (24 Buy / 10 Hold / 1 Sell); housing read
+- **BMO — Target (TGT) Q2:** 90.5% polymarket probability of beat; call at 8 AM ET
+- **2:00 PM ET — FOMC Minutes (July 28-29 meeting):** 3 dissents in favor of 25bp rate hike — week's most critical event; hawkish surprise risk elevated
+- **Thu Aug 20:** WMT BMO, Philly Fed, Flash PMIs, Jobless Claims
+
+### TSM Thesis Check
+- TSM premarket $412.60 (−0.2% vs yesterday close $413.37); macro/sector beta only
+- No company-specific negative catalyst; 3nm ramp, Sony JV $1.77B, AI/HPC demand all intact
+- 45% YoY revenue growth confirmed; analyst avg target $547 (Strong Buy consensus)
+- Rate hike fear (Fed September) driving tech/semi sector-wide pressure — NOT thesis break
+- Thresholds: cut −7% ($370.85) | tighten 7% at +15% ($458.57) | tighten 5% at +20% ($478.51)
+- **HOLD ✓**
+
+### Sector Momentum YTD (S&P 500)
+1. Energy: +30.7% ← top sector
+2. Technology: +24.8%
+3. Industrials: +20.1%
+4. Materials: +15.8%
+5. Real Estate: +14.5%
+6. Consumer Staples: +10.7%
+
+### Trade Ideas
+1. **TSM — HOLD (existing):** Thesis intact. +3.47% unrealized, stop buffer 4.89%, above 3% floor. Macro headwinds (Fed rate hike fear) = beta risk, not company-specific. No action.
+2. **OXY — CONDITIONAL ENTRY (post-FOMC gate today):** Iran Hormuz closure ongoing; Brent $91.52 and rising; OXY Q2 massive earnings beat ($2.40 EPS vs $1.84 est, +30% surprise); added $4B sustainable cash flow plan to 2030; YTD +37.7%; Berkshire-backed; Permian domestic ops insulated from Hormuz. Energy sector #1 YTD (+30.7%). Analyst avg target $64.83 (+8.4% from $59.80 close). Entry zone $57–60; current $59.80 (top of zone). 10% trailing stop → stop ~$53.82; target $65–70. R:R ~2.7:1. **GATE: Evaluate OXY entry TODAY after FOMC Minutes 2 PM ET. If minutes NOT hawkish-surprise (no explicit Sep rate hike signal), OXY entry viable. If hawkish → defer.** OXY is value/FCF (P/E ~13x) — not subject to yield headwind rule for high-multiple growth names.
+3. **AMAT — PASS:** No confirmed base above $540–555 support zone. Skip.
+
+### Risk Factors
+- **FOMC Minutes 2 PM ET:** 3 dissents in favor of rate hike — hawkish surprise could spike yields, crush tech names (TSM +3.47% → potentially back near stop), defer OXY
+- **TSM downside:** Rate hike fear + Iran risk-off → TSM could test $400–405 zone (still above $392.427 stop); monitor at midday scan
+- **OXY upside risk:** Shares already up 37.7% YTD; at high end of entry zone $59.80; if we chase above $60 = chasing; pullback first preferred
+- **LOW/TGT earnings miss → consumer risk-off → broader market selloff adds pressure**
+- **Iran ceasefire surprise:** Any deal collapses OXY thesis immediately; oil could drop $5-8/bbl
+
+### Decision: **HOLD pre-FOMC; CONDITIONAL on 2 PM FOMC Minutes for OXY entry**
+- No new trades until FOMC Minutes release at 2 PM ET
+- If minutes neutral/dovish → execute OXY entry $57–60, 10% trail, ~$1,900 position (~2% equity), 1/3 of weekly capacity
+- If minutes hawkish (Sep rate hike signaled) → hold all cash, reassess Thursday
+- TSM: no cut, no tighten, thesis intact — pure HOLD
+- Weekly capacity: 0/3 trades intact
