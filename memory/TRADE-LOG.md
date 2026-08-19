@@ -3198,3 +3198,12 @@ _No action taken. TSM −3.68% = sector beta to Iran risk-off; thesis intact. Ne
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $414.00 | +$349.56 (+3.82%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; 19 Buy/0 Sell; target $547 | $530–545 | 3.4:1 |
 
 _No action taken. FOMC Minutes: rates held (not hawkish surprise); OXY gate cleared but price $60.34 > $60 — no chase per rule. TSM thesis intact. Next: OXY pullback to $57–60 → entry opportunity (Thu/Fri scan)._
+
+---
+
+### Aug 19 — EOD Snapshot (Day 77, Wednesday — Week 16 Day 3)
+**Portfolio:** $98,116.18 | **Cash:** $88,619.25 (90.3%) | **Day P&L:** -$9.66 (-0.01%) | **Phase P&L:** -$1,883.82 (-1.88%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $412.92 | -0.12% | +$325.68 (+3.55%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 77, Wednesday (Week 16 Day 3). TSM closed at $412.92 (−0.12% on the day), nearly flat after a volatile session. FOMC Minutes (2 PM ET) confirmed rates held at 3.50–3.75% — not a hawkish surprise; OXY entry gate cleared, but OXY bid $60.34 exceeded the $60 ceiling rule, so no entry per discipline. Trailing stop 265e7f23 remains active: HWM $436.03, stop $392.427; buffer $20.49 (4.97% — above 3% floor). Unrealized gain: +$325.68 (+3.55%). No trades today (0/3 weekly capacity intact). Phase P&L: −$1,883.82 (−1.88%) vs $100,000 starting equity. Capital deployed: 9.68% — patient stance; OXY watch continues for pullback to $57–60 zone (Thu/Fri opportunity). TSM thesis intact: AI/HPC demand, Sony JV $1.77B, $62B capex, 45% YoY revenue growth, analyst target $547 unchanged. Next thresholds: +15% ($458.57) → 7% trail; +20% ($478.51) → 5% trail; −7% ($370.85) → manual cut.
