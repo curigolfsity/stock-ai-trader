@@ -3153,3 +3153,17 @@ _No action taken. TSM −3.68% = sector beta to Iran risk-off; thesis intact. Ne
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $413.37 | -4.08% | +$336.03 (+3.66%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 76, Tuesday (Week 16 Day 2). TSM closed at $413.37 (−4.08% on the day), extending the Iran risk-off selloff that began midday. Trailing stop order 265e7f23 remains active: HWM $436.03, stop $392.427; current close ($413.37) well above stop, providing a $21.00 buffer (5.09% — above the 3% minimum floor). Unrealized gain contracted to +$336.03 (+3.66%) on 23 shares, down from +$745.55 (+8.13%) yesterday. No trades today (0/3 weekly capacity intact); no loser cut (threshold −7% = $370.85 not triggered); no stop tighten (below +15% = $458.57 threshold). Capital deployed: 9.68% — well below 75–85% target; patient stance maintained. Phase P&L: −$1,874.16 (−1.87%) vs. $100,000 starting equity. FOMC Minutes Wed 2 PM ET remain primary gate for OXY entry decision (Wed/Thu). TSM thesis intact: AI/HPC demand, Sony JV $1.77B, $62B capex, 45% YoY revenue growth, analyst target $547 unchanged. Next thresholds: +15% ($458.57) → 7% trail; +20% ($478.51) → 5% trail; −7% ($370.85) → manual cut.
+
+---
+
+### Market-Open Scan — 2026-08-19 (Day 77, Wednesday — Week 16 Day 3)
+
+- **Account (API):** Equity $98,171.61 | Cash $88,619.25 (90.3%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** $415.32 (+0.46% intraday; +4.15% unrealized from $398.76 entry) | Market value $9,552.36
+- **Trailing stop:** order 265e7f23 | HWM $436.03 | Stop $392.427 | 10% GTC ✓ ACTIVE | Buffer: 5.52% ✓
+- **Loser cut (−7% / $370.85):** NOT triggered ✓
+- **Tighten (+15% / $458.57):** NOT triggered ✓
+- **Action:** No trades. FOMC Minutes gate (2 PM ET) not yet cleared — OXY entry conditional.
+- **OXY:** After-hours bid $56.82 / ask $62.97 (stale); prior close ~$59.80 (within $57–60 zone). Gate: FOMC Minutes today 2 PM ET. If neutral/dovish → evaluate entry at live price; if hawkish → defer.
+- **Thesis (TSM):** INTACT. Iran Hormuz closure ongoing (Brent ~$91, WTI ~$85); TSM decline = market beta, not thesis break. 3nm ramp, Sony JV $1.77B, AI/HPC demand all intact; analyst target $547.
+- **Next:** FOMC Minutes 2 PM ET → OXY entry decision (midday scan).
