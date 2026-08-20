@@ -3207,3 +3207,35 @@ _No action taken. FOMC Minutes: rates held (not hawkish surprise); OXY gate clea
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $412.92 | -0.12% | +$325.68 (+3.55%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 77, Wednesday (Week 16 Day 3). TSM closed at $412.92 (−0.12% on the day), nearly flat after a volatile session. FOMC Minutes (2 PM ET) confirmed rates held at 3.50–3.75% — not a hawkish surprise; OXY entry gate cleared, but OXY bid $60.34 exceeded the $60 ceiling rule, so no entry per discipline. Trailing stop 265e7f23 remains active: HWM $436.03, stop $392.427; buffer $20.49 (4.97% — above 3% floor). Unrealized gain: +$325.68 (+3.55%). No trades today (0/3 weekly capacity intact). Phase P&L: −$1,883.82 (−1.88%) vs $100,000 starting equity. Capital deployed: 9.68% — patient stance; OXY watch continues for pullback to $57–60 zone (Thu/Fri opportunity). TSM thesis intact: AI/HPC demand, Sony JV $1.77B, $62B capex, 45% YoY revenue growth, analyst target $547 unchanged. Next thresholds: +15% ($458.57) → 7% trail; +20% ($478.51) → 5% trail; −7% ($370.85) → manual cut.
+
+---
+
+### Market-Open Scan — 2026-08-20 (Day 78, Thursday — Week 16 Day 4)
+
+- **Account (API):** Equity $98,010.15 | Cash $88,619.25 (90.3%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Pre-market $408.30 (−0.92% from $412.09 prior close) | Entry $398.76 | Unrealized +$219.42 (+2.39%) | Stop 265e7f23: HWM $436.03, stop $392.427 | Buffer 3.89% ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +2.39% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +2.39% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 3.89% > 3% min ✓
+- Overnight buffer 3.89% > 3% floor — no manual cut at open ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM thesis intact: AI/HPC demand, Sony JV $1.77B, $62B capex, 45% YoY rev, analyst avg target $552 ✓
+- Pre-market softness (−0.92%) = market beta; no company-specific negative catalyst
+
+#### Step 6 — OXY Entry Decision
+- OXY daily close (Aug 19): $60.08 — ABOVE $60 entry ceiling
+- Rule: "if we chase above $60 = chasing; pullback first preferred" → **NO ENTRY**
+- No pre-market bars available to confirm sub-$60 trade; last trade $60.08 at market close
+- Watch for intraday pullback to $57–59 zone at midday scan
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $408.30 | +$219.42 (+2.39%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $552; target $530–545 | $530–545 | 3.4:1 |
+
+_No action taken. OXY closed $60.08 — above $60 ceiling, no entry per discipline. TSM stop buffer 3.89% ✓ (above 3% floor; no manual cut at open). Next: midday scan — check OXY for pullback to $57–59 entry zone._
