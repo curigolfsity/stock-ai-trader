@@ -3269,3 +3269,12 @@ _No action taken. OXY closed $60.08 — above $60 ceiling, no entry per discipli
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $414.35 | +$358.57 (+3.91%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $552; target $530–545 | $530–545 | 3.4:1 |
 
 _No action taken. OXY $62.08 — above $60 ceiling; no chase per rule. TSM thesis intact, buffer safe. Next: EOD snapshot; OXY watch continues for $57–59 pullback (1 trade capacity remaining this week)._
+
+---
+
+### Aug 20 — EOD Snapshot (Day 78, Thursday — Week 16 Day 4)
+**Portfolio:** $98,180.70 | **Cash:** $88,619.25 (90.3%) | **Day P&L:** +$64.52 (+0.07%) | **Phase P&L:** -$1,819.30 (-1.82%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $415.71 | +0.88% | +$389.85 (+4.25%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 78, Thursday (Week 16 Day 4). TSM closed at $415.71 (+0.88% on the day), a modest gain that lifted unrealized P&L to +$389.85 (+4.25%). Trailing stop 265e7f23 remains active: HWM $436.03, stop $392.427; buffer $23.28 (5.60% — well above 3% floor). No trades executed today (0 trades this week, 1 slot still available). OXY watch continued but price stayed above the $60 entry ceiling all day (midday $62.08) — no chase per rule; awaiting $57–59 pullback. Day P&L: +$64.52 (+0.07%). Phase P&L: −$1,819.30 (−1.82%) vs $100,000 starting equity. Capital deployed: 9.74% — patient stance holds. Thesis intact: AI/HPC demand, Sony JV $1.77B, $62B capex, 45% YoY revenue growth, analyst avg target $552. Next thresholds: +15% ($458.57) → 7% trail; +20% ($478.51) → 5% trail; −7% ($370.85) → manual cut. Tomorrow (Fri, Week 16 Day 5): OXY final scan for weekly slot; weekly review workflow.
