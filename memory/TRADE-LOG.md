@@ -3239,3 +3239,33 @@ _No action taken. FOMC Minutes: rates held (not hawkish surprise); OXY gate clea
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $408.30 | +$219.42 (+2.39%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $552; target $530–545 | $530–545 | 3.4:1 |
 
 _No action taken. OXY closed $60.08 — above $60 ceiling, no entry per discipline. TSM stop buffer 3.89% ✓ (above 3% floor; no manual cut at open). Next: midday scan — check OXY for pullback to $57–59 entry zone._
+
+### Midday Scan — 2026-08-20 (Day 78, Thursday — Week 16 Day 4)
+
+- **Account (API):** Equity $98,146.54 | Cash $88,619.25 (90.3%) | Day P&L: +$49.22 (+0.05%) | Phase P&L: −$1,853.46 (−1.85%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $414.35 | Entry $398.76 | Unrealized +$358.57 (+3.91%) | Intraday +$51.98 (+0.55%) | Stop 265e7f23: HWM $436.03 | stop $392.427 | Buffer $21.92 (5.29% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +3.91% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +3.91% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 5.29% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM +0.55% intraday with broad market sideways — small positive drift; thesis unchanged
+- Trailing stop order 265e7f23 confirmed active (GTC) ✓
+
+#### Step 6 — OXY Entry Decision
+- OXY live quote: bid $62.07 / ask $62.08 — ABOVE $60 entry ceiling
+- Rule: "if we chase above $60 = chasing; pullback first preferred" → **NO ENTRY**
+- OXY has drifted further above ceiling (was $60.08 at Wed close); no catalyst for pullback visible
+- Iran Hormuz still closed → Brent/WTI structurally supported; OXY thesis intact, but price disqualified
+- Continue to watch; zone remains $57–59 for conditional entry (1 trade remaining this week)
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $414.35 | +$358.57 (+3.91%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $552; target $530–545 | $530–545 | 3.4:1 |
+
+_No action taken. OXY $62.08 — above $60 ceiling; no chase per rule. TSM thesis intact, buffer safe. Next: EOD snapshot; OXY watch continues for $57–59 pullback (1 trade capacity remaining this week)._
