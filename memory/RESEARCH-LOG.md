@@ -6605,3 +6605,68 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 **10-year yield:** 4.70% — stable. Growth hold-only still active (P/E >40 threshold; TSM ~28x not restricted).
 
 **Decision: NO ACTION** — TSM hold, OXY watching for $57–60 re-entry window.
+
+---
+
+### Pre-Market Research — 2026-08-20 (Day 78, Thursday — Week 16 Day 4)
+
+#### Account Snapshot (API)
+| Metric | Value |
+|--------|-------|
+| Equity | $98,120.09 |
+| Cash | $88,619.25 (90.3%) |
+| Long Market Value | $9,500.84 |
+| Day P&L | +$22.77 (+0.023%) |
+| Phase P&L | −$1,879.91 (−1.88%) vs $100,000 start |
+| Daytrade count | 0 |
+| Weekly trades used | 0/3 |
+| Capital deployed | 9.68% (target: 75–85%) |
+
+#### Open Position
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|---------|----------------|------|--------|
+| TSM | 23 | $398.76 | $413.08 | +$329.36 (+3.59%) | $392.427 (GTC 265e7f23, HWM $436.03) | 5.0% ✓ |
+
+#### Market Context
+- **WTI:** ~$85.34 | **Brent:** ~$91.19 (Aug 19 levels; Iran Hormuz closure ongoing)
+- **S&P 500:** Recent ATH; SPX futures slightly positive pre-open (Walmart beat expected to lift sentiment)
+- **VIX:** 15.20 (+2.08%) — elevated but not alarming; moderate caution
+- **10-yr yield:** ~4.70% — stable; growth hold-only rule (P/E >40) still active; TSM ~28x → NOT restricted
+- **Key releases today:** Walmart Q2 earnings before open (est. $0.74 EPS / $186.9B revenue); 67 economic events, 52 earnings; no major Fed speakers scheduled
+- **Iran/Hormuz:** Iran reaffirmed strait stays closed until US agrees to conditions → no ceasefire; Brent support intact
+- **Sector YTD momentum:** Energy +30.7% (#1) | Tech +24.8% (#2) | Industrials +20.1% (#3)
+
+#### TSM Update
+- Arizona ops: $1.13B cumulative profit H1 2026 (vs $504.6M for all of 2025) — accelerating
+- Analyst consensus: Buy (all major firms); avg target $552 (Bernstein $554, Needham $530, DA Davidson $500)
+- Revenue +35.64% YoY; Net income +50.91% YoY; EPS +50.89% YoY
+- TSM current +3.59% unrealized — stop buffer 5.0% (above 3% floor); no thresholds triggered
+- **Thesis: INTACT ✓**
+
+#### OXY Update
+- Closed Aug 18 at $59.80 (+1.3% that day); still near top of $57–60 entry zone
+- Brent $91.02, WTI $84.94 — oil strong; Iran Hormuz structurally closed (no deal)
+- OXY up ~31% YTD; Berkshire-backed; Permian domestic exposure insulated from Hormuz
+- Entry ceiling: $60.00 — any price above = chase; watch for intraday pullback to $57–59
+- FOMC gate: CLEARED (Wed — rates held, no hawkish surprise)
+- Analyst upside target: $64–70 zone
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** No action. +3.59% unrealized, thesis intact, stop safe at 5% buffer. Arizona profitability accelerating; analyst avg target $552 implies 34% additional upside. Next threshold: +15% ($458.57) → tighten trail to 7%.
+2. **OXY — WATCH/CONDITIONAL:** Iran Hormuz closure ongoing; Brent $91 supports thesis. Entry conditional: price must return to $57–59 zone before entering. Check midday. Position size ~$1,900–2,000 (~2% equity), 10% GTC trailing stop. R:R ~2.7:1 to $65 target. No chase above $60.
+3. **WMT — PASS:** Consumer Staples #6 YTD (+10.7%); not in strategy momentum sectors. Walmart earnings beat (if confirmed) could lift broad market but not an entry signal for us.
+
+#### Risk Factors
+- **VIX 15.20 elevated:** Any negative macro surprise could spike VIX → semi/growth names (TSM) pressure
+- **Walmart earnings miss:** If WMT misses, broad market selloff risk; consumer/retail contagion
+- **Iran ceasefire breakthrough:** Any deal collapses OXY thesis; oil drops $5–8/bbl → reassess immediately
+- **Capital deployment gap:** At 9.68% deployed vs 75–85% target — significant undershoot; patience warranted but need 1–2 additional positions with the right catalyst
+- **TSM downside:** Rate hike re-pricing (if any surprise data) + Iran beta → could test $400–405 (above stop $392.427); manageable
+
+#### Decision: **HOLD**
+- No new trades pre-market
+- TSM: pure hold — thesis intact, no thresholds triggered
+- OXY: check intraday price at midday; if pullback to $57–59, execute entry (~$1,900 position, 10% GTC trail)
+- 0/3 weekly trade capacity intact
+- Watch WMT reaction at open for broad market tone signal
+
