@@ -784,3 +784,59 @@ Rule adherence A (all gates correctly applied; T+0 stop placed; NFP patience uph
 Rule adherence A (all five-day gates correctly applied; CPI/PPI patience maintained; AMAT PASS; SMCI PASS; T+0 stop process sustained; no violations), risk management A (stop buffer 7.96% at week end; HWM auto-advanced without manual intervention; no cut triggers reached; thesis stronger than at entry), relative performance C (bot +0.13% vs S&P ~+0.69% = −0.56% gap; positive absolute return for 2nd consecutive week; structural under-deployment remains the only material drag; discipline on entries was correct given the binary-dense macro week). Phase P&L: −$1,574.47 (−1.57%) after 15 weeks.
 
 ---
+
+## Week ending 2026-08-21
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,425.53 (Mon Aug 17 open) |
+| Ending portfolio | $98,267.29 (Fri Aug 21 EOD) |
+| Week return | −$158.24 (−0.16%) |
+| S&P 500 week | −0.70% (7,729.91 Aug 14 → ~7,674 Aug 21; first losing week since late July; 30-yr yields near 20-yr highs) |
+| Bot vs S&P | +0.54% |
+| Trades | 0 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TSM | $398.76 (Aug 3) | $419.48 | +$476.56 (+5.20%) | $392.427 (10% trail GTC, HWM $436.03, order 265e7f23) — buffer 6.32% ✓ |
+
+### What Worked
+- OXY DAY limit order discipline executed correctly — placed at $58 ceiling, never filled (OXY opened above $58, traded to $61.47), canceled on Hormuz-reopening news; avoided entering a position whose key thesis catalyst (war premium) was actively breaking intraday
+- TSM held through Iran-driven risk-off selloff (Tue Aug 18 −4.08%; Nasdaq −1.3%) without panic; 5-day Nasdaq losing streak ended Friday with TSM +0.84%; thesis never broke
+- Stop buffer above 3% mandate all week — lowest 5.09% (Tue Aug 18 close, TSM $413.37); no manual cut triggered; automation intact
+- FOMC Minutes (Wed Aug 19) correctly assessed as neutral — 9-3 hold confirmed, 3 dissenters known/priced; OXY gate cleared post-Minutes as pre-planned; no hawkish surprise
+- Bot outperformed S&P 500 by +0.54% — second consecutive week of positive relative performance; 90% cash provided natural defensiveness in first SPX losing week since late July
+
+### What Didn't Work
+- OXY entry never materialized — price held $60–$62 range all week vs $58 entry ceiling; 1 weekly trade slot unused; Hormuz-reopening news late Friday removed key thesis catalyst entirely
+- TSM unrealized P&L fell from +$634.80 (Aug 14) to +$476.56 (Aug 21) — HWM $436.03 not advanced for 9 consecutive sessions; trailing stop protection erodes without new ATH
+- 90.2% cash for 17th consecutive week — below 75–85% deployment target; single-position concentration; OXY degradation removes strongest near-term 2nd-position candidate
+- 30-year Treasury yields hit near-20-year highs this week — compounding yield headwind for growth names; structural pressure on high-multiple entries throughout the week
+- Iran risk-off (oil spike + geopolitical) drove 5-day Nasdaq losing streak; TSM exposed to full sector beta with no diversification buffer
+
+### Key Lessons
+- DAY limit order at ceiling ($58) is the correct instrument for energy-thesis entries with binary geopolitical risk — enforces no-chase discipline automatically and resolves to zero-risk-exposure when the thesis shifts intraday; no manual monitoring required
+- Hormuz-reopening news → treat as immediate energy war-premium thesis-break signal; same protocol as WTI < $80 floor (XOM Jun 2026 precedent); reassess within the same session, not overnight
+- TSM trailing stop system is functioning correctly — HWM $436.03 (set Aug 12) will auto-advance the moment TSM clears that level; next threshold +15% ($458.57 → 7% trail) remains the critical next action point
+
+### Adjustments for Next Week
+- OXY thesis reassessment — Hormuz reopening removes war-premium catalyst; if WTI falls below $80 sustained → thesis broken; OXY off the table; pivot watchlist: PLTR ($150–165 pullback zone), ETN (Industrials YTD leader, non-correlated), or other non-energy names with documented catalyst
+- 2nd position priority — research fresh candidates Mon Aug 24 pre-market; 90% cash is structural underperformance; must identify and enter qualified candidate to approach 75–85% deployment target
+- TSM: Hold; stop 265e7f23 active, buffer 6.32%; monitor +15% tighten trigger ($458.57 → 7% trail) and +20% ($478.51 → 5% trail); verify stop status at Mon open
+- 30-year yields: TSM P/E ~28x stays well below >40 hold-only threshold; not restricted; monitor weekly for continued yield climb vs. growth-name impact
+
+### Overall Grade: B
+Rule adherence A (OXY limit cleanly handled; FOMC Minutes gate respected; no violations; stop active and verified daily), risk management A (buffer ≥5.09% all week; no threshold breaches; automation worked; thesis held through 5-day drawdown without rule violation), relative performance B+ (bot −0.16% vs SPX −0.70% = +0.54% outperformance; 2nd consecutive week of positive relative performance; cash-weighted defensiveness was the mechanism, not position alpha). Phase P&L: −$1,732.71 (−1.73%) after 16 weeks.
+
+---
