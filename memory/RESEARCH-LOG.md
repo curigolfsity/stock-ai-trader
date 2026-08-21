@@ -6670,3 +6670,78 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - 0/3 weekly trade capacity intact
 - Watch WMT reaction at open for broad market tone signal
 
+
+---
+
+### Pre-Market Research — 2026-08-21 (Day 79, Friday — Week 16 Day 5)
+
+#### Account Snapshot (API)
+| Metric | Value |
+|--------|-------|
+| Equity | $98,316.05 |
+| Cash | $88,619.25 (90.2%) |
+| Long Market Value | $9,696.80 |
+| Day P&L | +$128.80 (+0.13%) |
+| Phase P&L | −$1,683.95 (−1.68%) vs $100,000 start |
+| Daytrade count | 0 |
+| Weekly trades used | 0/3 |
+| Capital deployed | 9.87% (target: 75–85%) |
+
+#### Open Position
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|---------|----------------|------|--------|
+| TSM | 23 | $398.76 | $421.60 | +$525.32 (+5.73%) | $392.427 (GTC 265e7f23, HWM $436.03) | 6.92% ✓ |
+
+#### Market Context
+- **WTI:** ~$86.19 | **Brent:** ~$92.69 (up from $84.94/$91.02; Iran Hormuz escalating)
+- **S&P 500 futures:** +0.1–0.2% overnight; Nasdaq-100 futures +0.5%; cautious tone
+- **VIX:** ~16.01–16.03 — near YTD low (range 14.18–35.30); complacency risk
+- **10-yr yield:** ~4.70%; 30-yr yield at 5.25% — weight on high-multiple equities
+- **Dollar:** 3-month low — supportive for multinationals (TSM) and commodities (OXY)
+- **Key releases today:** BJ's Wholesale Club (BJ) BMO; no tier-1 macro data (no CPI/NFP/FOMC); light Friday
+- **Next major events:** Jackson Hole Fed conference (late Aug), Nvidia earnings (next week)
+- **Iran/Hormuz:** Ceasefire expired Aug 17, talks collapsed; US launched strikes on Iran; naval blockade reimposed; Trump threatened to declare Hormuz "US territory" → **risk premium is ESCALATING, not resolving**
+
+#### Sector Momentum YTD 2026
+| Sector | YTD Return |
+|--------|-----------|
+| Energy | +49.9% (#1) |
+| Industrials/Defense | top 3 |
+| Communication Services | +3.6% (laggard) |
+| Technology | headwinds; July pullback ~-8% |
+
+#### TSM Update
+- Pre-market $421.60 (+1.42% from $415.71 prior close)
+- Q2 revenue $40.2B — beat; gross margin 67.7%; revenue growth outlook raised to >+40% YoY
+- Raised capex $60–64B; accelerating 2nm/3nm production
+- Analyst avg target $552; market cap $1.91T
+- Arizona: $1.13B cumulative profit H1 2026 (vs $504.6M all of 2025)
+- **Thresholds:** +15% → $458.57 (tighten to 7% trail); +20% → $478.51 (tighten to 5% trail); −7% → $370.85 (manual cut)
+- **Status: INTACT ✓**
+
+#### OXY Update
+- ~$59.90 — within $57–60 entry zone; below $60 ceiling ✓
+- Q2 beat; OxyChem divested $9.46B (balance sheet strengthened); dividend raised
+- Analyst avg target $66.30; Barclays $71 (cut from $75 Aug 17)
+- YTD +46.69%; Berkshire-backed; direct Hormuz beneficiary
+- **R:R check:** Entry $59.90, 10% trail stop = $53.91 (risk $5.99), target $70 = R:R 1.69:1 — **BELOW 2:1 minimum**
+- For 2:1+: need entry ≤$58.00 (risk $5.80, target $70 → R:R 2.07:1) ✓
+- **Decision:** CONDITIONAL — only enter if price pulls to $57–58 at market open for clean 2:1 R:R; no chase at $59.90+
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** +5.73% unrealized; stop buffer 6.92% ✓; well above all tighten thresholds; thesis accelerating (Q2 beat, raised guidance). Arizona profitability +124% YoY. No action.
+2. **OXY — CONDITIONAL WATCH:** Hormuz crisis escalating (no ceasefire, blockade re-imposed); Energy sector #1 YTD (+49.9%); OXY at $59.90 (below $60 ceiling). BUT R:R at $59.90 is only 1.69:1 (< 2:1 rule). Entry ONLY if price drops to $57–58 at open → R:R 2.07:1+ to $70. Position size ~$1,900 (~2% equity), 10% GTC trailing stop. 1 weekly trade remaining (last day of week).
+3. **No new names today:** Light catalyst day (Friday); Jackson Hole positioning next week. NVDA earnings next week as potential tech catalyst — watch for TSM sympathy move.
+
+#### Risk Factors
+- **Capital deployment gap:** 9.87% deployed vs 75–85% target — major undershoot continuing; OXY at right price solves some of this
+- **VIX near low:** Complacency risk; any Hormuz escalation (already intensifying) could spike VIX rapidly
+- **30-yr yield 5.25%:** Sustained pressure on high-multiple growth; TSM at ~28x P/E is below hold-only threshold but monitors warrant attention
+- **Last trading day of week:** Friday → reduced liquidity, wider spreads; prefer limit orders on any OXY entry
+- **OXY ceasefire wildcard:** Any surprise diplomatic breakthrough collapses oil thesis instantly; GTC trail stop is the hedge
+
+#### Decision: **HOLD (CONDITIONAL OXY WATCH)**
+- TSM: hold, thesis intact, no action
+- OXY: watch open price — **enter ONLY if trades $57–58** (10% GTC trail, ~$1,900 position); skip if > $58
+- Weekly capacity: 0/3 used (1 trade slot this week if we want it)
+- Default: patience → activity; no forced trades on a light Friday
