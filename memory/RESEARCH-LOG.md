@@ -6745,3 +6745,23 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - OXY: watch open price — **enter ONLY if trades $57–58** (10% GTC trail, ~$1,900 position); skip if > $58
 - Weekly capacity: 0/3 used (1 trade slot this week if we want it)
 - Default: patience → activity; no forced trades on a light Friday
+
+### Midday Addendum — 2026-08-21 (Afternoon Research — Step 6)
+
+#### Market Snapshot (12:05 PM ET)
+- S&P 500: +0.6% (~7,688); Nasdaq: recovering from 5-day losing streak; Dow: +0.9%
+- TSM: ~$418 intraday (+0.52%); thesis intact — July revenue +45% YoY confirmed catalyst
+- OXY: ~$59.80–$61.47 intraday — DAY limit at $58 never filled; order canceled
+- Bitcoin: ~$77K (best weekly gain in 3 years) — risk-on signal
+
+#### Key Catalysts / Thesis Checks
+1. **OXY / Hormuz risk:** Sherwood News — "Energy stocks follow oil lower as Hormuz set to reopen" — ceasefire/diplomatic breakthrough emerging; if Hormuz fully reopens, oil risk premium (~$8–12/bbl) would collapse; OXY YTD gain (+38%) at risk; **thesis cracking — DO NOT enter OXY until Hormuz situation resolves clearly**
+2. **TSM:** Benzinga confirms "blockbuster run" continues — July revenue +45% YoY; guidance raised to "slightly above 40%" 2026 revenue growth; $60–64B capex; Sony JV still active; analyst avg $552 → thesis INTACT ✓
+3. **Jackson Hole:** Fed conference late August — next major macro catalyst; potential dovish pivot signal would lift high-multiple tech names including TSM
+4. **NVDA earnings next week:** Key catalyst for TSM (sympathy move potential — NVDA's AI chip orders flow through TSM fabs); watch for TSM +15% threshold ($458.57) ahead of NVDA report
+
+#### OXY Decision: DROP FROM WATCHLIST (temporary)
+- Hormuz reopening news = primary thesis driver at risk
+- Wait for confirmation: either (a) Hormuz remains closed and price pulls back to $57–58, or (b) blockade confirmed permanent — then re-assess
+- Do NOT chase at $59–62 under any scenario; risk premium evaporation = instant -10%+ draw
+- Remove from active watchlist pending Hormuz clarity

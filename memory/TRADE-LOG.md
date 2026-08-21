@@ -3278,3 +3278,35 @@ _No action taken. OXY $62.08 — above $60 ceiling; no chase per rule. TSM thesi
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $415.71 | +0.88% | +$389.85 (+4.25%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 78, Thursday (Week 16 Day 4). TSM closed at $415.71 (+0.88% on the day), a modest gain that lifted unrealized P&L to +$389.85 (+4.25%). Trailing stop 265e7f23 remains active: HWM $436.03, stop $392.427; buffer $23.28 (5.60% — well above 3% floor). No trades executed today (0 trades this week, 1 slot still available). OXY watch continued but price stayed above the $60 entry ceiling all day (midday $62.08) — no chase per rule; awaiting $57–59 pullback. Day P&L: +$64.52 (+0.07%). Phase P&L: −$1,819.30 (−1.82%) vs $100,000 starting equity. Capital deployed: 9.74% — patient stance holds. Thesis intact: AI/HPC demand, Sony JV $1.77B, $62B capex, 45% YoY revenue growth, analyst avg target $552. Next thresholds: +15% ($458.57) → 7% trail; +20% ($478.51) → 5% trail; −7% ($370.85) → manual cut. Tomorrow (Fri, Week 16 Day 5): OXY final scan for weekly slot; weekly review workflow.
+
+---
+
+### Midday Scan — 2026-08-21 (Day 79, Friday — Week 16 Day 5)
+
+- **Account (API):** Equity $98,236.13 | Cash $88,619.25 (90.2%) | Day P&L: +$48.88 (+0.05%) | Phase P&L: −$1,763.87 (−1.76%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $418.17 | Entry $398.76 | Unrealized +$446.50 (+4.87%) | Intraday +$49.98 (+0.52%) | Stop 265e7f23: HWM $436.03 | stop $392.427 | Buffer $25.75 (6.16% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +4.87% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +4.87% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 6.16% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM thesis intact: Q2 beat, 45% YoY revenue, capex raised $60–64B, analyst avg target $552 ✓
+- S&P 500 +0.6% midday; Nasdaq recovering from 5-day losing streak — TSM +0.52% intraday ✓
+
+#### OXY Order — CANCELED (no fill)
+- Market-open workflow placed DAY limit buy: 32 shares at $58 (order b50b75f6), placed 8:37 AM ET
+- OXY opened above $58 and traded to ~$61.47 at midday — order never filled ✓ (no chase per rule)
+- **Hormuz reopening risk:** Sherwood News reporting "Hormuz set to reopen" — energy risk premium would collapse; oil thesis vulnerable
+- **Action:** Canceled order b50b75f6 — no OXY position; Hormuz news removes near-term entry case; price ($61.47) far above $58 ceiling
+- Weekly capacity: 0/3 trades used; 1 slot remains but **no trade today** — Hormuz news = thesis crack, Friday = reduced liquidity
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $418.17 | +$446.50 (+4.87%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $552; target $530–545 | $530–545 | 3.4:1 |
+
+_Action taken: Canceled OXY DAY limit order b50b75f6 (unfilled; OXY $61.47, above $58 ceiling; Hormuz reopening news — energy risk premium at risk). TSM thesis intact, stop buffer safe (6.16%). No trades executed this week (0/3). Next: EOD snapshot + weekly review workflow._
