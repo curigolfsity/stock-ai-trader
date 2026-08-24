@@ -6821,3 +6821,22 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Energy sector: wait for oil clarity (Iran sanctions vs Hormuz reopening); OXY off watchlist
 - Watch: NVDA earnings Wednesday for TSM sympathy; TSM +15% threshold ($458.57) → tighten to 7% trail
 - Weekly capacity: 0/3 trades used, 3 slots available; patience > activity on a light-catalyst Monday
+
+### Midday Addendum — 2026-08-24 (Step 6 Research)
+
+#### Market Snapshot (~12:00 ET)
+- S&P 500 futures: ~−0.21%; TSM: ~$407–410 (−2.17% intraday)
+- Asia tech broadly lower on Alibaba HK$80B equity offering; no macro data today
+- VIX ~15 (low fear); NVDA earnings Wednesday = event catalyst of the week
+
+#### TSM Thesis Check
+- Intraday decline = Alibaba-driven Asia tech drag; no TSM-specific negative
+- Q2 confirmed (WebSearch): $40.2B revenue (beat), 67.7% gross margin (beat); guidance raised to slightly above 40% 2026 growth
+- Analyst avg target $554.45 (Strong Buy, 19 analysts); $265B Arizona intact
+- NVDA Wednesday: AI chip order read-through → direct TSM catalyst; watch for TSM +15% threshold ($458.57) post-NVDA
+- Stop buffer 4.25% (floor 3%) — safe; GTC order 265e7f23 confirmed active
+
+#### Decision: HOLD — no new positions
+- No quality 2:1 R:R + catalyst + momentum entries available today
+- OXY off watchlist (Hormuz thesis unresolved); NVDA above hold-only yield threshold
+- Patience confirmed; NVDA earnings Wednesday is the next action catalyst

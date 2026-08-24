@@ -3319,3 +3319,34 @@ _Action taken: Canceled OXY DAY limit order b50b75f6 (unfilled; OXY $61.47, abov
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $419.48 | +0.84% | +$476.56 (+5.20%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 79, Friday (Week 16 Day 5). TSM closed $419.48 (+0.84%), lifting unrealized P&L to +$476.56 (+5.20%). Trailing stop 265e7f23 remains active (GTC): HWM $436.03, stop $392.427, buffer $26.05 (6.22% — well above 3% floor). No trades this week (0/3); OXY DAY limit order b50b75f6 (32 shares at $58) was placed at market open, never filled (OXY opened above $58, traded to ~$61.47), and was canceled midday on Hormuz-reopening news — energy risk premium risk removed thesis support. Capital deployed: 9.82% — deliberately light heading into the weekend. Day P&L: +$86.59 (+0.09%). Phase P&L: −$1,732.71 (−1.73%) vs $100,000 starting equity. Next thresholds: +15% ($458.57) → 7% trail; +20% ($478.51) → 5% trail; −7% ($370.85) → manual cut. Weekend: weekly review workflow to run; monitor Hormuz situation and reassess OXY thesis for next week; TSM watch for continued AI/HPC momentum.
+
+---
+
+### Midday Scan — 2026-08-24 (Day 80, Monday — Week 17 Day 1)
+
+- **Account (API):** Equity $98,050.98 | Cash $88,619.25 (90.4%) | Day P&L: −$204.12 (−0.21%) | Phase P&L: −$1,949.02 (−1.95%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $409.85 | Entry $398.76 | Unrealized +$255.07 (+2.78%) | Intraday −$209.30 (−2.17%) | Stop 265e7f23: HWM $436.03 | stop $392.427 | Buffer $17.42 (4.25% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +2.78% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +2.78% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 4.25% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM −2.17% intraday = Asia tech drag (Alibaba HK$80B offering dragging sector broadly); no TSM-specific negative catalyst
+- Q2 confirmed: $40.2B revenue (+beat), 67.7% gross margin (+beat); 2026 guidance raised to slightly above 40% growth
+- Analyst avg target $554.45 (Strong Buy, 19 analysts); $265B Arizona commitment intact
+- NVDA earnings Wednesday = upcoming TSM sympathy catalyst; AI/HPC demand thesis intact
+
+#### Step 6 — Research (WebSearch)
+- TSM intraday decline attributable to Asia-wide tech selloff (Alibaba $80B offering); no company-specific news
+- No new entry ideas qualify: NVDA above hold-only threshold; OXY off watchlist pending Hormuz clarity; no clean 2:1 R:R setups
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $409.85 | +$255.07 (+2.78%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $554; NVDA Wed catalyst | $530–545 | 3.4:1 |
+
+_No action taken. TSM intraday down 2.17% on Asia tech drag (Alibaba offering); thesis intact; stop buffer 4.25% safe. NVDA earnings Wednesday = key catalyst watch for TSM sympathy move. Next: EOD snapshot._
