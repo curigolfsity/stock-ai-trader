@@ -6765,3 +6765,59 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Wait for confirmation: either (a) Hormuz remains closed and price pulls back to $57–58, or (b) blockade confirmed permanent — then re-assess
 - Do NOT chase at $59–62 under any scenario; risk premium evaporation = instant -10%+ draw
 - Remove from active watchlist pending Hormuz clarity
+
+---
+
+## Pre-Market Research — 2026-08-24 (Day 80, Monday — Week 17 Day 1)
+
+### Account Snapshot
+- **Equity:** $98,150.45 | **Cash:** $88,619.25 (90.3%) | **Deployed:** 9.71%
+- **Day P&L:** −$104.65 (−0.11%) | **Phase P&L:** −$1,849.55 (−1.85%) vs $100K start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Open positions:** 1 (TSM)
+
+### Open Position — TSM
+| Ticker | Shares | Entry | Last Price | Unrealized P&L | Intraday | Stop | Buffer |
+|--------|--------|-------|------------|----------------|----------|------|--------|
+| TSM | 23 | $398.76 | $414.40 | +$359.72 (+3.92%) | −$104.65 (−1.09%) | $392.427 (HWM $436.03, order 265e7f23) | $21.97 (5.30% ✓) |
+
+### Market Context
+- **WTI Crude:** ~$85.36/bbl (−1.6%) — Iran sanctions uncertainty; no Hormuz escalation today
+- **Brent Crude:** ~$93.09/bbl (−1.4%) — parallel decline
+- **SPX Futures:** ~7,691 (−0.11%) | **NDX Futures:** −0.35% | **Dow Futures:** −0.05%
+- **VIX:** ~15.13 (near 2026 lows, −5.5%) — complacency; low fear heading into event-heavy week
+- **30-yr Treasury:** ~20-year highs — long-bond concern; Bessent intervening
+- **Sector YTD:** Energy +22.3% #1 | Materials +15.7% | Industrials +11.9% || IT −3.8% | Cons Disc −4.6% | Financials −5.7%
+
+### Today's Catalysts
+- **No major economic data:** Light Monday; next data catalyst is Jackson Hole Friday
+- **NVDA Earnings Wednesday:** Biggest index event of the week; AI spending read-through → direct TSM catalyst (NVDA AI orders flow through TSM fabs)
+- **Jackson Hole Friday:** Fed Chair Warsh keynote; debate on long-end bond intervention; potential macro pivot signal
+- **Alibaba −8% at Asia open:** 710M share offering HK$80B for AI/infra; dragging Asia tech broadly — TSM sympathy risk at open
+- **US-Canada trade talks:** Breakdown adds macro uncertainty
+- **Earnings BMO today:** ~38 names, no large-cap marquee before open
+
+### TSM News
+- No major negative weekend news; Asia tech broadly weak (Alibaba dilution, Samsung disappointment)
+- TSMC 3nm ramp intact; Sony JV (image sensors) still active catalyst
+- Upcoming dividend: $1.114/share, ex-date Sep 16, 2026
+- Analyst avg target $554 (Strong Buy, 18 buy / 0 sell)
+- Intraday −1.09% ($414.40) — Alibaba/Asia tech drag; stop buffer safe at 5.30% (above 3% floor) ✓
+
+### Trade Ideas
+1. **TSM — HOLD (existing):** Stop safe (5.30% buffer). Thesis intact. NVDA Wednesday = sympathetic upside catalyst; AI chip demand acceleration narrative continues. No action — let the position run.
+2. **NVDA pre-earnings play — PASS:** P/E well above 40× → hold-only mode under high-yield rule (30-yr at ~20-yr highs proxies for 10-yr sustained >4.5%). Don't chase into earnings; not our position.
+3. **Energy / OXY — PASS:** WTI −1.6% today on Iran sanctions uncertainty (unclear direction vs. Hormuz). OXY thesis was cracking on Hormuz-reopening risk (last week). No clean entry while oil is red and sector direction ambiguous.
+
+### Risk Factors
+- **Capital deployment gap:** 9.71% deployed vs 75–85% target — major chronic undershoot; no quality entry signals today to force deployment
+- **Asia tech contagion:** Alibaba offering dragging Asia tech; TSM may open weak → watch stop buffer (floor $392.427; currently safe at 5.30%)
+- **NVDA earnings wildcard:** If NVDA misses Wednesday, broad tech selloff possible; TSM most exposed given AI/HPC thesis
+- **30-yr yield at multi-decade highs:** Growth premium compression ongoing; TSM at ~28× P/E insulated but not immune
+- **VIX complacency:** 15.13 near lows heading into NVDA + Warsh week; any surprise = vol spike
+
+### Decision: **HOLD**
+- TSM: hold, stop buffer safe, NVDA Wednesday = upcoming catalyst — no action
+- No new positions: no quality entry meeting 2:1 R:R + catalyst + sector momentum criteria today
+- Energy sector: wait for oil clarity (Iran sanctions vs Hormuz reopening); OXY off watchlist
+- Watch: NVDA earnings Wednesday for TSM sympathy; TSM +15% threshold ($458.57) → tighten to 7% trail
+- Weekly capacity: 0/3 trades used, 3 slots available; patience > activity on a light-catalyst Monday
