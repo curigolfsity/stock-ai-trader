@@ -3350,3 +3350,12 @@ _Action taken: Canceled OXY DAY limit order b50b75f6 (unfilled; OXY $61.47, abov
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $409.85 | +$255.07 (+2.78%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $554; NVDA Wed catalyst | $530–545 | 3.4:1 |
 
 _No action taken. TSM intraday down 2.17% on Asia tech drag (Alibaba offering); thesis intact; stop buffer 4.25% safe. NVDA earnings Wednesday = key catalyst watch for TSM sympathy move. Next: EOD snapshot._
+
+---
+
+### Aug 24 — EOD Snapshot (Day 80, Monday — Week 17 Day 1)
+**Portfolio:** $98,064.55 | **Cash:** $88,619.25 (90.4%) | **Day P&L:** −$190.55 (−0.19%) | **Phase P&L:** −$1,935.45 (−1.94%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $410.67 | −1.98% | +$273.82 (+2.99%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 80, Monday (Week 17 Day 1). TSM closed $410.67 (−1.98%), pressured by broad Asia tech drag from Alibaba's $80B HK offering. Unrealized P&L +$273.82 (+2.99%); trailing stop 265e7f23 active (GTC): HWM $436.03, stop $392.427, buffer $18.24 (4.44% — above 3% floor; no manual cut). No trades today (0/3 this week). Key ahead: NVDA earnings Wednesday — potential TSM sympathy catalyst if AI demand beats. OXY off watchlist pending Hormuz clarity. Day P&L: −$190.55 (−0.19%). Phase P&L: −$1,935.45 (−1.94%) vs $100,000 starting equity. Capital deployed: 9.63%.
