@@ -6893,3 +6893,21 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Energy: off watchlist pending oil direction clarity; OXY thesis broken
 - Watch tomorrow: NVDA AMC earnings — if beat → TSM sympathy; check $458.57 threshold
 - Weekly: 0/3 trades used; patience > activity on pre-NVDA Tuesday
+
+### Midday Addendum — 2026-08-25 (Step 6 Research)
+
+#### Market Snapshot (~midday ET)
+- TSM: $416.50 (+1.56% intraday) — NVDA pre-earnings sympathy; move has obvious cause ✓
+- NVDA earnings tonight AMC — Q2 FY2027, ~$91B guidance; key AI/HPC demand read-through for TSM
+- WTI continuing lower on Iran sanctions expansion (Bessent); energy sector relief on supply
+- 10Y yield: ~4.65–4.72% (above 4.5% threshold → hold-only mode for P/E >40 growth names still active)
+- Jackson Hole / PCE / Warsh speech Friday = macro event week backdrop
+
+#### Thesis Status
+- TSM intraday gain = consistent with NVDA pre-earnings sentiment; no investigation needed (expected move)
+- No sharp unexplained moves in portfolio or watch list
+- No new entry candidates: NVDA above hold-only threshold; OXY off watchlist; no 2:1 R:R setups
+
+#### Decision: HOLD — no action
+- Await NVDA AMC tonight; if beat, check TSM $458.57 (+15%) → tighten stop to 7% at Wednesday open
+- Weekly capacity: 0/3 trades used

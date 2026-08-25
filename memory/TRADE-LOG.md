@@ -3359,3 +3359,30 @@ _No action taken. TSM intraday down 2.17% on Asia tech drag (Alibaba offering); 
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $410.67 | −1.98% | +$273.82 (+2.99%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 80, Monday (Week 17 Day 1). TSM closed $410.67 (−1.98%), pressured by broad Asia tech drag from Alibaba's $80B HK offering. Unrealized P&L +$273.82 (+2.99%); trailing stop 265e7f23 active (GTC): HWM $436.03, stop $392.427, buffer $18.24 (4.44% — above 3% floor; no manual cut). No trades today (0/3 this week). Key ahead: NVDA earnings Wednesday — potential TSM sympathy catalyst if AI demand beats. OXY off watchlist pending Hormuz clarity. Day P&L: −$190.55 (−0.19%). Phase P&L: −$1,935.45 (−1.94%) vs $100,000 starting equity. Capital deployed: 9.63%.
+
+---
+
+### Midday Scan — 2026-08-25 (Day 81, Tuesday — Week 17 Day 2)
+
+- **Account (API):** Equity $98,198.98 | Cash $88,619.25 (90.2%) | Day P&L: +$146.97 (+0.15%) | Phase P&L: −$1,801.02 (−1.80%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $416.50 | Entry $398.76 | Unrealized +$408.02 (+4.45%) | Intraday +$146.74 (+1.56%) | Stop 265e7f23: HWM $436.03 | stop $392.427 | Buffer $24.07 (5.78% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +4.45% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +4.45% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 5.78% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM +1.56% intraday = NVDA pre-earnings sympathy (expected); no negative TSM-specific catalyst
+- NVDA earnings tonight AMC (Q2 FY2027, ~$91B rev guidance) — direct TSM catalyst via AI chip order read-through
+- Q2 confirmed: $40.2B revenue (beat), 67.7% gross margin (beat); analyst avg $554 (Strong Buy)
+- Key thresholds: +15% ($458.57) → tighten to 7% trail; −7% ($370.85) → cut
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $416.50 | +$408.02 (+4.45%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $554; NVDA tonight catalyst | $530–545 | 3.4:1 |
+
+_No action taken. TSM +4.45% unrealized; +1.56% intraday on NVDA pre-earnings sympathy. Thesis intact. Stop buffer 5.78% safe. NVDA earnings tonight AMC = key catalyst watch — if beat, TSM may approach +15% threshold ($458.57). Next: EOD snapshot; post-NVDA review at open Wednesday._
