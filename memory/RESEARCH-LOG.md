@@ -6840,3 +6840,56 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - No quality 2:1 R:R + catalyst + momentum entries available today
 - OXY off watchlist (Hormuz thesis unresolved); NVDA above hold-only yield threshold
 - Patience confirmed; NVDA earnings Wednesday is the next action catalyst
+
+---
+
+### Pre-Market Research — 2026-08-25 (Day 81, Tuesday — Week 17 Day 2)
+
+#### Account Snapshot
+- **Equity:** $98,191.85 | **Cash:** $88,619.25 (90.2%) | **Day P&L:** +$139.84 (+0.14%) | **Phase P&L:** −$1,808.15 (−1.81%) vs $100,000 start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Deployed:** 9.75% (well below 75–85% target)
+- **TSM:** 23 shares | Entry $398.76 | Current $416.20 (+1.35% vs Mon close $410.67) | Unrealized +$401.12 (+4.37%) | Intraday +$139.84 (+1.48%)
+- **Stop 265e7f23:** HWM $436.03 | Stop $392.427 | Buffer $23.77 (5.71% > 3% min) ✓ — GTC active
+
+#### Market Context
+- **WTI Crude:** ~$85.00/bbl (−2.15%) — Iran sanctions from Bessent expanding; supply concern easing
+- **Brent Crude:** ~$92.20/bbl (−2.32%) — fell below $93; traders await full Iran sanctions detail
+- **SPX Futures:** +0.12% (higher open implied; Dow and Nasdaq also advancing)
+- **VIX:** 15.85 (+4.76% on day) — still near 2026 lows; complacency heading into NVDA + Jackson Hole week
+- **10-Yr Yield:** ~4.65–4.72% — above 4.5% threshold → hold-only mode for P/E >40 growth names ✓
+- **Sector YTD:** Energy +23.2% #1 | Tech (IT) weakest July (−8%) | Healthcare worst YTD (−5.8%)
+
+#### Today's Catalysts
+- **NVDA earnings Wed Aug 26 AMC** — Q2 FY2027 (~$91B rev guidance); biggest index event this week → direct TSM sympathy catalyst (AI chip orders flow through TSMC fabs); Motley Fool: "TSMC will soar after Aug 26 thanks to NVDA's historic quarter"
+- **Iran sanctions expanded (Bessent)** — pressing oil prices lower; equity-positive on macro uncertainty reduction
+- **Consumer Confidence 10 AM ET** (prior 90.8); Case-Shiller Home Prices 9 AM; New Home Sales 10 AM; Richmond Fed 10 AM
+- **PCE inflation Wednesday** — potential Fed signal ahead of Jackson Hole
+- **Fed Chair Warsh Jackson Hole Friday** — debate on long-end bond intervention; macro pivot signal watch
+- **No CPI/PPI/FOMC today**
+- **Earnings BMO:** 42 names, no mega-cap; Navitas Semi (NVTS) notable
+
+#### TSM Thesis Check
+- Current $416.20 (+1.35% premarket vs Mon close) — recovering from Alibaba-driven Asia drag
+- Motley Fool piece today specifically citing TSM NVDA sympathy thesis
+- Analyst avg target $554 (18 buy / 0 sell); capex $62B; $265B Arizona; >40% 2026 revenue growth target intact
+- +15% threshold at $458.57 — NVDA beat tomorrow could push TSM toward this; tighten trail to 7% if hit
+- Stop buffer 5.71% — safe margin above 3% floor
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** Stop buffer 5.71%, thesis intact, NVDA Wednesday = imminent sympathy catalyst. Let position run. Watch for $458.57 (+15% threshold) → tighten to 7% trail.
+2. **NVDA pre-earnings — PASS:** Reports tomorrow AMC. P/E well above 40 → hold-only mode per strategy rule (10Y yield 4.65–4.72% > 4.5% sustained). No chase into earnings; not our position.
+3. **Energy / OXY — PASS:** WTI −2.15% today on Iran sanctions relief; oil downtrend continues; OXY thesis removed (Hormuz + supply recovery). Sector still +23.2% YTD but near-term direction ambiguous.
+
+#### Risk Factors
+- **Deployment gap:** 9.75% deployed vs 75–85% target — chronic undershoot; no quality entries today
+- **NVDA earnings wildcard:** Miss → broad tech selloff, TSM most exposed via AI/HPC thesis
+- **10Y yield sticky above 4.5%:** Strategy hold-only on growth P/E >40; constrains new position entry
+- **VIX complacency:** 15.85 near lows heading into dual catalysts (NVDA + Warsh); surprise = vol spike
+- **Iran sanctions detail:** WTI trajectory depends on full scope; if partial → oil could rebound
+
+#### Decision: **HOLD**
+- TSM: hold, stop safe (5.71%), NVDA earnings tomorrow = key catalyst; no action ahead of event
+- No new positions: no 2:1 R:R + catalyst + sector momentum setup meeting all gates today
+- Energy: off watchlist pending oil direction clarity; OXY thesis broken
+- Watch tomorrow: NVDA AMC earnings — if beat → TSM sympathy; check $458.57 threshold
+- Weekly: 0/3 trades used; patience > activity on pre-NVDA Tuesday
