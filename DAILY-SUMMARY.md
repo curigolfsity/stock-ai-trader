@@ -261,3 +261,15 @@ Decision: HOLD
 Ideas: TSM hold (+7.91% unrealized, thesis intact), AMAT pass (broken ~$507 below $540 zone), OXY/CVX energy watch (defer post-FOMC-minutes Wed)
 Market: SPX futures +0.11%, VIX ~14.25, Oil WTI $82.40 / Brent $88.31
 Risks: Empire State Mfg miss; FOMC Minutes Wed hawkish risk; yield ~4.7%; AMAT semi drag
+
+---
+## 2026-08-25 10:14 UTC (fallback — no notification service configured)
+test
+
+---
+## 2026-08-25 10:15 UTC (fallback — no notification service configured)
+Pre-market 2026-08-25
+Decision: HOLD
+Ideas: TSM hold (NVDA Wed catalyst, stop 5.71% safe), NVDA pass (hold-only rule), OXY pass (oil -2.15%)
+Market: SPX futures +0.12%, VIX 15.85, WTI $85.00 (-2.15%)
+Risks: NVDA earnings miss Wed, 10Y yield 4.7% (growth headwind), VIX complacency
