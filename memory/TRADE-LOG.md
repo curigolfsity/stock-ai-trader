@@ -3395,3 +3395,36 @@ _No action taken. TSM +4.45% unrealized; +1.56% intraday on NVDA pre-earnings sy
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $416.78 | +1.62% | +$414.46 (+4.52%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 81, Tuesday (Week 17 Day 2). TSM closed $416.78 (+1.62%), extending Monday's recovery as NVDA pre-earnings sympathy lifted AI/semiconductor names into the close. Unrealized P&L: +$414.46 (+4.52%). Trailing stop 265e7f23 remains active (GTC): HWM $436.03, stop $392.427, buffer $24.35 (5.84% — safely above 3% floor). No trades executed today (0/3 this week). NVDA Q2 results tonight (AMC) are the primary catalyst for Wednesday — a strong beat and guidance raise could push TSM toward the +15% threshold ($458.57), which would trigger tightening to 7% trail. Capital deployed: 9.77%. Day P&L: +$153.18 (+0.16%). Phase P&L: −$1,794.81 (−1.79%) vs $100,000 starting equity. Next: Wednesday midday scan — assess NVDA results impact on TSM at open; watch for stop-tighten trigger.
+
+---
+
+### Market-Open Scan — 2026-08-26 (Day 82, Wednesday — Week 17 Day 3)
+
+- **Account (API):** Equity $98,221.75 | Cash $88,619.25 (90.2%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $417.50 | Entry $398.76 | Unrealized +$431.02 (+4.70%) | Intraday +$2.07 (+0.02%) | Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer $25.07 (6.01% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +4.70% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +4.70% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 6.01% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- NVDA reports TONIGHT AMC (not last night) — Q2 FY2027, consensus ~$92.2B rev (+97% YoY); NVDA ~$225.30 pre-mkt (+7% this week on anticipation)
+- TSM +0.02% intraday — quiet pre-event drift; no negative TSM-specific catalyst
+- GDP Q2 second estimate released 8:30 AM ET today — macro event; 10Y yield >4.5% (hold-only on P/E >40) ✓
+- Stop buffer 6.01% — safe; no overnight manual cut needed
+
+#### Step 6 — New Entry Decision: NO TRADES
+- 10Y yield >4.5% → hold-only mode for P/E >40 growth names ✓
+- No 2:1 R:R + catalyst + sector momentum setup clearing all gates today
+- Energy (OXY) remains off watchlist; Hormuz/oil thesis unresolved
+- Weekly capacity: 0/3 trades — patient stance
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.50 | +$431.02 (+4.70%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $554; NVDA tonight AMC catalyst | $530–545 | 3.4:1 |
+
+_No action taken. TSM +4.70% unrealized; stop buffer 6.01% safe. NVDA reports tonight AMC — key catalyst watch for TSM. GDP Q2 2nd estimate at 8:30 AM ET. No new entries (10Y yield >4.5%; no qualifying setups). Next: midday scan; post-NVDA assessment at tomorrow's open._
