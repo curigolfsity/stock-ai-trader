@@ -3428,3 +3428,37 @@ _No action taken. TSM +4.45% unrealized; +1.56% intraday on NVDA pre-earnings sy
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.50 | +$431.02 (+4.70%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Sony JV $1.77B; $62B capex; $265B AZ; 45% YoY rev; analyst avg $554; NVDA tonight AMC catalyst | $530–545 | 3.4:1 |
 
 _No action taken. TSM +4.70% unrealized; stop buffer 6.01% safe. NVDA reports tonight AMC — key catalyst watch for TSM. GDP Q2 2nd estimate at 8:30 AM ET. No new entries (10Y yield >4.5%; no qualifying setups). Next: midday scan; post-NVDA assessment at tomorrow's open._
+
+---
+
+### Midday Scan — 2026-08-26 (Day 82, Wednesday — Week 17 Day 3)
+
+- **Account (API):** Equity ~$98,237 | Cash $88,619.25 (90.2%) | Day P&L: −$42.21 (−0.04%) | Phase P&L: ~−$1,763 (−1.76%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $415.575 | Entry $398.76 | Unrealized +$386.75 (+4.22%) | Intraday −$42.21 (−0.44%) | Stop 265e7f23: HWM $436.03 | stop $392.427 | Buffer $23.15 (5.57% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +4.22% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +4.22% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 5.57% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM −0.44% intraday = pre-NVDA-results drift; no company-specific negative catalyst
+- New: TSMC manufacturing 3 new chips for Xiaomi using 3nm process (Reuters) — incremental positive
+- Analyst consensus: Strong Buy (6B/1H/0S), avg target ~$545; no downgrades today
+- NVDA reports TONIGHT AMC (5 PM ET) — Q2 FY2027, consensus $92.2B rev / $2.09 EPS; Q3 guide >$100B = bullish TSM sympathy; <$95B = risk
+- NVDA is ~19% of TSMC revenue (~$23B in 2025); NVDA guide is direct read-through for TSM
+- Stop buffer 5.57% — safe; thesis intact ✓
+
+#### Step 6 — Research: NO SHARP INTRADAY MOVES
+- TSM intraday decline modest (−0.44%) attributable to pre-NVDA wait-and-see; no new macro shock
+- No new entry ideas: 10Y yield >4.5% (hold-only on P/E >40); no qualifying setup with 2:1 R:R + catalyst + sector gate
+- Energy (OXY) remains off watchlist pending Hormuz clarity
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $415.575 | +$386.75 (+4.22%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Xiaomi 3nm deal; $62B capex; $265B AZ; 45% YoY rev; analyst avg $545; NVDA tonight AMC catalyst | $530–545 | 3.4:1 |
+
+_No action taken. TSM −0.44% intraday on pre-NVDA drift; thesis intact; stop buffer 5.57% safe. Xiaomi 3nm deal incremental positive. NVDA Q2 FY2027 reports tonight AMC — Q3 guide >$100B = bullish TSM; <$95B = risk. No new entries (yield >4.5%; no qualifying setups, 0/3 trades this week). Next: EOD snapshot; post-NVDA assessment at tomorrow's market-open scan._

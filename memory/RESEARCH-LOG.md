@@ -6965,3 +6965,12 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Energy: off watchlist; oil trend down on Iran relief
 - Watch tonight: NVDA AMC results — beat + guide up → TSM sympathy; check $458.57 threshold at Wednesday open (Thursday pre-market)
 - Weekly: 0/3 trades used; patience > activity
+
+### Midday Addendum — 2026-08-26
+
+- TSM $415.575 midday (−0.44% intraday); pre-NVDA drift continues; no new negative catalyst
+- **New:** TSMC manufacturing 3 chips for Xiaomi using 3nm process (Reuters) — incremental demand confirmation
+- Analyst consensus unchanged: Strong Buy (6B/1H/0S), avg target ~$545
+- NVDA reports tonight AMC (5 PM ET): Q2 FY2027, consensus $92.2B rev / $2.09 EPS; **Q3 guide is the real mover** (>$100B bullish / <$95B risk); NVDA ~19% of TSMC revenue = direct TSM read-through
+- No thesis break; no action taken; stop buffer 5.57% safe
+
