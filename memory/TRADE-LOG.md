@@ -3462,3 +3462,12 @@ _No action taken. TSM +4.70% unrealized; stop buffer 6.01% safe. NVDA reports to
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $415.575 | +$386.75 (+4.22%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Xiaomi 3nm deal; $62B capex; $265B AZ; 45% YoY rev; analyst avg $545; NVDA tonight AMC catalyst | $530–545 | 3.4:1 |
 
 _No action taken. TSM −0.44% intraday on pre-NVDA drift; thesis intact; stop buffer 5.57% safe. Xiaomi 3nm deal incremental positive. NVDA Q2 FY2027 reports tonight AMC — Q3 guide >$100B = bullish TSM; <$95B = risk. No new entries (yield >4.5%; no qualifying setups, 0/3 trades this week). Next: EOD snapshot; post-NVDA assessment at tomorrow's market-open scan._
+
+---
+
+### Aug 26 — EOD Snapshot (Day 82, Wednesday — Week 17 Day 3)
+**Portfolio:** $98,237.05 | **Cash:** $88,619.25 (90.2%) | **Day P&L:** +$17.37 (+0.02%) | **Phase P&L:** −$1,762.95 (−1.76%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $418.165 | +0.18% | +$446.315 (+4.87%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 82, Wednesday (Week 17 Day 3). TSM closed $418.165 (+0.18%), recovering from its midday dip (−0.44%) to finish slightly higher. Unrealized P&L: +$446.315 (+4.87%). Trailing stop 265e7f23 remains active (GTC): HWM $436.03, stop $392.427, buffer $25.74 (6.16% — safely above 3% floor). NVDA Q2 FY2027 reports tonight AMC (after today's close) — consensus ~$92.2B rev, Q3 guide >$100B = bullish TSM; <$95B = risk. No trades executed (0/3 this week). Capital deployed: 9.79%. Day P&L: +$17.37 (+0.02%). Phase P&L: −$1,762.95 (−1.76%) vs $100,000 starting equity. Next: Thursday market-open scan — assess NVDA results impact on TSM; watch for +15% tighten trigger ($458.57) on strong beat.
