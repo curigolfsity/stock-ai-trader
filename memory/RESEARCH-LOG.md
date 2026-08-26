@@ -6911,3 +6911,57 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 #### Decision: HOLD — no action
 - Await NVDA AMC tonight; if beat, check TSM $458.57 (+15%) → tighten stop to 7% at Wednesday open
 - Weekly capacity: 0/3 trades used
+
+---
+
+### Pre-Market Research — 2026-08-26 (Day 82, Wednesday — Week 17 Day 3)
+
+#### Account Snapshot
+- **Equity:** $98,269.13 | **Cash:** $88,619.25 (90.2%) | **Day P&L:** +$49.45 (+0.05%) | **Phase P&L:** −$1,730.87 (−1.73%) vs $100,000 start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Deployed:** 9.82%
+- **TSM:** 23 shares | Entry $398.76 | API $419.56 (+5.22% unrealized) | Pre-mkt $415.81 (−0.75% vs prev close) | Intraday +$49.45 (+0.52%)
+- **Stop 265e7f23:** HWM $436.03 | Stop $392.427 | Buffer $27.13 (6.47% > 3% min) ✓ — GTC active
+
+#### Market Context
+- **WTI Crude:** ~$80.78/bbl (−1.92%) — Iran sanctions less aggressive than feared; supply disruption risk eased
+- **Brent Crude:** ~$83–85/bbl (est.) — following WTI lower on Iran relief
+- **SPX Futures:** −0.1% (barely negative; wait-and-see ahead of NVDA + GDP)
+- **VIX:** ~15.47 (−2.4%) — low; near 2026 lows; complacency intact ahead of NVDA event
+- **10-Yr Yield:** ~4.66–4.70% — above 4.5% threshold → hold-only mode for P/E >40 growth names ✓
+- **GDP Q2 (2nd estimate):** 8:30 AM ET today — major macro release
+- **PCE inflation:** likely Thursday Aug 27
+- **Jackson Hole:** Fed Chair Warsh speaks Friday — bond-market/policy pivot signal watch
+
+#### Today's Catalysts
+- **NVDA earnings TONIGHT AMC** — Q2 FY2027, consensus ~$92.2B rev (+97% YoY), EPS ~$2.09, Data Center ~$85.7B; NVDA pre-mkt +2.5% ($218.45); largest index event of the week; direct TSM read-through as primary NVDA chip fabricator
+- **GDP Q2 Second Estimate 8:30 AM** — potential market mover; 10Y yield sensitivity
+- **Iran sanctions (Bessent):** less aggressive than feared → WTI −1.92%; equity-positive, energy downward pressure continues
+- **Other earnings today AMC:** Salesforce, CrowdStrike, HP, Synopsys, Veeva Systems
+- **Jackson Hole Friday:** Fed Chair Warsh positioning ahead of potential long-end bond intervention debate
+- **No CPI/PPI/FOMC today**
+
+#### TSM Thesis Check
+- Pre-mkt $415.81 (−0.75% vs $416.78 close) — normal pre-NVDA drift; no negative TSM-specific news
+- Stop buffer 6.47% — safe; no manual cut needed; GTC order 265e7f23 confirmed active
+- +15% threshold: $458.57 (tighten to 7% trail) | +20% threshold: $478.51 (tighten to 5%) | −7% cut: $370.85
+- Current unrealized: +5.22% — well below +15% threshold; no tighten today
+- NVDA pre-mkt +2.5% on anticipation → if NVDA beats and guides up tonight, TSM sympathy could push toward $458.57
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** Stop buffer 6.47%, thesis intact, NVDA tonight AMC = primary imminent catalyst. No action ahead of event — let position run.
+2. **NVDA — PASS:** Reports tonight AMC; P/E well above 40 → hold-only mode (10Y yield >4.5%). No new position; not our stock; watch for read-through.
+3. **Energy / OXY — PASS:** WTI −1.92% on Iran relief; oil thesis weakening further; OXY remains off watchlist.
+
+#### Risk Factors
+- **NVDA miss:** If NVDA guides below consensus → broad AI/tech selloff; TSM most exposed; stop ($392.427) acts as backstop — buffer 6.47%, gives room for a spike-down without touching stop
+- **GDP surprise:** Hotter-than-expected GDP could push 10Y yield higher → P/E multiple compression on growth names
+- **Deployment gap:** 9.82% vs 75–85% target — no quality entries today; acute undershoot continues
+- **VIX complacency:** Volatility spike risk around NVDA event; VIX low suggests market not hedged for miss
+- **Iran sanctions partial scope:** WTI could rebound if sanctions more limited than feared
+
+#### Decision: **HOLD**
+- TSM: hold, stop safe (6.47%), NVDA tonight AMC is the key event; no action ahead of results
+- No new positions: 10Y yield >4.5% constrains growth P/E >40; no 2:1 R:R + catalyst + sector momentum setups today
+- Energy: off watchlist; oil trend down on Iran relief
+- Watch tonight: NVDA AMC results — beat + guide up → TSM sympathy; check $458.57 threshold at Wednesday open (Thursday pre-market)
+- Weekly: 0/3 trades used; patience > activity
