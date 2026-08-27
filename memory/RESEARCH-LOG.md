@@ -6974,3 +6974,49 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - NVDA reports tonight AMC (5 PM ET): Q2 FY2027, consensus $92.2B rev / $2.09 EPS; **Q3 guide is the real mover** (>$100B bullish / <$95B risk); NVDA ~19% of TSMC revenue = direct TSM read-through
 - No thesis break; no action taken; stop buffer 5.57% safe
 
+
+---
+
+### Pre-Market Research — 2026-08-27 (Day 83, Thursday — Week 17 Day 4)
+
+#### Account Snapshot
+- **Equity:** $98,404.37 | **Cash:** $88,619.25 (90.1%) | **Day P&L:** +$178.25 (+0.18%) | **Phase P&L:** −$1,595.63 (−1.60%) vs $100,000 start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Deployed:** 9.95%
+- **TSM:** 23 shares | Entry $398.76 | Current $425.44 (+6.69% unrealized, +$613.64) | Intraday +$178.25 (+1.86%)
+- **Stop 265e7f23:** HWM $436.03 | Stop $392.427 | Buffer $33.01 (7.76% > 3% min) ✓ — GTC active
+
+#### Market Context
+- **WTI Crude:** ~$81.36/bbl (−1.06%) — Iran sanctions relief caps upside; supply disruption risk subdued
+- **Brent Crude:** ~$84–85/bbl est — tracking WTI lower
+- **SPX Futures:** Flat/slightly positive (~7,683–7,691) — markets digesting NVDA beat; no strong directional signal
+- **VIX:** ~15.81 — low, near 2026 lows; complacency; market not hedged for downside
+- **10-Yr Yield:** ~4.65% — above 4.5% threshold → hold-only mode for P/E >40 growth names ✓
+- **PCE Inflation:** Released Wednesday Aug 26 (in-line with estimates); not a today event
+- **Economic Calendar Today:** No major CPI/PPI/FOMC releases; quiet session ahead of Jackson Hole
+- **Jackson Hole:** Warsh keynote TOMORROW (Friday Aug 28, 10:00 AM ET) — theme: "Financial Innovation: Implications for Payments and Policy"; market pricing ~1-in-3 odds of September rate hike; primary risk event for tomorrow
+
+#### Key Catalysts
+- **NVDA Q2 FY2027 BLOWOUT (reported last night AMC):** Revenue $96.2B (est $92.1B, +4.5% beat) | EPS $2.22 (est $2.09, +6.3% beat) | Data Center $89.0B (+117% YoY) | CEO Huang: "demand accelerating" — STRONG BEAT across all metrics; TSM primary fabricator → direct positive read-through
+- **TSM +1.86% intraday ($425.44):** Unrealized now +6.69% ($613.64); NVDA blowout validates AI chip demand thesis; TSMC 2026 EPS est $16.90 (+59% YoY) post-NVDA
+- **Jackson Hole Friday:** Warsh speech tomorrow = key event; hawkish surprise could spike 10Y yield → risk-off; prudent to hold no new exposure today
+- **Iran sanctions (partial scope):** WTI remains subdued; energy sector headwind continues
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** NVDA blowout is definitive thesis confirmation. Stop buffer 7.76% safe. If TSM breaks HWM $436.03 today, trailing stop auto-tightens. +15% trigger at $458.57 (+7.8% from here) — possible on sustained AI momentum. No action needed.
+2. **AMAT (Applied Materials) — WATCHLIST:** Semiconductor equipment; direct capex beneficiary of AI chip buildout (TSM $265B AZ, $62B capex plan); P/E ~22 (passes yield gate); needs a clean pullback entry + catalyst. Not ready today — watch post-Jackson Hole.
+3. **Energy — PASS:** WTI $81 with Iran sanctions dampening upside; 2 failed oil theses; energy off watchlist per strategy rule.
+
+#### Risk Factors
+- **Jackson Hole tomorrow (Warsh):** Hawkish tone could spike 10Y yield → growth/AI selloff; don't add exposure today
+- **TSM "buy the rumor, sell the news":** TSM already up +6.69% from entry; NVDA beat already priced into today's open; watch for profit-taking
+- **Stop buffer 7.76%:** Adequate but not oversized; spike-down risk around Jackson Hole; monitor
+- **Deployment gap:** 9.95% vs 75–85% target — acute undershoot; no quality setups today given yield gate + Jackson Hole overhang
+- **VIX complacency:** 15.81 suggests market under-hedged; any policy surprise could amplify move
+
+#### Decision: **HOLD**
+- TSM: hold; NVDA blowout confirms thesis; stop buffer 7.76% safe; watch HWM $436.03 for auto-tighten and $458.57 for manual tighten to 7% trail
+- No new positions: 10Y yield >4.5% constrains P/E >40 growth names; Jackson Hole tomorrow = risk-off ahead of Warsh speech; no 2:1 R:R setups clearing all gates
+- Energy: off watchlist; oil thesis absent
+- AMAT on watchlist for post-Jackson Hole entry if Warsh is dovish and yield dips
+- Weekly: 0/3 trades used; patience > activity
+- Next: Jackson Hole Friday (Warsh 10 AM ET) — pivot/hike signal; TSM threshold monitoring ($436.03 HWM, $458.57 tighten trigger)
