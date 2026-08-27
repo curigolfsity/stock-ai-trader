@@ -3539,3 +3539,12 @@ _No action taken. NVDA $96.2B blowout validates TSM AI thesis — stop buffer 7.
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $425.455 | +$613.99 (+6.70%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; NVDA blowout confirms thesis; Xiaomi 3nm; $62B capex; $265B AZ; analyst avg $554 | $530–545 | 3.4:1 |
 
 _No action taken. TSM +6.70% unrealized; NVDA blowout validates AI thesis; stop buffer 7.77% safe. Jackson Hole tomorrow (Warsh 10 AM ET) = hold-only; no new entries (yield >4.5%; no qualifying setups; 0/3 trades this week). Next: EOD snapshot; Jackson Hole assessment at tomorrow's market-open scan._
+
+---
+
+### Aug 27 — EOD Snapshot (Day 83, Thursday — Week 17 Day 4)
+**Portfolio:** $98,381.26 | **Cash:** $88,619.25 (90.1%) | **Day P&L:** +$155.14 (+0.16%) | **Phase P&L:** −$1,618.74 (−1.62%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $424.39 | +1.60% | +$589.49 (+6.43%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 83, Thursday (Week 17 Day 4). TSM closed $424.39 (+1.60%) on continued NVDA-sympathy bid and positive Jackson Hole reaction (Warsh speech delivered). Unrealized P&L: +$589.49 (+6.43%). Trailing stop 265e7f23 remains active (GTC): HWM $436.03, stop $392.427, buffer $31.96 (7.53% — safely above 3% floor). No +15% tighten trigger ($458.57) reached. No trades executed (0/3 this week). Capital deployed: 9.9%. Day P&L: +$155.14 (+0.16%). Phase P&L: −$1,618.74 (−1.62%) vs $100,000 starting equity. Next: Friday market-open scan — assess Jackson Hole impact fully; AMAT entry evaluation if risk-on; watch TSM $458.57 (+15%) tighten trigger.
