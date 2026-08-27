@@ -3471,3 +3471,40 @@ _No action taken. TSM −0.44% intraday on pre-NVDA drift; thesis intact; stop b
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $418.165 | +0.18% | +$446.315 (+4.87%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 82, Wednesday (Week 17 Day 3). TSM closed $418.165 (+0.18%), recovering from its midday dip (−0.44%) to finish slightly higher. Unrealized P&L: +$446.315 (+4.87%). Trailing stop 265e7f23 remains active (GTC): HWM $436.03, stop $392.427, buffer $25.74 (6.16% — safely above 3% floor). NVDA Q2 FY2027 reports tonight AMC (after today's close) — consensus ~$92.2B rev, Q3 guide >$100B = bullish TSM; <$95B = risk. No trades executed (0/3 this week). Capital deployed: 9.79%. Day P&L: +$17.37 (+0.02%). Phase P&L: −$1,762.95 (−1.76%) vs $100,000 starting equity. Next: Thursday market-open scan — assess NVDA results impact on TSM; watch for +15% tighten trigger ($458.57) on strong beat.
+
+---
+
+### Market-Open Scan — 2026-08-27 (Day 83, Thursday — Week 17 Day 4)
+
+- **Account (API):** Equity $98,350.09 | Cash $88,619.25 (90.1%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $423.08 | Entry $398.76 | Unrealized +$559.36 (+6.10%) | Intraday +$123.97 (+1.29%) | Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer $30.65 (7.25% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +6.10% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +6.10% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 7.25% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- NVDA Q2 FY2027 BLOWOUT (reported Aug 26 AMC): Rev $96.2B (+4.5% beat), EPS $2.22 (+6.3% beat), Data Center $89.0B (+117% YoY) — TSM is primary NVDA fabricator; direct thesis confirmation ✓
+- TSM +1.29% intraday on NVDA sympathy; analyst avg target ~$554 (18 buy / 0 sell)
+- TSMC 3nm Xiaomi deal (Reuters) — incremental demand; capex $62B; AZ $265B intact
+- 10-yr yield ~4.65% — above 4.5% → hold-only on P/E >40; TSM ~28x not restricted ✓
+- Jackson Hole tomorrow (Warsh 10 AM ET) — key event; risk-off ahead of speech
+
+#### Step 6 — New Entry Decision: NO TRADES
+- **Gate failures preventing entry:**
+  - Jackson Hole tomorrow = risk-off; no new exposure before Warsh speech
+  - No qualifying 2:1 R:R + catalyst + sector momentum setup
+  - AMAT (P/E ~22, passes yield gate) — watchlist only; no clean entry level established; deferred to post-Jackson Hole
+  - Energy (OXY) — off watchlist; oil thesis absent; WTI ~$81
+  - NVDA — hold-only (P/E well above 40, yield >4.5%)
+- **Weekly capacity:** 0/3 trades used
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $423.08 | +$559.36 (+6.10%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; NVDA blowout confirms thesis; Xiaomi 3nm; $62B capex; $265B AZ; >40% 2026 rev growth; analyst avg $554 | $530–545 | 3.4:1 |
+
+_No action taken. NVDA $96.2B blowout validates TSM AI thesis — stop buffer 7.25% safe, unrealized +6.10%. No new positions: Jackson Hole tomorrow (Warsh 10 AM ET) = risk-off gate; AMAT deferred post-Jackson Hole; no qualifying 2:1 R:R setups. Weekly: 0/3 trades used. Next: monitor Jackson Hole — dovish Warsh → AMAT entry evaluation; watch TSM $458.57 (+15%) tighten trigger._
