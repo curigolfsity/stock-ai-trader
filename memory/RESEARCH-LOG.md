@@ -7020,3 +7020,10 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - AMAT on watchlist for post-Jackson Hole entry if Warsh is dovish and yield dips
 - Weekly: 0/3 trades used; patience > activity
 - Next: Jackson Hole Friday (Warsh 10 AM ET) — pivot/hike signal; TSM threshold monitoring ($436.03 HWM, $458.57 tighten trigger)
+
+#### Midday Addendum — 2026-08-27 (~12:30 PM ET)
+- **TSM intraday:** $425.455 (+1.86%) — sector-wide bid on NVDA blowout sympathy; no company-specific negative catalyst
+- **NVDA reaction:** +~7% premarket; Nasdaq +1%, S&P 500 +0.4% at midday; Salesforce +11%, CrowdStrike +9% — broad AI/tech lift; confirms chip demand thesis
+- **Semiconductor sector:** Monday/Tuesday profit-taking is reversing; tech leading today; value/cyclicals lagging
+- **Jackson Hole (tomorrow, Warsh 10 AM ET):** Main risk; ~1-in-3 odds September rate hike; Warsh expected to reduce reliance on forward guidance rather than give explicit rate signals — but hawkish lean could pressure semis; hold-only posture maintained
+- **Net TSM thesis check:** INTACT — NVDA blowout confirms TSMC foundry demand; no thesis break; stop buffer 7.77% safe; analyst consensus Strong Buy, avg target ~$554
