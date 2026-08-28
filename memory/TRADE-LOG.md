@@ -3585,3 +3585,10 @@ _No action taken. TSM +6.70% unrealized; NVDA blowout validates AI thesis; stop 
 _No action taken. TSM −1.36% intraday on Warsh hawkish + PCE slightly hot macro re-pricing; thesis intact — P/E ~28 not yield-gated, NVDA blowout demand confirmed, no company-specific negative. Stop buffer 6.90% safe. AMAT deferred (Warsh hawkish = condition not met). Weekly: 0/3 trades. Next: EOD snapshot; Monday market-open — assess yield/AMAT setup; watch TSM $458.57 (+15%) tighten trigger._
 
 ---
+
+### Aug 28 — EOD Snapshot (Day 84, Friday — Week 17 Day 5)
+**Portfolio:** $98,253.26 | **Cash:** $88,619.25 (90.2%) | **Day P&L:** −$193.89 (−0.20%) | **Phase P&L:** −$1,746.74 (−1.75%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $418.94 | −1.96% | +$464.03 (+5.06%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 84, Friday (Week 17 Day 5). TSM closed $418.94 (−1.96%) — continuation of post-Jackson Hole macro sell-off as Warsh hawkish stance (hikes on table, no forward guidance) and slightly hot PCE (3.7% YoY) weighed on large-cap semis. Thesis remains intact: TSM P/E ~28 not yield-gated (gate triggers at P/E >40), NVDA $96.2B blowout demand confirmed, no company-specific negative. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $26.51 (6.33% — above 3% floor, no +15% tighten trigger at $458.57 reached). No trades this week (0/3). Capital deployed: 9.8%. Day P&L: −$193.89 (−0.20%). Phase P&L: −$1,746.74 (−1.75%) vs $100,000 starting equity. Next: Monday market-open — re-assess yield environment + AMAT setup; watch TSM $458.57 (+15%) tighten trigger.
