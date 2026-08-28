@@ -840,3 +840,60 @@ Rule adherence A (all five-day gates correctly applied; CPI/PPI patience maintai
 Rule adherence A (OXY limit cleanly handled; FOMC Minutes gate respected; no violations; stop active and verified daily), risk management A (buffer ≥5.09% all week; no threshold breaches; automation worked; thesis held through 5-day drawdown without rule violation), relative performance B+ (bot −0.16% vs SPX −0.70% = +0.54% outperformance; 2nd consecutive week of positive relative performance; cash-weighted defensiveness was the mechanism, not position alpha). Phase P&L: −$1,732.71 (−1.73%) after 16 weeks.
 
 ---
+
+## Week ending 2026-08-28
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,267.29 (Fri Aug 21 EOD — TSM open) |
+| Ending portfolio | $98,253.26 (Fri Aug 28 EOD) |
+| Week return | −$14.03 (−0.01%) |
+| S&P 500 week | ~+0.9% (7,674 Aug 21 → ~7,740 Aug 28; NVDA blowout Thu +0.7% on day; Warsh hawkish Fri gave back gains) |
+| Bot vs S&P | ~−0.91% |
+| Trades | 0 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TSM | $398.76 (Aug 3) | $418.94 | +$464.03 (+5.06%) | $392.427 (10% trail GTC, HWM $436.03, order 265e7f23) — buffer 6.33% ✓ |
+
+### What Worked
+- NVDA Q2 FY2027 blowout ($96.2B rev +4.5% beat; EPS $2.22 +6.3% beat; Data Center $89.0B +117% YoY; Q3 guide $106–110B) directly confirmed TSM AI foundry thesis — highest conviction point since entry Aug 3
+- Jackson Hole hard-block executed correctly — no new entries before Warsh speech; hawkish tone (hikes on table, no forward guidance) confirmed the block prevented immediate headwind exposure
+- TSM stop buffer held above 3% mandate all week (4.25% low Mon → 7.77% high Thu); trailing stop 265e7f23 active throughout; automation intact; no manual cut triggered
+- Zero rule violations — gates correctly applied all five sessions; AMAT deferred appropriately post-Warsh; no impulse chasing
+- OXY/Energy watchlist remains cleared (Hormuz reopening removed war-premium thesis Aug 21); no energy risk carried into this week
+
+### What Didn't Work
+- TSM essentially flat for the week: +5.20% unrealized entering, +5.06% exiting; NVDA blowout Thursday gains (+1.60%) entirely erased by Warsh hawkish Friday (−1.96%)
+- 90.2% cash — 18th consecutive week without a 2nd position; structural underdeployment remains the dominant phase-level performance drag
+- AMAT entry blocked again — Warsh hawkish speech + 10Y yields pushing above 4.70% killed the post-NVDA entry window that had been planned
+- 0/3 weekly trade capacity unused; bot −0.01% vs S&P ~+0.9% = ~−0.91% gap; 18th week of negative relative performance
+- TSM HWM $436.03 not advanced for 16 consecutive sessions — trailing stop not auto-ratcheting; next ATH required to improve auto-stop floor
+
+### Key Lessons
+- Warsh's first Jackson Hole speech was more hawkish than his post-July FOMC tone (hikes explicitly on table; forward guidance removed) — confirms Jackson Hole hard-block as a mandatory pre-event gate, not an optional caution; require 2 settled sessions post-speech before resuming new entries
+- NVDA $96.2B blowout (Q3 guide $106–110B) is the strongest TSM thesis confirmation since entry — yet TSM still couldn't clear HWM $436.03; market structure (yield headwind at >4.70%) is the binding constraint, not fundamentals; thesis is intact, upside is yield-dependent
+- Yield-gate rule (>4.5% = hold-only on P/E >40) is correctly calibrated — blocked NVDA entry at elevated P/E before a hawkish Jackson Hole; the rule's cost is a narrow watchlist (AMAT ~22x, ETN, non-high-multiple industrials); with 10Y at 4.70%+, this constraint stays until yield breaks sustainably below 4.5%
+
+### Adjustments for Next Week
+- **Mon Sep 1 first action:** Verify TSM stop (265e7f23) ACTIVE at open; check buffer vs $392.427; if <3% → manual cut at open per protocol
+- **AMAT — priority setup Mon/Tue (post-Jackson Hole 2-session wait):** if AMAT consolidates $540–555 with clean 30-min pattern + VIX <17 + 2:1 R:R confirmed → entry ~33sh (~19% equity); stop ~$500 GTC trail; Q4 guide catalyst ($10.25B rev, $4.02 EPS, +51%/+85% YoY); no chase above $560
+- **Yield watch:** 10Y at ~4.70%+ → P/E >40 gate stays blocked; if 10Y breaks below 4.5% sustained 2+ sessions → re-open NVDA/NET/growth names; AMAT (~22x) not restricted regardless
+- **TSM tighten triggers:** +15% ($458.57) → 7% trail | +20% ($478.51) → 5% trail; HWM $436.03 must be cleared before stop auto-advances
+- **September calendar:** NFP Sep 4 (no entries on or directly before), CPI ~Sep 11, FOMC Sep 16–17 (hard block during meeting window); plan all entry windows around these, not into them; Labor Day Sep 7 = market closed
+
+### Overall Grade: C+
+Rule adherence A (zero violations; all gates correctly applied; Jackson Hole hard-block correct; T+0 stop habit sustained; no manual cuts needed), risk management A (stop buffer 4.25%–7.77% all week; no threshold breaches; automation intact through all macro events), relative performance C (bot −0.01% vs S&P ~+0.9% = ~−0.91% gap; 18th consecutive week of negative relative performance; NVDA blowout catalyst absorbed then erased by Warsh hawkishness; structural 90% cash drag is the sole underperformance driver). Phase P&L: −$1,746.74 (−1.75%) after 17 weeks.
+
+---
