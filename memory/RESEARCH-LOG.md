@@ -7075,3 +7075,12 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Energy: off watchlist per strategy rule
 - Weekly: 0/3 trades used — patience > activity
 - **Next:** Monitor Warsh 10 AM ET + PCE 8:30 AM ET; dovish/cool = green light to evaluate AMAT Monday; hawkish/hot = hold-only extended; TSM tighten trigger $458.57 (+15%)
+
+#### Midday Addendum — 2026-08-28 (~12:30 PM ET)
+- **TSM intraday:** $421.50 (−1.36%) — Friday profit-taking + macro rotation; stop buffer 6.90% safe
+- **PCE confirmed:** Headline 3.7% (slightly hot), Core 3.3% (in-line) — mixed; not a disaster; September hike odds elevated
+- **Warsh confirmed HAWKISH:** Inflation too high; rates may not be sufficiently restrictive; hikes on table; no forward guidance — TSM pressure expected but P/E ~28 not in yield-gate zone
+- **Capex concern re-framing ($62B):** Market narrative shift (margin compression) — known data already in thesis as bullish; no new fundamental negative
+- **Net TSM thesis check:** INTACT — NVDA $96.2B blowout foundry demand confirmed; July rev +44.7% YoY; analyst avg $554; stop 6.90% buffer safe
+- **AMAT decision:** Warsh hawkish = condition (a) not met → deferred to Monday; evaluate fresh setup
+- **Hold-only extended:** Warsh hawkish + PCE slightly hot → yield >4.70%; no new positions; yield gate on P/E >40 remains active

@@ -3548,3 +3548,40 @@ _No action taken. TSM +6.70% unrealized; NVDA blowout validates AI thesis; stop 
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $424.39 | +1.60% | +$589.49 (+6.43%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 83, Thursday (Week 17 Day 4). TSM closed $424.39 (+1.60%) on continued NVDA-sympathy bid and positive Jackson Hole reaction (Warsh speech delivered). Unrealized P&L: +$589.49 (+6.43%). Trailing stop 265e7f23 remains active (GTC): HWM $436.03, stop $392.427, buffer $31.96 (7.53% — safely above 3% floor). No +15% tighten trigger ($458.57) reached. No trades executed (0/3 this week). Capital deployed: 9.9%. Day P&L: +$155.14 (+0.16%). Phase P&L: −$1,618.74 (−1.62%) vs $100,000 starting equity. Next: Friday market-open scan — assess Jackson Hole impact fully; AMAT entry evaluation if risk-on; watch TSM $458.57 (+15%) tighten trigger.
+**Notes:** Day 83, Thursday (Week 17 Day 4). TSM closed $424.39 (+1.60%) on continued NVDA-sympathy bid and positive Jackson Hole reaction (Warsh speech delivered). Unrealized P&L: +$589.49 (+6.43%). Trailing stop 265e7f23 remains active (GTC): HWM $436.03, stop $392.427, buffer $31.96 (7.53% — safely above 3% floor). No +15% tighten trigger ($458.57) reached. No trades executed (0/3 this week). Capital deployed: 9.9%. Day P&L: +$155.14 (+0.16%). Phase P&L: −$1,618.74 (−1.62%) vs $100,000 starting equity. Next: Friday market-open scan — assess Jackson Hole impact fully; AMAT entry evaluation if risk-on; watch TSM $458.57 (+15%) tighten trigger.
+
+---
+
+### Midday Scan — 2026-08-28 (Day 84, Friday — Week 17 Day 5)
+
+- **Account (API):** Equity ~$98,313.75 | Cash $88,619.25 (90.1%) | Day P&L: −$133.40 (−0.14%) | Phase P&L: ~−$1,686 (−1.69%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $421.50 | Entry $398.76 | Unrealized +$523.02 (+5.70%) | Intraday −$133.40 (−1.36%) | Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer $29.07 (6.90% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +5.70% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +5.70% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 6.90% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- **Warsh keynote (10 AM ET):** Hawkish — inflation too high, rates may not be sufficiently restrictive, hikes on table, no forward guidance; market pressure expected but TSM P/E ~28 not in yield-gate zone (>40) ✓
+- **PCE (8:30 AM ET):** Headline 3.7% YoY (slightly hot vs 3.6% est); Core 3.3% (in-line); mixed — not a disaster
+- **TSM −1.36% intraday:** Attributable to (1) macro rotation out of large-cap semis post-Thursday run + (2) capex margin concern reframing ($62B) — both were pre-identified risks; capex was already in thesis as bullish (demand confidence); no new fundamental negative
+- **NVDA $96.2B blowout thesis:** Intact — AI foundry demand unambiguous; July rev +44.7% YoY; analyst avg $554; no company-specific negative catalyst
+- **No thesis break** — decline is macro/sentiment-driven, not fundamental ✓
+
+#### Step 6 — Research: Warsh + PCE outcomes confirmed
+- PCE slightly hot (3.7%) + Warsh hawkish → 10Y yield likely elevated above 4.70%; hold-only extended on P/E >40 names
+- TSM P/E ~28 not restricted by yield gate; decline is Friday profit-taking + macro re-pricing
+- AMAT entry deferred to Monday: Warsh was hawkish → condition (a) not met; evaluate Monday with fresh setup assessment
+- Energy: off watchlist; WTI declining on Iran progress
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $421.50 | +$523.02 (+5.70%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; NVDA $96.2B blowout confirms thesis; Xiaomi 3nm; $62B capex; $265B AZ; +44.7% YoY rev; analyst avg $554 | $530–545 | 3.4:1 |
+
+_No action taken. TSM −1.36% intraday on Warsh hawkish + PCE slightly hot macro re-pricing; thesis intact — P/E ~28 not yield-gated, NVDA blowout demand confirmed, no company-specific negative. Stop buffer 6.90% safe. AMAT deferred (Warsh hawkish = condition not met). Weekly: 0/3 trades. Next: EOD snapshot; Monday market-open — assess yield/AMAT setup; watch TSM $458.57 (+15%) tighten trigger._
+
+---
