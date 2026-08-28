@@ -7027,3 +7027,51 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - **Semiconductor sector:** Monday/Tuesday profit-taking is reversing; tech leading today; value/cyclicals lagging
 - **Jackson Hole (tomorrow, Warsh 10 AM ET):** Main risk; ~1-in-3 odds September rate hike; Warsh expected to reduce reliance on forward guidance rather than give explicit rate signals — but hawkish lean could pressure semis; hold-only posture maintained
 - **Net TSM thesis check:** INTACT — NVDA blowout confirms TSMC foundry demand; no thesis break; stop buffer 7.77% safe; analyst consensus Strong Buy, avg target ~$554
+
+---
+
+### Pre-Market Research — 2026-08-28 (Day 84, Friday — Week 17 Day 5)
+
+#### Account Snapshot
+- **Equity:** $98,405.52 | **Cash:** $88,619.25 (90.1%) | **Intraday P&L:** −$41.63 (−0.04%) | **Phase P&L:** −$1,594.48 (−1.59%) vs $100,000 start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Deployed:** 9.95%
+- **TSM:** 23 shares | Entry $398.76 | Current $425.49 | Unrealized +$614.79 (+6.70%) | Intraday −$41.63 (−0.42%)
+- **Stop 265e7f23:** HWM $436.03 | Stop $392.427 | Buffer $33.06 (7.78% > 3% min) ✓ — GTC active
+
+#### Market Context
+- **WTI Crude:** ~$82.92/bbl (−0.73%) — Iran diplomatic progress + supply relief caps upside; down on week
+- **Brent Crude:** ~$88.22/bbl (−0.34%) — Russia-Ukraine escalation limited upside; both benchmarks trending lower
+- **SPX Futures:** −0.12% (flat/slightly negative) — risk-off ahead of twin binary events; 47% odds of green open
+- **VIX:** 14.48 (−0.21%) — low/complacent; markets under-hedged going into Warsh + PCE
+- **10-Yr Yield:** ~4.70% — above 4.5% threshold → hold-only on P/E >40 growth names ✓; market pricing ~1-in-3 odds of September hike
+- **Economic Calendar Today:**
+  - **PCE Inflation (Aug release, July data)** — 8:30 AM ET — key Fed input; hawkish print = rate hike pressure
+  - **Jackson Hole: Warsh Keynote** — 10:00 AM ET — Fed Chair Warsh's inaugural keynote; first major public address since assuming Chair (May 2026 replacing Powell); no forward guidance → extra market sensitivity; hawkish lean possible; CRITICAL risk event
+  - Payrolls annual revision preliminary — secondary
+- **Sector Momentum:** Technology/Semiconductors lead YTD (+13.49% SPX YTD); AI capital inflows intact; July had brief tech pullback (−8%) on AI concerns but August recovered; NVDA blowout Aug 26 confirmed AI demand → semis re-accelerating
+
+#### Key Catalysts
+- **NVDA blowout (Aug 26 AMC):** $96.2B rev (+4.5% beat), EPS $2.22 (+6.3% beat), Data Center $89B (+117% YoY) — TSM direct beneficiary confirmed; TSM +36.72% YTD; July rev +44.7% YoY; analyst avg $554 (Strong Buy 90% confidence, ~18 buy / 0 sell)
+- **PCE today (8:30 AM ET):** In-line/below = risk-on boost; above = spike in 10Y yield → semis headwind
+- **Warsh keynote today (10 AM ET):** Removed forward guidance; data-dependent stance; hawkish surprise could spike yields → TSM/AMAT pressure; dovish read → risk-on, AMAT entry viable next week
+- **Oil declining:** WTI $82.92 (−0.73%); Iran sanctions partial relief → energy supply improving; energy sector headwind continues
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** NVDA blowout = definitive thesis confirmation; July rev +44.7% YoY; analyst avg $554; stop buffer 7.78% safe. Intraday −0.42% = normal Friday profit-taking. No action. Watch: HWM $436.03 (auto-trail tighten if breached upside), manual tighten trigger $458.57 (+7.8% from current).
+2. **AMAT (Applied Materials) — CONDITIONAL WATCH:** Semi equipment; $265B TSMC AZ capex + NVDA AI buildout = direct beneficiary; P/E ~22 (passes yield gate). NOT today — too binary (PCE + Warsh). Evaluate Monday if: (a) Warsh dovish/neutral AND (b) PCE in-line or below AND (c) clean entry level 2:1 R:R established.
+3. **Energy — PASS:** WTI $82.92 declining; Iran progress; 2 failed oil theses per strategy rule; sector off watchlist.
+
+#### Risk Factors
+- **PCE + Warsh double-header today:** Binary pair; hawkish surprise on either → 10Y spike → semis sell-off; do NOT add exposure before both events resolve
+- **TSM -0.42% intraday:** Profit-taking Friday after NVDA-sympathy Thursday run; stop buffer 7.78% safe but concentrated
+- **Deployment gap (acute):** 9.95% vs 75–85% target; no quality setups clearing all gates today
+- **VIX complacency (14.48):** Market under-hedged; any Warsh hawkish surprise amplifies move
+- **Window dressing Friday:** Month-end portfolio rebalancing = elevated volatility
+
+#### Decision: **HOLD**
+- TSM: hold; thesis intact; NVDA blowout confirmed; stop 7.78% buffer safe; no manual action needed
+- No new positions: PCE + Warsh keynote = binary events; 10Y yield >4.5% constrains P/E >40 growth; no clean 2:1 R:R setups today
+- AMAT: remains watchlist only; evaluate Monday post-Warsh/PCE resolution
+- Energy: off watchlist per strategy rule
+- Weekly: 0/3 trades used — patience > activity
+- **Next:** Monitor Warsh 10 AM ET + PCE 8:30 AM ET; dovish/cool = green light to evaluate AMAT Monday; hawkish/hot = hold-only extended; TSM tighten trigger $458.57 (+15%)
