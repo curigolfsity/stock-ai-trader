@@ -7084,3 +7084,58 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - **Net TSM thesis check:** INTACT — NVDA $96.2B blowout foundry demand confirmed; July rev +44.7% YoY; analyst avg $554; stop 6.90% buffer safe
 - **AMAT decision:** Warsh hawkish = condition (a) not met → deferred to Monday; evaluate fresh setup
 - **Hold-only extended:** Warsh hawkish + PCE slightly hot → yield >4.70%; no new positions; yield gate on P/E >40 remains active
+
+---
+
+### Pre-Market Research — 2026-08-31 (Day 85, Monday — Week 18 Day 1)
+
+#### Account Snapshot
+- **Equity:** $98,239 | **Cash:** $88,619.25 (90.2%) | **Intraday P&L:** +$16.79 (+0.02%) | **Phase P&L:** −$1,761 (−1.76%) vs $100,000 start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 (new week) | **Deployed:** 9.8%
+- **TSM:** 23 shares | Entry $398.76 | Current $418.25 | Unrealized +$448.27 (+4.89%) | Intraday +$16.79 (+0.18%)
+- **Stop 265e7f23:** HWM $436.03 | Stop $392.427 | Buffer $25.82 (6.18% > 3% min) ✓ — GTC active
+
+#### Market Context
+- **WTI Crude:** ~$86/bbl (est.) — Brent surged +2.93% to $90.69; WTI tracking higher; supply concern or geopolitical catalyst
+- **Brent Crude:** $90.69 (+2.93%) — significant single-session surge; energy sector re-accelerating
+- **SPX Futures:** +0.68% (strong pre-market bid; Thursday SPX +0.72%, Nasdaq +1.43% confirmed)
+- **VIX:** ~17.30 (VIX futures; elevated vs 14.48 last Friday — market pricing more uncertainty)
+- **10-Yr Yield:** ~4.70%+ — above 4.5% → hold-only on P/E >40 growth names remains active
+- **Economic Calendar Today:**
+  - **ISM Manufacturing PMI (Aug)** — 10:00 AM ET — key; first business day of month; above 50 = expansion (risk-on); below 50 = contraction (risk-off); includes employment component
+  - **JOLTS Job Openings (July)** — secondary employment indicator
+  - **Atlanta Fed GDP forecast update** — secondary
+  - 24 earnings reports scheduled (no major semis pre-market confirmed)
+
+#### Sector Momentum
+- **Tech/Semis:** Led YTD (+14.1% SPX YTD as of early Aug); NVDA +1% WoW after Thursday +9% blowout; SMH −3%+ WoW (profit-taking post-NVDA)
+- **AMAT −5%+ WoW** — semi equipment caught in rotation; now at potentially more attractive entry level
+- **Energy:** Brent +2.93% today — sector re-awakening; BUT energy off watchlist per 2-failed-trades rule
+- **TSM:** Strong Buy consensus (18 buy / 0 sell); avg target $554; $1.114 dividend ex-date Sept 16, 2026
+
+#### Key Catalysts
+- **TSM Dividend (Sept 16 ex-date):** $1.114/share cash dividend → $25.62 benefit for 23-share position; thesis to hold through ex-date strengthened
+- **TSMC Sony JV (image sensors):** New strategic vertical; modest upside; not a near-term catalyst
+- **TSMC 3nm ramp:** Advanced chip demand intact; NVDA blowout thesis confirmed for AI foundry
+- **ISM Manufacturing PMI today at 10 AM ET:** If >50 (expansion) → risk-on; semis bid → AMAT entry viable; if <48 → defensive posture extended
+- **Oil surge (Brent +2.93%):** Energy sector moving but we are OFF energy watchlist per rule; do not chase
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** Thesis intact; NVDA demand confirmed; 3nm ramp; $554 analyst target; $1.114 dividend ex Sept 16 (hold through for $25.62 income). Stop buffer 6.18% safe. Watch: HWM $436.03 (trail auto-moves if new high), manual tighten at $458.57 (+15% from entry).
+2. **AMAT — CONDITIONAL WATCH post-ISM:** Semi equipment; $265B TSMC AZ capex + AI buildout = direct beneficiary; AMAT −5%+ this week = more attractive entry after pullback; P/E ~22 passes yield gate. **Entry condition:** ISM >50 at 10 AM AND clean 2:1 R:R setup at time of entry AND 10Y yield holding < spike territory. Stop: 10% below entry. Revisit at midday.
+3. **Energy — PASS:** Off watchlist per 2-consecutive-failed-trades rule; Brent +2.93% is tempting but rule is rule.
+
+#### Risk Factors
+- **ISM Manufacturing PMI at 10 AM ET:** Binary; contraction print (<50) → semis sell-off; do not add before data
+- **VIX 17.30 elevated:** Up from 14.48 last Friday — market less complacent; Warsh hawkish hang-over + oil spike creating uncertainty
+- **TSM stop buffer tightening:** 6.18% vs 7.78% at Friday open; continued downside pressure from HWM $436.03 could tighten further; monitor closely
+- **Deployment gap:** 9.8% deployed vs 75–85% target — needs quality setups; ISM gate today before any new entry
+- **Oil spike risk:** Brent +2.93% could signal supply shock → inflationary → Fed hike risk → yield spike → semi pressure
+
+#### Decision: **HOLD (with AMAT watch post-ISM)**
+- TSM: hold; thesis intact; stop 6.18% safe; dividend ex-date Sept 16 adds holding value
+- No new positions before ISM at 10 AM ET — wait for data gate
+- AMAT: viable if ISM >50 and clean 2:1 R:R at midday scan; add to watchlist
+- Energy: pass — rule prohibits re-entry after 2 failed sector trades
+- Weekly: 0/3 trades used — fresh week, patience > activity
+- **Next:** ISM at 10 AM ET → if expansion, evaluate AMAT entry at midday; watch TSM tighten trigger $458.57; EOD snapshot
