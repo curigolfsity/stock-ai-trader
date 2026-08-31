@@ -3592,3 +3592,35 @@ _No action taken. TSM −1.36% intraday on Warsh hawkish + PCE slightly hot macr
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $418.94 | −1.96% | +$464.03 (+5.06%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 84, Friday (Week 17 Day 5). TSM closed $418.94 (−1.96%) — continuation of post-Jackson Hole macro sell-off as Warsh hawkish stance (hikes on table, no forward guidance) and slightly hot PCE (3.7% YoY) weighed on large-cap semis. Thesis remains intact: TSM P/E ~28 not yield-gated (gate triggers at P/E >40), NVDA $96.2B blowout demand confirmed, no company-specific negative. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $26.51 (6.33% — above 3% floor, no +15% tighten trigger at $458.57 reached). No trades this week (0/3). Capital deployed: 9.8%. Day P&L: −$193.89 (−0.20%). Phase P&L: −$1,746.74 (−1.75%) vs $100,000 starting equity. Next: Monday market-open — re-assess yield environment + AMAT setup; watch TSM $458.57 (+15%) tighten trigger.
+
+---
+
+### Midday Scan — 2026-08-31 (Day 85, Monday — Week 18 Day 1)
+
+- **Account (API):** Equity ~$98,222.67 | Cash $88,619.25 (90.2%) | Day P&L: +$0.46 (≈flat) | Phase P&L: −$1,777.33 (−1.78%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $417.375 | Entry $398.76 | Unrealized +$428.15 (+4.67%) | Intraday −$3.34 (−0.04%) | Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer $24.95 (5.98% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +4.67% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +4.67% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 5.98% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- No new company-specific catalyst or negative; TSM AI foundry thesis unchanged
+- NVDA $96.2B blowout demand confirmed; 3nm ramp ongoing; analyst avg $554; dividend ex-date Sept 16
+- TSM P/E ~28 — yield gate (P/E >40) does not apply; hold-only for high-multiple names only
+
+#### Step 6 — Research: ISM PMI timing correction + AMAT deferral
+- **ISM Manufacturing PMI (August 2026):** Releases **tomorrow Sept 1, 2026** at 10 AM ET — NOT today. Pre-market research incorrectly expected it today (Aug 31 is not the first business day of September). July PMI was 55.6 (strong expansion).
+- **AMAT $463.15 (+0.2%):** Entry gate NOT met today — ISM data unavailable; no 2:1 R:R established without knowing macro direction. Defer to tomorrow post-ISM.
+- **Energy:** Off watchlist per 2-consecutive-failed-trades rule. No action.
+- TSM trading flat (−0.04%) on light volume; no thesis-breaking news.
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.375 | +$428.15 (+4.67%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; NVDA $96.2B blowout confirms thesis; 3nm ramp; $62B capex; analyst avg $554; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
+
+_No action taken. TSM +4.67% unrealized; thesis intact; stop buffer 5.98% safe. ISM PMI (August) releases tomorrow Sept 1 — AMAT entry deferred pending that gate. Weekly: 0/3 trades. Next: Sept 1 market-open — ISM at 10 AM ET → evaluate AMAT if >50; watch TSM $458.57 (+15%) tighten trigger; $1.114 dividend ex-date Sept 16 → hold through._

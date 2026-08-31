@@ -7139,3 +7139,9 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Energy: pass — rule prohibits re-entry after 2 failed sector trades
 - Weekly: 0/3 trades used — fresh week, patience > activity
 - **Next:** ISM at 10 AM ET → if expansion, evaluate AMAT entry at midday; watch TSM tighten trigger $458.57; EOD snapshot
+
+#### Midday Addendum — 2026-08-31
+- **ISM PMI timing correction:** August ISM Manufacturing PMI releases **tomorrow Sept 1** at 10 AM ET (not today). July was 55.6 (strong expansion). Pre-market note in error on date.
+- **AMAT $463.15 (+0.2%):** No entry today — ISM gate not met; defer to Sept 1 post-ISM.
+- **TSM $417.375 (−0.04%):** Flat; thesis intact; stop buffer 5.98%. No action.
+- **No trades executed.** Weekly: 0/3.
