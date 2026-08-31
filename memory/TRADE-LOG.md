@@ -3624,3 +3624,12 @@ _No action taken. TSM −1.36% intraday on Warsh hawkish + PCE slightly hot macr
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.375 | +$428.15 (+4.67%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; NVDA $96.2B blowout confirms thesis; 3nm ramp; $62B capex; analyst avg $554; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
 
 _No action taken. TSM +4.67% unrealized; thesis intact; stop buffer 5.98% safe. ISM PMI (August) releases tomorrow Sept 1 — AMAT entry deferred pending that gate. Weekly: 0/3 trades. Next: Sept 1 market-open — ISM at 10 AM ET → evaluate AMAT if >50; watch TSM $458.57 (+15%) tighten trigger; $1.114 dividend ex-date Sept 16 → hold through._
+
+---
+
+### Aug 31 — EOD Snapshot (Day 85, Monday — Week 18 Day 1)
+**Portfolio:** $98,174.03 | **Cash:** $88,619.25 (90.3%) | **Day P&L:** −$48.18 (−0.05%) | **Phase P&L:** −$1,825.97 (−1.83%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $415.43 | −0.50% | +$383.30 (+4.18%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 85, Monday (Week 18 Day 1). TSM closed $415.43 (−0.50%) on light Monday volume — continued post-Jackson Hole/PCE macro digestion with no new catalysts. Thesis intact: AI foundry demand confirmed via NVDA $96.2B blowout, 3nm ramp ongoing, P/E ~28 not yield-gated (gate >40), dividend $1.114 ex-Sept 16. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $22.99 (5.54% — above 3% floor). No +15% tighten trigger ($458.57) reached. No trades (0/3 this week). Capital deployed: 9.7%. Day P&L: −$48.18 (−0.05%). Phase P&L: −$1,825.97 (−1.83%) vs $100,000 starting equity. Next: Tuesday market-open — ISM Manufacturing PMI Aug 2026 at 10 AM ET; evaluate AMAT entry if PMI >50; watch TSM $458.57 (+15%) tighten trigger; hold TSM through $1.114 dividend ex-Sept 16.
