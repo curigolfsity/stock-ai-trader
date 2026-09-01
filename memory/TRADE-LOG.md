@@ -3660,3 +3660,31 @@ _No action taken. TSM +4.67% unrealized; thesis intact; stop buffer 5.98% safe. 
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $416.09 | +$397.61 (+4.33%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; NVDA $96.2B blowout; 3nm ramp; $62B capex; analyst avg $554; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
 
 _No trades executed. AMAT entry blocked by yield gate (10-yr 4.79% >4.5%, P/E ~42–48 >40). TSM +4.33% unrealized; thesis intact; stop buffer 5.68% safe. ISM PMI Aug 2026 at 10 AM ET — watch for print; miss or beat does not override yield gate. Next: midday scan — ISM print assessment; monitor TSM $458.57 (+15%) tighten trigger; yield gate re-evaluation._
+
+---
+
+### Midday Scan — 2026-09-01 (Day 86, Tuesday — Week 18 Day 2)
+
+- **Account (API):** Equity ~$98,163 | Cash $88,619.25 (90.3%) | Day P&L: ~flat | Phase P&L: −$1,837 (−1.84%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $415.39 | Entry $398.76 | Unrealized +$382.49 (+4.17%) | Intraday +$1.61 (+0.02%) | Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer $22.96 (5.53% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +4.17% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +4.17% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 5.53% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- **ISM Manufacturing PMI (August 2026):** 54.6% (expansion, above 50) — slightly below July 55.6% but healthy; New Orders 53.7, Prices 71.1 (inflationary pressure intact)
+- **10-yr yield:** 4.77% — elevated; hold-only mode active for P/E >40 names ✓
+- **AMAT:** ISM gate PASSES (54.6% > 50) but yield gate BLOCKS — P/E ~42-48 >40 AND yield 4.77% >4.5%; entry still deferred
+- **TSM fundamentals strengthening:** Q2 rev $40.2B beat; gross margin 67.7% beat; 2026 revenue growth guidance raised to slightly above 40%; capex $18.75B-$20B; AI foundry thesis intact
+- **TSM trading flat intraday** ($415.39) — no thesis-breaking news; range $414.60-$423.80
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $415.39 | +$382.49 (+4.17%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
+
+_No action taken. ISM 54.6% (expansion) — AMAT ISM gate passes but yield gate (4.77% > 4.5%, P/E >40) blocks entry. TSM +4.17%; thesis intact and strengthening; stop buffer 5.53% safe. PANW reports tonight AMC — evaluate tomorrow pre-market. Weekly: 0/3 trades. Next: EOD snapshot; Wednesday market-open — PANW evaluation; AMAT blocked until yield breaks <4.5% for 2+ sessions; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16._

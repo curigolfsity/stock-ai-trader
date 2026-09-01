@@ -7202,3 +7202,11 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Weekly: 0/3 trades — fresh week, patience > activity
 - **Next:** ISM at 10 AM ET → midday scan to evaluate AMAT entry; watch TSM $458.57 (+15%) tighten trigger; EOD snapshot
 
+
+#### Midday Addendum — 2026-09-01
+- **ISM Manufacturing PMI (August 2026):** 54.6% (expansion) — gate PASSES for AMAT ISM condition; below July 55.6% but healthy; New Orders 53.7 (softer), Prices 71.1 (unchanged, elevated — inflationary pressure reinforces Fed hawkish stance → yield stays elevated)
+- **10-yr yield:** 4.77% (+0.02pp today) — hold-only mode for P/E >40 names continues; AMAT P/E ~42-48 still blocked; yield gate not expected to clear near-term given Prices 71.1
+- **AMAT decision:** ISM gate passes; yield gate fails → entry DEFERRED until 10-yr yield breaks <4.5% for 2+ consecutive sessions
+- **TSM $415.39 intraday:** Q2 rev $40.2B beat; GM 67.7% beat; 2026 rev guidance raised slightly above 40%; capex $18.75-20B — all thesis-positive; trading flat today; no company-specific negative; stop buffer 5.53% safe
+- **PANW (reports tonight AMC):** Evaluate tomorrow pre-market; cybersecurity sector has no failed-trades history — eligible if beat + raise + clean 2:1 R:R
+- **No trades executed.** Weekly: 0/3.
