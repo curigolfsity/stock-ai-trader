@@ -3688,3 +3688,12 @@ _No trades executed. AMAT entry blocked by yield gate (10-yr 4.79% >4.5%, P/E ~4
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $415.39 | +$382.49 (+4.17%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
 
 _No action taken. ISM 54.6% (expansion) — AMAT ISM gate passes but yield gate (4.77% > 4.5%, P/E >40) blocks entry. TSM +4.17%; thesis intact and strengthening; stop buffer 5.53% safe. PANW reports tonight AMC — evaluate tomorrow pre-market. Weekly: 0/3 trades. Next: EOD snapshot; Wednesday market-open — PANW evaluation; AMAT blocked until yield breaks <4.5% for 2+ sessions; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16._
+
+---
+
+### Sep 01 — EOD Snapshot (Day 86, Tuesday — Week 18 Day 2)
+**Portfolio:** $98,139.64 | **Cash:** $88,619.25 (90.3%) | **Day P&L:** −$34.39 (−0.04%) | **Phase P&L:** −$1,860.36 (−1.86%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $413.89 | −0.34% | +$347.99 (+3.79%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 86, Tuesday (Week 18 Day 2). TSM closed $413.89 (−0.34%) — light selling pressure, no thesis-breaking news. ISM Manufacturing PMI Aug 2026 printed 54.6% (expansion); AMAT ISM gate passes but yield gate (10-yr 4.77% >4.5%, P/E ~42–48 >40) continues to block entry. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $21.46 (5.19% — above 3% floor). No +15% tighten trigger ($458.57) reached. No trades (0/3 this week). PANW reported AMC tonight — evaluate tomorrow pre-market. Capital deployed: 9.7%. Day P&L: −$34.39 (−0.04%). Phase P&L: −$1,860.36 (−1.86%) vs $100,000 starting equity. Next: Wednesday market-open — PANW earnings evaluation; AMAT blocked until yield breaks <4.5% for 2+ sessions; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16.
