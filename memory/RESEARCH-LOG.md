@@ -7145,3 +7145,59 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - **AMAT $463.15 (+0.2%):** No entry today — ISM gate not met; defer to Sept 1 post-ISM.
 - **TSM $417.375 (−0.04%):** Flat; thesis intact; stop buffer 5.98%. No action.
 - **No trades executed.** Weekly: 0/3.
+
+---
+
+### Pre-Market Research — 2026-09-01 (Day 86, Tuesday — Week 18 Day 2)
+
+#### Account Snapshot
+- **Equity:** $98,228.88 | **Cash:** $88,619.25 (90.1%) | **Phase P&L:** −$1,771.12 (−1.77%) vs $100,000 start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Deployed:** 9.8%
+- **TSM:** 23 shares | Entry $398.76 | Current $417.81 | Unrealized +$438.15 (+4.78%) | Intraday +$57.27 (+0.60%)
+- **Stop 265e7f23:** HWM $436.03 | Stop $392.427 | Buffer $25.38 (6.08% > 3% min) ✓ — GTC active
+
+#### Market Context
+- **WTI Crude:** $86.57/bbl (+0.94%) — sustained bid; Middle East tensions escalating
+- **Brent Crude:** $91.28/bbl (+0.87%) — above $91; geopolitical risk premium intact
+- **SPX Futures:** −0.27% to −0.50% pre-market — cautious open; Iran escalation + bond uncertainty keeping buyers on sidelines
+- **VIX:** ~15.14 — slightly above Aug lows (14.1); elevated but not alarming; market pricing more uncertainty
+- **10-Yr Yield:** ~4.70%+ — hold-only mode active for P/E >40 growth names; TSM P/E ~28 not gated ✓
+- **Economic Calendar Today (10 AM ET):**
+  - **ISM Manufacturing PMI (August 2026):** Expected 55.2 (prev July 55.6); above 50 = expansion (risk-on gate for AMAT entry); S&P Global flash came in at 53.2 (slight miss of est 53.9)
+  - **JOLTS Job Openings (July 2026):** Secondary labor indicator; same release time
+- **Earnings Pre-Market:** Medtronic (MDT), NIO — no semis; not relevant
+- **Earnings After Market:** Dell (DELL), Palo Alto Networks (PANW) — PANW cyber beat could set up watchlist idea
+
+#### Sector Momentum
+- **Tech/Semis:** Slight pressure pre-market; SPX futures −0.27%; TSM +0.60% pre-market showing relative strength
+- **Energy:** WTI $86.57 / Brent $91.28 rising — but sector is OFF WATCHLIST (2 failed trades rule) — no re-entry
+- **Cyber/Defense:** PANW reports tonight AMC — potential setup tomorrow if beat + raise
+
+#### TSM Thesis Update
+- **2026 capex guidance raised:** $60–64B (up from $52–56B, +15%) — confirms demand is outpacing capacity; AI foundry bullish
+- **3nm ramp:** Strong; 2nm emerging on schedule
+- **Dividend:** $1.114/share ex-date Sept 16 — 15 days away; $25.62 income on 23-share position; hold through ex-date confirmed
+- **Next earnings:** Oct 17, 2026
+- **Analyst avg:** $554 → 32.5% upside from current $417.81
+- **Stop buffer:** 6.08% > 3% floor ✓; tighten at $458.57 (+15%) not yet triggered
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** Thesis intact and strengthening (raised capex guidance). Stop 6.08% safe. Dividend ex-date Sept 16 adds $25.62 income — hold through. Watch: tighten trail to 7% at $458.57 (+15%).
+2. **AMAT — CONDITIONAL WATCH (10 AM ET gate):** ISM PMI due at 10 AM ET; if print >50 (expansion) AND 2:1 R:R setup exists → viable entry at midday scan. S&P Global flash 53.2 suggests ISM likely still in expansion. P/E ~22 passes yield gate. Stop: 10% below entry. Revisit at midday.
+3. **PANW — TOMORROW WATCHLIST (post-earnings):** Reports tonight AMC. If beats + raises guidance → cybersecurity momentum trade setup for tomorrow. Not in failed-sector list. Will evaluate at tomorrow's pre-market.
+
+#### Risk Factors
+- **ISM + JOLTS at 10 AM ET:** Binary macro gate — if ISM misses sharply (<52) or JOLTS falls significantly, defensive posture extends; no new entries pre-data
+- **Iran escalation:** US-Iran military strikes ongoing — oil bid (bullish energy, bearish growth/tech short-term); geopolitical tail risk to semis if Taiwan strait concern resurfaces
+- **SPX futures −0.27%:** Weak open likely; TSM may open flat-to-slightly-red; stop buffer 6.08% provides adequate cushion
+- **VIX 15.14:** Slightly elevated; below panic threshold (>20); manageable but warrants caution on new entries
+- **Deployment gap:** 9.8% deployed vs 75–85% target — need ISM confirmation and quality 2:1 setups before adding
+
+#### Decision: **HOLD (AMAT watch post-ISM at 10 AM ET)**
+- TSM: hold; thesis strengthening (raised capex); dividend ex-Sept 16; stop buffer safe
+- No new positions before 10 AM ISM/JOLTS data
+- AMAT: watchlist — enter only if ISM >50 AND clean 2:1 R:R setup at midday; defer otherwise
+- PANW: evaluate tomorrow pre-market post-earnings
+- Energy: pass — 2-failed-trades rule stands
+- Weekly: 0/3 trades — fresh week, patience > activity
+- **Next:** ISM at 10 AM ET → midday scan to evaluate AMAT entry; watch TSM $458.57 (+15%) tighten trigger; EOD snapshot
