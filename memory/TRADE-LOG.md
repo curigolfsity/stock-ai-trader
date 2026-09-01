@@ -3633,3 +3633,30 @@ _No action taken. TSM +4.67% unrealized; thesis intact; stop buffer 5.98% safe. 
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $415.43 | −0.50% | +$383.30 (+4.18%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 85, Monday (Week 18 Day 1). TSM closed $415.43 (−0.50%) on light Monday volume — continued post-Jackson Hole/PCE macro digestion with no new catalysts. Thesis intact: AI foundry demand confirmed via NVDA $96.2B blowout, 3nm ramp ongoing, P/E ~28 not yield-gated (gate >40), dividend $1.114 ex-Sept 16. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $22.99 (5.54% — above 3% floor). No +15% tighten trigger ($458.57) reached. No trades (0/3 this week). Capital deployed: 9.7%. Day P&L: −$48.18 (−0.05%). Phase P&L: −$1,825.97 (−1.83%) vs $100,000 starting equity. Next: Tuesday market-open — ISM Manufacturing PMI Aug 2026 at 10 AM ET; evaluate AMAT entry if PMI >50; watch TSM $458.57 (+15%) tighten trigger; hold TSM through $1.114 dividend ex-Sept 16.
+
+---
+
+### Market-Open Scan — 2026-09-01 (Day 86, Tuesday — Week 18 Day 2)
+
+- **Account (API):** Equity $98,163.79 | Cash $88,619.25 (90.3%) | Day P&L: −$7.82 (−0.08%) | Phase P&L: −$1,836.21 (−1.84%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $416.09 | Entry $398.76 | Unrealized +$397.61 (+4.33%) | Intraday −$7.82 (−0.08%) | Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer $23.66 (5.68% > 3% min) ✓
+
+#### Step 3 — Hard-Check Gate: NO TRADES
+
+| Check | Value | Threshold | Status |
+|-------|-------|-----------|--------|
+| Total positions after buy | 2 (if AMAT) | ≤6 | ✓ pass |
+| Trades this week | 0 | ≤3 | ✓ pass |
+| AMAT cost (20% equity) | ~$19,633 | ≤20% | ✓ pass |
+| AMAT catalyst documented | Yes (ISM PMI) | Required | ✓ pass |
+| **10-yr yield >4.5%** | **4.79%** | **≤4.5% for P/E >40** | **✗ FAIL — hold-only** |
+| **AMAT P/E TTM** | **~42–48** | **≤40 or yield <4.5%** | **✗ FAIL — hold-only** |
+
+**AMAT BLOCKED** — both yield-gate conditions triggered simultaneously. Strategy rule: hold-only for P/E >40 names when 10-yr yield sustained >4.5%.
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $416.09 | +$397.61 (+4.33%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; NVDA $96.2B blowout; 3nm ramp; $62B capex; analyst avg $554; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
+
+_No trades executed. AMAT entry blocked by yield gate (10-yr 4.79% >4.5%, P/E ~42–48 >40). TSM +4.33% unrealized; thesis intact; stop buffer 5.68% safe. ISM PMI Aug 2026 at 10 AM ET — watch for print; miss or beat does not override yield gate. Next: midday scan — ISM print assessment; monitor TSM $458.57 (+15%) tighten trigger; yield gate re-evaluation._

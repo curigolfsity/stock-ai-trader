@@ -7201,3 +7201,4 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - Energy: pass — 2-failed-trades rule stands
 - Weekly: 0/3 trades — fresh week, patience > activity
 - **Next:** ISM at 10 AM ET → midday scan to evaluate AMAT entry; watch TSM $458.57 (+15%) tighten trigger; EOD snapshot
+
