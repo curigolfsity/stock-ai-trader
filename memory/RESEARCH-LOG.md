@@ -7255,3 +7255,11 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - No new entries ahead of ADP data (10 AM ET) and FOMC Sept 16 uncertainty
 - Energy: pass — 2-failed-trades rule stands
 - Weekly count: 0/3 — patience > activity
+
+#### Midday Addendum — 2026-09-02
+- **PANW Q4 2026 results (AMC Sep 1):** EPS $1.02 adj vs $0.98 est (beat); Rev $3.41B vs $3.35B (beat); Rev +34% YoY; Q1 guide $3.30-3.31B vs $3.22B est (raised); FY guide $14.10-14.20B vs $13.79B est, EPS $4.16-4.19 vs $4.11 (raised). **Beat + Raise confirmed.**
+- **PANW stock reaction:** Down 5% during regular trading (sell-the-news ahead of print), then -2% in extended AH trading. Gap condition (gap-hold required) NOT met — opening lower, not higher. Additionally, PANW P/E adj ~88x (EPS ~$4.17 annual; stock ~$368 est) — yield gate hard blocks (P/E >>40, yield 4.77% >4.5%). **PANW: NO ENTRY — dual block (yield gate + gap down).**
+- **TSM $412.86 intraday:** -$0.27% on risk-off day (SPX futures were -0.71% pre-market); holding well relative to market. Thesis intact. Stop 265e7f23: HWM $436.03, stop $392.427, buffer $20.43 (4.95% > 3% floor ✓). No +15% tighten trigger ($458.57) reached.
+- **10-yr yield:** ~4.77% — hold-only mode for P/E >40 names continues. TSM P/E ~28 — not yield-gated ✓.
+- **AVGO (Broadcom):** Reports tonight AMC — watchlist per pre-market plan; evaluate tomorrow pre-market.
+- **No trades executed.** Weekly: 0/3. TSM +3.54% unrealized, thesis intact, all stops safe.

@@ -3697,3 +3697,34 @@ _No action taken. ISM 54.6% (expansion) — AMAT ISM gate passes but yield gate 
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $413.89 | −0.34% | +$347.99 (+3.79%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 86, Tuesday (Week 18 Day 2). TSM closed $413.89 (−0.34%) — light selling pressure, no thesis-breaking news. ISM Manufacturing PMI Aug 2026 printed 54.6% (expansion); AMAT ISM gate passes but yield gate (10-yr 4.77% >4.5%, P/E ~42–48 >40) continues to block entry. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $21.46 (5.19% — above 3% floor). No +15% tighten trigger ($458.57) reached. No trades (0/3 this week). PANW reported AMC tonight — evaluate tomorrow pre-market. Capital deployed: 9.7%. Day P&L: −$34.39 (−0.04%). Phase P&L: −$1,860.36 (−1.86%) vs $100,000 starting equity. Next: Wednesday market-open — PANW earnings evaluation; AMAT blocked until yield breaks <4.5% for 2+ sessions; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16.
+
+---
+
+### Midday Scan — 2026-09-02 (Day 87, Wednesday — Week 18 Day 3)
+
+- **Account (API):** Equity ~$98,006 | Cash $88,619.25 (90.4%) | Intraday −$26.22 (−0.03%) | Phase P&L: ~−$1,994 (−1.99%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $412.86 | Entry $398.76 | Unrealized +$324.30 (+3.54%) | Intraday −$26.22 (−0.27%) | Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer $20.43 (4.95% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +3.54% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +3.54% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 4.95% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM trading −0.27% intraday on risk-off day (SPX futures were −0.71% pre-market) — holding well relative to market
+- TSM fundamentals unchanged: Q2 $40.2B beat, GM 67.7% beat, FY +40% guidance, Xiaomi 3nm deal, dividend $1.114 ex-Sept 16
+- No company-specific negative news; stop buffer 4.95% safe ✓
+
+#### Step 6 — Research: PANW results + AVGO tonight
+- **PANW Q4 2026 (AMC Sep 1):** EPS $1.02 adj vs $0.98 est ✓ | Rev $3.41B vs $3.35B ✓ | Rev +34% YoY | FY guide raised ($14.10-14.20B vs $13.79B est). Beat + Raise confirmed — but stock DOWN 5% during regular session + DOWN 2% AH (sell-the-news). Gap is DOWN, not up. Entry condition (gap holds on gap-up) NOT met. Also: PANW P/E adj ~88x — yield gate hard blocks (>40 P/E + yield 4.77% >4.5%). **PANW: NO ENTRY — dual block.**
+- **AVGO (Broadcom):** Reports tonight AMC — watchlist maintained; evaluate tomorrow pre-market
+- **10-yr yield:** ~4.77% — hold-only mode for P/E >40 names continues; TSM P/E ~28 not affected ✓
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $412.86 | +$324.30 (+3.54%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
+
+_No action taken. PANW beat+raise but gap down (-5% regular + -2% AH); yield gate also blocks (P/E ~88x >> 40, yield 4.77% >4.5%). TSM +3.54%; thesis intact; stop buffer 4.95% safe. AVGO reports tonight AMC — evaluate tomorrow pre-market. Weekly: 0/3 trades. Next: EOD snapshot; Thursday market-open — AVGO evaluation; AMAT blocked; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16._
