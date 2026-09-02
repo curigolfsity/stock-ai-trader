@@ -3728,3 +3728,12 @@ _No action taken. ISM 54.6% (expansion) — AMAT ISM gate passes but yield gate 
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $412.86 | +$324.30 (+3.54%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
 
 _No action taken. PANW beat+raise but gap down (-5% regular + -2% AH); yield gate also blocks (P/E ~88x >> 40, yield 4.77% >4.5%). TSM +3.54%; thesis intact; stop buffer 4.95% safe. AVGO reports tonight AMC — evaluate tomorrow pre-market. Weekly: 0/3 trades. Next: EOD snapshot; Thursday market-open — AVGO evaluation; AMAT blocked; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16._
+
+---
+
+### Sep 02 — EOD Snapshot (Day 87, Wednesday — Week 18 Day 3)
+**Portfolio:** $98,154.59 | **Cash:** $88,619.25 (90.3%) | **Day P&L:** +$13.34 (+0.01%) | **Phase P&L:** −$1,845.41 (−1.85%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $414.58 | +0.14% | +$363.86 (+3.97%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 87, Wednesday (Week 18 Day 3). TSM closed $414.58 (+0.14%) — slight recovery after yesterday's −0.34%. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $22.15 (5.35% — above 3% floor). No +15% tighten trigger ($458.57) reached. AVGO reported tonight AMC — evaluate tomorrow pre-market. PANW dual-blocked (P/E ~88x + yield gate 4.77% >4.5%); AMAT yield gate continues (10-yr ~4.77% >4.5%, P/E ~42–48 >40). No trades (0/3 this week). Capital deployed: 9.7%. Phase P&L: −$1,845.41 (−1.85%) vs $100,000 starting equity. Next: Thursday market-open — AVGO evaluation; AMAT blocked until yield <4.5% for 2+ sessions; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16.
