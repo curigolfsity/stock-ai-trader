@@ -7210,3 +7210,48 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - **TSM $415.39 intraday:** Q2 rev $40.2B beat; GM 67.7% beat; 2026 rev guidance raised slightly above 40%; capex $18.75-20B — all thesis-positive; trading flat today; no company-specific negative; stop buffer 5.53% safe
 - **PANW (reports tonight AMC):** Evaluate tomorrow pre-market; cybersecurity sector has no failed-trades history — eligible if beat + raise + clean 2:1 R:R
 - **No trades executed.** Weekly: 0/3.
+
+---
+
+## 2026-09-02 — Pre-market Research
+
+### Account
+- Equity: $98,005.55
+- Cash: $88,619.25
+- Buying power: $93,312.40 (non-marginable)
+- Daytrade count: 0 (estimated)
+- Positions: TSM 23sh @ $398.76 avg (current $408.10; unrealized +$214.82 / +2.34%)
+- Stop: 10% GTC trailing | HWM $436.03 | stop $392.43 | buffer ~3.84% from current
+- Deployed: ~9.6% vs 75–85% target
+
+### Market Context
+- WTI: ~$90.15 (-0.07%) | Brent: ~$94.86 (+0.23%) — oil firm, Hormuz ship attack overnight adding geopolitical risk premium
+- S&P 500 futures (ESU26): ~7,644 (-0.71%, -54.5 pts) — risk-off tone
+- VIX: ~16.34 (+9.52% yesterday) — elevated 1-day spike; still below panic threshold (>20)
+- Today's catalysts: ADP Employment (pre-cursor to NFP); Factory Orders; EIA Crude Inventories; Hormuz geopolitical risk premium; inflation fears ahead of Sept 11 CPI
+- Earnings BMO: None major | AMC tonight: AVGO (Broadcom), HPE, SNOW
+- Economic calendar: ADP today; NFP Aug 4; PPI Sept 10; CPI Sept 11 (critical); FOMC Sept 16 — live meeting, rate hike probability rising; 10-yr yield ~4.77% → hold-only mode for P/E >40 names continues
+- Sector momentum YTD: Leaders — Energy (+26-38%), Materials (+9-10%), Industrials (+10%) | Laggards — Info Tech (-7%), Financials (-8-9%), Consumer Disc (-4-9%) | SPX flat to -0.5% YTD
+- TSM: Q2 rev $40.2B beat; GM 67.7% beat; FY +40% guidance raised; Q3 guide $44.6-45.8B (2nm ramp cost pressure on GM); Xiaomi 3nm deal; dividend adjustment filed 9/1 (Form 6-K); trading ~$408, off $479 HWM; intraday -1.43% yesterday
+
+### Trade Ideas
+1. **PANW** — earnings AMC last night (beat+raise expected); cybersecurity sector has no failed-trades history; entry $370-380 on post-earnings gap-hold confirmation, stop 10% trail GTC, target +20%, R:R 2:1; WAIT for open confirmation and actual EPS results before entry
+2. **AVGO** — reports tonight AMC; if semiconductor beat catalyst, evaluate tomorrow pre-market; entry ~$230-240 on gap-hold, stop 10% trail GTC, target +20%, R:R 2:1; WATCHLIST only today
+3. **TSM add** — thesis strengthening (AI chip demand, +40% FY guide, Xiaomi deal); but: SPX futures -0.71%, VIX elevated, 10-yr yield 4.77% (P/E gate), stop buffer only 3.84% — adding here increases concentration risk without sufficient cushion; DEFER
+
+### Risk Factors
+- SPX futures -0.71%, risk-off day likely; broad selling could pressure TSM further
+- TSM stop buffer 3.84% — watch closely if opens red; below 3% at open triggers manual cut per rule
+- FOMC Sept 16: rate hike probability rising — growth/tech headwind; 10-yr yield 4.77% blocks new growth entries (P/E >40 hold-only mode)
+- ADP today: beat → Fed stays hawkish, pressure on TSM; miss → slight relief but NFP Sept 4 is the real gate
+- Geopolitical: Hormuz ship attack — oil firm, risk-off for equities
+- AVGO/SNOW tonight: if miss, semis sector sells off; TSM collateral damage possible
+- Deployment: 9.6% deployed vs 75-85% target — but quality > haste; markets too uncertain for forced entries
+
+### Decision: **HOLD**
+- TSM: HOLD; thesis intact; stop buffer 3.84% above 3% threshold (no forced cut); watch open closely
+- PANW: check actual earnings results at open; if beat+raise and gap holds, evaluate entry at midday scan (need actual numbers first)
+- AVGO: watchlist only — evaluate tomorrow pre-market post-results
+- No new entries ahead of ADP data (10 AM ET) and FOMC Sept 16 uncertainty
+- Energy: pass — 2-failed-trades rule stands
+- Weekly count: 0/3 — patience > activity
