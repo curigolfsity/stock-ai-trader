@@ -7263,3 +7263,79 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - **10-yr yield:** ~4.77% — hold-only mode for P/E >40 names continues. TSM P/E ~28 — not yield-gated ✓.
 - **AVGO (Broadcom):** Reports tonight AMC — watchlist per pre-market plan; evaluate tomorrow pre-market.
 - **No trades executed.** Weekly: 0/3. TSM +3.54% unrealized, thesis intact, all stops safe.
+
+---
+
+## 2026-09-03 — Pre-market Research
+
+### Account (Day 88, Thursday — Week 18 Day 4)
+- **Equity:** $98,136.72 | **Cash:** $88,619.25 (90.3%) | **Buying power:** $93,377.98 (non-marginable)
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Phase P&L:** −$1,863.28 (−1.86%) vs $100,000 starting equity
+- **Deployed:** 9.7% (well below 75–85% target)
+- **TSM (API):** 23 sh @ $398.76 avg | Current $413.80 | Unrealized +$345.99 (+3.77%) | Intraday −$39.03 (−0.41%)
+- **Stop 265e7f23:** HWM $436.03 | Stop $392.427 | Buffer $21.37 (5.17% > 3% min ✓)
+
+### Market Context
+- **WTI:** ~$91.12 (−0.12%) | **Brent:** ~$95.25 (−0.40%) — oil elevated; geopolitical premium from Hormuz conflict ongoing
+- **SPX futures (ESU26):** ~flat to slight negative (S&P −0.05%, Dow +0.15%, Nasdaq −0.09%); market stabilizing after 3-day losing streak driven by rising bond yields + Middle East tensions
+- **VIX:** ~16.65 (Sep contract) — elevated vs. recent norms; not panic territory but cautious
+- **10-yr yield:** 4.81% (new cycle high since Nov 2023; +4bp today) — YIELD GATE ACTIVE (>4.5%); hold-only for P/E >40 names
+- **Today's releases (ET):** 8:30 AM — Initial Jobless Claims (forecast 205K; prev 203K) + Q3 Productivity & Costs Revised; 10:00 AM — ISM Non-Manufacturing (Services PMI)
+- **Tomorrow Sep 4:** NFP (August) — major catalyst; rate expectations hinge on print
+- **Key future dates:** CPI Sep 11 | FOMC Sep 16 (rate hike probability rising per bond market)
+- **Earnings BMO today:** No major S&P 500 earnings before open
+- **Sector momentum YTD (updated):** Energy +42.32% (BLOCKED — 2 failed trades) | Tech +26.1% | Materials +15.86% | Industrials +12.62% | Health Care +10.10% | Financials +5.44% | Consumer Disc −3.02% | Comm Services −5.60%
+
+### AVGO (Broadcom) — Q3 2026 Earnings Review (AMC Sep 2)
+- **EPS:** $3.32 adj vs $3.22–3.24 est → **BEAT +$0.08–0.10** ✓
+- **Revenue:** $29.59B vs $29.24B est (+$0.35B) | +85.5% YoY → **BEAT** ✓
+- **AI semiconductor:** $16.7B (+221% YoY) = 56% of total revenue ✓ — structural AI demand confirmed
+- **Infrastructure software:** $8.75B vs $8.82B est — slight miss; minor
+- **Q4 guidance:** $34.8B vs $35.03B est (−0.66% miss) ← key overhang
+- **AH reaction:** Initially −4% ($354.18) → recovered to +1.75% ($373.65 AH) — buyers stepped in; indecision resolved slightly positive
+- **P/E check:** ~$3.32/qtr × 4 = ~$13.28 annual adj EPS; at ~$373 = ~28.1x P/E → **BELOW 40x → YIELD GATE DOES NOT BLOCK AVGO** ✓
+- **Premarket:** Volatile; exact open TBD; watch $370 support
+
+### TSM News
+- Dividend: NT$7.0/common share payable Oct 8, 2026 | Ex-date Sep 16 (hold through confirmed)
+- BofA Buy $590 | Stifel initiated Buy $515 | Fundamentals unchanged: Q2 $40.2B, GM 67.7%, FY +40% guide raised
+
+### Trade Ideas
+
+#### 1. AVGO — WATCHLIST (potential entry at open)
+- **Catalyst:** Beat+raise Q3; AI semiconductor $16.7B (+221% YoY); AI foundry leader for hyperscaler custom ASICs (Google, Meta, Amazon); Q4 still implies major sequential growth; AH recovery shows buy interest
+- **Yield gate:** P/E ~28x < 40 → NOT BLOCKED ✓
+- **Sector:** Technology (+26.1% YTD) — no failed trades in this sector ✓
+- **Entry:** If opens positive AND holds above $370–375 intraday (gap-hold confirmation); ~$370–385
+- **Stop:** 10% trailing GTC
+- **Target:** +20% = ~$444–462
+- **R:R:** 2:1 ✓
+- **Risk:** Q4 guidance overhang; 10-yr at 4.81% (new cycle high) compresses risk appetite; adding second semi position (sector concentration with TSM); NFP tomorrow could reset market
+- **Gate:** OPEN CONFIRMATION REQUIRED — do NOT chase; if opens down and stays below $367 VWAP, PASS
+
+#### 2. AMAT — DEFERRED (yield gate blocks)
+- 10-yr 4.81% > 4.5% + AMAT P/E ~42–48 > 40 → entry deferred; ISM Services gate will be checked at midday
+- Unblock condition: 10-yr yield < 4.5% for 2+ consecutive sessions (unlikely near term at 4.81%, new cycle high)
+
+#### 3. TSM — HOLD (existing position)
+- Thesis intact; AI demand, FY +40% guide, dividend Sep 16; stop buffer 5.17% safe
+- Tighten trigger: +15% = $458.57 | Not yet reached
+- No add today: sector concentration + below-3%-cushion risk if market opens volatile
+
+### Risk Factors
+- 10-yr yield 4.81% — new cycle high; rising rates = growth multiple compression; yield gate prevents most new entries
+- NFP tomorrow (Sep 4) — don't overcommit capital today; hold dry powder
+- ISM Services 10 AM — miss could widen today's sell-off; beat could boost AVGO
+- Hormuz conflict — oil elevated; risk-off tail if escalation
+- AVGO Q4 guide miss ($34.8B vs $35.03B) — overhang if market fades the beat
+- FOMC Sep 16 — rate hike probability rising; stay disciplined on position sizing
+- VIX 16.65 — elevated; confirms cautious stance
+
+### Decision: WATCHLIST AVGO — HOLD default
+- AVGO: Monitor at open; if gap-hold above $370–375, evaluate entry at market-open scan
+- TSM: HOLD; thesis intact; stop buffer 5.17% safe
+- AMAT: BLOCKED — yield gate (4.81% > 4.5%, P/E >40)
+- Energy: BLOCKED — 2 failed trades rule
+- All others: PASS — no catalyst, no sector setup
+- Weekly: 0/3 trades remaining
+- **Deployment: 9.7% (very underdeployed); AVGO entry would bring to ~29.7% — acceptable; patience > haste; NFP tomorrow is key gate**
