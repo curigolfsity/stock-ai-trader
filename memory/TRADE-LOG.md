@@ -3770,3 +3770,12 @@ _No action taken. PANW beat+raise but gap down (-5% regular + -2% AH); yield gat
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $411.83 | +$300.61 (+3.28%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
 
 _No action taken. TSM −0.88% intraday on mild market weakness; thesis intact; ISM Services 55.4% reinforces AI demand; stop buffer 4.71% safe. AVGO deferred — NFP tomorrow (Sep 4) is major gate; entry requires clearer post-earnings price action. AMAT blocked (yield gate 4.79% >4.5%, P/E >40). Weekly: 0/3 trades. Next: EOD snapshot; Friday market-open — NFP (Aug) at 8:30 AM ET → evaluate AVGO/AMAT post-print; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16._
+
+---
+
+### Sep 03 — EOD Snapshot (Day 88, Thursday — Week 18 Day 4)
+**Portfolio:** $98,183.46 | **Cash:** $88,619.25 (90.3%) | **Day P&L:** +$28.87 (+0.03%) | **Phase P&L:** −$1,816.54 (−1.82%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $415.85 | +0.08% | +$392.96 (+4.28%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 88, Thursday (Week 18 Day 4). TSM closed $415.85 (+0.08%) — slight uptick, recovering from yesterday's intraday weakness. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $23.42 (5.63% — above 3% floor). No +15% tighten trigger ($458.57) reached. NFP (Aug) tomorrow at 8:30 AM ET — major macro event gating AVGO/AMAT entries. 10-yr yield ~4.79% (new cycle high); yield gate continues to block P/E >40 names (AVGO P/E ~38–42, AMAT ~42–48). No trades (0/3 this week). Capital deployed: 9.7%. Phase P&L: −$1,816.54 (−1.82%) vs $100,000 starting equity. Next: Friday market-open — NFP print at 8:30 ET → evaluate AVGO and AMAT post-print; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16; weekly review Friday PM.
