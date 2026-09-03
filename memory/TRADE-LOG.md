@@ -3737,3 +3737,36 @@ _No action taken. PANW beat+raise but gap down (-5% regular + -2% AH); yield gat
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $414.58 | +0.14% | +$363.86 (+3.97%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 87, Wednesday (Week 18 Day 3). TSM closed $414.58 (+0.14%) — slight recovery after yesterday's −0.34%. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $22.15 (5.35% — above 3% floor). No +15% tighten trigger ($458.57) reached. AVGO reported tonight AMC — evaluate tomorrow pre-market. PANW dual-blocked (P/E ~88x + yield gate 4.77% >4.5%); AMAT yield gate continues (10-yr ~4.77% >4.5%, P/E ~42–48 >40). No trades (0/3 this week). Capital deployed: 9.7%. Phase P&L: −$1,845.41 (−1.85%) vs $100,000 starting equity. Next: Thursday market-open — AVGO evaluation; AMAT blocked until yield <4.5% for 2+ sessions; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16.
+
+---
+
+### Midday Scan — 2026-09-03 (Day 88, Thursday — Week 18 Day 4)
+
+- **Account (API):** Equity ~$98,136 | Cash $88,619.25 (90.3%) | Intraday −$84.41 (−0.09%) | Phase P&L: ~−$1,864 (−1.86%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $411.83 | Entry $398.76 | Unrealized +$300.61 (+3.28%) | Intraday −$84.41 (−0.88%) | Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer $19.40 (4.71% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +3.28% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +3.28% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 4.71% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM −0.88% intraday on mild broad market weakness; holding relative to market
+- TSM fundamentals unchanged: Q2 $40.2B beat, GM 67.7% beat, FY +40% guidance, dividend $1.114 ex-Sept 16
+- ISM Services PMI Aug 2026 printed 55.4% (expansion, beat) — reinforces AI demand thesis
+- No company-specific negative news; stop buffer 4.71% safe ✓
+
+#### Step 6 — Research: AVGO deferred; NFP gate tomorrow
+- **ISM Services PMI (Aug 2026):** 55.4% (expansion, +1.3pp vs July 54.1%) — 26th consecutive month in expansion; above 50 ✓
+- **10-yr yield:** ~4.79–4.80% (new cycle high range) — hold-only mode for P/E >40 names continues; AMAT blocked
+- **AVGO:** Reports AMC Sep 2; AH recovered from −4% ($354.18) → +1.75% ($373.65); Sep 2 regular-session close $367.24; pre-market entry condition = gap-hold above $370–375; Sep 3 price action ambiguous; NFP tomorrow (Sep 4) = major macro risk; AVGO entry deferred pending NFP result and clearer post-earnings price action
+- **AMAT:** Yield gate blocks (10-yr 4.79% >4.5%, P/E ~42–48 >40); deferred
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $411.83 | +$300.61 (+3.28%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
+
+_No action taken. TSM −0.88% intraday on mild market weakness; thesis intact; ISM Services 55.4% reinforces AI demand; stop buffer 4.71% safe. AVGO deferred — NFP tomorrow (Sep 4) is major gate; entry requires clearer post-earnings price action. AMAT blocked (yield gate 4.79% >4.5%, P/E >40). Weekly: 0/3 trades. Next: EOD snapshot; Friday market-open — NFP (Aug) at 8:30 AM ET → evaluate AVGO/AMAT post-print; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16._

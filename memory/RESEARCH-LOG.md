@@ -7339,3 +7339,10 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - All others: PASS — no catalyst, no sector setup
 - Weekly: 0/3 trades remaining
 - **Deployment: 9.7% (very underdeployed); AVGO entry would bring to ~29.7% — acceptable; patience > haste; NFP tomorrow is key gate**
+
+#### Midday Addendum — 2026-09-03
+- **ISM Services PMI (Aug 2026):** 55.4% (expansion, +1.3pp vs July 54.1%; 26th consecutive month in expansion) — beat; reinforces AI/tech demand thesis; above 50 ✓
+- **10-yr yield:** ~4.79–4.80% — yield gate remains active (>4.5%); AMAT and other P/E >40 names remain blocked; TSM P/E ~28 not affected
+- **AVGO Sep 3 reaction:** AH recovered from −4% ($354.18) → +1.75% ($373.65) post-earnings; entry condition (gap-hold >$370–375) unclear with broad market weak; NFP tomorrow = significant macro risk; AVGO entry deferred; re-evaluate Friday pre-market post-NFP
+- **TSM $411.83 intraday:** −0.88% on mild market weakness; holding relative to broader market; thesis intact; stop 4.71% safe
+- **No trades executed.** Weekly: 0/3. Patience > activity heading into NFP.
