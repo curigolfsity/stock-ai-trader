@@ -7420,3 +7420,10 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - **All others:** PASS
 - **Weekly trades remaining: 0/3** — capacity exists but patience prevails; wait for confirming signal post-NFP
 - **Next: Market-open scan at 9:30 ET — evaluate AVGO gap-hold; check NFP reaction; TSM stop review; weekly review this afternoon**
+
+#### Midday Addendum — 2026-09-04
+- **NFP August 2026:** +162K (vs +53K consensus, vs −23K prior) — massive beat; labor market robust; FOMC Sep 16 rate-hike odds rising significantly; "higher for longer" firmly reinforced
+- **10-yr yield post-NFP:** ~4.76–4.80%+ range; yield gate remains active (>4.5%) for P/E >40 names (AMAT, PANW, high-multiple growth)
+- **AVGO midday ~$357–358:** Below $370 entry threshold — entry NOT met; hot NFP = macro headwind for growth multiples; AVGO deferred; re-evaluate Monday pre-market for gap-hold condition
+- **TSM $426.065 (+6.85%):** Strong move intraday (+2.17%) on hot NFP day; sector (AI/semiconductor) outperforming despite macro headwind; thesis fully intact; stop buffer 7.89% safe
+- **No trades executed.** Weekly: 0/3. Patience > activity. Next macro catalyst: FOMC Sep 16, CPI Sep 11, PPI Sep 10.
