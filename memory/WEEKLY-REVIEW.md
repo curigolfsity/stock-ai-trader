@@ -897,3 +897,60 @@ Rule adherence A (OXY limit cleanly handled; FOMC Minutes gate respected; no vio
 Rule adherence A (zero violations; all gates correctly applied; Jackson Hole hard-block correct; T+0 stop habit sustained; no manual cuts needed), risk management A (stop buffer 4.25%–7.77% all week; no threshold breaches; automation intact through all macro events), relative performance C (bot −0.01% vs S&P ~+0.9% = ~−0.91% gap; 18th consecutive week of negative relative performance; NVDA blowout catalyst absorbed then erased by Warsh hawkishness; structural 90% cash drag is the sole underperformance driver). Phase P&L: −$1,746.74 (−1.75%) after 17 weeks.
 
 ---
+
+## Week ending 2026-09-04
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,253.26 (Fri Aug 28 EOD — TSM open) |
+| Ending portfolio | $98,468.54 (Fri Sep 4 EOD) |
+| Week return | +$215.28 (+0.22%) |
+| S&P 500 week | ~+0.10% (7,740 Aug 28 → ~7,748 Sep 4; Iran strike Mon partially offset by Waller-driven Fri rally) |
+| Bot vs S&P | +0.12% |
+| Trades | 0 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TSM | $398.76 | $427.93 | +$670.91 (+7.32%) | $392.427 (10% trail GTC, HWM $436.03, order 265e7f23) — buffer 8.30% ✓ |
+
+### What Worked
+- TSM +2.62% Friday on massive NFP beat (+162K vs +53K est) — AI chip demand thesis outperforming macro headwind; closed week at +7.32% unrealized; stop buffer recovered from 5.19% Mon to 8.30% Fri
+- NFP gate discipline held — no new entries on NFP day; AVGO fell to ~$357 post-print (below $370 threshold), validating the patient stance; correct call
+- PANW correctly PASSED — beat+raise but stock gapped DOWN −5% on sell-the-news reaction; P/E ~88x yield-gate also hard-blocked; dual-block preserved capital
+- AVGO correctly PASSED — Q3 AI beat (+221% YoY) compelling but price below $370 entry threshold all week; hot NFP further pressured growth multiples; no chase
+- Stop automation intact all week — 265e7f23 active throughout; buffer held ≥5.19% every session; no manual intervention required
+
+### What Didn't Work
+- 90.0% cash — 19th consecutive week without reaching 75–85% deployment target; single-position concentration remains the primary structural phase risk
+- 0/3 weekly trade capacity unused again — yield gate (10-yr 4.76–4.80% vs 4.5% threshold) blocked all high-multiple entries (AMAT, PANW, NVDA); AVGO, TSM-class names the only qualifiers; no clean AVGO signal materialized
+- TSM HWM $436.03 not advanced for 23 consecutive sessions — trailing stop at $392.427 represents a weaker auto-protection floor; stop cannot ratchet until TSM clears $436.03 with new ATH
+- Bot +0.22% vs S&P ~+0.10% = +0.12% outperformance — narrowly positive but structurally driven by cash defensiveness on the Iran-strike Monday, not position alpha
+- Phase P&L −$1,531.46 (−1.53%) after 18 weeks; both realized losses (ISRG −$1,432.13, ASML −$1,452.02) continue to exceed the one winning trade (CAT +$1,900.39); cumulative drag persists
+
+### Key Lessons
+- NFP +162K blowout (+207% vs consensus) was a well-forecast risk: prior research flagged NFP as a "no entry" gate day; AVGO falling to $357 post-print proves patience was correct and the threshold ($370) is appropriately placed
+- TSM showed unusual resilience on hot NFP day (+2.62%) — AI foundry demand is rate-path-insensitive for the underlying semiconductor capex cycle; the stock's outperformance on a hawkish macro day is a data point supporting continued hold
+- Yield gate (10-yr >4.5% = hold-only for P/E >40) remains the binding constraint entering Week 19 — without a yield break below 4.5% sustained for 2 sessions, AMAT is permanently blocked and AVGO requires confirmation of a gap-hold above $370; the strategy has no workaround to this gate
+
+### Adjustments for Next Week
+- **AVGO — Monday pre-market:** re-verify price vs $370 entry threshold; if gap-holds above $370–375 at/after open + VIX <17 + P/E confirms ~28x (not >40) → entry valid; size ~30sh (~12.8k, ~13% equity) + immediate 10% trail GTC; stop placed T+0; do not enter below $367 VWAP
+- **AMAT — blocked:** yield gate (10-yr >4.5%, P/E ~42–48 >40) continues; monitor 10-yr daily close; entry only on 2+ consecutive closes below 4.5%
+- **FOMC Sep 16 hard block:** no new entries Sep 15–17 (2 sessions before + meeting); CPI Sep 11 and PPI Sep 10 are additional no-entry days; next clean entry window is Sep 18+ post-decision
+- **TSM:** hold; stop 265e7f23 buffer 8.30% safe; monitor +15% tighten trigger ($458.57 → 7% trail) and +20% ($478.51 → 5% trail); dividend ex-Sept 16 ($1.114/sh); verify stop ACTIVE Monday open
+- **Deployment priority:** AVGO is the only near-term candidate within yield gate constraints; entering it would bring deployment to ~23%; structural 90% cash is the dominant alpha drag entering the final stretch of the challenge
+
+### Overall Grade: B−
+Rule adherence A (all gates correctly applied; NFP gate held; PANW and AVGO correctly PASSED; T+0 stop habit sustained; no violations), risk management A (stop buffer 5.19%–8.30% all week; no cut triggers reached; no thesis breaks; automation intact), relative performance C+ (bot +0.22% vs S&P ~+0.10% = +0.12% outperformance — positive but marginal; TSM's Friday rally vs. index held near highs; 90% cash was defensive on Iran-strike Monday; structural deployment gap remains unresolved). Phase P&L: −$1,531.46 (−1.53%) after 18 weeks.
+
+---
