@@ -7346,3 +7346,77 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - **AVGO Sep 3 reaction:** AH recovered from −4% ($354.18) → +1.75% ($373.65) post-earnings; entry condition (gap-hold >$370–375) unclear with broad market weak; NFP tomorrow = significant macro risk; AVGO entry deferred; re-evaluate Friday pre-market post-NFP
 - **TSM $411.83 intraday:** −0.88% on mild market weakness; holding relative to broader market; thesis intact; stop 4.71% safe
 - **No trades executed.** Weekly: 0/3. Patience > activity heading into NFP.
+
+---
+
+## Pre-Market Research — 2026-09-04 (Day 89, Friday — Week 18 Day 5)
+
+### Account Snapshot (API)
+- **Equity:** $98,293.05 | **Cash:** $88,619.25 (90.3%) | **Long MV:** $9,673.80
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Phase P&L:** −$1,706.95 (−1.71%)
+- **Positions:** TSM 23 shares | $420.60 pre-market (+0.86%) | Unrealized +$502.32 (+5.48%)
+- **Stop 265e7f23:** HWM $436.03 | Stop $392.427 | Buffer $28.17 (6.70% > 3% min) ✓
+- **Deployment:** 9.7% (very underdeployed; AVGO entry would bring to ~29.7%)
+
+### Market Context
+- **WTI:** $92.19 (+1.30%) | **Brent:** $96.71 (+1.13%) — oil surging (Hormuz risk + OPEC supply discipline)
+- **SPX futures:** ~7,704–7,740; pre-market modest gains (+0.3–0.5% range); positive but restrained ahead of NFP
+- **VIX:** ~14.32 (Sep 3 close) — compressed; less fear but NFP vol expected at 8:30 ET
+- **10-yr yield:** ~4.76% (eased slightly from 4.79–4.81% cycle high; still >4.5% → yield gate active)
+- **Fed rate hike odds Sep:** ~50/50 (down from 70% mid-week); Waller inclined to hold if no inflation reversal
+
+### Key Events Today
+- **NFP August (8:30 AM ET):** Consensus +58K | Prior −23K | UE rate forecast 4.1% | AHE forecast 3.0% (down from 3.2%)
+  - Strong print (>75K) → rates stay high → yield gate continues; tech/growth pressure
+  - Weak print (<35K) → rate hike odds fall → yields may ease → unblocks AMAT; AVGO entry more viable
+  - Miss or in-line → neutral; default HOLD maintained
+- **FOMC Sep 16** (next major gate) — CPI Sep 11, PPI Sep 10 before that
+
+### Earnings / Corporate News
+- **AVGO pre-market $361.30 (+1.16%)** — closed $357.16 Thu; recovered partially; Q3 beat (+EPS, +Rev, +221% AI semi); Q4 guide $34.8B vs $35.03B est (overhang); P/E ~28x → yield gate DOES NOT block
+- **TSM pre-market $420.60 (+0.86%)** — no new negative news; TSMC raised quarterly chipmaking tool needs (Bloomberg); Stifel Buy $515 initiated Sep 2; dividend ex-Sept 16 (NT$7.0/share, payable Oct 8); BofA Buy $590
+- **LULU, ZS, DOCU:** Reported AMC Sep 3 — no direct holding impact
+- **ORCL:** Reports AMC Sep 8 — not held; watch for AI demand signal
+
+### Sector Momentum YTD
+| Sector | YTD | Signal |
+|--------|-----|--------|
+| Energy | +42.3% | #1 — BLOCKED (2 failed trades rule) |
+| Technology | +30.7% | #2 — ACTIVE (TSM held, AVGO watching) |
+| Others | Lagging | PASS |
+
+### Trade Ideas
+
+#### 1. AVGO — WATCHLIST (entry NOT met pre-market)
+- **Catalyst:** Q3 beat; AI semiconductor $16.7B (+221% YoY); custom ASIC platform for hyperscalers; AH/premarket recovery
+- **Pre-market:** $361.30 — BELOW $370 entry threshold → entry criteria NOT met
+- **Entry condition:** Gap-hold AND close above $370–375 at/after open; do NOT chase below $367 VWAP
+- **Stop:** 10% trailing GTC | **Target:** +20% = ~$430–445 | **R:R:** 2:1 ✓
+- **Yield gate:** P/E ~28x < 40 → NOT BLOCKED ✓
+- **Gate:** NFP at 8:30 ET — weak print could boost AVGO; strong print may weigh; re-evaluate at market-open scan
+- **Status: WATCHLIST — no trade pre-market**
+
+#### 2. TSM — HOLD (existing)
+- Stop buffer 6.70% (safe > 3% min); HWM $436.03; tighten trigger +15% = $458.57
+- No new negative news; thesis fully intact; hold through dividend ex-Sept 16
+- If price reaches $436.03 today, trailing stop auto-adjusts
+
+#### 3. AMAT — BLOCKED (yield gate 4.76% >4.5%, P/E ~42–48 >40)
+- Unblock condition: yield <4.5% for 2+ consecutive sessions; not met
+
+### Risk Factors
+- **NFP print** (8:30 ET) — primary macro risk for the day; vol spike expected at open
+- **10-yr yield 4.76%** — still elevated; yield gate blocks high-multiple names; any yield spike on hot NFP = further pressure
+- **AVGO Q4 guide miss** — $34.8B vs $35.03B est; market may fade the beat if risk-off after NFP
+- **Oil surge** (+1.30% WTI) — Hormuz/OPEC; risk-off tail if escalation; Energy blocked (2 failed trade rule)
+- **FOMC Sep 16** — positioning caution appropriate into next week; CPI/PPI ahead
+- **Underdeployment** — 9.7% capital at work is far below 75–85% target; pressure to act, but patience > activity; AVGO entry requires confirming price action
+
+### Decision: HOLD — NFP gate; WATCHLIST AVGO at open
+- **TSM:** HOLD; thesis intact; stop buffer 6.70% safe; dividend ex-Sept 16
+- **AVGO:** Watch open; entry ONLY if gap-holds above $370–375; do NOT buy pre-market or chase below threshold
+- **AMAT:** BLOCKED — yield gate
+- **Energy:** BLOCKED — 2 failed trades
+- **All others:** PASS
+- **Weekly trades remaining: 0/3** — capacity exists but patience prevails; wait for confirming signal post-NFP
+- **Next: Market-open scan at 9:30 ET — evaluate AVGO gap-hold; check NFP reaction; TSM stop review; weekly review this afternoon**
