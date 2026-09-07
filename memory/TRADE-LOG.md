@@ -3847,3 +3847,12 @@ _No action taken. TSM +6.85% (+2.17% intraday) — strong move despite hot NFP; 
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $428.91 | +$693.45 (+7.56%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
 
 _No action taken — market closed (Labor Day). TSM +7.56%; thesis intact; stop buffer 8.51% safe. Yield gate active (4.66% >4.5%). Strategy: HOLD ahead of CPI Sep 11 + FOMC Sep 16. Weekly: 0/3 trades. Next: Tuesday Sep 8 market-open — pre-market research already complete; AVGO entry re-evaluation; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16._
+
+---
+
+### Sep 07 — EOD Snapshot (Day 90, Monday — Labor Day; market CLOSED)
+**Portfolio:** $98,484.18 | **Cash:** $88,619.25 (90.0%) | **Day P&L:** +$15.64 (+0.02%) | **Phase P&L:** −$1,515.82 (−1.52%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $428.91 | 0.00% | +$693.45 (+7.56%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
+**Notes:** Day 90, Monday (Week 19 Day 1) — US Labor Day, market closed. TSM unchanged at $428.91; position intact. Day P&L +$15.64 reflects accrued interest/cash adjustment, not market action. Trailing stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $36.48 (8.51% — above 3% floor). No trades (0/3 this week). Capital deployed 10.0%. Yield gate active (10-yr ~4.66% >4.5%) — blocks AVGO/AMAT. Strategy: HOLD TSM ahead of CPI Sep 11 + FOMC Sep 16; re-evaluate AVGO entry Tuesday pre-market. Phase P&L: −$1,515.82 (−1.52%) vs $100,000 starting equity.
