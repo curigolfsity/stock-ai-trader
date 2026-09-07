@@ -3820,3 +3820,30 @@ _No action taken. TSM +6.85% (+2.17% intraday) — strong move despite hot NFP; 
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $427.93 | +2.62% | +$670.91 (+7.32%) | $392.427 (10% trail, HWM $436.03, order 265e7f23) |
 **Notes:** Day 89, Friday (Week 18 Day 5). TSM closed $427.93 (+2.62%) on massive NFP beat (Aug +162K vs +53K est) — outperforming market despite rates-higher-for-longer headwind; AI chip demand thesis intact. Stop 265e7f23 active: HWM $436.03, stop $392.427, buffer $35.50 (8.30% — above 3% floor). No +15% tighten trigger reached ($458.57). Yield gate holding (~4.76–4.80%) — AVGO ~$357 below $370 entry threshold (no entry); AMAT blocked (P/E >40, yield >4.5%). No trades this week (0/3). Capital deployed 10.0%. Phase P&L: −$1,531.46 (−1.53%) vs $100,000. Weekly review follows. Next week: evaluate AVGO entry Monday pre-market; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16.
+
+---
+
+### Midday Scan — 2026-09-07 (Day 90, Monday — Labor Day; market CLOSED)
+
+- **Account (API):** Equity $98,484.18 | Cash $88,619.25 (90.0%) | Day P&L: $0 (market closed) | Phase P&L: −$1,515.82 (−1.52%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $428.91 | Entry $398.76 | Unrealized +$693.45 (+7.56%) | Intraday $0 (market closed) | Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer $36.48 (8.51% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +7.56% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +7.56% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $436.03 | stop $392.427 | buffer 8.51% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- Market CLOSED (US Labor Day holiday) — no intraday action possible
+- TSM fundamentals unchanged: Q2 $40.2B beat, GM 67.7%, FY +40% guidance, dividend $1.114 ex-Sept 16
+- Pre-market research decision: HOLD — no new entries ahead of CPI Sep 11 + FOMC Sep 16
+- 10-yr yield 4.66% (still above 4.5%) — yield gate active for P/E >40 names
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $428.91 | +$693.45 (+7.56%) | 10% GTC (265e7f23, HWM $436.03, stop $392.427) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
+
+_No action taken — market closed (Labor Day). TSM +7.56%; thesis intact; stop buffer 8.51% safe. Yield gate active (4.66% >4.5%). Strategy: HOLD ahead of CPI Sep 11 + FOMC Sep 16. Weekly: 0/3 trades. Next: Tuesday Sep 8 market-open — pre-market research already complete; AVGO entry re-evaluation; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16._
