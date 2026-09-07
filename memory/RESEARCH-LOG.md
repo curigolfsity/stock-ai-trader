@@ -7427,3 +7427,44 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 - **AVGO midday ~$357–358:** Below $370 entry threshold — entry NOT met; hot NFP = macro headwind for growth multiples; AVGO deferred; re-evaluate Monday pre-market for gap-hold condition
 - **TSM $426.065 (+6.85%):** Strong move intraday (+2.17%) on hot NFP day; sector (AI/semiconductor) outperforming despite macro headwind; thesis fully intact; stop buffer 7.89% safe
 - **No trades executed.** Weekly: 0/3. Patience > activity. Next macro catalyst: FOMC Sep 16, CPI Sep 11, PPI Sep 10.
+
+---
+
+## 2026-09-07 — Pre-market Research (Labor Day; next trading day Tue Sep 8)
+
+### Account
+- Equity: $98,484.18
+- Cash: $88,619.25
+- Buying power: $382,098.80
+- Daytrade count: 0
+- Positions: 1 (TSM — 23 shares @ $398.76 avg; current $428.91; unrealized +$693.45 / +7.56%)
+- Open orders: 1 (TSM 10% trailing stop GTC; HWM $436.03; stop $392.43)
+- Weekly trades: 0/3
+
+### Market Context
+- WTI: ~$92/bbl (Sep 6); Brent: ~$97.39/bbl (Sep 7) — Brent +11% past month, +47.5% YoY; elevated
+- S&P 500 futures: E-mini ESU26 +0.35% pre-open for Sep 8
+- VIX: 16.28 — low-moderate fear; supportive for risk assets
+- 10-year yield: 4.66% (down 4bp) — above 4.5% strategy threshold → hold-only on P/E >40 growth names
+- Sector momentum YTD: Semiconductors/Tech leading (+40-50% YTD); Energy strong; AI infrastructure driving semis to ~20% of S&P weight
+- TSM news: AI capacity expansion — equipment purchases raised to 1.9× Dec projections; Stifel initiated Buy Sep 1; dividend $1.114/share ex-date Sep 16; +81% past 12 months
+- Earnings BMO Sep 8: CASY (minor)
+- Economic calendar this week: PPI + ECB Sep 10; **August CPI Sep 11 8:30am ET (key)** ; Oracle/Adobe/Macy's earnings Sep 10; FOMC rate decision Sep 16
+
+### Trade Ideas
+1. **OXY (Occidental Petroleum)** — WTI $92+ supports E&P margins; OXY ~$60 PT zone; P/E ~15× (safe under yield constraint); Berkshire-backed floor; entry ~$58-60, stop $54 (-7-8% trail GTC), target $72 (+20%), R:R ~2.5:1. Risk: oil reversal on demand slowdown or Iran deal.
+2. **XOM (ExxonMobil)** — Brent $97, Energy sector momentum; P/E ~14×; dividend yield ~3.8%; entry ~$138-140, stop $127 (-8% trail GTC), target $168 (+20%), R:R 2:1. Risk: same as OXY.
+3. **Wait/watch — ANET, AVGO** — AI networking/semi plays; likely P/E >40 under 10yr >4.5% rule = hold-only; revisit if yield drops below 4.5% for 2 sessions.
+
+### Risk Factors
+- **CPI Sep 11 (Thu)** — hot print = yields spike, semis/growth sell off; cool = catalyst to rally; binary event 4 days out
+- **FOMC Sep 16** — hold vs hike discussion; TSM and semis sensitive to rate expectations
+- **TSM geopolitical** — Taiwan strait any escalation = immediate negative catalyst
+- **Under-deployed**: only ~10% capital in market vs 75-85% target; but adding size into CPI + FOMC window = higher binary risk; disciplined patience warranted
+- **Oil at $92-97** — if energy rally overshoots and reverses on OPEC+ supply surprise, Energy longs would suffer
+
+### Decision
+**HOLD** — Existing TSM position healthy (+7.56%); trailing stop protecting gains (HWM $436.03, stop $392.43). Do NOT add positions ahead of CPI Sep 11 + FOMC Sep 16 twin macro events. Watchlist: OXY, XOM for Energy leg after CPI clarity. Re-evaluate Sep 12 post-CPI for any new entries.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
+
