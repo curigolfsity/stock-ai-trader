@@ -7522,3 +7522,11 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Next:** Market-open scan 9:30am; TSM stop review; TSMC Aug sales Sep 10; CPI Sep 11 gate for AVGO/JPM entry; FOMC Sep 16
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+#### Midday Addendum — 2026-09-08 (~12:30 PM ET)
+- **TSM intraday $441.46 (+2.93%):** Outperforming market; HWM auto-advanced to $444.29 (new position high); stop $399.861; buffer 9.43% safe
+- **S&P 500 −0.15%:** Rate-hike selloff; big-tech leaders AAPL −2.55%, GOOGL −2.10%, MSFT −2.05%; TSM bucking the trend
+- **Reason for TSM outperformance:** P/E ~28 below yield-gate zone (>40); dividend capture positioning into ex-date Sep 16; TSMC Aug monthly revenue report due Sep 10 expected strong (July was +44.7% YoY)
+- **ORCL:** Reports AMC Sep 10 — not yet a catalyst; RPO $638B (>50% from OpenAI AI contracts); bullish for foundry demand if beat
+- **Yield gate: 10-yr ~4.81%** — no change; AVGO/AMAT/PANW blocked; no new entries
+- **No thesis break; no action taken.** Next catalysts: TSMC Aug sales Sep 10, CPI Aug Sep 11, FOMC Sep 16
