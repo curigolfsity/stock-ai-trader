@@ -3930,3 +3930,12 @@ _No trades executed. TSM +9.54% unrealized; thesis intact; stop auto-advancing; 
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $441.46 | +$982.10 (+10.71%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
 
 _No action taken. TSM +10.71% unrealized; +2.93% intraday; outperforming broad market selloff — dividend capture + P/E ~28 below yield gate = relative-value strength. HWM auto-advanced to $444.29 (new position high); stop protecting at $399.861. No new entries: yield gate 4.81% active (blocks AVGO, AMAT, PANW); JPM/AVGO deferred to CPI Sep 11. Weekly: 0/3 trades. Next thresholds: +15% ($458.57) → tighten trail to 7%; TSMC Aug sales Sep 10 (binary catalyst); CPI Aug Sep 11 8:30am ET; FOMC Sep 16._
+
+---
+
+### Sep 08 — EOD Snapshot (Day 91, Tuesday — Week 19 Day 2)
+**Portfolio:** $98,725.91 | **Cash:** $88,619.25 (89.8%) | **Day P&L:** +$241.73 (+0.25%) | **Phase P&L:** −$1,274.09 (−1.27%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $439.46 | +2.46% | +$935.99 (+10.21%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
+**Notes:** Day 91, Tuesday (Week 19 Day 2) — market open, full session. TSM +2.46% intraday, outperforming broad market on dividend-capture + P/E ~28 relative-value rotation; S&P closed mixed. Trailing stop 265e7f23 auto-advanced HWM to $444.29; stop $399.861 (10% trail); buffer $39.60 (9.43% > 3% floor). No trades executed (0/3 this week). Capital deployed 10.2%. Yield gate active (10-yr ~4.81% >4.5%) — blocks AVGO, AMAT, PANW. Key upcoming: TSMC Aug monthly sales Sep 10; ORCL earnings AMC Sep 10; CPI Aug Sep 11 8:30am ET (entry gate for AVGO/JPM); FOMC Sep 16; TSM dividend ex-date Sep 16 — hold. Next tighten trigger: +15% at $458.57. Phase P&L: −$1,274.09 (−1.27%) vs $100,000 starting equity.
