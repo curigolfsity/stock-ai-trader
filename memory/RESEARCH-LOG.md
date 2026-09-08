@@ -7468,3 +7468,57 @@ _Research via WebSearch (PERPLEXITY_API_KEY not set)_
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
 
+
+---
+
+## 2026-09-08 — Pre-market Research (Day 91, Tuesday — Week 19 Day 2)
+
+### Account
+- Equity: $98,604.01 (↑ from $98,484.18 yesterday)
+- Cash: $88,619.25 (89.9%)
+- Buying power: $382,434.33
+- Daytrade count: 0
+- Long market value: $9,984.76
+- Positions: 1 (TSM — 23 shares @ $398.76 avg; current $434.12; unrealized +$813.28 / +8.87%; intraday +1.22%)
+- Open orders: 1 (TSM 10% trailing stop GTC; 265e7f23; HWM $436.03; stop $392.427)
+- Weekly trades: 0/3
+
+### Market Context
+- **WTI:** ~$92.37/bbl (Sep 8, −0.17%) | **Brent:** ~$97.29/bbl (Sep 7, +1.05%) — sustained geopolitical bid (US-Iran tensions, Hormuz risk)
+- **S&P 500 futures:** ESU26 +0.49%, ~7,714 pre-open — modestly positive open
+- **VIX:** ~14.53–15.30 — low fear; supportive for risk assets
+- **10-yr yield:** 4.8063% (+2bp) — post-NFP strength; ABOVE 4.5% yield gate → hold-only on P/E >40 growth names
+- **FOMC quiet period:** Sep 5–17 (no Fed communication)
+- **Sector momentum YTD:** Energy +43% (leading, but BLOCKED — 2 failed trade rule); XLK (Tech) −2.43% YTD; Semiconductors mixed; Industrials/Materials outperforming
+- **TSM:** Premarket +1.22% at $434.12; TSMC Aug monthly sales due Sep 10; next earnings Oct 15; analyst consensus Strong Buy, avg PT $552.38; dividend $1.114/share ex-Sept 16 (7 days away); thesis intact
+- **Earnings BMO Sep 8:** CASY (Casey's General Stores — minor/not in universe)
+- **Economic calendar:** TSMC Aug sales + PPI Sep 10 (Wed); **CPI Aug Sep 11 8:30am ET (key binary)** ; FOMC rate decision Sep 16 2pm ET + press conf 2:30pm
+
+### Trade Ideas
+1. **AVGO (Broadcom)** — AI infrastructure theme; watchlist only; last ~$357 (well below $370 entry threshold); yield gate active (P/E ~38–42, borderline >40); entry ONLY if: (a) yield drops below 4.5% for 2 consecutive sessions, OR (b) post-CPI cool print moves yield lower; stop $340 (−8%), target $450 (+25%), R:R ~3:1. **Status: WATCHLIST — no entry today.**
+2. **JPM (JPMorgan Chase)** — Financial sector; P/E ~12× (safe under yield gate); higher-for-longer rate environment benefits NIM and earnings; strong balance sheet; entry ~$280–285, stop ~$258 (−8% trail GTC), target $340 (+20%), R:R ~2.5:1. Risk: credit quality deterioration if recession fears mount; watch post-CPI. **Status: WATCHLIST — wait for CPI clarity.**
+3. **Hold TSM** — Dividend $1.114/share ex-Sept 16 (capture by holding); +8.87% unrealized; stop buffer 9.60% (above 3% min); thesis intact; no tighten trigger reached ($458.57 for +15%). **Action: HOLD.**
+
+### TSM Stop Check
+- Price: $434.12 | Entry: $398.76 | Unrealized: +$813.28 (+8.87%)
+- Stop 265e7f23: HWM $436.03 | Stop $392.427 | Buffer: $41.69 (9.60% > 3% min) ✓
+- +15% tighten trigger: $458.57 — NOT reached ✓
+- Dividend ex-date: Sep 16 — hold through
+
+### Risk Factors
+- **CPI Sep 11 (Thu)** — hot print → yields spike, growth/semis sell off; cool print → potential catalyst for AVGO entry and yield gate release; this is the week's key binary event
+- **FOMC Sep 16** — hold vs. hike; Fed quiet period through Sep 17; rates "higher for longer" narrative entrenched post-NFP +162K beat
+- **10-yr yield at 4.81%** — sustained above 4.5% blocks all P/E >40 names (AVGO, AMAT, PANW)
+- **TSM geopolitical** — Taiwan strait any escalation = immediate negative; TSMC Aug sales report Sep 10 could move stock ±5%
+- **Underdeployment** — 10.0% capital deployed vs 75–85% target; patience warranted ahead of twin macro events; forced activity into CPI+FOMC is high binary-risk
+
+### Decision: HOLD — await CPI Sep 11 before any new entries
+- **TSM:** HOLD; thesis intact; dividend capture in 7 days; stop buffer safe
+- **AVGO:** Watchlist; entry threshold $370 + yield below 4.5% for 2 sessions; earliest viable entry: post-CPI Sep 12 open if cool print
+- **JPM:** Watchlist; entry viable at $280–285 post-CPI clarity
+- **AMAT, PANW:** BLOCKED — yield gate (P/E >40, yield >4.5%)
+- **Energy (OXY, XOM):** BLOCKED — 2 failed trade rule
+- **Weekly trades remaining: 0/3** — capacity open; patience > activity; macro events this week make deployment premature
+- **Next:** Market-open scan 9:30am; TSM stop review; TSMC Aug sales Sep 10; CPI Sep 11 gate for AVGO/JPM entry; FOMC Sep 16
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
