@@ -7598,3 +7598,11 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Next:** TSMC Aug monthly revenue Sep 10 + PPI Sep 10; CPI Sep 11 gate for AVGO/JPM; FOMC Sep 16 rate decision
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+#### Midday Addendum — 2026-09-09 (~12:00 PM ET)
+- **TSM intraday $435.66 (−0.76%):** Mild risk-off pressure; consistent with SPX risk-off tone (Brent near $100 inflation fears); no company-specific negative news; thesis intact
+- **Stop buffer:** HWM $444.29, stop $399.861, buffer $35.80 (8.22% > 3% floor) — safe
+- **No sharp move:** −0.76% within normal volatility range; no WebSearch triggered
+- **Yield gate unchanged:** 10-yr ~4.80% >4.5% — AVGO/AMAT/PANW blocked
+- **Tomorrow's key events:** TSMC Aug monthly revenue (Sep 10 BMO) + PPI (Sep 10); CPI Sep 11 8:30am ET — no pre-event trades
+- **No action taken.** Next: EOD snapshot + TSMC Aug revenue (Sep 10)
