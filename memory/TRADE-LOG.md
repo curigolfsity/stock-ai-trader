@@ -3939,3 +3939,44 @@ _No action taken. TSM +10.71% unrealized; +2.93% intraday; outperforming broad m
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $439.46 | +2.46% | +$935.99 (+10.21%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
 **Notes:** Day 91, Tuesday (Week 19 Day 2) — market open, full session. TSM +2.46% intraday, outperforming broad market on dividend-capture + P/E ~28 relative-value rotation; S&P closed mixed. Trailing stop 265e7f23 auto-advanced HWM to $444.29; stop $399.861 (10% trail); buffer $39.60 (9.43% > 3% floor). No trades executed (0/3 this week). Capital deployed 10.2%. Yield gate active (10-yr ~4.81% >4.5%) — blocks AVGO, AMAT, PANW. Key upcoming: TSMC Aug monthly sales Sep 10; ORCL earnings AMC Sep 10; CPI Aug Sep 11 8:30am ET (entry gate for AVGO/JPM); FOMC Sep 16; TSM dividend ex-date Sep 16 — hold. Next tighten trigger: +15% at $458.57. Phase P&L: −$1,274.09 (−1.27%) vs $100,000 starting equity.
+
+---
+
+### Market-Open Scan — 2026-09-09 (Day 92, Wednesday — Week 19 Day 3)
+
+- **Account (API):** Equity $98,569.05 | Cash $88,619.25 (89.9%) | Day P&L: −$147.20 (−0.15%) | Phase P&L: −$1,430.95 (−1.43%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $432.60 | Entry $398.76 | Unrealized +$778.32 (+8.49%) | Intraday −$147.20 (−1.46%) | Stop 265e7f23: HWM $444.29 | Stop $399.861 | Buffer $32.74 (7.57% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +8.49% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +8.49% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $444.29, stop $399.861 (10% trail) ✓
+
+#### Step 5 — Hard-Check Gate: NO TRADES
+
+| Check | Candidate | Value | Threshold | Status |
+|-------|-----------|-------|-----------|--------|
+| Yield gate | AVGO (P/E ~28–42) | 4.80% >4.5% | ≤4.5% for P/E >40 | ✗ BLOCKED |
+| Yield gate | AMAT (P/E ~42–48) | 4.80% >4.5% | ≤4.5% for P/E >40 | ✗ BLOCKED |
+| Macro binary | JPM | PPI Sep 10 + CPI Sep 11 pending | Post-CPI clarity | ✗ DEFERRED |
+| Macro binary | AVGO | PPI Sep 10 + CPI Sep 11 pending | Post-CPI clarity | ✗ DEFERRED |
+| Sector rule | Energy (OXY/XOM) | 2 consecutive fails | 0 fails logged | ✗ BLOCKED |
+
+All candidates blocked or deferred. Risk-off open (SPX futures −0.46%); Brent ~$100 inflation fear; yield gate active (10-yr ~4.80%); PPI+CPI binary pair tomorrow+Thursday.
+
+#### Step 6 — Thesis Check: INTACT
+- TSM −1.46% intraday: risk-off broad market pressure; no company-specific negative news ✓
+- Stop HWM $444.29; stop $399.861 — buffer $32.74 (7.57% > 3% min) ✓
+- TSMC Aug monthly revenue due Sep 10 (tomorrow) — bullish catalyst expected (July +44.7% YoY)
+- Dividend $1.114/share ex-date Sep 16 (7 days) — hold through confirmed ✓
+- Yield gate: 10-yr ~4.80% >4.5% → hold-only for P/E >40 names; TSM P/E ~28 not restricted ✓
+- Analyst consensus: Strong Buy | Avg PT $552.38 (+27.7% from current) ✓
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $432.60 | +$778.32 (+8.49%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
+
+_No trades executed. TSM −1.46% intraday on risk-off open (Brent near $100, SPX −0.46%); thesis intact; stop buffer 7.57% safe. Yield gate 4.80% blocks AVGO/AMAT; PPI tomorrow + CPI Thursday defer JPM/AVGO. Weekly: 0/3 trades. Next: TSMC Aug revenue Sep 10 + PPI (key); CPI Aug Sep 11 8:30am ET (yield gate release trigger for AVGO/JPM entry); FOMC Sep 16; watch TSM $458.57 (+15%) tighten trigger; hold TSM through dividend ex-Sept 16._
