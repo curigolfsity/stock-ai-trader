@@ -273,3 +273,12 @@ Decision: HOLD
 Ideas: TSM hold (NVDA Wed catalyst, stop 5.71% safe), NVDA pass (hold-only rule), OXY pass (oil -2.15%)
 Market: SPX futures +0.12%, VIX 15.85, WTI $85.00 (-2.15%)
 Risks: NVDA earnings miss Wed, 10Y yield 4.7% (growth headwind), VIX complacency
+
+---
+## 2026-09-09 10:12 UTC (ntfy blocked — local fallback)
+Pre-market 2026-09-09
+Decision: HOLD
+Ideas: AVGO (post-CPI watchlist >70), JPM (post-CPI 80-285)
+Market: SPX futures -0.46%, VIX 16.63, Oil WTI ~2.69 / Brent ~9.85
+Risks: Brent near 00 inflation signal; PPI Sep10 + CPI Sep11 binary pair; yield 4.80%+ gates growth; FOMC Sep16 hike odds rising
+TSM: 23sh +8.53%, stop HWM 44.29 buffer 7.60%, dividend ex Sep16
