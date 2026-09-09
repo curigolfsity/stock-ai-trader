@@ -4012,3 +4012,12 @@ _No trades executed. TSM −1.46% intraday on risk-off open (Brent near $100, SP
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $435.66 | +$848.72 (+9.25%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; dividend $1.114 ex-Sept 16 | $530–545 | 3.4:1 |
 
 _No action taken. TSM +9.25% unrealized; −0.76% intraday on risk-off macro pressure; thesis intact; stop buffer 8.22% safe. Yield gate 4.80% blocks AVGO/AMAT/PANW. No new entries — PPI Sep 10 + CPI Sep 11 binary pair in 1–2 days. Weekly: 0/3 trades. Next: TSMC Aug revenue Sep 10 + PPI (key); CPI Aug Sep 11 8:30am ET (yield gate release trigger for AVGO/JPM); FOMC Sep 16; dividend ex-Sept 16._
+
+---
+
+### Sep 09 — EOD Snapshot (Day 92, Wednesday — Week 19 Day 3)
+**Portfolio:** $98,591.25 | **Cash:** $88,619.25 (89.9%) | **Day P&L:** −$134.66 (−0.14%) | **Phase P&L:** −$1,408.75 (−1.41%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $433.54 | −1.25% | +$799.83 (+8.72%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
+**Notes:** Day 92, Wednesday (Week 19 Day 3) — full session close. TSM −1.25% intraday on continued risk-off tone (Brent near $100, broader market soft); unrealized P&L +$799.83 (+8.72%) intact, stop buffer $33.68 (7.78% > 3% min). No trades executed (0/3 this week). Capital deployed 10.1%. Yield gate active (10-yr ~4.80% >4.5%) — blocks AVGO/AMAT/PANW. Key upcoming: TSMC Aug monthly revenue + PPI Sep 10 (tomorrow); CPI Aug Sep 11 8:30am ET (yield gate release trigger for AVGO/JPM); FOMC Sep 16; TSM dividend ex-date Sep 16 — hold. Next tighten trigger: +15% at $458.57. Phase P&L: −$1,408.75 (−1.41%) vs $100,000 starting equity.
