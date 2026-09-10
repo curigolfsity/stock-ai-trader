@@ -7606,3 +7606,63 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Yield gate unchanged:** 10-yr ~4.80% >4.5% — AVGO/AMAT/PANW blocked
 - **Tomorrow's key events:** TSMC Aug monthly revenue (Sep 10 BMO) + PPI (Sep 10); CPI Sep 11 8:30am ET — no pre-event trades
 - **No action taken.** Next: EOD snapshot + TSMC Aug revenue (Sep 10)
+
+---
+
+### Pre-Market Research — 2026-09-10 (Day 93, Thursday — Week 19 Day 4)
+
+#### Account Snapshot (API)
+- **Equity:** $98,584 | **Cash:** $88,619.25 (89.9%) | **Deployed:** $9,964.75 (10.1%)
+- **Phase P&L:** −$1,416 (−1.42%) vs $100,000 starting equity
+- **Daytrade count:** 0 | **Weekly trades:** 0/3
+- **TSM (premarket ~$434.88):** 23 shares @ $398.76 | Unrealized ~+$832 (+8.76%) | Stop HWM $444.29 | Stop $399.861 | Buffer ~$35.03 (8.07% > 3% min) ✓
+
+#### Market Context
+- **Brent crude:** ~$101.25/bbl (BROKE $100 barrier — inflation re-acceleration signal) | Open $101.67
+- **WTI crude:** ~$97.19/bbl
+- **SPX futures:** ~−0.46% (risk-off; third consecutive soft open)
+- **VIX:** ~16.60–16.73 (elevated vs 14.53 last Friday; market pricing uncertainty)
+- **10-yr Yield:** ~4.80% (above 4.5% gate — yield gate active; blocks P/E >40 names)
+
+#### Economic Calendar Today
+- **8:30am ET — PPI August 2026 (TODAY — BINARY):** Expected headline +0.4% MoM, core +0.3%; hot print → yields spike → growth/semis pressure → no new entries; cool print → yields ease → AVGO/JPM window opens on CPI Sep 11
+- **Tomorrow Sep 11 8:30am ET — CPI August:** KEY yield gate trigger for AVGO/JPM entry
+- **Sep 16:** FOMC rate decision — hike probability elevated after NFP +162K; quiet period begins
+
+#### TSMC August 2026 Revenue — MASSIVE BEAT (KEY CATALYST)
+- **Revenue:** NT$514.806B = **$16.35B**, +53.3% YoY (+10.1% MoM) — BEAT (July was +44.7% YoY = $14.83B)
+- **Jan–Aug cumulative:** NT$3,386.87B = $107.45B, +39.3% YoY
+- **Implication:** AI foundry demand accelerating; thesis reinforced; TSM likely to push higher intraday
+- **+15% tighten trigger:** $458.57 — from premarket $434.88, only +5.5% (~$23.69) away; watch closely intraday
+- **Next earnings:** Oct 15, 2026
+
+#### Other Catalysts Today
+- **Apple event (10am PT):** Folding iPhone + touch-screen MacBook expected; AAPL positive reaction could support broader tech
+- **Brent $101:** First time above $100 since July; inflation re-acceleration narrative intensifying
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** TSMC Aug revenue +53.3% YoY = thesis massively reinforced. Premarket ~$434.88. Watch intraday for push to $458.57 (+15% tighten trigger → tighten trail to 7%). Stop HWM $444.29, buffer 8.07% safe. Dividend ex-Sep 16 (6 days) — $1.114/share × 23 = $25.62. NO manual action — let position run and auto-tighten.
+2. **AVGO — POST-CPI WATCHLIST (Sep 12 earliest):** P/E ~28x (passes yield gate ✓); blocked today by PPI binary + risk-off open + oil at $101. Re-evaluate Sep 12 open if CPI cool (yield dips toward 4.5%). Entry: gap-hold >$370, stop 10% trail GTC, target $430–445, R:R 2:1.
+3. **AAPL — EVENT WATCHLIST (Sep 12 earliest):** P/E ~28x (passes yield gate ✓); Apple product event today (folding iPhone/touch MacBook); if strong price reaction today, entry watchlist Sep 12 post-CPI. Entry: ~$240+ break on volume, stop −8%, target $270+, R:R 2.5:1. Blocked today — PPI binary.
+
+#### Risk Factors
+- **Brent $101 (top risk):** Sustained above $100 locks in FOMC hike Sep 16 → multiple compression on growth; could weigh on TSM intraday despite revenue beat
+- **PPI +0.4% MoM expected (8:30am ET):** Hot print (≥+0.4%) → yields spike → growth sell-off; cool print (<+0.3%) → relief rally
+- **TSM stop proximity watch:** HWM $444.29; if TSM rallies on revenue and re-tests $444, new HWM forms → stop auto-advances → buffer narrows on any reversal
+- **VIX 16.60:** Elevated vs week open; market less complacent; confirms cautious posture
+- **Acute deployment gap:** 10.1% deployed vs 75–85% target; no quality entries today (PPI binary + oil at $101 + yield gate 4.80%) — forced activity = binary risk
+- **FOMC Sep 16:** Higher-for-longer entrenched; hike probability rising
+
+#### Decision: **HOLD**
+- **TSM:** HOLD; revenue thesis massively reinforced (+53.3% YoY). Watch intraday for $458.57 tighten trigger. No manual action.
+- **No new positions:** PPI binary at 8:30am ET + Brent $101 + yield gate 4.80% — environment not right
+- **AVGO:** Post-CPI watchlist; earliest viable Sep 12 if CPI cool
+- **AAPL:** Post-event/CPI watchlist; earliest viable Sep 12
+- **JPM:** Post-CPI watchlist; entry ~$280–285
+- **AMAT, PANW:** BLOCKED — yield gate (P/E >40, yield 4.80% >4.5%)
+- **Energy (OXY, XOM):** BLOCKED — 2 failed trade rule
+- **Weekly trades: 0/3 used** — capacity available; patience > activity
+- **Next triggers:** PPI 8:30am ET today; TSMC revenue-driven TSM intraday run; CPI Sep 11 8:30am ET (yield gate release); FOMC Sep 16; TSM dividend ex-Sep 16
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
+
