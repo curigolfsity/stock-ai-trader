@@ -7666,3 +7666,12 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
 
+
+#### Midday Addendum — 2026-09-10 (~12:00 PM ET)
+- **PPI Aug result (8:30am ET):** Headline +0.4% MoM (in-line), core +0.2% MoM (below +0.3% est — mild positive), YoY 5.4% (vs 5.3% est — slight miss); mixed overall, not a disaster
+- **FOMC hike probability:** Jumped to 74% (from 62%) on PPI — yield gate remains firmly active; no new entries
+- **TSM $431.51 (−0.88% intraday):** Recovered from morning low $427.80; resilience on TSMC Aug revenue beat (+53.3% YoY = $16.35B); thesis intact; stop buffer 7.34% (HWM $444.29, stop $399.861) — safe
+- **+15% tighten trigger:** $458.57 (still $27.06 away, +6.27%) — not triggered today
+- **Yield gate active:** 10-yr elevated post-PPI; AVGO/AMAT/PANW blocked; no new entries
+- **CPI Sep 11 (tomorrow 8:30am ET):** Key gate event — cool print could release AVGO/JPM watchlist
+- **No action taken.** FOMC Sep 16; TSM dividend ex-Sep 16.

@@ -4063,3 +4063,37 @@ All candidates blocked or deferred. PPI binary at 8:30am ET; Brent $101 (broke $
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $427.80 | +$667.89 (+7.28%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; $18.75-20B capex; 3nm ramp; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
 
 _No trades executed. TSM +7.28% unrealized; −1.74% intraday on broad risk-off (PPI binary + Brent $101). TSMC Aug revenue +53.3% YoY massively reinforces thesis. Stop buffer 6.53% safe (HWM $444.29, stop $399.861). All new entries blocked: PPI binary 8:30am ET; yield gate 4.80% (AVGO/AMAT/PANW blocked); AAPL/JPM/AVGO deferred to post-CPI Sep 12. Weekly: 0/3 trades. Next: PPI 8:30am ET today; CPI Aug Sep 11 8:30am ET (yield gate release for AVGO/JPM); FOMC Sep 16; dividend ex-Sep 16. Watch TSM $458.57 (+15%) tighten trigger intraday._
+
+### Midday Scan — 2026-09-10 (Day 93, Thursday — Week 19 Day 4)
+
+- **Account (API):** Equity ~$98,534 est. | Cash $88,619.25 (89.9%) | Day P&L: −$88.49 (−0.09%) intraday | Phase P&L: ~−$1,466 (−1.47%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $431.5125 | Entry $398.76 | Unrealized +$753.31 (+8.21%) | Intraday −$88.49 (−0.88%) | Stop 265e7f23: HWM $444.29 | Stop $399.861 | Buffer $31.65 (7.34% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +8.21% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +8.21% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $444.29 | stop $399.861 (10% trail) | buffer 7.34% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM −0.88% intraday: broad risk-off (PPI in-line; FOMC hike probability rose to 74%); no company-specific negative news ✓
+- PPI Aug: headline +0.4% MoM (in-line), core +0.2% MoM (better than feared +0.3%), YoY 5.4% (slight miss vs 5.3%) — mixed, not a disaster ✓
+- TSMC Aug revenue +53.3% YoY ($16.35B) — thesis massively reinforced; AI foundry demand accelerating ✓
+- Stop HWM $444.29, stop $399.861 — buffer $31.65 (7.34% > 3% min) ✓
+- Dividend $1.114/share ex-Sep 16 (6 days) — hold through confirmed ✓
+- Yield gate: 10-yr elevated; FOMC hike probability 74% → yield gate remains active (>4.5%) ✓
+
+#### Step 6 — Intraday Research: PPI Result
+- PPI Aug headline +0.4% MoM (in-line vs +0.4% est); core +0.2% MoM (softer than +0.3% est — mild positive)
+- YoY 5.4% (slightly above 5.3% est) — still far above Fed's 2% target
+- FOMC Sep 16 hike probability: 74% (up from 62%) — yield gate firmly active
+- TSM recovered from morning low $427.80 to $431.51 — intraday resilience on thesis confirmation (revenue beat)
+- No sharp/unexplained TSM move warranting deeper research; −0.88% consistent with broad market risk-off
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $431.51 | +$753.31 (+8.21%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
+
+_No action taken. TSM +8.21% unrealized; −0.88% intraday on risk-off post-PPI. PPI Aug: headline in-line (+0.4%), core better than feared (+0.2%); FOMC hike probability 74% — yield gate active. TSMC Aug revenue +53.3% YoY confirms thesis. Stop buffer 7.34% safe (HWM $444.29, stop $399.861). All new entries blocked: yield gate active; oil $101+; CPI Sep 11 binary. Weekly: 0/3 trades. Next: CPI Aug Sep 11 8:30am ET (yield gate release trigger for AVGO/JPM); FOMC Sep 16; TSM dividend ex-Sep 16; watch $458.57 (+15%) tighten trigger._
