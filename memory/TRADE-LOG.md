@@ -4097,3 +4097,12 @@ _No trades executed. TSM +7.28% unrealized; −1.74% intraday on broad risk-off 
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $431.51 | +$753.31 (+8.21%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
 
 _No action taken. TSM +8.21% unrealized; −0.88% intraday on risk-off post-PPI. PPI Aug: headline in-line (+0.4%), core better than feared (+0.2%); FOMC hike probability 74% — yield gate active. TSMC Aug revenue +53.3% YoY confirms thesis. Stop buffer 7.34% safe (HWM $444.29, stop $399.861). All new entries blocked: yield gate active; oil $101+; CPI Sep 11 binary. Weekly: 0/3 trades. Next: CPI Aug Sep 11 8:30am ET (yield gate release trigger for AVGO/JPM); FOMC Sep 16; TSM dividend ex-Sep 16; watch $458.57 (+15%) tighten trigger._
+
+---
+
+### Sep 10 — EOD Snapshot (Day 93, Thursday — Week 19 Day 4)
+**Portfolio:** $98,485.91 | **Cash:** $88,619.25 (89.9%) | **Day P&L:** −$146.62 (−0.15%) | **Phase P&L:** −$1,514.09 (−1.51%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $428.99 | −1.46% | +$695.18 (+7.58%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
+**Notes:** Day 93, Thursday (Week 19 Day 4) — full session close. TSM −1.46% intraday (from $435.36 to $428.99) on broad market risk-off; unrealized P&L +$695.18 (+7.58%) intact, stop buffer $29.12 (6.79% > 3% min). PPI Aug: headline +0.4% MoM (in-line), core +0.2% MoM (better than feared); FOMC Sep 16 hike probability 74% — yield gate remains active (>4.5%). TSMC Aug revenue +53.3% YoY ($16.35B) reinforces thesis. No trades today (0/3 week cap). Capital deployed 10.0%. Key upcoming: CPI Aug Sep 11 8:30am ET (yield gate release trigger for AVGO/JPM if 10-yr breaks below 4.5%); FOMC Sep 16; TSM dividend ex-date Sep 16 — hold through. Next tighten trigger: +15% at $458.57. Phase P&L: −$1,514.09 (−1.51%) vs $100,000 starting equity.
