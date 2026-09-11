@@ -4183,3 +4183,12 @@ _No trades executed. TSM +7.98% unrealized; +0.60% intraday. CPI Aug 2026 ~in-li
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $435.09 | +$835.59 (+9.11%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
 
 _No action taken. TSM +9.11% unrealized; +1.65% intraday on CPI in-line (headline 3.4% YoY). Core CPI +0.3% MoM slightly hot; FOMC hike probability ~90%; 10-yr yield 4.91% (touched 4.954%). Yield gate firmly ACTIVE — all new entries blocked. TSM thesis intact: AI foundry demand, TSMC Aug rev +53.3% YoY. Stop buffer 8.09% (HWM $444.29, stop $399.861). Weekly: 0/3 trades. Next: FOMC Sep 16 (rate decision); TSM dividend ex-Sep 16; TSM +15% tighten trigger $458.57 (+5.39% away)._
+
+---
+
+### Sep 11 — EOD Snapshot (Day 94, Friday — Week 19 Day 5)
+**Portfolio:** $98,560.66 | **Cash:** $88,619.25 (89.9%) | **Day P&L:** +$96.72 (+0.10%) | **Phase P&L:** −$1,439.34 (−1.44%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $432.24 | +0.98% | +$769.93 (+8.39%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
+**Notes:** Day 94, Friday (Week 19 Day 5) — week close. TSM +0.98% intraday to $432.24, resilient post-CPI: headline +3.4% YoY (in-line), core +0.3% MoM (slightly hot). 10-yr yield 4.91%, touched 4.954% intraday — highest since Oct 2023. FOMC Sep 16 hike probability ~90%; yield gate firmly ACTIVE. Unrealized +$769.93 (+8.39%); stop buffer $32.37 (7.49% safe, HWM $444.29). 0 trades this week (0/3 cap). TSM dividend ex-Sep 16 — hold through. AI foundry thesis intact (TSMC Aug rev +53.3% YoY). Phase P&L: −$1,439.34 (−1.44%) vs $100,000 starting equity. Week 19 closed: 0 new entries, 1 position held, yield gate blocked all candidates. Next: FOMC Sep 16 (rate decision + TSM ex-div); watch $458.57 (+15% tighten trigger); yield gate release at ≤4.5% for AVGO/AMAT.
