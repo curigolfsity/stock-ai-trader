@@ -954,3 +954,60 @@ Rule adherence A (zero violations; all gates correctly applied; Jackson Hole har
 Rule adherence A (all gates correctly applied; NFP gate held; PANW and AVGO correctly PASSED; T+0 stop habit sustained; no violations), risk management A (stop buffer 5.19%–8.30% all week; no cut triggers reached; no thesis breaks; automation intact), relative performance C+ (bot +0.22% vs S&P ~+0.10% = +0.12% outperformance — positive but marginal; TSM's Friday rally vs. index held near highs; 90% cash was defensive on Iran-strike Monday; structural deployment gap remains unresolved). Phase P&L: −$1,531.46 (−1.53%) after 18 weeks.
 
 ---
+
+## Week ending 2026-09-11
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,468.54 (Fri Sep 4 EOD) |
+| Ending portfolio | $98,593.60 (Fri Sep 11 live) |
+| Week return | +$125.06 (+0.13%) |
+| S&P 500 week | ~−0.60% (~7,748 Sep 4 → ~7,701 Sep 11) |
+| Bot vs S&P | +0.73% |
+| Trades | 0 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TSM | $398.76 (Aug 3) | $433.67 | +$802.87 (+8.75%) | $399.861 (10% trail GTC, HWM $444.29, order 265e7f23) — buffer 7.70% ✓ |
+
+### What Worked
+- TSMC Aug 2026 revenue +53.3% YoY ($16.35B, cumulative Jan–Aug +39.3%) — AI foundry thesis reinforced at highest monthly growth rate in 2+ years; position thesis strongest since Aug 3 entry
+- TSM CPI-day resilience (+0.98% Sep 11 vs. mixed broad market) — AI foundry narrative decoupling from rate-sensitive growth names as 10-yr approached 5%; P/E ~28 insulating position from yield compression
+- PPI and CPI binary hard blocks correctly enforced — no entries on or before macro binary days; forced patience protected capital in a risk-off week
+- Stop buffer healthy all week: 6.53% trough (Sep 10 at $428.99) → 8.09% post-CPI midday; HWM $444.29 continuously protecting gains; no manual cut triggered
+- Bot outperformed S&P 500 by +0.73% — 3rd consecutive week of positive relative performance; 90% cash acted as natural hedge in a down-market week
+
+### What Didn't Work
+- 90% cash — 20th consecutive week without reaching the 75–85% deployment target; structural under-deployment is the dominant phase-level drag
+- 0/3 weekly trade capacity unused — 10-yr yield surged from 4.66% (Sep 7) to 4.95% intraday (Sep 11, highest since Oct 2023), blocking all P/E >40 names; even in-line CPI failed to release the gate
+- FOMC hike probability jumped 62% → 90% over the week — yield gate not only active but tightening; path to AVGO/AMAT/PANW via yield normalization is extending
+- TSM HWM $444.29 not advanced since Sep 8 — 3 consecutive below-peak sessions; stop auto-ratchet stalled; next floor advance requires new ATH above $444.29
+- Phase P&L −$1,439.34 (−1.44%) after 19 weeks — two realized losses (ISRG −$1,432, ASML −$1,452) still exceed the one realized win (CAT +$1,900)
+
+### Key Lessons
+- CPI headline in-line (+3.4% YoY) with slightly hot core (+0.3% vs +0.2% est) was enough to push FOMC hike probability to 90% and 10-yr to 4.954% — yield gate release requires a genuinely cool CPI surprise, not merely in-line; AVGO/AMAT/PANW will stay blocked until post-FOMC and several weeks of softening data
+- TSM's +0.98% CPI-day response vs. a mixed broad market confirms AI-foundry demand is structurally rate-insensitive; market differentiating TSM (real AI capex demand, P/E ~28) from rate-sensitive growth software/cloud
+- 10-yr approaching 5% is qualitatively different from 4.5%–4.7%: forced deployment at 4.95% yield + 90% hike probability is the error; patience until post-FOMC clarity is correct strategy, not failure
+
+### Adjustments for Next Week
+- **FOMC Sep 16 hard block:** No new entries Sep 15–17; earliest viable entry window Sep 18+; if dovish surprise (hold) → yields may ease toward 4.5% → re-run entry gates for AVGO/JPM Sep 18; if hike → yields spike → extend patience further
+- **TSM:** HOLD; verify stop 265e7f23 ACTIVE at Mon open; dividend ex-Sep 16 ($1.114/sh × 23 = $25.62 capture) — expected −$1.114/sh price adjustment on ex-div date is NOT a thesis break; watch $458.57 (+15% tighten trigger → 7% trail); if TSM post-FOMC rally clears HWM $444.29 → stop auto-advances; do not tighten manually
+- **Post-FOMC candidates (Sep 18+):** AVGO (~$357, entry zone $370+, need 2 sustained yield closes <4.5%); JPM (P/E ~12, entry $280–285, viable at any yield level post-clarity); AAPL (~$240+, P/E ~28, post-Apple-event consolidation watching)
+- **Yield gate:** 10-yr at 4.91–4.95%; AVGO/AMAT/PANW remain blocked; JPM viable post-FOMC if yield settles; TSM P/E ~28 unrestricted regardless of yield level
+- **Deployment:** 20 consecutive weeks at 90% cash; FOMC clarity + dividend capture = first clean new-entry window in weeks; diversification is the priority but no forcing into a hawkish-cycle intraday
+
+### Overall Grade: B
+Rule adherence A (all binary gates enforced; no entry violations; TSM stop active and verified daily; T+0 stop habit from Aug 3 sustained; no process failures), risk management A (stop buffer 6.53%–8.09% all week; no cut triggers reached; HWM $444.29 protecting gains; no manual cuts needed; thesis intact), relative performance B+ (bot +0.13% vs S&P ~−0.60% = +0.73% outperformance; 3rd consecutive positive relative week; TSM's AI-foundry rate-insensitivity is the alpha mechanism; 90% cash structural gap remains unresolved). Phase P&L: −$1,439.34 (−1.44%) after 19 weeks.
+
+---

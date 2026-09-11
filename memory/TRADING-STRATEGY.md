@@ -37,6 +37,7 @@ Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 - Catalyst documented in today's RESEARCH-LOG
 - Instrument is a stock (not an option)
 - 10-year yield sustained >4.5% → hold-only mode for high-multiple growth names (P/E >40); defer new growth entries until yield breaks below 4.5% for 2+ consecutive sessions
+- FOMC meeting window (2 sessions before decision through day of decision): no new entries; earliest entry = session after decision
 
 ## Sell-Side Rules
 - Unrealized loss <= -7%: close immediately
