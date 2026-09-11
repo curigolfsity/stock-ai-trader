@@ -7675,3 +7675,63 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Yield gate active:** 10-yr elevated post-PPI; AVGO/AMAT/PANW blocked; no new entries
 - **CPI Sep 11 (tomorrow 8:30am ET):** Key gate event — cool print could release AVGO/JPM watchlist
 - **No action taken.** FOMC Sep 16; TSM dividend ex-Sep 16.
+
+---
+
+### Pre-Market Research — 2026-09-11 (Day 94, Friday — Week 19 Day 5)
+
+#### Account Snapshot
+- **Equity:** $98,493.15 | **Cash:** $88,619.25 (89.9%) | **Daytrade count:** 0 | **Weekly trades:** 0/3
+- **Phase P&L:** ~−$1,507 (−1.51% vs $100,000 starting equity)
+- **TSM (API):** 23 shares @ $398.76 avg | Current $429.30 | Unrealized +$702.42 (+7.66%) | Intraday +$29.21 (+0.30%)
+- **Stop 265e7f23:** HWM $444.29 | Stop $399.861 | Buffer ~$29.44 (6.86% > 3% min) ✓
+- **Capital deployed:** 10.0% (vs 75–85% target — severely under-deployed; blocked by yield gate + oil + CPI binary)
+
+#### Market Context
+- **WTI crude:** ~$102.59/bbl (+0.11%)
+- **Brent crude:** ~$106.11/bbl (−1.41% from prior day; elevated above $100; Iran war premium sustained)
+- **SPX futures:** +0.17% premarket (muted; CPI-binary hold pattern)
+- **VIX:** 17.84 (+8.38%) — elevated uncertainty ahead of 8:30am CPI print
+- **10-yr yield:** ~4.96% (UP from 4.80% yesterday; approaching 5% barrier; yield gate ACTIVE and tightening)
+- **FOMC Sep 16 hike probability:** ~74% (up from 62% pre-PPI yesterday)
+
+#### Economic Calendar Today
+- **8:30am ET — CPI August 2026 (THE event):** Street est 3.4% YoY | Nowflation sealed call 3.36% (mildly cool) | Core est +0.4% MoM
+  - **Cool (≤3.3%):** Yields pull back from 5% → potential gate relief; watch 10-yr break below 4.5%
+  - **In-line (3.4%):** Yields sticky near 5%; yield gate locked; FOMC hike Sep 16 near-certain
+  - **Hot (≥3.5%):** Yields spike through 5%; TSM pressure; severe growth multiple compression
+
+#### Sector Momentum YTD (as of early Sep 2026)
+- **Energy:** OUTPERFORMING — highest relative strength; Iran war premium + OPEC cuts
+- **Technology:** UNDERPERFORMING YTD (down ~8% from highs); AI demand bifurcation: semis (TSMC) strong, software lagging
+- **Financials:** FAIRLY VALUED / positive revisions; yield curve steepening benefit; JPM watchlist viable
+
+#### TSM News
+- No new company-specific news today
+- Aug 2026 revenue +53.3% YoY = $16.35B (reported Sep 5) — thesis intact
+- Dividend $1.114/share ex-Sep 16 (5 days) — hold through
+- +15% tighten trigger: $458.57 (current +6.82% away; watch if CPI cool triggers tech rally)
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** Stop buffer 6.86% safe. Thesis intact on AI foundry demand + Aug revenue beat. No action — let position run. Watch $458.57 tighten trigger intraday if CPI sparks tech rally.
+2. **JPM — POST-CPI WATCHLIST (Sep 12 earliest):** P/E ~12x; Financials sector outperforming on yield curve. Entry ~$280–285, stop −8%, target $310+, R:R ~2.5:1. Viable only if CPI cool AND yields drop meaningfully.
+3. **AVGO — BLOCKED (yield gate):** 10-yr at 4.96% — needs to break below 4.5% (46bps drop). Even a cool CPI print unlikely to move yields that far. Remain on watchlist; re-evaluate after FOMC Sep 16.
+
+#### Risk Factors
+- **CPI binary at 8:30am ET (TOP RISK):** Hot print (≥3.4-3.5%) → yields spike through 5% → FOMC hike locked → growth/tech sell-off; cold print → modest relief but yield gate unlikely to fully clear 4.5% today
+- **10-yr yield approaching 5%:** If breached, could trigger bond-market stress event; high-multiple names crushed
+- **Brent $106 (Iran war premium):** Sustained above $100 = inflation re-acceleration narrative; FOMC hawkish
+- **VIX 17.84:** Pre-CPI fear premium elevated; sharp intraday swings expected post-print
+- **FOMC Sep 16 (5 days):** Rate decision looming; 74% hike probability; quiet period already underway
+- **TSM deployment gap:** 10% deployed vs 75-85% target; inability to deploy = continued underperformance risk vs SPX
+
+#### Decision: **HOLD**
+- **TSM:** HOLD; stop buffer intact, thesis reinforced. No manual action.
+- **No new positions:** CPI binary + 10-yr at 4.96% + Brent $106 + FOMC in 5 days = wrong environment to add risk
+- **AVGO/AMAT/PANW:** BLOCKED — yield gate (4.96% >> 4.5% threshold); clear only if 10-yr drops sharply
+- **JPM:** Post-CPI watchlist — monitor 10-yr post-print; only actionable Sep 12 if yield drops to ~4.6-4.7%
+- **Energy (OXY, XOM):** BLOCKED — 2 failed trade rule remains
+- **Weekly trades: 0/3** — capacity available; patience > activity
+- **Next triggers:** CPI 8:30am ET today (yield gate release); FOMC Sep 16; TSM dividend ex-Sep 16; TSM +15% tighten $458.57
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
