@@ -7735,3 +7735,12 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Next triggers:** CPI 8:30am ET today (yield gate release); FOMC Sep 16; TSM dividend ex-Sep 16; TSM +15% tighten $458.57
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+#### Midday Addendum — 2026-09-11 (~12:00 PM ET)
+- **CPI Aug 2026 result (8:30am ET):** Headline +0.4% MoM, +3.4% YoY (in-line); core +0.3% MoM (est +0.2% — slightly hot); core annual 2.4% (in-line)
+- **FOMC hike probability:** Jumped to ~90% (from 74%) — yield gate LOCKED; no path to new growth entries before FOMC Sep 16
+- **10-yr yield:** 4.91% (touched 4.954% intraday, highest since Oct 2023) — 4.5% gate threshold now ~46bps away; CPI hot core ensures no gate relief today
+- **TSM $435.09 (+1.65% intraday):** Resilience on CPI in-line headline; AI-foundry thesis decoupling from rate-sensitive growth; stop buffer 8.09% (HWM $444.29, stop $399.861) — safe
+- **Yield gate impact:** AVGO/AMAT/PANW remain blocked (yield gate >>4.5%); JPM deferred (yields not dropping); energy blocked (sector fail rule)
+- **+15% tighten trigger:** $458.57 (need +5.39% from $435.09) — watch FOMC reaction Sep 16 for potential catalyst
+- **No action taken.** Thesis intact. Next: FOMC Sep 16 rate decision (90% hike priced); TSM dividend ex-Sep 16; watch $458.57 tighten trigger.
