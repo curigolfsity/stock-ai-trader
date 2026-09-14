@@ -4192,3 +4192,43 @@ _No action taken. TSM +9.11% unrealized; +1.65% intraday on CPI in-line (headlin
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $432.24 | +0.98% | +$769.93 (+8.39%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
 **Notes:** Day 94, Friday (Week 19 Day 5) — week close. TSM +0.98% intraday to $432.24, resilient post-CPI: headline +3.4% YoY (in-line), core +0.3% MoM (slightly hot). 10-yr yield 4.91%, touched 4.954% intraday — highest since Oct 2023. FOMC Sep 16 hike probability ~90%; yield gate firmly ACTIVE. Unrealized +$769.93 (+8.39%); stop buffer $32.37 (7.49% safe, HWM $444.29). 0 trades this week (0/3 cap). TSM dividend ex-Sep 16 — hold through. AI foundry thesis intact (TSMC Aug rev +53.3% YoY). Phase P&L: −$1,439.34 (−1.44%) vs $100,000 starting equity. Week 19 closed: 0 new entries, 1 position held, yield gate blocked all candidates. Next: FOMC Sep 16 (rate decision + TSM ex-div); watch $458.57 (+15% tighten trigger); yield gate release at ≤4.5% for AVGO/AMAT.
+
+### Midday Scan — 2026-09-14 (Day 97, Monday — Week 20 Day 1)
+
+- **Account (API):** Equity ~$98,280.29 | Cash $88,619.25 (90.2%) | Day P&L: −$303.49 (−0.31%) | Phase P&L: ~−$1,719.71 (−1.72%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $420.045 | Entry $398.76 | Unrealized +$489.56 (+5.34%) | Intraday −$303.49 (−3.05%, recovered from open low $417.94) | Stop 265e7f23: HWM $444.29 | Stop $399.861 | Buffer $20.18 (4.80% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +5.34% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +5.34% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $444.29 | stop $399.861 (10% trail) | buffer 4.80% > 3% min ✓
+
+#### Step 5 — Hard-Check Gate: NO TRADES
+
+| Check | Candidate | Value | Threshold | Status |
+|-------|-----------|-------|-----------|--------|
+| FOMC blackout (Sep 14) | ALL | Sep 14 = 2 sessions before Sep 16 | No new entries | ✗ BLOCKED |
+| Yield gate (5.00% >4.5%) | AVGO | 5.00% (touched intraday) | ≤4.5% | ✗ BLOCKED |
+| Yield gate (5.00% >4.5%) | AMAT | 5.00% (touched intraday) | ≤4.5% | ✗ BLOCKED |
+| FOMC window | JPM | Sep 14 blocked | Sep 17 earliest | ✗ DEFERRED |
+
+All candidates blocked. FOMC blackout Sep 14–15; 10-yr yield touched 5.00% intraday (highest since Oct 2023); hike probability 86.7%.
+
+#### Step 6 — Thesis Check: INTACT (with new risks logged)
+- TSM −3.05% intraday to $420.045 (recovered from open low $417.94); chipmakers sector −3.15% on AI slowdown narrative ✓ (macro-driven, not TSMC-specific)
+- **NEW RISK:** AI leaders calling for development slowdown — sector headwind; assessment: TSMC Aug revenue $16.35B (+53.3% YoY) is actual shipped production, not speculative orders; thesis intact
+- **NEW:** Saudi East-West pipeline shutdown — Brent >$107; inflation persistence reinforced; yield gate tightening
+- 10-yr yield touched 5.00% intraday — yield gate firmly active; gate more distant than ever
+- FOMC Sep 16 hike probability 86.7% (from 60% pre-market) — hawkish consensus hardening
+- Stop HWM $444.29, stop $399.861 — buffer $20.18 (4.80% > 3% min) ✓ (improved from 4.33% at open as TSM recovered)
+- Dividend $1.114/share ex-Sep 16 (2 days) — HOLD through Sep 15 close confirmed ✓
+- +15% tighten trigger: $458.57 (+9.17% from $420.045) — not triggered
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $420.045 | +$489.56 (+5.34%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
+
+_No trades executed. TSM −3.05% intraday (sector-wide chipmaker sell-off on AI slowdown narrative); recovered from open low $417.94 to $420.045. New risks logged: AI development slowdown calls (thesis monitored — actual TSMC production demand intact), Saudi East-West pipeline shutdown (Brent >$107). 10-yr yield touched 5.00% intraday — yield gate firmly active. FOMC hike probability 86.7%; FOMC blackout Sep 14–15. Stop buffer 4.80% safe. Weekly: 0/3 trades. Next: FOMC Sep 16 rate decision (25bps hike); TSM ex-div Sep 16 ($25.62); yield gate release at ≤4.5%; post-FOMC candidates (JPM, AVGO) re-evaluate Sep 17. CRITICAL: if TSM falls below ~$412 buffer approaches 3% danger zone._

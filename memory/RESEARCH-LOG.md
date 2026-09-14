@@ -7844,3 +7844,16 @@ All candidates blocked. FOMC blackout Sep 14–15; yield gate 4.92% >>4.5%; TSM 
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.94 | +$441.15 (+4.81%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
 
 _No trades executed. TSM −3.53% intraday to $417.94 on FOMC risk-off + Brent $106.74 (Iran/Houthi oil premium). Stop buffer narrowed to 4.33% (was 4.57% pre-market) — still above 3% min but FOMC volatility (Sep 16) is key risk. All new entries blocked: FOMC blackout Sep 14–15; yield gate 4.92% (AVGO/AMAT blocked); JPM deferred Sep 17; energy blocked. TSMC AI foundry thesis intact. Weekly: 0/3 trades. Next: FOMC Sep 16 rate decision (25bps hike expected); TSM ex-div Sep 16 ($25.62); yield gate release at ≤4.5%; post-FOMC candidates (JPM, AVGO) re-evaluate Sep 17. CRITICAL: if TSM falls below ~$412 buffer approaches 3% danger zone._
+
+### Midday Addendum — 2026-09-14 (Day 97, Monday — Week 20 Day 1)
+
+**New Developments Since Pre-Market:**
+- **AI slowdown narrative (new risk):** Leaders of major AI companies called for development slowdown; chipmakers rout dragged TSM sector −3.15%. THESIS RISK: monitored. Assessment: TSMC Aug revenue +53.3% YoY is actual production shipments, not speculative AI orders — existing demand intact; no guidance cut from TSMC.
+- **Saudi Arabia East-West pipeline:** Temporarily shut after Houthi drone strike — Brent above $107, WTI >$102. Inflation persistence narrative reinforced.
+- **10-yr yield hit 5.00% intraday** (from 4.92% pre-market; highest since Oct 2023). Yield gate firmly active — no relief path today.
+- **FOMC Sep 16 hike probability: 86.7%** (up from ~60% pre-market; CME FedWatch).
+- **TSM advanced packaging capacity constraints** flagged by analysts — potential cap on upside; not an immediate thesis breaker.
+
+**TSM Midday:** $420.045 (recovered from market-open low of $417.94); stop buffer 4.80% (HWM $444.29, stop $399.861). Thesis intact; hold through ex-div Sep 16.
+
+_Sources: TradingKey (TSM market movers Sep 14), Yahoo Finance/TheStreet/Bloomberg (S&P 500 Sep 14), Schwab market update_
