@@ -4232,3 +4232,12 @@ All candidates blocked. FOMC blackout Sep 14–15; 10-yr yield touched 5.00% int
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $420.045 | +$489.56 (+5.34%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
 
 _No trades executed. TSM −3.05% intraday (sector-wide chipmaker sell-off on AI slowdown narrative); recovered from open low $417.94 to $420.045. New risks logged: AI development slowdown calls (thesis monitored — actual TSMC production demand intact), Saudi East-West pipeline shutdown (Brent >$107). 10-yr yield touched 5.00% intraday — yield gate firmly active. FOMC hike probability 86.7%; FOMC blackout Sep 14–15. Stop buffer 4.80% safe. Weekly: 0/3 trades. Next: FOMC Sep 16 rate decision (25bps hike); TSM ex-div Sep 16 ($25.62); yield gate release at ≤4.5%; post-FOMC candidates (JPM, AVGO) re-evaluate Sep 17. CRITICAL: if TSM falls below ~$412 buffer approaches 3% danger zone._
+
+---
+
+### Sep 14 — EOD Snapshot (Day 97, Monday — Week 20 Day 1)
+**Portfolio:** $98,355.61 | **Cash:** $88,619.25 (90.1%) | **Day P&L:** −$228.16 (−0.23%) | **Phase P&L:** −$1,644.39 (−1.64%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $423.32 | −2.29% | +$564.88 (+6.16%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
+**Notes:** Day 97, Monday (Week 20 Day 1) — week open. TSM −2.29% to $423.32 (from $433.24 Friday close); chipmaker sector weakness persisted into new week. 10-yr yield held near 5.00%; FOMC Sep 16 hike probability ~87%; yield gate ACTIVE. FOMC blackout Sep 14–15 — no new entries. Unrealized +$564.88 (+6.16%); stop buffer $23.46 (5.54% > 3% min) ✓. TSM dividend ex-Sep 16 ($1.114/share × 23 = $25.62) — holding through. No trades executed (0/3 week cap). Phase P&L: −$1,644.39 (−1.64%) vs $100,000 start. Next: FOMC Sep 16 rate decision (25bps hike expected); TSM ex-div Sep 16; post-FOMC re-evaluate JPM/AVGO/PANW Sep 17 if yield retreats; watch TSM $458.57 (+15% tighten trigger).
