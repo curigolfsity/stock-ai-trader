@@ -7805,3 +7805,42 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Next triggers:** FOMC Sep 16 rate decision; TSM ex-div Sep 16; yield gate release at ≤4.5%; post-FOMC candidates (JPM, AVGO) re-evaluate Sep 17
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+### Market-Open Scan — 2026-09-14 (Day 97, Monday — Week 20 Day 1)
+
+- **Account (API):** Equity $98,231.88 | Cash $88,619.25 (90.2%) | Day P&L: −$351.89 (−0.36%) | Phase P&L: −$1,768.12 (−1.77%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $417.94 | Entry $398.76 | Unrealized +$441.15 (+4.81%) | Intraday −$351.89 (−3.53%) | Stop 265e7f23: HWM $444.29 | Stop $399.861 | Buffer $18.08 (4.33% ✓ above 3% min)
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +4.81% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +4.81% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $444.29 | stop $399.861 (10% trail) | buffer 4.33% > 3% min ✓
+
+#### Step 5 — Hard-Check Gate: NO TRADES
+
+| Check | Candidate | Value | Threshold | Status |
+|-------|-----------|-------|-----------|--------|
+| FOMC blackout (Sep 14) | ALL | Sep 14 = 2 sessions before Sep 16 | No new entries | ✗ BLOCKED |
+| Yield gate (4.92% >4.5%) | AVGO (P/E ~28–42) | 4.92% | ≤4.5% | ✗ BLOCKED |
+| Yield gate (4.92% >4.5%) | AMAT (P/E ~42–48) | 4.92% | ≤4.5% | ✗ BLOCKED |
+| FOMC window | JPM | Sep 14 blocked | Sep 17 earliest | ✗ DEFERRED |
+| Sector rule | Energy (OXY/XOM) | 2 consecutive fails | 0 fails logged | ✗ BLOCKED |
+
+All candidates blocked. FOMC blackout Sep 14–15; yield gate 4.92% >>4.5%; TSM stop buffer narrowing (4.33%, was 4.57% pre-market — −3.53% intraday on FOMC jitters + Iran oil premium $106.74).
+
+#### Step 6 — Thesis Check: INTACT
+- TSM −3.53% intraday: broad market FOMC risk-off + Brent $106.74 (+2.9% today); no company-specific negative news ✓
+- TSMC Aug revenue +53.3% YoY = $16.35B — thesis intact; AI foundry demand accelerating ✓
+- Stop HWM $444.29, stop $399.861 — buffer $18.08 (4.33% > 3% min) ✓ (NARROWING — watch)
+- Dividend $1.114/share ex-Sep 16 (2 days) — HOLD through Sep 15 close confirmed ✓
+- +15% tighten trigger: $458.57 (+9.72% from $417.94) — not triggered
+- FOMC volatility risk: another ~$18 drop triggers GTC stop; buffer shrinking toward 3% danger zone
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.94 | +$441.15 (+4.81%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
+
+_No trades executed. TSM −3.53% intraday to $417.94 on FOMC risk-off + Brent $106.74 (Iran/Houthi oil premium). Stop buffer narrowed to 4.33% (was 4.57% pre-market) — still above 3% min but FOMC volatility (Sep 16) is key risk. All new entries blocked: FOMC blackout Sep 14–15; yield gate 4.92% (AVGO/AMAT blocked); JPM deferred Sep 17; energy blocked. TSMC AI foundry thesis intact. Weekly: 0/3 trades. Next: FOMC Sep 16 rate decision (25bps hike expected); TSM ex-div Sep 16 ($25.62); yield gate release at ≤4.5%; post-FOMC candidates (JPM, AVGO) re-evaluate Sep 17. CRITICAL: if TSM falls below ~$412 buffer approaches 3% danger zone._
