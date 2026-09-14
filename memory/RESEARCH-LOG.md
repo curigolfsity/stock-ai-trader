@@ -7744,3 +7744,64 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Yield gate impact:** AVGO/AMAT/PANW remain blocked (yield gate >>4.5%); JPM deferred (yields not dropping); energy blocked (sector fail rule)
 - **+15% tighten trigger:** $458.57 (need +5.39% from $435.09) — watch FOMC reaction Sep 16 for potential catalyst
 - **No action taken.** Thesis intact. Next: FOMC Sep 16 rate decision (90% hike priced); TSM dividend ex-Sep 16; watch $458.57 tighten trigger.
+
+---
+
+## 2026-09-14 — Pre-market Research (Day 97, Monday — Week 20 Day 1)
+
+### Account
+- Equity: $98,256.25 | Cash: $88,619.25 (90.2%) | Buying power: $93,437.75
+- Daytrade count: 0 | Weekly trades: 0/3 | Phase P&L: −$1,743.75 (−1.74%)
+- Deployed: $9,637 (9.8% — severely under-deployed; blocked by yield gate + FOMC window)
+
+### Positions
+| Ticker | Shares | Entry | Current | Unrealized | Intraday | Stop | Buffer |
+|--------|--------|-------|---------|------------|----------|------|--------|
+| TSM | 23 | $398.76 | $419.00 | +$465.52 (+5.08%) | −$327.52 (−3.29%) | $399.861 (HWM $444.29) | $19.14 (4.57% ✓) |
+
+### Market Context
+- **WTI:** ~$102.52 (+2.47%) — Iran conditioning Strait of Hormuz reopening on U.S. concessions; Houthi grip on Bab el-Mandeb tightening
+- **Brent:** ~$106.74 (open, +2.9% today) — Middle East supply shock compounding
+- **SPX E-Mini futures:** +0.47% premarket
+- **NQ E-Mini futures:** +0.94% premarket
+- **VIX:** ~16.75 (range 16.40–18.17 today; down from Friday's 17.84 — volatility easing slightly)
+- **10-yr yield:** ~4.92% (Friday close; no significant drop today)
+- **FOMC Sep 15–16:** Rate hike probability 56–90% (FedWatch ~60%; CPI hot core = market tail at 90%); decision Wed Sep 16
+
+### Economic Calendar Today
+- No major U.S. economic releases Sep 14
+- Sep 15: FOMC meeting begins (Day 1 of 2)
+- Sep 16: FOMC rate decision (25bps hike expected); TSM ex-dividend $1.114/share
+
+### Earnings Before Open
+- No major holdings reporting; 24 minor companies reporting today (not relevant)
+
+### TSM Thesis Check
+- No new negative company-specific news
+- AI chip demand narrative intact; TSMC Aug revenue +53.3% YoY ($16.35B) confirmed
+- Analyst 12-mo+ target: ~$600 (2027); recent insider buying surge noted
+- Ex-dividend Sep 16: $1.114/share × 23 shares = $25.62 — HOLD through Sep 15 close
+- TSM intraday −3.29% from $433.24 → $419: FOMC jitters + Iran oil premium weighing on growth names
+- Stop buffer narrowing: 4.57% (was 7-8% last week); still above 3% minimum ✓
+
+### Trade Ideas
+1. **TSM — HOLD (existing):** Stop buffer 4.57% safe (>3% min); thesis intact; dividend ex-Sep 16; no manual action needed. Watch for stop buffer approaching 3% if TSM falls below ~$412.
+2. **JPM — POST-FOMC WATCHLIST (Sep 17 earliest):** P/E ~12x; Financials sector momentum strong on yield curve. Entry ~$280–285, stop −8%, target $310+, R:R ~2.5:1. Viable only if post-FOMC yields drop toward 4.6–4.7% and gate approaches 4.5%.
+3. **AVGO — BLOCKED:** Yield gate (4.92% >> 4.5%); re-evaluate post-FOMC if yields pull back sharply.
+
+### Risk Factors
+- **FOMC Sep 16 (CRITICAL):** 25bps rate hike nearly priced; surprise hold = tech/growth rally; hike confirmation + hawkish dot plot = yield spike → TSM pressure and stop approach
+- **TSM stop buffer narrowing:** 4.57% buffer; another $19 drop triggers GTC stop at $399.861; FOMC volatility could reach this
+- **Iran/Hormuz escalation:** Oil sustained >$100 = inflation persistence narrative; FOMC hawkish bias reinforced
+- **10-yr yield 4.92%:** No yield gate relief expected today; gate locked through at least Sep 16
+- **TSM ex-div Sep 16:** Price typically drops ~dividend amount ($1.114) on ex-date; minor drag but stop buffer must absorb
+- **FOMC blackout window:** No new entries Sep 14 (today) or Sep 15; earliest = Sep 17
+
+### Decision: **HOLD**
+- **TSM:** HOLD; stop buffer intact at 4.57% ✓; thesis on AI foundry demand; dividend in 2 days; no manual action
+- **No new positions:** FOMC blackout window active (2 sessions before Sep 16 = today blocked); yield gate 4.92% >> 4.5%
+- **All candidates blocked:** AVGO/AMAT (yield gate); JPM (FOMC window); Energy (sector fail rule)
+- **Weekly trades: 0/3** — capacity available but no valid entries today
+- **Next triggers:** FOMC Sep 16 rate decision; TSM ex-div Sep 16; yield gate release at ≤4.5%; post-FOMC candidates (JPM, AVGO) re-evaluate Sep 17
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
