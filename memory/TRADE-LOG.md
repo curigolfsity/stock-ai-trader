@@ -4311,3 +4311,12 @@ _No trades executed. TSM +5.43% unrealized; +0.57% intraday. FOMC blackout Sep 1
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $413.17 | +$331.43 (+3.61%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
 
 _No action taken. TSM −1.16% intraday to $413.17 — broad chip sector sell-off (AI slowdown narrative: Amodei/Musk/Altman; FOMC tension); TSM outperforming sector (index −5.9%). Stop buffer WARNING: 3.22% — above 3% min but thin; danger zone <$411.86. Must hold through close for ex-div Sep 16 ($25.62). FOMC blackout active; no new entries. Thesis intact: TSMC foundry revenue real ($16.35B Aug +53.3% YoY), distinct from AI hype stocks. Weekly: 0/3 trades. Critical watch: if TSM closes below $412 → overnight buffer <3% danger → evaluate cut at Sep 16 open vs. GTC stop capture; FOMC Sep 16 2pm ET; ex-div Sep 16; yield gate 5.04%+ firmly active; watch $458.57 (+15% tighten)._
+
+---
+
+### Sep 15 — EOD Snapshot (Day 98, Tuesday — Week 20 Day 2)
+**Portfolio:** $98,151.26 | **Cash:** $88,619.25 (90.3%) | **Day P&L:** −$204.35 (−0.21%) | **Phase P&L:** −$1,848.74 (−1.85%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $414.54 | −0.83% | +$362.94 (+3.96%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
+**Notes:** Day 98, Tuesday (Week 20 Day 2) — FOMC blackout final session. TSM −0.83% to $414.54; chip/AI sector continued weakness (AI development slowdown narrative + FOMC pre-decision tension + Brent >$105 inflation). Stop buffer recovered to 3.54% from midday warning low of 3.22% ($413.17); above 3% minimum ✓. TSM ex-dividend tomorrow Sep 16 ($1.114/share × 23 = $25.62) — held through close ✓. FOMC rate decision Sep 16 2pm ET (25bps hike, ~87% probability) — critical event tomorrow; hawkish dot plot risk. 10-yr yield 5.04%+ — yield gate firmly ACTIVE; AVGO/AMAT blocked. No trades executed; 0/3 weekly cap. Phase P&L: −$1,848.74 (−1.85%) vs $100,000 start. Next: FOMC Sep 16 2pm ET decision; TSM ex-div Sep 16 ($25.62 credit); post-FOMC yield reaction; re-evaluate JPM/AVGO/PANW Sep 17 if yield retreats toward 4.5%; watch TSM $458.57 (+15% tighten trigger).
