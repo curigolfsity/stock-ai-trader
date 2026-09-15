@@ -7857,3 +7857,53 @@ _No trades executed. TSM −3.53% intraday to $417.94 on FOMC risk-off + Brent $
 **TSM Midday:** $420.045 (recovered from market-open low of $417.94); stop buffer 4.80% (HWM $444.29, stop $399.861). Thesis intact; hold through ex-div Sep 16.
 
 _Sources: TradingKey (TSM market movers Sep 14), Yahoo Finance/TheStreet/Bloomberg (S&P 500 Sep 14), Schwab market update_
+
+---
+
+### Pre-Market Research — 2026-09-15 (Day 98, Tuesday — Week 20 Day 2)
+
+#### Account Snapshot
+- **Equity:** $98,281.55 | **Cash:** $88,619.25 (90.1%) | **Long MV:** $9,662.30
+- **Phase P&L:** −$1,718.45 (−1.72%) vs $100,000 start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Positions:** 1/6
+- **TSM (API):** Price $420.10 | Entry $398.76 | Unrealized +$490.82 (+5.35%) | Intraday +$48.07 (+0.50%)
+- **TSM stop:** 265e7f23 | HWM $444.29 | Stop $399.861 | Buffer $20.24 (4.82% ✓ >3% min)
+
+#### Market Context
+- **WTI:** $102.81 (+1.40%); range $101.84–$103.41
+- **Brent:** $107.46 — sustained >$107; Houthi/Iran supply risk premium intact
+- **SPX futures:** −0.30% premarket — cautious, FOMC meeting day-1
+- **VIX:** 17.62 (+11.24%) — elevated, FOMC-driven fear premium
+- **10-yr yield:** 5.041% (premarket) — highest since 2007; jumped 8bps overnight
+- **FOMC:** Day-1 of 2-day meeting; decision Wed Sep 16 at 2:00 PM ET; 25bps hike (3.50%→3.75%) probability ~91%
+- **Economic data:** No major releases today (quiet calendar — all eyes on FOMC tomorrow)
+- **Earnings before open:** None significant
+
+#### TSM-Specific
+- TSM last close $418.01 (Sep 14 API); premarket ~$420.10 (+0.50%)
+- **Ex-dividend Sep 16 ($1.114/share × 23 = $25.62) — MUST HOLD through today's close** to capture dividend
+- No new negative company-specific news
+- Tariff risk: Commerce Secretary Lutnick's early-Sep semiconductor tariff comments remain an overhang
+- TSMC AI demand thesis intact: Aug revenue +53.3% YoY ($16.35B); Q3 earnings Oct 15
+
+#### Trade Ideas
+1. **TSM — HOLD (existing):** Stop buffer 4.82% safe; thesis intact; ex-div tomorrow ($25.62); no action. Watch: FOMC tomorrow — if TSM drops >$20 → stop approaches danger zone
+2. **JPM — POST-FOMC WATCHLIST (Sep 17 earliest):** P/E ~12x; financials benefit from sustained high yields; entry ~$280–285, stop −8%, target $310+, R:R ~2.5:1. Gate: yield gate release (≤4.5%) not needed — JPM is value/financials not growth-multiple; blocked only by FOMC window today
+3. **AVGO — BLOCKED:** Yield gate (5.04% >>4.5%); viable post-FOMC only if yields pull back sharply to near 4.5%; re-evaluate Sep 17+
+
+#### Risk Factors
+- **FOMC tomorrow (CRITICAL):** 25bps hike nearly priced; risk = hawkish dot plot projecting additional hikes → yield spike → TSM pressure → possible stop approach
+- **10-yr at 5.04%:** New multi-year high; yield gate further from release than ever; all growth entries locked
+- **TSM stop buffer 4.82%:** If FOMC triggers >5% sell-off in TSM tomorrow, stop at $399.861 could trigger; that outcome locks in +$23.09/share (+5.8%) gain
+- **Oil $107.46 Brent:** Inflation persistence narrative; reinforces hawkish Fed; no near-term relief
+- **TSM ex-div Sep 16:** Price adjustment ~$1.114 on open — minor but reduces buffer briefly
+- **Polymarket sentiment:** Only 32% chance SPX finishes up today
+
+#### Decision: **HOLD**
+- **TSM:** HOLD through close today — mandatory to capture $25.62 dividend; stop buffer safe at 4.82%
+- **No new entries:** FOMC blackout (Sep 14–15 = 2 sessions before decision) + yield gate 5.04%
+- **All candidates blocked:** JPM (FOMC window, re-eval Sep 17); AVGO/AMAT (yield gate); Energy (sector fail rule)
+- **Weekly trades: 0/3** — capacity available, no valid entries
+- **Next triggers:** FOMC Sep 16 rate decision + dot plot; TSM ex-div Sep 16; post-FOMC yield reaction; yield gate release target ≤4.5%; JPM/AVGO re-evaluate Sep 17
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
