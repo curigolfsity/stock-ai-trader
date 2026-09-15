@@ -4282,3 +4282,32 @@ All candidates blocked. FOMC decision Sep 16 2pm ET — Sep 15 is the second and
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $420.41 | +$497.95 (+5.43%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
 
 _No trades executed. TSM +5.43% unrealized; +0.57% intraday. FOMC blackout Sep 14–15 (decision Sep 16 2pm ET) — no new entries. 10-yr yield 5.041% (premarket highest since 2007); yield gate ACTIVE — AVGO/AMAT blocked; JPM deferred to Sep 17. TSM thesis intact; must hold through today's close for ex-div Sep 16 ($25.62). Stop buffer 4.89% safe. Weekly: 0/3 trades. Next: FOMC Sep 16 2pm ET (25bps hike, hawkish dot plot risk); TSM ex-div Sep 16; post-FOMC yield reaction; re-evaluate JPM/AVGO Sep 17 if yield retreats toward 4.5%._
+
+---
+
+### Midday Scan — 2026-09-15 (Day 98, Tuesday — Week 20 Day 2)
+
+- **Account (API):** Equity ~$98,122.16 | Cash $88,619.25 (90.3%) | Day P&L: −$233.45 (−0.24%) | Phase P&L: ~−$1,877.84 (−1.88%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $413.17 | Entry $398.76 | Unrealized +$331.43 (+3.61%) | Intraday −$111.32 (−1.16%) | Stop 265e7f23: HWM $444.29 | Stop $399.861 | Buffer $13.31 (3.22% > 3% min — ⚠️ WARNING: thin)
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +3.61% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +3.61% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $444.29 | stop $399.861 (10% trail) | buffer 3.22% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT (stop buffer WARNING)
+- TSM −1.16% intraday to $413.17 — broad chip sector sell-off (sector index −5.9%); TSM significantly outperforming ✓
+- **Sell-off driver:** Coordinated AI development slowdown calls (Anthropic CEO Dario Amodei + Musk + OpenAI CEO Sam Altman) + FOMC pre-decision tension + Brent >$105 inflation persistence
+- **NOT TSM-specific:** TSMC Aug revenue $16.35B (+53.3% YoY) = real production revenue; foundry demand thesis distinct from AI hype stock speculation ✓
+- Pre-ex-div positioning (Sep 16 ex-date $1.114/share) adding minor pressure — expected ✓
+- **⚠️ Stop buffer WARNING: 3.22%** — above 3% min but dangerously thin; danger zone triggered if TSM < ~$411.86 (3% above stop $399.861)
+- FOMC blackout Sep 14–15 — no new entries; decision Sep 16 2pm ET
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $413.17 | +$331.43 (+3.61%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 | $530–545 | 3.4:1 |
+
+_No action taken. TSM −1.16% intraday to $413.17 — broad chip sector sell-off (AI slowdown narrative: Amodei/Musk/Altman; FOMC tension); TSM outperforming sector (index −5.9%). Stop buffer WARNING: 3.22% — above 3% min but thin; danger zone <$411.86. Must hold through close for ex-div Sep 16 ($25.62). FOMC blackout active; no new entries. Thesis intact: TSMC foundry revenue real ($16.35B Aug +53.3% YoY), distinct from AI hype stocks. Weekly: 0/3 trades. Critical watch: if TSM closes below $412 → overnight buffer <3% danger → evaluate cut at Sep 16 open vs. GTC stop capture; FOMC Sep 16 2pm ET; ex-div Sep 16; yield gate 5.04%+ firmly active; watch $458.57 (+15% tighten)._

@@ -7907,3 +7907,14 @@ _Sources: TradingKey (TSM market movers Sep 14), Yahoo Finance/TheStreet/Bloombe
 - **Next triggers:** FOMC Sep 16 rate decision + dot plot; TSM ex-div Sep 16; post-FOMC yield reaction; yield gate release target ≤4.5%; JPM/AVGO re-evaluate Sep 17
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+#### Afternoon Addendum — 2026-09-15 Midday
+- **TSM midday:** $413.17 (−1.16% intraday from $418.01 close); stop buffer 3.22% — WARNING: thin
+- **Chip sector sell-off driver (confirmed):** Coordinated AI development slowdown statements from Anthropic CEO Dario Amodei, Elon Musk, OpenAI CEO Sam Altman → semiconductor index −5.9%; TSM significantly outperforming
+- **TSM thesis INTACT:** Decline macro/sector-driven, NOT TSMC-specific; TSMC foundry revenue ($16.35B Aug +53.3% YoY) is real production demand, not speculative AI hype
+- **Pre-ex-div positioning:** Institutional repositioning ahead of Sep 16 ex-date adds minor pressure — expected
+- **⚠️ Stop buffer 3.22%:** Above 3% min but thin; danger zone if TSM < $411.86; overnight rule triggers if close <3% buffer
+- **Decision: HOLD** — must hold through today's close for ex-div $25.62; no forced cut per rules; thesis intact
+- **FOMC tomorrow 2pm ET:** 25bps hike ~91% probability; hawkish dot plot tail risk; TSM may gap down on ex-div adjustment + rate hike; GTC stop remains in place
+
+_Addendum via WebSearch (Perplexity key not set)_
