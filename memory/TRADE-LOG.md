@@ -4320,3 +4320,37 @@ _No action taken. TSM −1.16% intraday to $413.17 — broad chip sector sell-of
 |--------|--------|-------|-------|---------|----------------|------|
 | TSM | 23 | $398.76 | $414.54 | −0.83% | +$362.94 (+3.96%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
 **Notes:** Day 98, Tuesday (Week 20 Day 2) — FOMC blackout final session. TSM −0.83% to $414.54; chip/AI sector continued weakness (AI development slowdown narrative + FOMC pre-decision tension + Brent >$105 inflation). Stop buffer recovered to 3.54% from midday warning low of 3.22% ($413.17); above 3% minimum ✓. TSM ex-dividend tomorrow Sep 16 ($1.114/share × 23 = $25.62) — held through close ✓. FOMC rate decision Sep 16 2pm ET (25bps hike, ~87% probability) — critical event tomorrow; hawkish dot plot risk. 10-yr yield 5.04%+ — yield gate firmly ACTIVE; AVGO/AMAT blocked. No trades executed; 0/3 weekly cap. Phase P&L: −$1,848.74 (−1.85%) vs $100,000 start. Next: FOMC Sep 16 2pm ET decision; TSM ex-div Sep 16 ($25.62 credit); post-FOMC yield reaction; re-evaluate JPM/AVGO/PANW Sep 17 if yield retreats toward 4.5%; watch TSM $458.57 (+15% tighten trigger).
+
+---
+
+### Market-Open Scan — 2026-09-16 (Day 99, Wednesday — Week 20 Day 3)
+
+- **Account (API):** Equity $98,221.75 | Cash $88,619.25 (90.2%) | Day P&L: +$86.25 (+0.09%) | Phase P&L: −$1,778.25 (−1.78%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $417.50 | Entry $398.76 | Unrealized +$431.02 (+4.70%) | Intraday +$86.25 (+0.91%) | Stop 265e7f23: HWM $444.29 | Stop $399.861 | Buffer $17.64 (4.22% > 3% min) ✓
+- **Ex-dividend TODAY:** $1.114/share × 23 = $25.62 captured (held through Sep 15 close ✓); stock pricing ex-div; cash credit pending
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +4.70% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +4.70% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $444.29, stop $399.861 (10% trail) ✓
+- Buffer: $17.64 (4.22% > 3% min) ✓
+
+#### Step 5 — Hard-Check Gate: NO TRADES
+
+| Check | Candidate | Value | Threshold | Status |
+|-------|-----------|-------|-----------|--------|
+| FOMC window | ALL | Decision 2pm ET TODAY | Session after decision | ✗ BLOCKED |
+| Yield gate | ALL growth (P/E >40) | 5.01–5.04% | ≤4.5% | ✗ BLOCKED |
+| VIX gate | ALL | 17.20 | <17 | ✗ BLOCKED |
+| JPM (value) | post-FOMC earliest | P/E ~12x | FOMC window | ✗ DEFERRED to Sep 17 |
+
+All candidates blocked. FOMC decision today 2pm ET (25bps hike expected); yield gate 5.01%+ active; VIX 17.20 above threshold.
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.50 | +$431.02 (+4.70%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 CAPTURED | $530–545 | 3.4:1 |
+
+_No trades executed. FOMC window blocks all new entries (decision 2pm ET today; 25bps hike expected; earliest new entry = Sep 17 session). TSM +4.70% unrealized; ex-div $25.62 captured; stop buffer 4.22% (HWM $444.29, stop $399.861). Yield gate 5.01%+ firmly active (AVGO/AMAT/high-multiple names blocked). VIX 17.20 entry gate blocked. Post-FOMC Sep 17: re-evaluate JPM (value, P/E ~12x, benefits from high yields, not blocked by yield gate) if VIX normalizes <17 and yield reaction is benign. Watch TSM stop buffer post-FOMC; $458.57 (+15%) tighten trigger. Weekly: 0/3 trades._
