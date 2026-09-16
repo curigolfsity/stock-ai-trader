@@ -4354,3 +4354,41 @@ All candidates blocked. FOMC decision today 2pm ET (25bps hike expected); yield 
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $417.50 | +$431.02 (+4.70%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 CAPTURED | $530–545 | 3.4:1 |
 
 _No trades executed. FOMC window blocks all new entries (decision 2pm ET today; 25bps hike expected; earliest new entry = Sep 17 session). TSM +4.70% unrealized; ex-div $25.62 captured; stop buffer 4.22% (HWM $444.29, stop $399.861). Yield gate 5.01%+ firmly active (AVGO/AMAT/high-multiple names blocked). VIX 17.20 entry gate blocked. Post-FOMC Sep 17: re-evaluate JPM (value, P/E ~12x, benefits from high yields, not blocked by yield gate) if VIX normalizes <17 and yield reaction is benign. Watch TSM stop buffer post-FOMC; $458.57 (+15%) tighten trigger. Weekly: 0/3 trades._
+
+---
+
+### Midday Scan — 2026-09-16 (Day 99, Wednesday — Week 20 Day 3)
+
+- **Account (API):** Equity $98,241.30 | Cash $88,619.25 (90.2%) | Day P&L: +$105.80 (+0.11%) | Phase P&L: −$1,758.70 (−1.76%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $418.505 | Entry $398.76 | Unrealized +$454.14 (+4.95%) | Intraday +$109.37 (+1.15%) | Stop 265e7f23: HWM $444.29 | Stop $399.861 | Buffer $18.64 (4.46% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +4.95% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +4.95% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $444.29 | stop $399.861 (10% trail) | buffer 4.46% > 3% min ✓
+
+#### Step 5 — Thesis Check: INTACT
+- TSM +1.15% intraday to $418.505 — recovering from Sep 15 close $414.54 ✓
+- Pre-FOMC market positive: SPX +0.5%, Nasdaq +0.9%; chipmakers up (SK Hynix/Intel US wafer deal) ✓
+- 10-yr yield 4.967% — down ~2bps from 5.04% peak; yield gate STILL ACTIVE (>4.5%) ✗
+- FOMC decision 2pm ET TODAY — no new entries per FOMC window rule (earliest = Sep 17) ✗
+- Ex-dividend $25.62 CAPTURED (held through Sep 15 close) ✓
+- Stop buffer improved to 4.46% from Sep 15 midday warning low (3.22%) ✓
+- No new TSMC-specific negative news ✓
+
+#### Step 6 — Intraday Research
+- 10-yr yield 4.967% (eased from 5.04% peak Sep 15) — minor pre-FOMC relief; yield gate still active
+- Market pre-FOMC: SPX +0.5%, Nasdaq +0.9% — "buy the announcement" pre-positioning
+- Chipmakers up: SK Hynix/Intel US wafer production deal providing sector tailwind
+- FOMC: 25bps hike to 3.75%–4.00% at 92% probability (CME FedWatch); decision 2pm ET, Chair Warsh presser 2:30pm ET
+- Key risk: hawkish dot plot → yield spike → TSM buffer compressed; key upside: pause surprise → yields fall → yield gate path closer to release
+- July 2026 FOMC: voted 9-3 to hold (Hammack/Kashkari/Logan dissented for hike) — shows divided committee; today's decision binary
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $418.505 | +$454.14 (+4.95%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 CAPTURED | $530–545 | 3.4:1 |
+
+_No action taken. TSM +4.95% unrealized; +1.15% intraday (recovering from Sep 15 weakness). Stop buffer 4.46% — healthy improvement from Sep 15 midday warning (3.22%). FOMC decision 2pm ET today (25bps hike ~92% probability); yield 4.967% (eased slightly from 5.04% peak); yield gate ACTIVE. FOMC window blocks all new entries (earliest Sep 17). TSM thesis intact: AI foundry demand, TSMC Aug rev +53.3% YoY. Ex-div $25.62 captured. Key post-FOMC watch: if hike + hawkish dots → yield spike → TSM buffer compression; if pause surprise → yields retreat → yield gate path opens for Sep 17 JPM re-eval. Weekly: 0/3 trades._

@@ -7968,3 +7968,15 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 ---
 
 _Addendum via WebSearch (Perplexity key not set)_
+
+#### Midday Addendum — 2026-09-16 (Pre-FOMC)
+- **TSM midday:** $418.505 (+1.15% intraday); buffer 4.46% — healthy recovery from Sep 15 warning (3.22%)
+- **10-yr yield:** 4.967% — down ~2bps from 5.04% peak; yield gate still active; slight pre-FOMC relief
+- **Pre-FOMC market:** SPX +0.5%, Nasdaq +0.9% — "buy the announcement" pre-positioning; chipmakers up
+- **Chipmaker catalyst:** SK Hynix/Intel US wafer production deal — sector tailwind, not TSM-specific
+- **FOMC:** Decision 2pm ET; 25bps hike to 3.75%–4.00% at 92% probability; Chair Warsh presser 2:30pm
+- **July 2026 FOMC context:** Voted 9-3 to hold (3 dissents for hike) — divided committee; today's vote binary
+- **Key risk:** Hawkish dot plot signaling further hikes → yield spike → TSM buffer compression; outcome: GTC stop captures +5.8% gain
+- **Key upside:** Pause surprise → yields fall → yield gate path opens; JPM eligible Sep 17 if VIX <17
+
+_Sources: CNBC, XTB Morning Wrap, KuCoin, FXStreet (WebSearch — Perplexity key not set)_
