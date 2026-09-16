@@ -4392,3 +4392,16 @@ _No trades executed. FOMC window blocks all new entries (decision 2pm ET today; 
 | 2026-08-03 | TSM | LONG | 23 | $398.76 | $418.505 | +$454.14 (+4.95%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; 2026 rev guidance raised >40%; TSMC Aug rev +53.3% YoY; dividend $1.114 ex-Sep 16 CAPTURED | $530–545 | 3.4:1 |
 
 _No action taken. TSM +4.95% unrealized; +1.15% intraday (recovering from Sep 15 weakness). Stop buffer 4.46% — healthy improvement from Sep 15 midday warning (3.22%). FOMC decision 2pm ET today (25bps hike ~92% probability); yield 4.967% (eased slightly from 5.04% peak); yield gate ACTIVE. FOMC window blocks all new entries (earliest Sep 17). TSM thesis intact: AI foundry demand, TSMC Aug rev +53.3% YoY. Ex-div $25.62 captured. Key post-FOMC watch: if hike + hawkish dots → yield spike → TSM buffer compression; if pause surprise → yields retreat → yield gate path opens for Sep 17 JPM re-eval. Weekly: 0/3 trades._
+
+---
+
+### Sep 16 — EOD Snapshot (Day 99, Wednesday — Week 20 Day 3)
+**Portfolio:** $98,164.60 | **Cash:** $88,619.25 (90.3%) | **Day P&L:** +$29.21 (+0.03%) | **Phase P&L:** −$1,835.40 (−1.84%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $415.02 | +0.31% | +$373.98 (+4.08%) | $399.861 (10% trail, HWM $444.29, order 265e7f23) |
+
+**Notes:** Day 99, Wednesday (Week 20 Day 3 — FOMC Decision Day + TSM Ex-Dividend). TSM closed $415.02 (+0.31% on ex-div adjusted reference $413.75); unrealized P&L +$373.98 (+4.08%). TSM dividend $1.114/share × 23 = $25.62 CAPTURED — held through Sep 15 close ✓; cash credit pending settlement. FOMC decision 2pm ET: 25bps hike to 3.75%–4.00% expected at ~92% probability going into session; market reaction muted (hike heavily priced in). No trades executed today (FOMC window blocked all new entries; 0/3 weekly capacity); yield gate active (5.00%+ pre-FOMC). Trailing stop 265e7f23 active: HWM $444.29, stop $399.861, buffer $15.16 (3.65% > 3% floor ✓). Capital deployed: 9.73% ($9,545.35 market value). Phase P&L: −$1,835.40 (−1.84%) vs $100,000 starting equity. Next: Sep 17 — post-FOMC yield reaction; re-evaluate JPM (P/E ~12x, not yield-gated) if VIX <17 and yield shows retreat; AVGO/AMAT blocked until yield ≤4.5%; watch TSM $458.57 (+15% tighten trigger); GTC stop 265e7f23 confirmed active.
+
+---
