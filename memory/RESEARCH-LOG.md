@@ -7917,4 +7917,54 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 - **Decision: HOLD** — must hold through today's close for ex-div $25.62; no forced cut per rules; thesis intact
 - **FOMC tomorrow 2pm ET:** 25bps hike ~91% probability; hawkish dot plot tail risk; TSM may gap down on ex-div adjustment + rate hike; GTC stop remains in place
 
+---
+
+## 2026-09-16 — Pre-Market Research (Day 99, Wednesday — Week 20 Day 3)
+
+### Account Snapshot
+- **Equity:** $98,215.31 | **Cash:** $88,619.25 (90.2%) | **Buying power:** $186,834.56 (reg-T)
+- **Phase P&L:** −$1,784.69 (−1.78%) vs $100,000 start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Positions:** 1/6
+- **TSM (API):** Price $417.22 | Entry $398.76 | Unrealized +$424.58 (+4.63%) | Stop buffer $17.36 (4.16% > 3% min)
+- **TSM stop:** 265e7f23 | HWM $444.29 | Stop $399.861 | Trail 10% GTC ✓ ACTIVE
+
+### Market Context
+- **WTI:** $104.68 (−1.09%) | **Brent:** ~$109.21 — elevated; Saudi East-West pipeline disruption + Houthi/Iran oil premium intact
+- **SPX futures:** −0.32% premarket (7,668.50) — broad caution ahead of FOMC 2pm ET
+- **VIX:** 17.20 — GATE BLOCKED ✗ (requires <17 for new entries)
+- **10-yr yield:** 5.01–5.04% (highest since 2007) — yield gate FIRMLY ACTIVE ✗ (requires ≤4.5%)
+- **FOMC:** Decision TODAY Sep 16 at 2:00 PM ET | Chair Warsh press conference 2:30 PM ET
+  - 25bps hike (3.50%–3.75% → 3.75%–4.00%) widely expected
+  - Risk: hawkish dot plot projecting further hikes → yield spike → TSM/market sell-off
+- **Sector momentum YTD:** Energy +47.7% (leads) | Materials +22% | Industrials leading | Tech/Consumer Disc lagging
+- **Earnings today:** Lennar (LEN) — not a held ticker
+
+### TSM-Specific
+- **Ex-dividend TODAY Sep 16** — $1.114/share × 23 = **$25.62 dividend CAPTURED** (held through Sep 15 close ✓)
+- Ex-div price adjustment ~$1.114 at open — reduces buffer briefly; expected
+- Analyst consensus: 20 Buy / 0 Sell | Avg PT $551.26 (high $700, low $440) — all Buy
+- TSMC Aug revenue $16.35B (+53.3% YoY) — AI foundry demand thesis intact
+- Stop buffer 4.16% — adequate but FOMC reaction is the primary watch
+- Strategy rule: if TSM buffer <3% overnight (close below ~$411.89) → evaluate manual cut at Sep 17 open
+
+### Trade Ideas
+1. **TSM — HOLD (existing):** Thesis intact; ex-div $25.62 captured; stop 4.16% buffer above min. FOMC at 2pm = binary; no action pre-decision. If TSM drops >$17 post-FOMC → stop enters danger zone.
+2. **JPM — Post-FOMC watchlist (Sep 17 earliest):** P/E ~12x value/financials; benefits from sustained high yields; entry ~$280–285; stop −8%; target $310+ (R:R ~2.5:1). Not blocked by yield gate (value, not growth-multiple); blocked only by FOMC window today. Re-evaluate Sep 17 AM.
+3. **AVGO/AMAT — BLOCKED:** Yield gate 5.01% >>4.5%; viable only if yield pulls back sharply; defer indefinitely.
+
+### Risk Factors
+- **FOMC hawkish surprise (CRITICAL):** Dot plot signaling additional hikes beyond today's 25bps → yield spike → TSM stop ($399.861) at risk; buffer 4.16% provides only ~$17 cushion
+- **10-yr yield 5.01%+ (HIGH):** All new growth-multiple entries locked; JPM is the only eligible candidate post-FOMC; yield gate path back to 4.5% unclear
+- **TSM stop buffer thin (HIGH):** Any FOMC-driven sell-off >4% in TSM triggers GTC stop → locks +$23.09/share (+5.8%) gain, not a loss; acceptable outcome but watch
+- **Oil Brent $109 (MEDIUM):** Inflation persistence reinforces hawkish Fed; no near-term supply relief; Iran deal still stalled
+- **AI slowdown narrative (MEDIUM):** Amodei/Musk/Altman coordinated calls persist; chip sector headwind; TSMC revenue thesis intact but sentiment overhang
+- **VIX 17.20 (MEDIUM):** Entry gate blocked; any FOMC spike >20 → hold-all-cash mode
+
+### Decision
+**HOLD** — FOMC rate decision at 2pm ET is today's dominant binary; no entries pre-decision. TSM ex-div $25.62 captured. Stop buffer 4.16% safe but watch post-FOMC reaction closely. All new entries blocked: VIX 17.20 (>17), yield 5.01% (>4.5%), FOMC window. Post-FOMC Sep 17: evaluate JPM entry if yield retreats and VIX <17; watch TSM stop buffer.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
+
+---
+
 _Addendum via WebSearch (Perplexity key not set)_
