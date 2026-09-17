@@ -4488,3 +4488,15 @@ _JPM market buy 56 shares placed 8:36 AM ET (order 155fd558), queued for 9:30 AM
 _JPM fill confirmed at $352 (56 shares, order 155fd558). JPM 10% trailing stop GTC placed (f11bd758, HWM $349.795, stop $314.82) — critical gap from market-open scan closed. TSM +7.00% unrealized; stop buffer 6.29%. Both theses intact. Capital deployed 29.9% — yield gate blocking growth names; watch VIX for 3rd position opportunity. Weekly: 1/3 trades. Day 100._
 
 ---
+
+### Sep 17 — EOD Snapshot (Day 100, Thursday — Week 20 Day 4)
+**Portfolio:** $98,399.33 | **Cash:** $68,907.25 (70.0%) | **Day P&L:** +$172.52 (+0.18%) | **Phase P&L:** −$1,600.67 (−1.60%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $429.39 | +2.79% | +$704.49 (+7.68%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) |
+| JPM | 56 | $352.00 | $350.30 | +0.40% | −$95.20 (−0.48%) | 10% GTC (f11bd758, HWM $350.53, stop $315.47) |
+
+**Notes:** Day 100, Thursday (Week 20 Day 4). JPM buy confirmed at $352 (56 shares; order 155fd558), 10% trailing stop active (f11bd758, HWM $350.53, stop $315.47). TSM rallied +2.79% intraday to $429.39; unrealized +$704.49 (+7.68%); stop buffer $29.53 (6.88% > 3% floor ✓); HWM $444.29 — still below +15% tighten trigger ($458.57). JPM −0.48% unrealized day-1 noise from $352 entry — thesis intact (5.0%+ yield → NIM expansion, P/E ~12x, earnings Oct 13). Capital deployed 29.97% ($29,492.08) — well below 75-85% target; yield gate blocking high-P/E names (AVGO/AMAT); 2/6 position slots used; watching VIX for 3rd position entry. Weekly: 1/3 trades. Phase P&L: −$1,600.67 (−1.60%) vs $100,000 start.
+
+---
