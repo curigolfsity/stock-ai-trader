@@ -4450,3 +4450,41 @@ _No action taken. TSM +4.95% unrealized; +1.15% intraday (recovering from Sep 15
 _JPM market buy 56 shares placed 8:36 AM ET (order 155fd558), queued for 9:30 AM ET open fill. VIX 16.91 at open cleared <17 gate; FOMC window lifted; yield gate N/A for JPM (P/E ~12x). TSM thesis intact: +6.64% unrealized, stop buffer 5.97% (HWM $444.29, stop $399.861). **CRITICAL: Midday workflow must confirm JPM fill price and place 10% trailing stop GTC immediately.** Weekly: 1/3 trades. Day 100._
 
 ---
+
+### Midday Scan — 2026-09-17 (Day 100, Thursday — Week 20 Day 4)
+
+- **Account (API):** Equity $98,316.82 | Cash $68,907.25 (70.1%) | Day P&L: +$90.01 (+0.09%) | Phase P&L: −$1,683.18 (−1.68%) | Daytrade count: 0 | Weekly trades: 1/3
+- **TSM (API):** Price $426.66 | Entry $398.76 | Unrealized +$641.70 (+7.00%) | Intraday +$205.62 (+2.14%) | Stop 265e7f23: HWM $444.29 | Stop $399.861 | Buffer $26.80 (6.29% > 3% min) ✓
+- **JPM (API):** Price $349.79 | Entry $352.00 (fill confirmed) | Unrealized −$123.76 (−0.63%) | Intraday −$123.76 | Stop f11bd758: NEW 10% GTC | HWM $349.795 | Stop $314.82 | Buffer $34.97 (10.0%) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +7.00% — threshold −7% ($370.85) not triggered ✓
+- JPM unrealized_plpc = −0.63% — threshold −7% ($327.36) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +7.00% — below +15% threshold ($458.57) ✓
+- JPM −0.63% — not eligible ✓
+
+#### Step 5 — Thesis Check: BOTH INTACT
+- TSM: +2.14% intraday to $426.66; JPM analysts bullish on TSMC ("mission-critical projects" stay with TSMC per J.P. Morgan); thesis intact ✓
+- JPM: −0.63% intraday from fill $352 — normal day-1 noise; JPM Q3 mini boom in fees/markets confirmed; NIM expansion thesis intact at 5.016% yield ✓
+
+#### ⚠️ CRITICAL ACTION: JPM Trailing Stop GTC PLACED
+- **Order f11bd758** placed 12:04 PM ET | 10% trail | HWM $349.795 | Stop $314.8155 | Status: active ✓
+- JPM qty_available now 0 (locked by GTC stop) ✓
+
+#### Step 6 — Intraday Research
+- TSM: JPM analysts reiterate TSMC dominance in mission-critical foundry; Susquehanna Buy maintained; no negative news ✓
+- JPM: Q3 "mini boom" in small business + fee/markets revenue confirmed by Dimon — yield expansion at 5.016% actively expanding NIM; earnings Oct 13 catalyst intact ✓
+- No thesis-breaking news for either position ✓
+- Capital deployed: 29.9% ($29,401.42 of $98,316.82) — BELOW 75-85% target; yield gate blocks AVGO/AMAT/high-P/E names; VIX watch for potential 3rd position ✓
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $426.66 | +$641.70 (+7.00%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; TSMC Aug rev +53.3% YoY; dividend $1.114 CAPTURED | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $349.79 | −$123.76 (−0.63%) | 10% GTC (f11bd758, HWM $349.795, stop $314.82) | FOMC lifted; 5.016% yield → NIM expansion; P/E ~12x; Q3 mini boom; earnings Oct 13 | $385 | ~2.6:1 |
+
+_JPM fill confirmed at $352 (56 shares, order 155fd558). JPM 10% trailing stop GTC placed (f11bd758, HWM $349.795, stop $314.82) — critical gap from market-open scan closed. TSM +7.00% unrealized; stop buffer 6.29%. Both theses intact. Capital deployed 29.9% — yield gate blocking growth names; watch VIX for 3rd position opportunity. Weekly: 1/3 trades. Day 100._
+
+---

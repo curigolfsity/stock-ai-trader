@@ -8070,3 +8070,14 @@ _Sources: CNBC, XTB Morning Wrap, KuCoin, FXStreet (WebSearch — Perplexity key
 **HOLD (pre-market)** — FOMC window lifted. TSM +6.03% thesis intact. JPM is the only eligible new entry today (P/E ~12x, FOMC-unblocked, not yield-gated), but VIX 17.05 remains marginally above <17 gate. Decision deferred to market-open workflow: **JPM conditional entry if VIX <17 at 9:35 ET and yield not spiking on 8:30 data.**
 
 _Sources: CNBC, Bloomberg, Benzinga, Advisor Perspectives, BondSavvy, FedRateCalc, Investing.com (WebSearch — Perplexity key not set)_
+
+### Midday Addendum — 2026-09-17
+
+- **TSM:** JPM analysts bullish — "almost all mission-critical projects" with TSMC over Intel; Susquehanna Buy maintained; +2.14% intraday ($426.66); no negative catalyst; thesis intact ✓
+- **JPM:** Q3 "mini boom" in small business + fee/markets revenue per Dimon; NIM expansion thesis intact at 5.016% yield; −0.63% intraday from fill is normal day-1 noise ✓
+- **JPM stop gap closed:** Trailing stop GTC f11bd758 placed 12:04 PM ET (10% trail, HWM $349.795, stop $314.82) ✓
+- **Yield:** 5.016% — gate firmly active; blocks AVGO/AMAT/high-P/E growth names; N/A for JPM (P/E ~12x), TSM (value/earnings compounder context)
+- **Deployment:** 29.9% — below 75-85% target; limited by yield gate + VIX (currently ~17); watch for VIX <17 to evaluate 3rd position (XOM / Energy sector +47.7% YTD)
+- **No action required** beyond JPM stop placement ✓
+
+_Sources: TipRanks, Yahoo Finance (WebSearch — Perplexity key not set)_
