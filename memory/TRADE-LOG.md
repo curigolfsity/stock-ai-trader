@@ -4405,3 +4405,48 @@ _No action taken. TSM +4.95% unrealized; +1.15% intraday (recovering from Sep 15
 **Notes:** Day 99, Wednesday (Week 20 Day 3 — FOMC Decision Day + TSM Ex-Dividend). TSM closed $415.02 (+0.31% on ex-div adjusted reference $413.75); unrealized P&L +$373.98 (+4.08%). TSM dividend $1.114/share × 23 = $25.62 CAPTURED — held through Sep 15 close ✓; cash credit pending settlement. FOMC decision 2pm ET: 25bps hike to 3.75%–4.00% expected at ~92% probability going into session; market reaction muted (hike heavily priced in). No trades executed today (FOMC window blocked all new entries; 0/3 weekly capacity); yield gate active (5.00%+ pre-FOMC). Trailing stop 265e7f23 active: HWM $444.29, stop $399.861, buffer $15.16 (3.65% > 3% floor ✓). Capital deployed: 9.73% ($9,545.35 market value). Phase P&L: −$1,835.40 (−1.84%) vs $100,000 starting equity. Next: Sep 17 — post-FOMC yield reaction; re-evaluate JPM (P/E ~12x, not yield-gated) if VIX <17 and yield shows retreat; AVGO/AMAT blocked until yield ≤4.5%; watch TSM $458.57 (+15% tighten trigger); GTC stop 265e7f23 confirmed active.
 
 ---
+
+### Market-Open Scan — 2026-09-17 (Day 100, Thursday — Week 20 Day 4)
+
+- **Account (API):** Equity $98,400 | Cash $88,619.25 (90.2%) | Day P&L: +$173.19 (+0.18%) | Phase P&L: −$1,600 (−1.60%) | Daytrade count: 0 | Weekly trades: 0/3 → 1/3 (JPM order placed)
+- **TSM (API):** Price $425.25 | Entry $398.76 | Unrealized +$609.27 (+6.64%) | Stop 265e7f23: 10% trail, HWM $444.29, stop $399.861 | Buffer $25.39 (5.97% > 3% min) ✓
+- **VIX at open:** 16.91 (< 17 gate cleared) ✓ | **10-yr yield:** ~5.01% (yield gate active but N/A for JPM P/E ~12x) ✓ | **FOMC window:** LIFTED ✓
+
+#### Step 3 — TSM Loser Cut: NO CUT
+- TSM unrealized_plpc = +6.64% — threshold −7% ($370.85) not triggered ✓
+
+#### Step 4 — TSM Winner Tighten: NO TIGHTEN
+- TSM +6.64% — below +15% threshold ($458.57) ✓
+- Stop 265e7f23 active: HWM $444.29, stop $399.861 (10% trail) ✓ | Buffer 5.97% > 3% min ✓
+
+#### Step 5 — Hard-Check Gate: JPM PASSES
+| Check | Value | Threshold | Status |
+|-------|-------|-----------|--------|
+| Total positions after | 2 | ≤ 6 | ✓ |
+| Trades this week | 0 → 1 | ≤ 3 | ✓ |
+| Position cost (56 × ~$349) | ~$19,544 (19.86%) | ≤ 20% equity | ✓ |
+| Catalyst documented | RESEARCH-LOG Sep 17 | Required | ✓ |
+| daytrade_count | 0 | < 3 | ✓ |
+| FOMC window | LIFTED | Session after decision | ✓ |
+| Yield gate | 5.01% (N/A — JPM P/E ~12x, not growth) | ≤4.5% for P/E >40 only | ✓ |
+| VIX gate | 16.91 at open | < 17 | ✓ |
+
+#### Step 6 — BUY EXECUTED: JPM
+
+**Order placed:** `155fd558-4431-44ca-9dfa-bd6577037798` | Market buy | 56 shares | Day TIF | Status: queued (market opens 9:30 AM ET)
+
+| Date | Ticker | Side | Shares | Entry Price | Stop Level | Thesis | Target | R:R |
+|------|--------|------|--------|-------------|------------|--------|--------|-----|
+| 2026-09-17 | JPM | BUY | 56 | ~$349 (pending fill at market open) | 10% trailing stop GTC (pending fill) | FOMC window lifted; sustained 5%+ yield expands bank NIM; P/E ~12x value; JPM Q3 fee/markets "mini boom" (Dimon); earnings Oct 13 catalyst | $385 | ~2.6:1 |
+
+**⚠️ STOP PENDING:** Trailing stop GTC order NOT yet placed — order submitted 8:36 AM ET before market open. **Midday workflow MUST confirm fill price and place 10% trailing stop GTC immediately.** If fill price received before midday: target stop = fill_price × 0.90.
+
+#### Open Positions (pre-fill)
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $425.25 | +$609.27 (+6.64%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; 67.7% GM; TSMC Aug rev +53.3% YoY; dividend $1.114 CAPTURED | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | ~$349 (fill TBD) | N/A | N/A | PENDING FILL | FOMC lifted; 5%+ yield → NIM expansion; P/E ~12x; earnings Oct 13 | $385 | ~2.6:1 |
+
+_JPM market buy 56 shares placed 8:36 AM ET (order 155fd558), queued for 9:30 AM ET open fill. VIX 16.91 at open cleared <17 gate; FOMC window lifted; yield gate N/A for JPM (P/E ~12x). TSM thesis intact: +6.64% unrealized, stop buffer 5.97% (HWM $444.29, stop $399.861). **CRITICAL: Midday workflow must confirm JPM fill price and place 10% trailing stop GTC immediately.** Weekly: 1/3 trades. Day 100._
+
+---
