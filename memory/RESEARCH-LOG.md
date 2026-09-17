@@ -7980,3 +7980,93 @@ _Addendum via WebSearch (Perplexity key not set)_
 - **Key upside:** Pause surprise → yields fall → yield gate path opens; JPM eligible Sep 17 if VIX <17
 
 _Sources: CNBC, XTB Morning Wrap, KuCoin, FXStreet (WebSearch — Perplexity key not set)_
+
+---
+
+## Pre-Market Research — 2026-09-17 (Day 100, Thursday — Week 20 Day 4)
+
+### Account Snapshot
+- **Equity:** $98,343.65 | **Cash:** $88,619.25 (90.2%) | **Buying power:** $186,962.90 (reg-T)
+- **Day P&L:** +$116.84 (+0.12%) | **Phase P&L:** −$1,656.35 (−1.66%) vs $100,000 start
+- **Daytrade count:** 0 | **Weekly trades:** 0/3 | **Positions:** 1/6
+
+#### Open Positions (API)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|---------|----------------|------|--------|
+| TSM | 23 | $398.76 | $422.80 | +$552.92 (+6.03%) | 265e7f23: 10% trail, HWM $444.29, stop $399.861 | $22.94 (5.42% > 3% min) ✓ |
+
+#### Stop/Tighten Triggers
+- +15% tighten to 7%: $458.57 — TSM $422.80 is $35.77 below trigger (not reached)
+- +20% tighten to 5%: $478.51 — not reached
+- -7% cut: $370.85 — not triggered; +6.03% unrealized ✓
+- GTC stop 265e7f23: ACTIVE, HWM $444.29, stop $399.861 ✓
+
+### Market Context
+- **WTI:** $102.14 (−0.22%) | **Brent:** $105.81 — easing on Saudi East-West pipeline concern relief; still elevated
+- **SPX futures:** +0.3% premarket — post-FOMC relief rally; "buy the news" on benign Warsh tone
+- **VIX:** 17.05 (−0.87% from Sep 16) — down from 17.20; STILL marginally above <17 entry gate ✗
+- **10-yr yield:** 5.016% (+2bps post-FOMC) — yield gate FIRMLY ACTIVE ✗ (requires ≤4.5%)
+- **FOMC outcome:** 25bps hike as expected → 3.75%–4.00%; Chair Warsh: "sober, serious, responsible"; dot plot signals one additional hike in 2026; market reaction benign — "buy the announcement"
+- **FOMC window:** LIFTED ✓ — Sep 17 is the first eligible session post-decision
+
+#### Economic Releases Today (Sep 17)
+- 08:30 — Initial Claims
+- 08:30 — New Residential Construction
+- 08:30 — Philadelphia Fed Manufacturing Survey
+- 10:00 — NAR Pending Home Sales Index
+- No CPI/PPI/major jobs releases today
+
+#### Earnings BMO (Sep 17): None material
+
+#### Sector Momentum YTD
+| Rank | Sector | YTD | Comment |
+|------|--------|-----|---------|
+| 1 | Energy (XLE) | +47.7% | Oil elevated; geopolitical premium |
+| 2 | Materials | +15.86% | Commodity cycle |
+| 3 | Industrials | +12% est | Infrastructure/defense |
+| 4 | Healthcare | +8% est | Defensive bid |
+| 5 | Tech | ~flat/lagging | AI capex ROI doubt; yield pressure |
+| 6 | Consumer Disc | −5.0% | Worst performer; consumer squeezed |
+
+### TSM News
+- **TSM $422.80** — up +$5.08 (+1.22% intraday) from $417.72 last close; pre-market continuation
+- Susquehanna Buy rating (Sep 13) — analyst consensus still 20 Buy / 0 Sell, avg PT $551.26
+- TSMC revenue Q3 trend: +35.64% YoY / +12.1% QoQ — AI foundry demand intact
+- Ex-dividend $1.114/share ($25.62 total) — CAPTURED Sep 15 close; cash credit pending settlement
+- Earnings estimate: ~Oct 17, 2026 — potential catalyst ahead
+- Thesis intact ✓
+
+### Trade Ideas
+
+**1. TSM — HOLD (existing position)**
+- Catalyst: AI foundry demand; TSMC Aug rev +53.3% YoY; Q3 earnings Oct 17 potential catalyst
+- Current: $422.80 (+6.03%) — stop buffer 5.42% (healthy)
+- Action: HOLD; monitor tighten trigger $458.57; GTC stop 265e7f23 active
+- Entry/Stop/Target: N/A (holding) | Stop $399.861 (active) | Target $530–545 (3.4:1 R:R)
+
+**2. JPM — CONDITIONAL WATCHLIST (post-FOMC eligible, VIX gate borderline)**
+- Catalyst: FOMC window lifted; sustained high yield (5%+) expands bank NIM; P/E ~12x value; JPMorgan Q3 fee/markets revenue "mini boom" per CEO Dimon; earnings Oct 13
+- Current: $348.92 (−1.01% premarket) — slight pullback offers better entry
+- Yield gate: NOT applicable (P/E ~12x, not >40) ✓
+- FOMC window: LIFTED ✓
+- VIX gate: 17.05 — borderline; WAIT for VIX <17 at/after open before entry
+- Entry: $347–351 | Stop: ~$320 (−8%) | Target: $385 (R:R ~2.6:1)
+- Sizing: max 20% of equity = $19,668.73 → ~55 shares at $348 ≈ $19,140
+- Status: WATCHLIST — market-open workflow to assess VIX at 9:35 ET
+
+**3. XOM / Energy — MONITOR ONLY (not actionable today)**
+- Catalyst: WTI $102, Brent $105; Energy sector +47.7% YTD; sector momentum strongest in portfolio universe
+- Blocker: Weekly trades 0/3 — want to preserve capacity for JPM; yield gate N/A for XOM (value)
+- Status: MONITOR; defer unless JPM entry does not trigger
+
+### Risk Factors
+- **Yield 5.016% (HIGH):** All high-P/E growth names blocked; yield gate path back to 4.5% unclear; dot plot signals another 2026 hike → yield could re-spike to 5.1%+
+- **VIX 17.05 (MEDIUM-HIGH):** 1.05 pts above <17 gate; any Initial Claims surprise or Philly Fed miss → VIX spike blocks JPM entry; watch 8:30 releases
+- **Post-FOMC relief fade risk (MEDIUM):** "Buy announcement" rallies often fade intraday when hawkish dot plot details are digested; SPX +0.3% could reverse
+- **TSM stop compression (MEDIUM):** $422.80 buffer 5.42%; if broad market reversal >5% → GTC stop 265e7f23 executes; acceptable outcome (+6.03% locked)
+- **Oil declining (LOW):** Brent $105.81 down from $109; Saudi pipeline concern easing; mild inflation relief for Fed but still elevated
+
+### Decision
+**HOLD (pre-market)** — FOMC window lifted. TSM +6.03% thesis intact. JPM is the only eligible new entry today (P/E ~12x, FOMC-unblocked, not yield-gated), but VIX 17.05 remains marginally above <17 gate. Decision deferred to market-open workflow: **JPM conditional entry if VIX <17 at 9:35 ET and yield not spiking on 8:30 data.**
+
+_Sources: CNBC, Bloomberg, Benzinga, Advisor Perspectives, BondSavvy, FedRateCalc, Investing.com (WebSearch — Perplexity key not set)_
