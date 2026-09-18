@@ -8081,3 +8081,77 @@ _Sources: CNBC, Bloomberg, Benzinga, Advisor Perspectives, BondSavvy, FedRateCal
 - **No action required** beyond JPM stop placement ✓
 
 _Sources: TipRanks, Yahoo Finance (WebSearch — Perplexity key not set)_
+
+---
+
+## 2026-09-18 — Pre-Market Research (Day 101, Friday — Week 20 Day 5)
+
+### Account Snapshot (API)
+- **Equity:** $98,331.47 | **Cash:** $68,907.25 (70.1%) | **Long MV:** $29,424.22 (29.9%)
+- **Day P&L:** −$33.12 (−0.03% vs prior close $98,364.59) | **Phase P&L:** −$1,668.53 (−1.67%)
+- **Daytrade count:** 0 | **Weekly trades:** 1/3 | **Open positions:** 2/6
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $430.50 | +$730.02 (+7.96%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) |
+| JPM | 56 | $352.00 | $348.62 | −$189.28 (−0.96%) | 10% GTC (f11bd758, HWM $350.525, stop $315.47) |
+
+### Market Context
+- **WTI:** $101.21 (−0.69%) | **Brent:** $102.57 (−2.2%) — 3rd consecutive session of losses; Saudi supply concern easing; geopolitical premium fading
+- **SPX futures:** +1.94% premarket — strong risk-on; post-FOMC continuation rally; Nasdaq +2.62%, Dow +1.36%
+- **VIX:** 15.41 (**GATE CLEARED** ✓ — down from 17.05 Sep 17; first sub-17 reading this week)
+- **10-yr yield:** ~5.00% — yield gate ACTIVE ✗ (blocks P/E >40 names; N/A for JPM P/E ~12x, TSM)
+- **FOMC window:** Lifted ✓ (decision Sep 16: +25bps to 3.75%–4.00%; dot plot signals 1 more hike in 2026)
+
+#### Economic Releases Today (Sep 18, Friday)
+- ~40 scheduled events; primarily housing/regional data; no CPI/PPI/FOMC/jobs — low macro risk day
+- Final week releases after FOMC; markets focused on post-hike yield trajectory
+
+#### Earnings BMO (Sep 18): None material
+
+#### Sector Momentum YTD
+| Rank | Sector | YTD | Comment |
+|------|--------|-----|---------|
+| 1 | Energy (XLE) | +47.7% | WTI $101 even with 3-day decline; still elevated |
+| 2 | Financials | +18% est | Yield-driven NIM expansion; JPM/BAC thesis |
+| 3 | Materials | +15.86% | Commodity cycle |
+| 4 | Industrials | +12% est | Infrastructure/defense |
+| 5 | Tech | ~flat | Yield pressure; AI capex ROI doubt |
+| 6 | Consumer Disc | −5.0% | Weakest; squeezed consumer |
+
+#### Holdings News
+- **TSM $430.50:** Aug revenue +53% YoY; 3nm/4nm/5nm nodes fully booked; price hike of up to 10% planned for 2027; 52-wk high $479; thesis firmly intact; Q3 earnings ~Oct 17 ✓
+- **JPM $348.62:** Goldman Sachs Buy reiterated; Barclays Buy; Q3 "mini boom" in fee/markets confirmed; earnings Oct 13; dividend yield 1.71%; thesis intact ✓
+
+### Trade Ideas
+
+**1. TSM — HOLD (existing; +7.96%)**
+- No action. Tighten trigger $458.57 (+15%) not yet reached. GTC stop 265e7f23 active (HWM $444.29, stop $399.861, buffer 7.12%).
+- Watch: if TSM runs up on strong premarket (+1.94% SPX) toward $458.57 → log tighten to 7% trail.
+- Entry/Stop/Target: N/A | Stop $399.861 (active) | Target $530–545 (3.4:1)
+
+**2. JPM — HOLD (existing; −0.96%)**
+- Day-1 noise. Thesis intact: NIM expansion at 5.0% yield; P/E ~12x value; Goldman/Barclays Buy; earnings Oct 13 catalyst. Strong premarket likely lifts JPM.
+- Stop f11bd758 active: HWM $350.525, stop $315.47 (buffer $33.15, 9.49%). Well above −7% cut ($327.36).
+- Entry/Stop/Target: N/A | Stop $315.47 (active) | Target $385 (2.6:1)
+
+**3. XOM — WATCHLIST (3rd position candidate; evaluate at market open)**
+- **Catalyst:** Energy sector #1 YTD (+47.7%); WTI $101 still elevated despite 3-day decline; XOM Q3 production solid; P/E ~14x (not yield-gated ✓); strong FCF; dividend yield ~3.5%
+- **Gate check:** VIX 15.41 ✓ | FOMC lifted ✓ | Yield gate N/A (P/E ~14x) ✓ | Slots: 2/6 (4 available) ✓ | Trades: 1/3 (2 remaining) ✓
+- **Risk:** Oil down 3 sessions consecutively; Friday entry (weekend risk)
+- **Entry:** ~$115–120 area at market open | **Stop:** 10% trailing | **Target:** $132 (~2.5:1 R:R)
+- **Sizing:** max 20% of $98,331 = ~$19,666 → ~165–170 shares at ~$117
+- **Status:** WATCHLIST — confirm at market-open workflow: needs VIX hold <17, WTI not continuing collapse, and pre-market price check
+
+### Risk Factors
+- **Yield 5.00% (HIGH):** Blocks all high-P/E names; dot plot signals another 2026 hike → yield could re-spike
+- **Oil declining 3 sessions (MEDIUM):** WTI −0.69%; Brent −2.2%; weakens energy thesis; Saudi supply easing reduces geopolitical premium
+- **Friday entry risk (MEDIUM):** Weekend gap risk; prefer entering Mon/Tue if VIX stays low; deployment urgency vs weekend risk tradeoff
+- **TSM stop compression (LOW):** Buffer 7.12%; comfortable; running room to $458.57 tighten trigger
+- **Deployment gap (MEDIUM):** 29.9% deployed vs 75-85% target; leaving performance on the table if markets continue higher
+
+### Decision
+**WATCHLIST** — VIX gate cleared (15.41, first sub-17 this week). TSM and JPM theses intact. XOM flagged as 3rd position candidate to close deployment gap toward 75-85% target. Final entry decision deferred to market-open workflow: confirm VIX holds <17 at 9:35 ET and oil stabilizes. Default HOLD on existing positions; no forced entry today (Friday caution applies).
+
+_Sources: CNBC, TradingEconomics, StrongBuyAnalytics, Yahoo Finance (WebSearch — Perplexity key not set)_
+
