@@ -4574,3 +4574,14 @@ _No trades executed. XOM skipped: stale quote at $170 ask invalidates research e
 _No action taken. TSM +7.82% unrealized, stop buffer 7.00%. JPM −1.47% (day-2 noise, thesis intact, dividend raised +10%), stop buffer 9.04%. Both GTC stops confirmed active. Capital deployed 29.9% — yield gate limiting new entries; no eligible catalysts on Friday. Weekly: 1/3 trades. Day 101._
 
 ---
+
+### Sep 18 — EOD Snapshot (Day 101, Friday — Week 20 Day 5)
+**Portfolio:** $98,317.08 | **Cash:** $68,907.25 (70.1%) | **Day P&L:** −$47.51 (−0.05%) | **Phase P&L:** −$1,682.92 (−1.68%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $430.41 | +0.04% | +$727.95 (+7.94%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) |
+| JPM | 56 | $352.00 | $348.40 | −0.26% | −$201.60 (−1.02%) | 10% GTC (f11bd758, HWM $350.53, stop $315.47) |
+**Notes:** Day 101 (Week 20, Friday close). No trades today; week ends 1/3 trades (JPM added Sep 17). TSM +7.94% unrealized — AI chip demand thesis intact; stop buffer $30.55 (7.10% > 3% floor ✓); HWM $444.29, tighten trigger at $458.57 (+15%); still room to run before tightening. JPM −1.02% unrealized day-2 noise — thesis intact; NIM expansion at 5.00% yield; dividend raised +10%; earnings Oct 13 catalyst; stop buffer $32.93 (9.45% > 3% floor ✓). Capital deployed 29.91% ($29,409.83) — well below 75-85% target; yield gate at 5.00% blocking high-P/E names; Friday caution + no eligible catalysts held new entries. Phase P&L: −$1,682.92 (−1.68%) vs $100,000 start. 2/6 position slots used. Week 20 complete.
+
+---
+
