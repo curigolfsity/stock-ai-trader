@@ -1011,3 +1011,61 @@ Rule adherence A (all gates correctly applied; NFP gate held; PANW and AVGO corr
 Rule adherence A (all binary gates enforced; no entry violations; TSM stop active and verified daily; T+0 stop habit from Aug 3 sustained; no process failures), risk management A (stop buffer 6.53%–8.09% all week; no cut triggers reached; HWM $444.29 protecting gains; no manual cuts needed; thesis intact), relative performance B+ (bot +0.13% vs S&P ~−0.60% = +0.73% outperformance; 3rd consecutive positive relative week; TSM's AI-foundry rate-insensitivity is the alpha mechanism; 90% cash structural gap remains unresolved). Phase P&L: −$1,439.34 (−1.44%) after 19 weeks.
 
 ---
+
+## Week ending 2026-09-18
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,593.60 (Fri Sep 11 close) |
+| Ending portfolio | $98,317.08 (Fri Sep 18 EOD) |
+| Week return | −$276.52 (−0.28%) |
+| S&P 500 week | ~+1.1% (7,701 Sep 11 → ~7,785 Sep 18; Treasury yield retreat + tech rebound Friday) |
+| Bot vs S&P | ~−1.38% |
+| Trades | 1 (W:0 / L:0 / open:2) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TSM | $398.76 (Aug 3) | $430.41 | +$727.95 (+7.94%) | $399.861 (10% trail GTC, HWM $444.29, order 265e7f23) — buffer 7.10% ✓ |
+| JPM | $352.00 (Sep 17) | $348.40 | −$201.60 (−1.02%) | $315.47 (10% trail GTC, HWM $350.53, order f11bd758) — buffer 9.45% ✓ |
+
+### What Worked
+- JPM entry post-FOMC (Sep 17) executed cleanly — all gates cleared (VIX 16.91 <17 ✓, FOMC window lifted ✓, P/E ~12x bypasses yield gate ✓, 19.86% position ≤20% ✓); filled at $352; demonstrates value-stock yield-gate workaround in high-rate environment
+- TSM dividend $25.62 captured — held through Sep 15 close; ex-div Sep 16 confirmed; incremental return locked regardless of future price action
+- FOMC blackout enforced without deviation — no entries Sep 14–15 (2 sessions before); zero leakage despite VIX briefly clearing <17 Sep 17 morning at open
+- T+0 trailing stop on JPM placed midday Sep 17 (f11bd758, HWM $350.53, stop $315.47) — stop gap closed same-day; no recurrence of prior placement failures; 5th consecutive entry week with immediate stop placement
+- XOM correctly blocked — stale research model ($115–120 entry vs actual $170 ask) produced inverted R:R; price gate saved a structurally bad entry
+
+### What Didn't Work
+- Capital deployed only 29.9% at week end — 21st consecutive week below 75–85% deployment target; structural under-deployment remains the dominant alpha drag
+- Bot −0.28% vs SPX ~+1.1% = ~−1.38% gap; 21st week of negative relative performance; 70% cash missed Friday's Treasury-retreat rally
+- JPM −1.02% unrealized at end of Day 2 — day-2 noise but contributes to week's negative return; NIM expansion thesis intact but not yet reflected in price
+- TSM HWM $444.29 not advanced for 27+ consecutive sessions — trailing stop auto-ratchet stalled; stop floor ($399.861) remains from 5 weeks ago; position ran to +7.94% without stop advancing
+- 2/3 weekly trade capacity unused; XOM research model was stale at execution — no live price update before considering the entry; required same-session price verification
+
+### Key Lessons
+- **Post-FOMC hike day is the playbook for value entries:** after a highly-priced-in rate hike, the yield regime is known; bank stocks (low P/E, direct NIM beneficiary) are the cleanest entry — not restricted by yield gate, not volatile on the decision, benefit from sustained high-rate environment; JPM Sep 17 entry is the template
+- **3.22% stop buffer on Sep 15 midday was the closest call since Jun 26 (1.44%):** TSM recovered same-session without triggering cut; the rule (hold if thesis intact, cut only if <3% overnight) functioned correctly; one more -0.5% session would have forced the open-cut protocol; entering FOMC week with a single leveraged position at 3% buffer is high-risk even when thesis is sound
+- **Stale price models require live verification before execution day:** XOM research assumed $115–120 entry; actual ask was $170; always re-run the full R:R calculation against the live pre-market quote before placing any order — a stale model can invert the thesis on execution day
+
+### Adjustments for Next Week
+- **Mon Sep 22 first actions:** verify TSM stop (265e7f23) ACTIVE + JPM stop (f11bd758) ACTIVE at open; check buffers — if either <3% → manual cut at open per protocol; TSM +15% tighten trigger $458.57; JPM earnings Oct 13
+- **JPM:** Hold; NIM thesis intact at 5.00% yield; dividend raised +10% ($1.65/sh, ex-date TBD); earnings Oct 13 key catalyst; stop buffer 9.45% safe; watch for HWM advance above $350.53
+- **TSM:** Hold; stop 265e7f23 buffer 7.10%; monitor +15% tighten trigger ($458.57 → 7% trail) and +20% ($478.51 → 5% trail); HWM $444.29 must be cleared for stop auto-ratchet to advance; dividend capture adds to total return basis
+- **3rd position research priority:** XOM — fresh research needed at actual current price (~$170) with live entry/target/stop assumptions to determine if R:R ≥2:1 exists; if not viable, evaluate ETN (Industrials) or AVGO at yield gate release; yield gate (10-yr >4.5%) still blocks P/E >40 names (AMAT, PANW, NVDA) — remain blocked until 2 consecutive closes below 4.5%
+- **Deployment:** 70% cash is below 75% minimum target; TSM + JPM = ~30% deployed; need 1–2 more positions to reach target range; adding a 3rd position next week is a structural priority, not an optional upgrade
+
+### Overall Grade: C+
+Rule adherence A (FOMC blackout executed; T+0 stop on JPM; XOM blocked correctly; no violations; all 5 gates met on JPM entry), risk management A (both stop buffers safe; TSM 3.22% midday buffer survived with thesis intact and recovered; no manual cuts triggered; dividend captured), relative performance D (bot −0.28% vs SPX ~+1.1% = ~−1.38% gap; 21st week of negative relative performance; JPM entry breaks the single-position concentration; 70% cash still structural drag entering Week 21). Phase P&L: −$1,682.92 (−1.68%) after 20 weeks.
+
+---
