@@ -4500,3 +4500,43 @@ _JPM fill confirmed at $352 (56 shares, order 155fd558). JPM 10% trailing stop G
 **Notes:** Day 100, Thursday (Week 20 Day 4). JPM buy confirmed at $352 (56 shares; order 155fd558), 10% trailing stop active (f11bd758, HWM $350.53, stop $315.47). TSM rallied +2.79% intraday to $429.39; unrealized +$704.49 (+7.68%); stop buffer $29.53 (6.88% > 3% floor ✓); HWM $444.29 — still below +15% tighten trigger ($458.57). JPM −0.48% unrealized day-1 noise from $352 entry — thesis intact (5.0%+ yield → NIM expansion, P/E ~12x, earnings Oct 13). Capital deployed 29.97% ($29,492.08) — well below 75-85% target; yield gate blocking high-P/E names (AVGO/AMAT); 2/6 position slots used; watching VIX for 3rd position entry. Weekly: 1/3 trades. Phase P&L: −$1,600.67 (−1.60%) vs $100,000 start.
 
 ---
+
+### Market-Open Scan — 2026-09-18 (Day 101, Friday — Week 20 Day 5)
+
+- **Account (API):** Equity $98,224.99 | Cash $68,907.25 (70.1%) | Phase P&L: −$1,775.01 (−1.78%) | Daytrade count: 0 | Weekly trades: 1/3
+- **TSM (API):** Current $428.50 | Entry $398.76 | Unrealized +$684.02 (+7.46%) | Stop 265e7f23: 10% trail, HWM $444.29, stop $399.861 | Buffer $28.64 (6.68% > 3% min) ✓
+- **JPM (API):** Current $347.54 | Entry $352.00 | Unrealized −$249.76 (−1.27%) | Stop f11bd758: 10% trail, HWM $350.53, stop $315.47 | Buffer $32.07 (9.23% > 3% min) ✓
+- **VIX (pre-market):** 15.41 (< 17 gate cleared ✓) | **10-yr yield:** ~5.00% (yield gate active — N/A for TSM/JPM/XOM)
+- **FOMC window:** Lifted ✓ | SPX futures: +1.94% risk-on ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +7.46% — threshold −7% not triggered ✓
+- JPM unrealized_plpc = −1.27% — threshold −7% ($327.36) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +7.46% — below +15% tighten trigger ($458.57) ✓
+- JPM −1.27% — not eligible ✓
+
+#### Step 5 — XOM Gate Check: SKIP
+| Check | Value | Threshold | Status |
+|-------|-------|-----------|--------|
+| VIX | 15.41 | < 17 | ✓ |
+| FOMC window | Lifted | Clear | ✓ |
+| Yield gate | 5.00% (N/A — XOM P/E ~14x, not growth) | ≤4.5% for P/E >40 only | ✓ |
+| Position slots | 2/6 | ≤ 6 | ✓ |
+| Trades this week | 1/3 | ≤ 3 | ✓ |
+| XOM price vs thesis | Ask $170.42 (EOD stale) vs research entry $115–120 | Price must support $132 target at min 2:1 R:R | ✗ FAIL |
+
+**XOM SKIPPED:** Quote shows ask $170.42 vs research-model entry of $115–120; researched target $132 is below current ask — R:R inverted. Price has moved beyond original thesis assumptions. Friday entry risk also cited in research. No entry.
+
+#### No Trades Executed
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $428.50 | +$684.02 (+7.46%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; TSMC Aug rev +53.3% YoY; dividend $1.114 CAPTURED | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $347.54 | −$249.76 (−1.27%) | 10% GTC (f11bd758, HWM $350.53, stop $315.47) | FOMC lifted; 5.0%+ yield → NIM expansion; P/E ~12x; Q3 mini boom; earnings Oct 13 | $385 | ~2.6:1 |
+
+_No trades executed. XOM skipped: stale quote at $170 ask invalidates research entry assumption of $115–120 (target $132 < ask price; R:R inverted). TSM +7.46% unrealized, stop buffer 6.68%. JPM −1.27% (day-2 noise), stop buffer 9.23%. Both theses intact. Capital deployed 29.85% — yield gate blocking high-P/E; watching next week for XOM re-entry if price corrects or oil stabilizes. Weekly: 1/3 trades. Day 101._
+
+---
