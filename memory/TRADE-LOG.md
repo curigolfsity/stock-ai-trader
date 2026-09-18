@@ -4540,3 +4540,37 @@ _JPM fill confirmed at $352 (56 shares, order 155fd558). JPM 10% trailing stop G
 _No trades executed. XOM skipped: stale quote at $170 ask invalidates research entry assumption of $115–120 (target $132 < ask price; R:R inverted). TSM +7.46% unrealized, stop buffer 6.68%. JPM −1.27% (day-2 noise), stop buffer 9.23%. Both theses intact. Capital deployed 29.85% — yield gate blocking high-P/E; watching next week for XOM re-entry if price corrects or oil stabilizes. Weekly: 1/3 trades. Day 101._
 
 ---
+
+### Midday Scan — 2026-09-18 (Day 101, Friday — Week 20 Day 5)
+
+- **Account (API):** Equity ~$98,219 | Cash $68,907.25 (70.2%) | Phase P&L: ~−$1,781 (−1.78%) | Daytrade count: 0 | Weekly trades: 1/3
+- **TSM (API):** Price $429.95 | Entry $398.76 | Unrealized +$717.37 (+7.82%) | Intraday −0.07% | Stop 265e7f23: HWM $444.29, stop $399.861 | Buffer $30.09 (7.00% > 3% min) ✓
+- **JPM (API):** Price $346.83 | Entry $352.00 | Unrealized −$289.52 (−1.47%) | Intraday −0.71% | Stop f11bd758: HWM $350.53, stop $315.47 | Buffer $31.36 (9.04% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +7.82% — threshold −7% ($370.85) not triggered ✓
+- JPM unrealized_plpc = −1.47% — threshold −7% ($327.36) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +7.82% — below +15% tighten trigger ($458.57) ✓
+- JPM −1.47% — not eligible ✓
+- Both GTC stops confirmed active (265e7f23, f11bd758) ✓
+
+#### Step 5 — Thesis Check: BOTH INTACT
+- TSM: TSMC Aug revenue +53% YoY (4th consecutive MoM increase); 3nm/4nm/5nm nodes fully booked; consensus Strong Buy (avg target $514, 15 of 18 analysts); −0.07% intraday noise ✓
+- JPM: Dividend raised +10% to $1.65/share — signals capital generation confidence; Commerce Bank trim = routine rebalancing, not thesis break; NIM expansion at 5.00% yield intact; earnings Oct 13 catalyst intact ✓
+
+#### Step 6 — Intraday Research: NO ANOMALIES
+- No sharp moves requiring investigation; both positions moving with broad market ✓
+- Yield 5.00% steady — gate active but N/A for TSM/JPM (not high-P/E growth names) ✓
+- Capital deployed: 29.9% ($29,311 of ~$98,219) — below 75-85% target; yield gate + Friday caution limiting new entries; no eligible catalysts today ✓
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $429.95 | +$717.37 (+7.82%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; Q2 $40.2B beat; Aug rev +53% YoY; 3nm/4nm/5nm booked; dividend CAPTURED | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $346.83 | −$289.52 (−1.47%) | 10% GTC (f11bd758, HWM $350.53, stop $315.47) | FOMC lifted; 5.00% yield → NIM expansion; P/E ~12x; dividend raised +10%; earnings Oct 13 | $385 | ~2.6:1 |
+
+_No action taken. TSM +7.82% unrealized, stop buffer 7.00%. JPM −1.47% (day-2 noise, thesis intact, dividend raised +10%), stop buffer 9.04%. Both GTC stops confirmed active. Capital deployed 29.9% — yield gate limiting new entries; no eligible catalysts on Friday. Weekly: 1/3 trades. Day 101._
+
+---

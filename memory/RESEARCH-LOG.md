@@ -8155,3 +8155,12 @@ _Sources: TipRanks, Yahoo Finance (WebSearch — Perplexity key not set)_
 
 _Sources: CNBC, TradingEconomics, StrongBuyAnalytics, Yahoo Finance (WebSearch — Perplexity key not set)_
 
+### Midday Addendum — 2026-09-18
+
+- **TSM $429.95:** TSMC Aug revenue +53% YoY, 4th consecutive MoM increase; 3nm/4nm/5nm nodes fully booked; consensus Strong Buy (avg target $514, +19.8% upside); −0.07% intraday = noise; thesis firmly intact ✓
+- **JPM $346.83:** JPM raised quarterly dividend +10% to $1.65/share — signals strong capital generation confidence; Commerce Bank trimmed holdings = routine rebalancing; NIM expansion at 5.00% yield intact; earnings Oct 13; −0.71% intraday = Friday profit-taking; thesis intact ✓
+- **No action taken:** No cuts, no tightens, no new entries. Both GTC stops confirmed active (265e7f23, f11bd758). Friday caution + yield gate limit new entries.
+- **Capital deployed:** 29.9% — yield gate blocking high-P/E growth names; watching XOM and other energy/financials for next week's potential 3rd position if oil stabilizes
+
+_Sources: Yahoo Finance, GuruFocus, TipRanks (WebSearch — Perplexity key not set)_
+
