@@ -8164,3 +8164,79 @@ _Sources: CNBC, TradingEconomics, StrongBuyAnalytics, Yahoo Finance (WebSearch �
 
 _Sources: Yahoo Finance, GuruFocus, TipRanks (WebSearch — Perplexity key not set)_
 
+
+---
+
+## Pre-Market Research — 2026-09-21 (Day 102, Week 21 Day 1, Monday)
+
+### Account Snapshot (API)
+| Field | Value |
+|-------|-------|
+| Equity | $98,678.59 |
+| Cash | $68,907.25 |
+| Long market value | $29,771.34 |
+| Deployed | 30.2% (target 75–85%) |
+| Daytrade count | 0 |
+| Weekly trades | 0/3 (new week) |
+
+### Positions (API)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $439.70 | +$941.62 (+10.27%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) |
+| JPM | 56 | $352.00 | $351.04 | −$53.76 (−0.27%) | 10% GTC (f11bd758, HWM $350.525, stop $315.47) |
+
+### Market Context
+- **VIX:** 14.82 (−4.02%) — low volatility; gate cleared < 17 ✓
+- **SPX futures:** Risk-on; Nasdaq/growth leading; NVDA, AMZN, GOOGL all higher pre-market; defensive sectors (XLP, XLC, XLU) and mega-caps (MSFT, AAPL, META, TSLA) weaker
+- **WTI crude:** ~$93.60–$96.98 (sharply lower from $101 prior week; crude "sharply lower" per CNBC)
+- **Brent crude:** ~$103.19 (prev close $104.82)
+- **10-yr yield:** Higher (5%+ sustained) — yield gate active; blocks all P/E >40 growth names
+- **FOMC window:** Lifted ✓ (post-September hike; now monitoring post-hike rate path)
+- **Key releases today:** Fed's Goolsbee speech 10:30 ET (rate path commentary); Chicago Fed NFAI 12:30 ET; no CPI/PPI/jobs/FOMC
+- **Fed calendar this week:** 10+ Fed speakers; markets parsing post-hike trajectory
+
+### Sector Momentum YTD
+| Rank | Sector | YTD | Comment |
+|------|--------|-----|---------|
+| 1 | Energy (XLE) | +42% | WTI declining sharply ($101→$95); headwind risk |
+| 2 | Materials | +15.86% | Commodity cycle; fading |
+| 3 | Financials | +18% est | NIM expansion; upward earnings revisions; yield steepening |
+| 4 | Industrials | +12% est | Infrastructure/defense |
+| 5 | Tech | Lagging | AI names outperforming within; yield pressure broad sector |
+
+### Holdings News
+- **TSM $439.70 (+10.27%):** TSMC raised 2026 revenue growth guidance to +40% (vs prior ~38%); Q3 guidance $44.6B–$45.8B with gross margin 65–67%; AI chip demand boom; market cap $2.01T; pre-market +1.44% on Taiwan exchange; tighten trigger at $458.57 (+15%) approaching; analyst avg target $514 (+17% upside); thesis strongly intact ✓
+- **JPM $351.04 (−0.27%):** Ex-dividend date Oct 6 for $1.65/share (capturing $92.40 on 56 shares); CEO Dimon at China state dinner (geopolitical positive); Buy consensus ×15 analysts; P/E ~15x; earnings Oct 13 catalyst; NIM expansion thesis intact ✓
+
+### Trade Ideas
+
+**1. TSM — HOLD (existing +10.27%)**
+- No action. Stop 265e7f23 ACTIVE (HWM $444.29, stop $399.861, buffer $39.84 = 9.07% > 3% min ✓)
+- **Watch:** tighten trigger $458.57 (+15% from entry) — current $439.70 is 4.3% away; could trigger this week given TSMC guidance raise
+- Entry/Stop/Target: N/A | Stop $399.861 | Target $530–545 (3.4:1)
+
+**2. JPM — HOLD (existing −0.27%)**
+- Recovering from −1.47% on Friday; ex-div Oct 6 → must hold to capture $92.40
+- Stop f11bd758 ACTIVE (HWM $350.525, stop $315.47, buffer $35.57 = 10.13% > 3% min ✓)
+- Entry/Stop/Target: N/A | Stop $315.47 | Target $385 (2.6:1)
+
+**3. BAC — WATCHLIST (potential 3rd position; financials diversification)**
+- **Catalyst:** Financials sector NIM expansion at 5%+ yield; upward earnings revisions per Investing.com; yield curve steepening; P/E ~12x (not yield-gated ✓); diversifies financials within sector momentum
+- **Gate check:** VIX 14.82 ✓ | FOMC lifted ✓ | Yield gate N/A (P/E ~12x) ✓ | Slots: 2/6 (4 avail) ✓ | Trades: 0/3 ✓
+- **Risk:** Adds financials concentration (already hold JPM); await Goolsbee speech 10:30 ET for yield direction
+- **Entry:** Market-open confirmation; ~15–20% position sizing
+- **Stop:** 10% trailing GTC on fill
+- **Status:** WATCHLIST — confirm at market-open if Goolsbee tone neutral/dovish and yield stable
+
+### Risk Factors
+- **Oil declining sharply (HIGH):** WTI down from $101 to ~$95; +4th consecutive declining session; energy sector headwind; XOM thesis still structurally challenged
+- **Yield 5%+ (HIGH):** Blocks all P/E >40 names (NVDA, AMZN, AMAT, PANW blocked); gate persists until 2 consecutive closes below 4.5%
+- **Goolsbee speech 10:30 ET (MEDIUM):** Hawkish tone → yield spike → risk-off; dovish tone → supports growth rally further
+- **TSM tighten trigger approaching (LOW/POSITIVE):** $458.57 is 4.3% away; positive risk if TSMC guidance raise drives pre-market momentum
+- **Deployment gap (MEDIUM):** 30.2% deployed vs 75–85% target; BAC or another name needed for 3rd position; structural priority Week 21 per weekly review
+- **JPM ex-div Oct 6 (LOW):** Must hold through Oct 5 close to capture $92.40; no planned exits before then
+
+### Decision
+**HOLD** — default patience. Both positions intact with healthy stop buffers. New week starts clean (0/3 trades). **BAC on active watchlist** as 3rd position candidate to close deployment gap; entry decision deferred to market-open workflow once Goolsbee tone is assessed (10:30 ET) and oil direction confirmed. No entry forced on Monday open — monitor first 30 minutes for market direction confirmation.
+
+_Sources: StrongBuyAnalytics, TradingEconomics, Investing.com, ad-hoc-news.de, TipRanks, public.com, CNBC (WebSearch — Perplexity key not set)_
