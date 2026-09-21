@@ -4585,3 +4585,38 @@ _No action taken. TSM +7.82% unrealized, stop buffer 7.00%. JPM −1.47% (day-2 
 
 ---
 
+### Midday Scan — 2026-09-21 (Day 102, Week 21 Day 1, Monday)
+
+- **Account (API):** Equity $98,702.38 | Cash $68,907.25 (69.8%) | Day P&L: +$216.20 (+0.22%) | Phase P&L: −$1,297.62 (−1.30%) | Daytrade count: 0 | Weekly trades: 0/3
+- **TSM (API):** Price $441.235 | Entry $398.76 | Unrealized +$976.93 (+10.65%) | Intraday +$150.995 (+1.51%) | Stop 265e7f23: HWM $444.29, stop $399.861 | Buffer $41.37 (9.38% > 3% min) ✓
+- **JPM (API):** Price $350.805 | Entry $352.00 | Unrealized −$66.92 (−0.34%) | Intraday +$63.56 (+0.33%) | Stop f11bd758: HWM $354.50 (auto-updated from $350.525), stop $319.05 | Buffer $31.76 (9.05% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +10.65% — threshold −7% ($370.85) not triggered ✓
+- JPM unrealized_plpc = −0.34% — threshold −7% ($327.36) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +10.65% — below +15% tighten trigger ($458.57); $16.59 gap remains ✓
+- JPM −0.34% — not eligible ✓
+- Stop 265e7f23 (TSM): HWM $444.29, stop $399.861 — confirmed active ✓
+- Stop f11bd758 (JPM): HWM auto-updated to $354.50 by Alpaca GTC, stop $319.05 — confirmed active ✓
+
+#### Step 5 — Thesis Check: BOTH INTACT
+- TSM: TSMC 2026 guidance raised to +40%; Q3 target $44.6B–$45.8B at 65–67% GM; AI chip demand intact; +1.51% intraday ✓
+- JPM: NIM expansion at 5%+ yield sustained; ex-div Oct 6 ($1.65/share × 56 = $92.40 to capture); earnings Oct 13 catalyst intact; +0.33% intraday recovery ✓
+
+#### Step 6 — Intraday Research: NO ANOMALIES
+- No sharp unexplained moves; both positions moving normally with market ✓
+- Yield gate still active (5%+); BAC remains watchlist candidate for 3rd position (market-open scan did not run today — BAC entry deferred to next market-open workflow)
+- Capital deployed: 30.2% ($29,795.13) — well below 75–85% target; deployment gap structural priority Week 21 ✓
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $441.24 | +$976.93 (+10.65%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) | AI chip demand; TSMC 2026 guidance +40%; Q3 $44.6B–$45.8B at 65–67% GM; dividend CAPTURED | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $350.81 | −$66.92 (−0.34%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; 5%+ yield → NIM expansion; P/E ~12x; ex-div Oct 6 ($92.40); earnings Oct 13 | $385 | ~2.6:1 |
+
+_No action taken. TSM +10.65% unrealized, intraday +1.51%; tighten trigger ($458.57) 4.3% away — watch closely. JPM −0.34% (recovering +0.33% intraday); HWM auto-updated to $354.50 by GTC stop; both theses intact. Market-open scan did not run today; BAC (3rd position watchlist) deferred to next market-open workflow. Capital deployed 30.2% — yield gate blocking growth names; deployment gap remains structural priority. Weekly: 0/3 trades. Day 102._
+
+---
+
