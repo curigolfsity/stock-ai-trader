@@ -4620,3 +4620,13 @@ _No action taken. TSM +10.65% unrealized, intraday +1.51%; tighten trigger ($458
 
 ---
 
+### Sep 21 — EOD Snapshot (Day 102, Monday — Week 21 Day 1)
+**Portfolio:** $98,875.08 | **Cash:** $68,907.25 (69.7%) | **Day P&L:** +$388.90 (+0.39%) | **Phase P&L:** −$1,124.92 (−1.12%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $443.99 | +2.14% | +$1,040.18 (+11.34%) | 10% GTC (265e7f23, HWM $444.29, stop $399.861) |
+| JPM | 56 | $352.00 | $352.76 | +0.88% | +$42.56 (+0.22%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
+**Notes:** Day 102 (Week 21, Monday close). No trades today; weekly count 0/3. TSM strong: +11.34% unrealized, intraday +2.14%, HWM $444.29 nearly matched at close ($443.99); tighten trigger at $458.57 (+15%) is $14.58 away (3.28%) — watching closely. JPM +0.22% unrealized, recovering cleanly; NIM thesis intact; ex-div Oct 6 ($92.40 on 56 shares); earnings Oct 13 catalyst ahead. Both GTC stops confirmed active (TSM 265e7f23 stop $399.861, JPM f11bd758 stop $319.05). Capital deployed 30.3% ($29,966.22 of $98,875.08) — well below 75-85% target; yield gate at 5%+ limiting new entries; BAC watchlist deferred to next market-open scan. Phase P&L: −$1,124.92 (−1.12%) vs $100,000 start. 2/6 position slots used. Week 21 Day 1 complete.
+
+---
+
