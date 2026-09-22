@@ -8313,3 +8313,17 @@ _Sources: StrongBuyAnalytics, TradingEconomics, Investing.com, ad-hoc-news.de, T
 **HOLD** — stocks rising early on oil/yield decline; both positions intact with healthy stop buffers (9.35% each). **TSM tighten trigger ($458.57) watch is active — if TSM closes ≥ $458.57, tighten trail immediately to 7%.** BAC entry deferred to market-open workflow for spot VIX confirmation (VIX futures ~17.82 elevated vs spot; verify before committing capital). Default patience — no pre-market entry trigger.
 
 _Research via WebSearch (Perplexity key not set — fallback used)_
+
+### Afternoon Addendum — 2026-09-22 (Midday Scan)
+
+**Key finding: Financials sector rotation, not thesis break**
+
+- **JPM −3.44% / BAC −2.26%:** Market rotating capital from financials into tech; catalyst = Meta Muse AI agent announcement driving AI/tech sector inflows. No company-specific negative news for either JPM or BAC.
+- **10-yr yield 4.951%:** First close below 5% in weeks. Still well above 4.5% gate. Yield gate remains ACTIVE — P/E >40 names still blocked. If yield sustains <4.5% for 2 consecutive sessions, gate lifts (current: single session at 4.951%).
+- **TSM +0.38% midday:** AI chip names outperforming on same rotation day — confirms TSM thesis. HWM auto-advancing (now $448.30). Tighten trigger $458.57 = 2.63% away. Watch at EOD close.
+- **Yield trend to watch:** 4.951% (today) — if continued decline toward 4.5%, monitor for gate lift; would open NVDA, AMZN, AMAT candidates.
+- **JPM stop buffer narrowing:** $339.93 vs stop $319.05 = 6.14% buffer. Still above 3% floor but has compressed; watch if JPM continues lower tomorrow.
+- **No new entries today:** Financials down on rotation day not the time to add; tech names still blocked by yield gate; patience rule applies.
+
+_Sources: Investing.com, Globe and Mail, Yahoo Finance, TradingKey, CNBC (WebSearch)_
+

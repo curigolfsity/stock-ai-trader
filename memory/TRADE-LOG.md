@@ -4665,3 +4665,41 @@ _No action taken. TSM +10.65% unrealized, intraday +1.51%; tighten trigger ($458
 _BAC 285sh × $58.03 = $16,539. Stop 425ccf1c active (10% trail GTC, stop $51.73). TSM HWM auto-advanced to $447.56 (stop $402.80), tighten trigger $458.57 now 2.70% away — watching closely. JPM −1.97% day-2 noise, thesis intact, ex-div Oct 6 ($92.40). Equity $98,304 | Cash $52,368 | Deployed 46.7% | Phase P&L −$1,696 (−1.70%). Weekly: 1/3 trades. Day 103._
 
 ---
+
+### Midday Scan — 2026-09-22 (Day 103, Week 21 Day 2, Tuesday)
+
+- **Account:** Equity ~$97,826 | Cash $52,368 | Deployed ~46.5% | Phase P&L ~−$2,174 (−2.17%) | Daytrade count: 0 | Weekly trades: 1/3
+- **TSM (API):** Price $446.81 | Entry $398.76 | Unrealized +$1,105.15 (+12.05%) | Intraday +$38.41 (+0.38%) | Stop 265e7f23: HWM $448.30, stop $403.47 | Buffer $43.34 (9.70% > 3% min) ✓
+- **JPM (API):** Price $339.93 | Entry $352.00 | Unrealized −$675.92 (−3.43%) | Intraday −$678.16 (−3.44%) | Stop f11bd758: HWM $354.50, stop $319.05 | Buffer $20.88 (6.14% > 3% min) ✓
+- **BAC (API):** Price $56.65 | Entry $58.03 | Unrealized −$393.74 (−2.38%) | Intraday −$393.74 (−2.26%) | Stop 425ccf1c: HWM $57.71, stop $51.94 | Buffer $4.71 (8.32% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM +12.05% → threshold −7% ($370.85) not triggered ✓
+- JPM −3.43% → threshold −7% ($327.36) not triggered; current $339.93 > $327.36 ✓
+- BAC −2.38% → threshold −7% ($53.97) not triggered; current $56.65 > $53.97 ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +12.05% — below +15% trigger ($458.57); $11.76 (2.63%) gap remains ✓
+- JPM/BAC — losses, not eligible ✓
+- All GTC stops confirmed active and above 3% buffer floor ✓
+
+#### Step 5 — Thesis Check: ALL INTACT
+- TSM: AI chip demand + TSMC 2026 guidance +40%; record August revenue NT$514.8B; +0.38% intraday; tighten trigger $458.57 closing in ✓
+- JPM: −3.44% intraday explained by tech-rotation (Meta Muse AI agent) — NOT company-specific; yield 4.951% still elevated; NIM thesis intact; ex-div Oct 6 ($92.40) approaching; earnings Oct 13 ✓
+- BAC: Same financials-to-tech rotation explains −2.26%; P/E ~12x; NIM thesis intact; yield still above 4.5% gate ✓
+
+#### Step 6 — Intraday Research: ANOMALY INVESTIGATED
+- **JPM/BAC decline (−3.44% / −2.26%):** Confirmed tech-rotation day — investors rotating capital into tech (Meta Muse AI agent); financials sector-wide decline, not company-specific catalyst; thesis intact
+- **10-yr yield 4.951%:** Slipped below 5% for first time in weeks; still well above 4.5% gate threshold; yield gate remains ACTIVE for P/E >40 names
+- **TSM +0.38% intraday:** Holding up amid rotation; AI chip names outperforming; tighten trigger $458.57 = 2.63% away — likely trigger this week
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $446.81 | +$1,105.15 (+12.05%) | 10% GTC (265e7f23, HWM $448.30, stop $403.47) | AI chip demand; TSMC +40% guidance; record Aug rev; tighten trigger $458.57 | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $339.93 | −$675.92 (−3.43%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; 5%+ yield → NIM; P/E ~12x; ex-div Oct 6 ($92.40); earnings Oct 13 | $385 | ~2.6:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $56.65 | −$393.74 (−2.38%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) | Financials NIM; P/E ~12x; sector momentum +18% YTD | $72.00 | 3.44:1 |
+
+_No action taken. Tech-rotation explains financials decline (JPM −3.44%, BAC −2.26%); theses intact. TSM +12.05% holding firm amid AI-sector strength; tighten trigger $458.57 is 2.63% away — watch at close. JPM stop buffer 6.14% (narrowing — monitor). Yield 4.951% (first sub-5% in weeks; gate still active >4.5%). Deployed 46.5%, 3/6 slots. Weekly: 1/3 trades. Day 103._
+
+---
