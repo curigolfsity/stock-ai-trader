@@ -4703,3 +4703,14 @@ _BAC 285sh × $58.03 = $16,539. Stop 425ccf1c active (10% trail GTC, stop $51.73
 _No action taken. Tech-rotation explains financials decline (JPM −3.44%, BAC −2.26%); theses intact. TSM +12.05% holding firm amid AI-sector strength; tighten trigger $458.57 is 2.63% away — watch at close. JPM stop buffer 6.14% (narrowing — monitor). Yield 4.951% (first sub-5% in weeks; gate still active >4.5%). Deployed 46.5%, 3/6 slots. Weekly: 1/3 trades. Day 103._
 
 ---
+
+---
+
+### Sep 22 — EOD Snapshot (Day 103, Tuesday — Week 21 Day 2)
+**Portfolio:** $97,891.85 | **Cash:** $52,368.26 (53.5%) | **Day P&L:** −$967.86 (−0.98%) | **Phase P&L:** −$2,108.15 (−2.11%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $451.29 | +1.38% | +$1,208.08 (+13.17%) | 10% GTC (265e7f23, HWM $451.70, stop $406.53) |
+| JPM | 56 | $352.00 | $340.40 | −3.31% | −$649.61 (−3.30%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
+| BAC | 285 | $58.03 | $56.44 | −2.63% | −$455.02 (−2.75%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) |
+**Notes:** Day 103 (Week 21, Tuesday close). Bought BAC 285sh @ $58.03 at market-open; 1 trade today, 1/3 week. Day loss driven by tech-rotation: financials sector-wide selling hit JPM (−3.31%) and BAC (−2.63%) while TSM held up (+1.38%, unrealized now +13.17%). All three GTC trailing stops confirmed active — TSM HWM auto-advanced to $451.70 (stop $406.53) as price closed at new high. JPM stop buffer 6.28% (still comfortable above 3% floor). TSM tighten trigger at $458.57 is $7.28 (1.61%) away — very likely trigger this week. BAC and JPM theses intact: yield 4.95% range still drives NIM expansion thesis; both positions within normal drawdown for new entries. JPM ex-div Oct 6 ($92.40) and earnings Oct 13 intact. Capital deployed 46.5% ($45,524 of $97,892) — 3/6 position slots used. Weekly: 1/3 trades. Day 103.
