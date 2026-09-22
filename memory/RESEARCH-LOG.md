@@ -8240,3 +8240,76 @@ _Sources: Yahoo Finance, GuruFocus, TipRanks (WebSearch — Perplexity key not s
 **HOLD** — default patience. Both positions intact with healthy stop buffers. New week starts clean (0/3 trades). **BAC on active watchlist** as 3rd position candidate to close deployment gap; entry decision deferred to market-open workflow once Goolsbee tone is assessed (10:30 ET) and oil direction confirmed. No entry forced on Monday open — monitor first 30 minutes for market direction confirmation.
 
 _Sources: StrongBuyAnalytics, TradingEconomics, Investing.com, ad-hoc-news.de, TipRanks, public.com, CNBC (WebSearch — Perplexity key not set)_
+
+---
+
+## 2026-09-22 — Pre-Market Research (Tuesday, Week 21 Day 2)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,792.83 |
+| Cash | $68,907.25 (69.8%) |
+| Long market value | $29,885.58 |
+| Buying power | $359,308.62 |
+| Capital deployed | ~30.2% (target 75–85%) |
+| Daytrade count | 0 |
+| Weekly trades | 0/3 |
+
+### Positions (API)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $442.50 | +$1,006.02 (+10.97%) | 10% GTC (265e7f23, HWM $445.72, stop $401.15) |
+| JPM | 56 | $352.00 | $351.93 | −$3.92 (−0.02%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
+
+### Market Context
+- **WTI crude:** ~$91–94 (session range); ~$95.59 Sep 21 close (−4.69%); 5th straight declining session; Middle East diplomatic progress
+- **Brent crude:** ~$99.58–102.29 (session range); ~$100.06 Sep 21 close (−3.67%)
+- **VIX futures:** ~17.82 (Oct contract); spot was 14.81 on Sep 18 — stocks rising premarket suggests spot may be below 17; verify at open
+- **SPX premarket:** Rising early on oil/yield decline (Schwab: "Stocks Rise Early as Oil Prices, Yields Fall"); SPX +11.2% YTD
+- **10-yr yield:** 5%+ sustained — yield gate ACTIVE; blocks all P/E >40 growth names
+- **FOMC:** September hike delivered; 10+ Fed speakers this week; market parsing post-hike rate path
+- **Today's releases:** No CPI/PPI/NFP; AZO and KBH earnings (not S&P 500 market-movers); 34 economic events but none high-impact
+- **This week:** Darden/Costco (DRI/COST) earnings Sep 24; durable goods + UMich final Sep 25
+
+### Sector Momentum YTD (September 2026)
+| Rank | Sector | YTD | Comment |
+|------|--------|-----|---------|
+| 1 | Energy (XLE) | +47.7% | Oil declining; momentum fading |
+| 2 | Financials | ~+18% est | NIM expansion; upward earnings revisions; steepening curve |
+| 3 | Industrials | ~+12% est | Infrastructure/defense; stable |
+| 4 | Tech | Mixed | AI names outperforming; yield pressure on broad sector |
+| 5 | Consumer Disc | −5.0% | Worst performer; avoid |
+
+### Holdings News
+- **TSM $442.50 (+10.97%):** August revenue record ~NT$514.8B (~$16.1B); AI accelerator demand intact; earnings Oct 15; 52-week high $479.00; analyst avg target $514 (+16% from current); **tighten trigger at $458.57 is $16.07 (3.63%) away — watch**; stop HWM auto-advanced to $445.72 from Sep 21 close ✓
+- **JPM $351.93 (−0.02%):** $20B QIA asset-management partnership (geopolitical positive); Q3 IB fees up mid-to-high teens; Goldman reaffirmed Buy; analyst PT $364.73 (15 Buy consensus); **ex-div Oct 6 — $92.40 to capture (56sh × $1.65)**; earnings Oct 13 catalyst ✓
+
+### Trade Ideas
+
+**1. TSM — HOLD (existing +10.97%)**
+- No action. Stop 265e7f23 ACTIVE (HWM $445.72, stop $401.15, buffer $41.35 / 9.35% > 3% min ✓)
+- **WATCH:** tighten trigger $458.57 (+15% from entry) — 3.63% away; TSMC record August revenue = fundamental support
+- -7% cut threshold $370.85 (far below current price ✓)
+
+**2. JPM — HOLD (existing −0.02%)**
+- Near-flat; ex-div Oct 6 critical → must hold through Oct 5 close to capture $92.40
+- Stop f11bd758 ACTIVE (HWM $354.50, stop $319.05, buffer $32.88 / 9.35% > 3% min ✓)
+- Analyst PT $364.73 = +3.6% upside; Q3 IB fees strong; earnings Oct 13 approaching catalyst
+
+**3. BAC — WATCHLIST (deferred)**
+- Catalyst: Financials NIM expansion; P/E ~12x (not yield-gated); earnings revision momentum
+- **BLOCKED pending VIX confirmation:** VIX futures ~17.82 (elevated); verify spot VIX < 17 at market open before entry
+- If VIX spot < 17 + oil/yield direction confirmed stable → evaluate BAC (15–20% sizing) at market-open scan
+
+### Risk Factors
+- **VIX uncertainty (MEDIUM-HIGH):** Futures ~17.82 vs spot ~14.81 last Friday; stocks rising suggests spot may remain below 17; but 5th oil-declining session adds slight caution; **confirm spot VIX at open before any new entry**
+- **Oil declining (5th session) (MEDIUM):** WTI ~$91–94; structural pressure on Energy sector; no direct portfolio impact; CAT thesis (if held) would benefit from lower input costs — N/A here
+- **Fed speakers x10 this week (MEDIUM):** Yield direction uncertain post-hike; any hawkish surprise → spike → risk-off; yield gate at 5%+ already locking growth names
+- **TSM tighten trigger approaching (POSITIVE RISK):** $458.57 is 3.63% away; record August revenue + AI demand = catalyst for upside trigger
+- **Capital deployment gap (LOW-MEDIUM):** 30.2% vs 75–85% target; structural; BAC entry would take to ~40% — still under target; no forced action today
+
+### Decision
+**HOLD** — stocks rising early on oil/yield decline; both positions intact with healthy stop buffers (9.35% each). **TSM tighten trigger ($458.57) watch is active — if TSM closes ≥ $458.57, tighten trail immediately to 7%.** BAC entry deferred to market-open workflow for spot VIX confirmation (VIX futures ~17.82 elevated vs spot; verify before committing capital). Default patience — no pre-market entry trigger.
+
+_Research via WebSearch (Perplexity key not set — fallback used)_
