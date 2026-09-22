@@ -4630,3 +4630,38 @@ _No action taken. TSM +10.65% unrealized, intraday +1.51%; tighten trigger ($458
 
 ---
 
+
+### Market-Open Execution — 2026-09-22 (Day 103, Week 21 Day 2)
+
+#### Buy-Side Gate Check — BAC
+| Rule | Value | Pass |
+|------|-------|------|
+| Positions after fill | 3/6 | ✓ |
+| Weekly trades after fill | 1/3 | ✓ |
+| Position cost | $16,539 (~16.8% equity) | ✓ |
+| Catalyst documented | Financials NIM; P/E ~12x; 20 Buy; sector +18% YTD | ✓ |
+| Daytrade count | 0 (swing trade, GTC stop) | ✓ |
+| Yield gate | 10yr 4.96%; BAC P/E ~12x = NOT gated | ✓ |
+| FOMC window | Post-September decision | ✓ |
+| VIX spot | ~14.82 (<17 threshold) | ✓ |
+| Instrument | Stock (NYSE) | ✓ |
+
+#### Trade Executed
+| Date | Ticker | Side | Shares | Entry Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------------|------|--------|--------|-----|
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | 10% GTC (425ccf1c, HWM $57.475, stop $51.73) | Financials NIM expansion; 5%+ yield → NIM expand; P/E ~12x; 20 Buy consensus; avg PT $68.86 high $76; VIX 14.82; sector +18% YTD | $72.00 | 3.44:1 |
+
+- Order 5f6e42c2 filled 9:33 AM ET: 285sh @ avg $58.0315
+- Stop 425ccf1c placed 9:55 AM ET: 10% trail GTC, HWM $57.475, stop $51.73
+- 7% manual cut level: $53.97
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $446.51 | +$1,098.25 (+11.98%) | 10% GTC (265e7f23, HWM $447.56, stop $402.80) | AI chip demand; TSMC 2026 guidance +40%; Q3 $44.6B–$45.8B at 65–67% GM; tighten trigger $458.57 | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $345.05 | −$389.20 (−1.97%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; 5%+ yield → NIM expansion; P/E ~12x; ex-div Oct 6 ($92.40); earnings Oct 13 | $385 | ~2.6:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $57.47 | −$160.04 (−0.97%) | 10% GTC (425ccf1c, HWM $57.475, stop $51.73) | Financials NIM; P/E ~12x; VIX 14.82; sector momentum +18% YTD | $72.00 | 3.44:1 |
+
+_BAC 285sh × $58.03 = $16,539. Stop 425ccf1c active (10% trail GTC, stop $51.73). TSM HWM auto-advanced to $447.56 (stop $402.80), tighten trigger $458.57 now 2.70% away — watching closely. JPM −1.97% day-2 noise, thesis intact, ex-div Oct 6 ($92.40). Equity $98,304 | Cash $52,368 | Deployed 46.7% | Phase P&L −$1,696 (−1.70%). Weekly: 1/3 trades. Day 103._
+
+---
