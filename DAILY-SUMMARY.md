@@ -282,3 +282,11 @@ Ideas: AVGO (post-CPI watchlist >70), JPM (post-CPI 80-285)
 Market: SPX futures -0.46%, VIX 16.63, Oil WTI ~2.69 / Brent ~9.85
 Risks: Brent near 00 inflation signal; PPI Sep10 + CPI Sep11 binary pair; yield 4.80%+ gates growth; FOMC Sep16 hike odds rising
 TSM: 23sh +8.53%, stop HWM 44.29 buffer 7.60%, dividend ex Sep16
+
+---
+## 2026-09-22 10:05 UTC (fallback — ntfy/Discord blocked by proxy)
+Pre-market 2026-09-22
+Decision: HOLD
+Ideas: TSM HOLD +10.97% (tighten trigger $458.57 watch, 3.6% away), BAC WATCHLIST (VIX gate; defer to open)
+Market: SPX rising early, VIX futures ~17.82 (spot ~14.8 Sep 18), Oil WTI ~$91-94 (5th decline day)
+Risks: VIX uncertainty; Fed 10+ speakers; yield 5%+ gate active; deployment gap 30.2% vs 75-85% target
