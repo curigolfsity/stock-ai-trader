@@ -8327,3 +8327,96 @@ _Research via WebSearch (Perplexity key not set — fallback used)_
 
 _Sources: Investing.com, Globe and Mail, Yahoo Finance, TradingKey, CNBC (WebSearch)_
 
+
+---
+
+## 2026-09-23 — Pre-Market Research (Day 104, Week 21 Day 3, Wednesday)
+
+### Account Snapshot
+| Metric | Value |
+|--------|-------|
+| Equity | $97,886.77 |
+| Cash | $52,368.26 |
+| Deployed | $45,518.51 (46.5%) ← below 75–85% target |
+| Positions | 3/6 slots |
+| Weekly trades | 1/3 used |
+| Daytrade count | 0 |
+
+### Open Positions (API)
+| Ticker | Shares | Entry | Current | Unrealized | Today | Stop (HWM / Stop) |
+|--------|--------|-------|---------|------------|-------|-------------------|
+| TSM | 23 | $398.76 | $448.80 | +$1,150.92 (+12.55%) | −0.71% | 265e7f23: HWM $452.83 / stop $407.55 |
+| JPM | 56 | $352.00 | $341.11 | −$609.84 (−3.09%) | +0.33% | f11bd758: HWM $354.50 / stop $319.05 |
+| BAC | 285 | $58.03 | $56.47 | −$445.04 (−2.69%) | +0.48% | 425ccf1c: HWM $57.71 / stop $51.94 |
+
+All 3 GTC trailing stops confirmed active.
+
+### Market Context
+- **SPX futures:** $7,831.50, −0.03% (essentially flat)
+- **Nasdaq futures:** +0.76% (tech leading)
+- **Dow futures:** $52,280, −0.37% (value/cyclical lagging)
+- **Russell 2000 futures:** +0.59%
+- **VIX:** 14.25 (LOW — very favorable; below 17 threshold)
+- **10-yr yield:** 4.968%, +0.10% — yield gate ACTIVE; P/E >40 names blocked
+- **WTI crude:** ~$91–94 range; **Brent:** ~$98–100 (−1.87% yesterday)
+- **Oil trend:** Retreating on US–Iran diplomatic signals unwinding geopolitical risk premium
+- **Earnings today:** CTAS, PAYX, GIS (not major S&P movers)
+- **Economic calendar:** 49 events scheduled; no high-impact CPI/PPI/FOMC releases
+- **Quarter-end:** Q3 ends Sep 30 — window dressing season begins; potential catalyst for sector leaders
+
+### Sector Momentum (September 2026)
+| Rank | Sector | Status | Comment |
+|------|--------|--------|---------|
+| 1 | Energy (XLE) | Leading | +22% YTD; oil declining, premium fading |
+| 2 | Industrials (XLI) | Leading | AI infrastructure, defense, capex tailwinds |
+| 3 | Materials (XLB) | Leading | Commodity/infrastructure adjacent |
+| 4 | Tech | Mixed | AI names strong; yield gate blocks high-P/E |
+| 5 | Financials (XLF) | Lagging | NIM thesis intact but sector classified lagging |
+
+### Holdings News
+- **TSM $448.80 (−0.71% premarket):** Tighten trigger at $458.57 is $9.77 (2.18%) away — very likely trigger this week; TSMC 53% Aug revenue surge; AI chip demand; earnings Oct 15; stop HWM auto-advanced to $452.83 (stop $407.55); buffer $41.25 (9.19%) ✓
+- **JPM $341.11 (+0.33% premarket):** Recovering from tech-rotation day; stop buffer $22.06 (6.47%) — narrowing but above 3% floor; ex-div Oct 6 ($92.40 for 56sh); earnings Oct 13; thesis intact
+- **BAC $56.47 (+0.48% premarket):** Recovering; NIM thesis intact; stop buffer $4.53 (8.02%); P/E ~12x; financials sector lagging in momentum (watch)
+
+### Trade Ideas
+
+**1. TSM — HOLD (existing, +12.55%)**
+- No action. Stop active, tighten trigger $458.57 is 2.18% away
+- WATCH: if TSM closes ≥ $458.57 → tighten trail immediately to 7%
+- 7% cut threshold $370.85 (far below current) ✓
+
+**2. CAT (Caterpillar) — CONDITIONAL ENTRY**
+- Catalyst: Industrials LEADING sector; infrastructure + defense spending; AI data center capex; oil declining → lower input costs; Q3 capex cycle strong; window dressing tailwind
+- P/E ~18x (well below yield-gate threshold of 40) ✓
+- Entry: market open ~$375–385 if SPX stable and VIX holds ≤16
+- Stop: 10% trailing GTC
+- Target: $430 (analyst avg)
+- R:R: ~2:1
+- Size: 14–16% of equity (~$13,700–15,600 / ~37–41 shares)
+- GATE: SPX must be flat or green at open; VIX ≤16 spot; confirm at market-open workflow
+
+**3. HON (Honeywell) — WATCHLIST**
+- Catalyst: Industrials leading; aerospace + automation; building tech; AI infrastructure buildout beneficiary; P/E ~22x
+- Entry: ~$240–250; Stop: 10% GTC; Target: $280
+- R:R: ~2:1
+- Second choice to CAT; same entry gate applies
+
+### Risk Factors
+- **Yield gate active (MEDIUM):** 4.968% — blocks P/E >40 names; slight uptick (+0.10%) today; gate remains in force
+- **Financials lagging (MEDIUM):** JPM and BAC in lagging momentum sector; both thesis-intact but facing sector headwind; not adding more financials exposure
+- **JPM stop buffer narrowing (MEDIUM):** $341.11 vs stop $319.05 = 6.47% buffer; watch if drift continues — flag at <5%
+- **Mixed futures signal (LOW-MEDIUM):** SPX −0.03%, Dow −0.37% vs Nasdaq +0.76% → value/cyclical lagging; supports patience before adding
+- **Quarter-end window dressing (LOW-MEDIUM):** Could amplify moves both ways in final week of Q3
+- **TSM tighten trigger (POSITIVE):** 2.18% away; any morning spike triggers immediately — be ready to act
+- **Oil declining (LOW):** Geopolitical premium unwinding; no direct portfolio impact; energy sector momentum fading
+
+### Decision
+**HOLD** — mixed futures (SPX flat, Dow slightly red) warrant patience at open. Default rule: patience > activity.
+
+Conditional watchlist for market-open workflow:
+- If SPX opens flat or green AND VIX spot ≤16 at open → evaluate CAT entry (~15% size, industrials leading sector, would bring deployed to ~62%)
+- TSM tighten trigger ($458.57) active — act immediately if triggered at any point today
+- No new financials exposure (sector lagging; already 2 positions)
+- JPM stop buffer watch: flag if buffer compresses below 5%
+
+_Sources: Alpaca API (live positions/orders), WebSearch (CNBC, StrongBuyAnalytics, TipRanks, TradingEconomics, Investing.com, Schwab)_
