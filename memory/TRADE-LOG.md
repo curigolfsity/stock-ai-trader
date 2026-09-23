@@ -4714,3 +4714,53 @@ _No action taken. Tech-rotation explains financials decline (JPM −3.44%, BAC �
 | JPM | 56 | $352.00 | $340.40 | −3.31% | −$649.61 (−3.30%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
 | BAC | 285 | $58.03 | $56.44 | −2.63% | −$455.02 (−2.75%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) |
 **Notes:** Day 103 (Week 21, Tuesday close). Bought BAC 285sh @ $58.03 at market-open; 1 trade today, 1/3 week. Day loss driven by tech-rotation: financials sector-wide selling hit JPM (−3.31%) and BAC (−2.63%) while TSM held up (+1.38%, unrealized now +13.17%). All three GTC trailing stops confirmed active — TSM HWM auto-advanced to $451.70 (stop $406.53) as price closed at new high. JPM stop buffer 6.28% (still comfortable above 3% floor). TSM tighten trigger at $458.57 is $7.28 (1.61%) away — very likely trigger this week. BAC and JPM theses intact: yield 4.95% range still drives NIM expansion thesis; both positions within normal drawdown for new entries. JPM ex-div Oct 6 ($92.40) and earnings Oct 13 intact. Capital deployed 46.5% ($45,524 of $97,892) — 3/6 position slots used. Weekly: 1/3 trades. Day 103.
+
+---
+
+### Market-Open Scan — 2026-09-23 (Day 104, Week 21 Day 3, Wednesday)
+
+- **Account (API):** Equity $97,556.75 | Cash $52,368.26 (53.7%) | Phase P&L: −$2,443.25 (−2.44%) | Daytrade count: 0 | Weekly trades: 1/3
+- **VIX (pre-market):** 14.25 (< 17 gate ✓) | **10-yr yield:** 4.968% (yield gate ACTIVE — blocks P/E >40 names)
+- **SPX futures:** flat (−0.03%) | **Nasdaq futures:** +0.76%
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Trail Stop (HWM / Stop) | Buffer |
+|--------|--------|-------|---------|----------------|--------------------------|--------|
+| TSM | 23 | $398.76 | $447.10 | +$1,111.82 (+12.12%) | 265e7f23: HWM $452.83 / stop $407.55 | $39.55 (8.85% ✓) |
+| JPM | 56 | $352.00 | $337.80 | −$795.20 (−4.03%) | f11bd758: HWM $354.50 / stop $319.05 | $18.75 (5.56% ⚠ → WATCH <5%) |
+| BAC | 285 | $58.03 | $56.10 | −$550.60 (−3.33%) | 425ccf1c: HWM $57.71 / stop $51.94 | $4.16 (7.41% ✓) |
+
+All 3 GTC trailing stops confirmed active (qty_available = 0).
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM +12.12% — threshold −7% ($370.85) not triggered ✓
+- JPM −4.03% — threshold −7% ($327.36) not triggered; current $337.80 > $327.36 ✓
+- BAC −3.33% — threshold −7% ($53.97) not triggered; current $56.10 > $53.97 ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +12.12% — below +15% tighten trigger ($458.57); $11.47 (2.55%) gap remains ✓
+- JPM/BAC — losses, not eligible ✓
+
+#### Step 5 — CAT Gate Check: SKIP
+| Check | Value | Threshold | Status |
+|-------|-------|-----------|--------|
+| Positions after | 4/6 | ≤ 6 | ✓ |
+| Weekly trades after | 1 → 2/3 | ≤ 3 | ✓ |
+| Catalyst documented | Industrials leading; RESEARCH-LOG Sep 23 | Required | ✓ |
+| Daytrade count | 0 | < 3 | ✓ |
+| Yield gate | 4.968% (N/A — CAT P/E ~18x, not growth) | ≤4.5% for P/E >40 only | ✓ |
+| VIX gate | 14.25 (pre-mkt) / VXX stale | ≤ 16 at open | ✓ (pre-mkt) |
+| Position cost | 37sh × $849 = ~$31,400 (32.2% equity) | ≤ 20% equity | **✗ FAIL** |
+| R:R | Research target $430 < ask $849 — inverted | ≥ 2:1 | **✗ FAIL** |
+
+**CAT SKIPPED:** Ask $849.60 at market-open; research entry assumption was $375–385 (stale); target $430 is far below current price — R:R deeply inverted. Position cost ~32% equity violates 20% max hard rule. Same situation as XOM skip on 2026-09-18. Research entry assumptions need revision.
+
+#### No Trades Executed
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $447.10 | +$1,111.82 (+12.12%) | 10% GTC (265e7f23, HWM $452.83, stop $407.55) | AI chip demand; TSMC +40% guidance; record rev; tighten trigger $458.57 | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $337.80 | −$795.20 (−4.03%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; yield NIM expansion; P/E ~12x; ex-div Oct 6 ($92.40); earnings Oct 13 | $385 | 2.6:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $56.10 | −$550.60 (−3.33%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) | Financials NIM; P/E ~12x; sector momentum | $72.00 | 3.44:1 |
+
+_No trades executed. CAT skipped: ask $849 invalidates research entry $375–385 (target $430 < current price; R:R inverted; 32% equity > 20% max). TSM +12.12%, tighten trigger $458.57 is 2.55% away — watch closely today. JPM −4.03%, stop buffer 5.56% — approaching 5% watch level, flag if buffer drops further. All 3 GTC stops confirmed active. Equity $97,556.75 | Cash $52,368.26 | Deployed 46.3% | Phase P&L −$2,443.25 (−2.44%). Weekly: 1/3 trades. Day 104._
