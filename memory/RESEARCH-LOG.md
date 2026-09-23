@@ -8420,3 +8420,15 @@ Conditional watchlist for market-open workflow:
 - JPM stop buffer watch: flag if buffer compresses below 5%
 
 _Sources: Alpaca API (live positions/orders), WebSearch (CNBC, StrongBuyAnalytics, TipRanks, TradingEconomics, Investing.com, Schwab)_
+
+### Afternoon Addendum — 2026-09-23 (Midday Scan)
+
+**Key finding: Sector-wide bank drift, no thesis breaks**
+
+- **JPM −3.98% / BAC −3.77% unrealized (intraday −0.59% / −0.64%):** Continuation of bank-sector macro headwind. Market narrative: NIM growth "reaching a cyclical plateau" — analysts flagging that rate environment may not keep expanding net interest income indefinitely. No company-specific negative news for either JPM or BAC. QIA $20B JPM partnership remains a positive. Both theses intact.
+- **JPM buffer 5.61%** (HWM $354.50, stop $319.05, current $338.00): Above 5% flag level but narrowing; watch at EOD close. If buffer closes below 5%, elevate to CRITICAL WATCH at next morning scan.
+- **TSM −1.14% intraday:** Broad market pullback, not AI-specific. AI chip demand/TSMC +40% guidance narrative unchanged. Tighten trigger $458.57 = 2.62% from current $446.86 — remains active watch.
+- **Yield watch:** 5%+ range still active → yield gate in force (P/E >40 blocked). Monitor for any approach toward 4.5% across 2 consecutive sessions; would reopen NVDA/AMZN/AMAT candidates.
+- **No new entries:** All deployment gap drivers blocked (financials lagging, growth gated by yield). Patience rule applies. Week 21 Day 3.
+
+_Sources: Alpaca API (live), WebSearch (Yahoo Finance, 247WallSt, TradingKey, Quiver Quant, ad-hoc-news)_

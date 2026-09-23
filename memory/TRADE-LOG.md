@@ -4764,3 +4764,42 @@ All 3 GTC trailing stops confirmed active (qty_available = 0).
 | 2026-09-22 | BAC | LONG | 285 | $58.03 | $56.10 | −$550.60 (−3.33%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) | Financials NIM; P/E ~12x; sector momentum | $72.00 | 3.44:1 |
 
 _No trades executed. CAT skipped: ask $849 invalidates research entry $375–385 (target $430 < current price; R:R inverted; 32% equity > 20% max). TSM +12.12%, tighten trigger $458.57 is 2.55% away — watch closely today. JPM −4.03%, stop buffer 5.56% — approaching 5% watch level, flag if buffer drops further. All 3 GTC stops confirmed active. Equity $97,556.75 | Cash $52,368.26 | Deployed 46.3% | Phase P&L −$2,443.25 (−2.44%). Weekly: 1/3 trades. Day 104._
+
+---
+
+### Midday Scan — 2026-09-23 (Day 104, Week 21 Day 3, Wednesday)
+
+- **Account:** Equity ~$97,489 | Cash $52,368.26 (53.7%) | Deployed ~46.3% | Phase P&L ~−$2,511 (−2.51%) | Daytrade count: 0 | Weekly trades: 1/3
+- **TSM (API):** Price $446.86 | Entry $398.76 | Unrealized +$1,106.30 (+12.06%) | Intraday −1.14% | Stop 265e7f23: HWM $452.83, stop $407.55 | Buffer $39.31 (8.80% > 3% min) ✓
+- **JPM (API):** Price $338.00 | Entry $352.00 | Unrealized −$783.87 (−3.98%) | Intraday −0.59% | Stop f11bd758: HWM $354.50, stop $319.05 | Buffer $18.95 (5.61% > 3% min) ✓ ⚠ watch
+- **BAC (API):** Price $55.84 | Entry $58.03 | Unrealized −$624.22 (−3.77%) | Intraday −0.64% | Stop 425ccf1c: HWM $57.71, stop $51.94 | Buffer $3.90 (6.99% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +12.06% — threshold −7% ($370.85) not triggered ✓
+- JPM unrealized_plpc = −3.98% — threshold −7% ($327.36) not triggered; current $338.00 > $327.36 ✓
+- BAC unrealized_plpc = −3.77% — threshold −7% ($53.97) not triggered; current $55.84 > $53.97 ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +12.06% — below +15% tighten trigger ($458.57); $11.71 (2.62%) gap remains ✓
+- JPM/BAC — losses, not eligible ✓
+- All GTC stops confirmed active (qty_available = 0 on all 3 positions) ✓
+
+#### Step 5 — Thesis Check: ALL INTACT
+- TSM: AI chip demand intact; minor broad-market pullback (−1.14% intraday); HWM $452.83 auto-advanced; tighten trigger $458.57 = 2.62% away ✓
+- JPM: −0.59% intraday continuation; sector-wide bank volatility + NIM plateau narrative (macro, not company-specific); QIA $20B partnership positive; ex-div Oct 6 ($92.40) and earnings Oct 13 intact; yield still 5%+ supporting NIM ✓
+- BAC: Same sector narrative as JPM (−0.64% intraday); NIM thesis intact; P/E ~12x; no company-specific news ✓
+
+#### Step 6 — Intraday Research: SECTOR NARRATIVE CONFIRMED
+- **JPM/BAC modest drift (−0.59% / −0.64%):** No new company-specific catalyst; continuation of sector-wide bank sentiment from prior day. Narrative: market pricing in NIM growth "reaching a cyclical plateau" (macro consensus shift, not fundamental break). Yield still 5%+ — NIM thesis technically intact. Watch: if yield drops sustainably below 4.5% over 2 sessions, NIM expansion thesis weakens meaningfully.
+- **TSM −1.14% intraday:** Broad pullback day; AI chip demand narrative unchanged; Aug revenue record still in force; no negative fundamental news.
+- **JPM buffer: 5.61%** — above 5% flag level; no action yet; flag at close if <5%.
+- **No new entries warranted:** Financials sector lagging; yield gate blocks growth names; patience rule applies.
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $446.86 | +$1,106.30 (+12.06%) | 10% GTC (265e7f23, HWM $452.83, stop $407.55) | AI chip demand; TSMC +40% guidance; record Aug rev; tighten trigger $458.57 | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $338.00 | −$783.87 (−3.98%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; yield NIM expansion; P/E ~12x; ex-div Oct 6 ($92.40); earnings Oct 13 | $385 | 2.6:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $55.84 | −$624.22 (−3.77%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) | Financials NIM; P/E ~12x; sector momentum | $72.00 | 3.44:1 |
+
+_No action taken. All theses intact — JPM/BAC sector drift is macro NIM plateau narrative, not company-specific thesis break. TSM +12.06% holding, tighten trigger $458.57 is 2.62% away — watch at close. JPM buffer 5.61% (above 5% flag; monitor at close). All 3 GTC stops confirmed active. Equity ~$97,489 | Cash $52,368.26 | Deployed ~46.3% | Phase P&L ~−$2,511 (−2.51%). Weekly: 1/3 trades. Day 104._
