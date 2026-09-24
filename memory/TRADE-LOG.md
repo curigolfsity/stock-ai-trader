@@ -4814,3 +4814,78 @@ _No trades executed. CAT skipped: ask $849 invalidates research entry $375–385
 **Notes:** Day 104 (Week 21, Wednesday) closed with mild declines across all three positions as sector rotation continued: TSM −1.20%, JPM −0.66%, BAC −0.33%. No trades executed today; weekly count remains 1/3 (BAC 285sh filled Sep 22). Net day loss −$303.61 (−0.31%), dragging phase P&L to −$2,482.35 (−2.48%) vs. $100,000 starting equity. All three 10% GTC trailing stops confirmed active — TSM HWM $452.83 / stop $407.55 (buffer 8.80%), JPM HWM $354.50 / stop $319.05 (buffer 5.57%), BAC HWM $57.71 / stop $51.94 (buffer 7.22%). TSM tighten trigger at $458.57 remains ~2.55% away; no tighten executed. JPM −4.05% unrealized (bank NIM plateau narrative, no company-specific negative; ex-div Oct 6 $92.40, earnings Oct 13 intact). BAC −3.47% unrealized; P/E ~12x, thesis intact. Deployed 46.3% (3/6 slots); 2/3 weekly capacity remaining. Patience rule in effect.
 
 _No action taken. All theses intact — JPM/BAC sector drift is macro NIM plateau narrative, not company-specific thesis break. TSM +12.06% holding, tighten trigger $458.57 is 2.62% away — watch at close. JPM buffer 5.61% (above 5% flag; monitor at close). All 3 GTC stops confirmed active. Equity ~$97,489 | Cash $52,368.26 | Deployed ~46.3% | Phase P&L ~−$2,511 (−2.51%). Weekly: 1/3 trades. Day 104._
+
+---
+
+### Market-Open Scan — 2026-09-24 (Day 105, Week 21 Day 4, Thursday)
+
+- **Account (API):** Equity $97,228.99 | Cash $35,624.21 (36.7%) | Phase P&L: −$2,771.01 (−2.77%) | Daytrade count: 0 | Weekly trades: 2/3
+- **VIX:** <17 gate ✓ | **10-yr yield:** 4.79% (down from 4.968%; yield gate still active ≥4.5%)
+- **SPX futures:** +0.49% (gate met) | **Nasdaq futures:** recovering on dovish Fed
+
+#### Trade Executed: HON — BUY
+
+| Field | Value |
+|-------|-------|
+| Symbol | HON |
+| Side | BUY |
+| Shares | 79 |
+| Avg Entry | $211.95 |
+| Cost Basis | $16,744.05 (~17.2% equity) |
+| Catalyst | Industrials #1 sector YTD +44.9%; aerospace + automation + AI-infra buildout; P/E ~22x (yield gate exempt); Q3 window dressing (Sep 30 quarter-end tailwind) |
+| Stop | 10% GTC — placed at midday (8303e452, HWM $209.785, stop $188.81) |
+| Target | $280 |
+| R:R | ~2:1 |
+| Weekly trade count | 2/3 |
+
+**Note:** Market opened lower than pre-market estimate ($240–250); filled at $211.95. GTC trailing stop was not placed at market-open — remediated at midday scan.
+
+#### Open Positions (after HON entry)
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $445.83 | +$1,082.50 (+11.80%) | 10% GTC (265e7f23, HWM $452.83, stop $407.55) | AI chip demand; TSMC +40% guidance; record rev; tighten trigger $458.57 | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $336.26 | −$881.44 (−4.47%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; yield NIM expansion; P/E ~12x; ex-div Oct 6; earnings Oct 13 | $385 | 2.6:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $55.92 | −$603.22 (−3.65%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) | Financials NIM; P/E ~12x; sector momentum | $72.00 | 3.44:1 |
+| 2026-09-24 | HON | LONG | 79 | $211.95 | $209.87 | −$164.32 (−0.98%) | 10% GTC (8303e452, HWM $209.785, stop $188.81) | Industrials leading sector; aerospace + automation + AI infra; Q3 window dressing | $280 | 2:1 |
+
+---
+
+### Midday Scan — 2026-09-24 (Day 105, Week 21 Day 4, Thursday)
+
+- **Account:** Equity $97,228.99 | Cash $35,624.21 (36.6%) | Deployed $61,604.78 (63.4%) | Phase P&L: −$2,771.01 (−2.77%) | Day P&L: −$272.06 (−0.28%) | Weekly trades: 2/3
+- **TSM (API):** Price $445.83 | Entry $398.76 | Unrealized +$1,082.50 (+11.80%) | Intraday −0.17% | Stop 265e7f23: HWM $452.83, stop $407.55 | Buffer $38.28 (8.59% > 3% min) ✓
+- **JPM (API):** Price $336.26 | Entry $352.00 | Unrealized −$881.44 (−4.47%) | Intraday −0.38% | Stop f11bd758: HWM $354.50, stop $319.05 | Buffer $17.21 (5.12% > 3% min) ✓ ⚠ watch
+- **BAC (API):** Price $55.92 | Entry $58.03 | Unrealized −$603.22 (−3.65%) | Intraday −0.15% | Stop 425ccf1c: HWM $57.71, stop $51.94 | Buffer $3.97 (7.11% > 3% min) ✓
+- **HON (API):** Price $209.87 | Entry $211.95 | Unrealized −$164.32 (−0.98%) | Intraday −1.27% | Stop 8303e452: HWM $209.785, stop $188.81 (placed this scan) | Buffer $21.06 (10.03%) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +11.80% — threshold −7% ($370.85) not triggered ✓
+- JPM unrealized_plpc = −4.47% — threshold −7% ($327.36) not triggered; current $336.26 > $327.36 ✓
+- BAC unrealized_plpc = −3.65% — threshold −7% ($53.97) not triggered; current $55.92 > $53.97 ✓
+- HON unrealized_plpc = −0.98% — threshold −7% ($197.11) not triggered; current $209.87 > $197.11 ✓
+
+#### Step 4 — Winner Tighten: NO TIGHTEN
+- TSM +11.80% — below +15% tighten trigger ($458.57); $12.74 (2.86%) gap remains ✓
+- JPM/BAC/HON — losses or <+15%, not eligible ✓
+
+#### Step 5 — Thesis Check: ALL INTACT
+- TSM: AI chip demand intact; 53% YoY revenue record; intraday −0.17% broad market; AI slowdown calls are sector headwind but fundamental thesis unchanged; tighten trigger $458.57 = 2.86% away ✓
+- JPM: −4.47% unrealized; bank sector NIM plateau narrative (macro); no company-specific negative; QIA $20B partnership positive; ex-div Oct 6, earnings Oct 13 intact; yield 4.79% still supporting NIM ✓ (buffer 5.12% ⚠ — flag at <5%)
+- BAC: Same sector narrative; NIM thesis intact; P/E ~12x; no company-specific news ✓
+- HON: −0.98% intraday; industrials sector momentum intact (+44.9% YTD); no negative catalyst; Q3 window dressing (Sep 30) tailwind still in play; thesis intact ✓
+
+#### Step 5a — CRITICAL ACTION: HON GTC Stop Remediated
+- **HON had NO trailing stop at scan start** (qty_available=79, not 0 — confirming missing stop)
+- **Placed:** 10% GTC trailing stop, order 8303e452, HWM $209.785, stop $188.81
+- **Buffer:** $21.06 (10.03%) — safe ✓
+- Rule: every position MUST have a 10% GTC stop immediately upon entry; gap in market-open workflow
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $445.83 | +$1,082.50 (+11.80%) | 10% GTC (265e7f23, HWM $452.83, stop $407.55) | AI chip demand; TSMC +40% guidance; record rev; tighten trigger $458.57 | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $336.26 | −$881.44 (−4.47%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; yield NIM expansion; P/E ~12x; ex-div Oct 6; earnings Oct 13 | $385 | 2.6:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $55.92 | −$603.22 (−3.65%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) | Financials NIM; P/E ~12x; sector momentum | $72.00 | 3.44:1 |
+| 2026-09-24 | HON | LONG | 79 | $211.95 | $209.87 | −$164.32 (−0.98%) | 10% GTC (8303e452, HWM $209.785, stop $188.81) | Industrials leading sector; aerospace + automation + AI infra; Q3 window dressing | $280 | 2:1 |
+
+_Action: HON GTC trailing stop placed (8303e452) — missing stop from market-open remediated. No cuts (all >−7%). No tighten (TSM +11.80%, trigger $458.57 = 2.86% away). All theses intact. JPM buffer 5.12% ⚠ — flag CRITICAL if drops <5% at close. Equity $97,228.99 | Cash $35,624.21 | Deployed $61,604.78 (63.4%) | Phase P&L −$2,771.01 (−2.77%). Weekly: 2/3 trades. Day 105._

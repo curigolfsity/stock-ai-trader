@@ -8483,3 +8483,23 @@ _Sources: Alpaca API (live), WebSearch (Yahoo Finance, 247WallSt, TradingKey, Qu
 **CONDITIONAL HOLD** — default patience rule + AI sector uncertainty + oil spike warrant caution at open. Evaluate HON entry only if SPX opens flat/green AND VIX spot ≤16 AND oil/yield not spiking further at 9:31. TSM tighten trigger ($458.57) on standby — act immediately if triggered. JPM buffer watch at close today; flag CRITICAL if <5%.
 
 _Sources: Alpaca API (live), WebSearch (Investing.com, Schwab, CNBC, Yahoo Finance, ChartRow, Benzinga)_
+
+### Afternoon Addendum — 2026-09-24 (Midday Scan)
+
+**Account state midday:** Equity $97,228.99 | Deployed $61,604.78 (63.4%) | 4 positions: TSM +11.80%, JPM −4.47%, BAC −3.65%, HON −0.98%
+
+**Key finding: HON stop gap — remediated**
+- HON was entered at market-open ($211.95, 79sh) but had NO GTC trailing stop (qty_available=79 instead of 0)
+- **Action:** 10% GTC trailing stop placed midday (8303e452, HWM $209.785, stop $188.81, buffer 10.03%)
+- Market-open workflow must ensure stop is placed simultaneously with or immediately after the fill
+
+**Position observations:**
+- **TSM −0.17% intraday:** AI slowdown narrative (semiconductor sector headwind) offset by strong fundamentals (53% YoY revenue, +40% guidance); tighten trigger $458.57 = 2.86% away; intact ✓
+- **JPM −0.38% intraday:** NIM plateau narrative continuation; buffer 5.12% ⚠ — approaching 5% flag; no thesis break; intact ✓
+- **BAC −0.15% intraday:** Same sector narrative; P/E ~12x; intact ✓
+- **HON −1.27% intraday:** Market opened well below pre-market estimates; industrials sector momentum intact (YTD +44.9%); Q3 window dressing (Sep 30) still potential tailwind; intact ✓
+- **Yield 4.79%:** Declining (Williams dovish comments); still above 4.5% gate; if two consecutive sessions sub-4.5%, growth names (NVDA, AMZN, AMAT) reopen; monitor
+
+**No new entries warranted:** 4/6 positions; deployed 63.4% (below 75-85% target but 1 weekly trade slot remaining); financials sector lagging; patience rule applies.
+
+_Sources: Alpaca API (live positions/orders/account)_
