@@ -4889,3 +4889,17 @@ _No action taken. All theses intact — JPM/BAC sector drift is macro NIM platea
 | 2026-09-24 | HON | LONG | 79 | $211.95 | $209.87 | −$164.32 (−0.98%) | 10% GTC (8303e452, HWM $209.785, stop $188.81) | Industrials leading sector; aerospace + automation + AI infra; Q3 window dressing | $280 | 2:1 |
 
 _Action: HON GTC trailing stop placed (8303e452) — missing stop from market-open remediated. No cuts (all >−7%). No tighten (TSM +11.80%, trigger $458.57 = 2.86% away). All theses intact. JPM buffer 5.12% ⚠ — flag CRITICAL if drops <5% at close. Equity $97,228.99 | Cash $35,624.21 | Deployed $61,604.78 (63.4%) | Phase P&L −$2,771.01 (−2.77%). Weekly: 2/3 trades. Day 105._
+
+---
+
+### Sep 24 — EOD Snapshot (Day 105, Thursday)
+**Portfolio:** $97,552.96 | **Cash:** $35,624.21 (36.5%) | **Day P&L:** +$51.91 (+0.05%) | **Phase P&L:** −$2,447.04 (−2.45%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $449.54 | +0.66% | +$1,167.94 (+12.73%) | 10% GTC (265e7f23, HWM $452.83, stop $407.55) |
+| JPM | 56 | $352.00 | $337.25 | −0.08% | −$826.00 (−4.19%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
+| BAC | 285 | $58.03 | $56.055 | +0.10% | −$563.32 (−3.41%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) |
+| HON | 79 | $211.95 | $211.785 | −0.37% | −$13.04 (−0.08%) | 10% GTC (8303e452, HWM $212.965, stop $191.67) |
+
+**Notes:** Day 105 (Week 21, Thursday) closed nearly flat (+$51.91, +0.05%) as TSM led the session (+0.66%, intraday +$68.31) while HON gave back a small amount on its first day (−0.37%). JPM and BAC were essentially unchanged. Today's one trade: HON BUY 79sh @ $211.95 (industrials sector momentum, Q3 window dressing, aerospace + AI infra). All 4 GTC trailing stops active and confirmed — TSM HWM $452.83 / stop $407.55 (buffer 9.57%), JPM HWM $354.50 / stop $319.05 (buffer 5.40%), BAC HWM $57.71 / stop $51.94 (7.34%), HON HWM $212.965 / stop $191.67 (10.07%). TSM tighten trigger ($458.57) now only 2.01% away ($449.54 current) — watch closely at morning open. Portfolio deployed 63.5% (4/6 slots used); 2/3 weekly capacity consumed. HON stop from market-open remediated at midday — all positions now fully protected. Weekly trades: 2/3.
