@@ -8432,3 +8432,54 @@ _Sources: Alpaca API (live positions/orders), WebSearch (CNBC, StrongBuyAnalytic
 - **No new entries:** All deployment gap drivers blocked (financials lagging, growth gated by yield). Patience rule applies. Week 21 Day 3.
 
 _Sources: Alpaca API (live), WebSearch (Yahoo Finance, 247WallSt, TradingKey, Quiver Quant, ad-hoc-news)_
+
+---
+
+## 2026-09-24 — Pre-market Research (Day 105, Week 21 Day 4, Thursday)
+
+### Account
+- Equity: $97,336.11 | Cash: $52,368.26 (53.8%) | Deployed: $44,967.85 (46.2%) | Phase P&L: −$2,663.89 (−2.66%)
+- Daytrade count: 0 | Weekly trades: 1/3 (BAC 285sh filled Sep 22)
+- Slots: 3/6 open | Positions: TSM, JPM, BAC
+
+### Positions (live)
+| Ticker | Shares | Entry | Current | Unrealized | Stop HWM | Stop Price | Buffer |
+|--------|--------|-------|---------|-----------|----------|------------|--------|
+| TSM | 23 | $398.76 | $440.47 | +$959.33 (+10.46%) | $452.83 | $407.55 | 7.47% |
+| JPM | 56 | $352.00 | $337.09 | −$834.96 (−4.24%) | $354.50 | $319.05 | 5.36% ⚠ |
+| BAC | 285 | $58.03 | $56.00 | −$578.99 (−3.50%) | $57.71 | $51.94 | 7.25% |
+
+### Market Context
+- **WTI:** $92.18 | **Brent:** $103.17 — Oil RISING (reversal from yesterday's diplomatic retreat narrative; geopolitical risk premium back)
+- **S&P 500 futures (ESU26):** +0.49% — recovering on dovish Fed comments
+- **10-yr yield:** 4.79% (DOWN from 4.968% yesterday — NY Fed Williams: "inflation continuing to trend down")
+- **VIX:** 15.18 (up +6.83% but still below 17 threshold — LOW)
+- **Earnings today:** 13 reports; no major S&P movers (CTAS, PAYX etc.)
+- **Economic calendar:** Initial Claims 8:30; New Residential Sales 10:00; Fed speakers heavy (10+ appearances this week)
+- **Sector momentum (YTD):** Energy +47.7% | Industrials +44.9% | Financials +12.5% (lagging)
+- **TSM news:** Revenue surging 53% YoY; Strong Buy consensus (15/18 analysts); Q3 EPS expected +52% YoY; new packaging facility in Kaohsiung; AI chip demand intact — but semiconductor sector under pressure from AI safety/frontier model slowdown calls
+- **JPM/BAC:** No company-specific negative news; sector drift continuing; NIM thesis intact
+
+### Alerts
+- **TSM AI risk:** Semiconductor sector sell-off from AI frontier-model slowdown calls (Kulicke & Soffa down sharply); TSM −1.37% pre-open vs Sep 23 close $446.57 — thesis intact fundamentally but sector headwind active; tighten trigger now 4.10% away ($458.57)
+- **Oil spike:** Brent $103 vs ~$98 yesterday — inflation risk could counter Williams dovish narrative; watch bond market reaction at open
+- **JPM buffer 5.36%:** Above 5% flag but narrowing; critical watch today
+- **Yield declining:** 4.79% — if two consecutive sessions below 4.5%, yield gate lifts for high-P/E growth names (NVDA, AMZN, AMAT candidates)
+
+### Trade Ideas
+1. **HON (Honeywell) — CONDITIONAL ENTRY** | Catalyst: Industrials +44.9% YTD leading sector; aerospace + automation + AI infrastructure buildout; P/E ~22x (yield gate exempt); Q3 capex cycle + window dressing tailwind (Q3 ends Sep 30) | Entry: market open ~$240–250 if SPX flat/green and VIX ≤16 | Stop: 10% GTC | Target: $280 | R:R: ~2:1 | Size: ~79sh @ $245 = $19,355 (~19.9% equity) | Gate: SPX green at open AND VIX ≤16 spot AND yield stays ≤4.9% (not spiking)
+2. **TSM — HOLD (existing, +10.46%)** | AI revenue surge thesis intact; tighten trigger $458.57 = 4.10% away; stop buffer 7.47% ✓; MONITOR AI slowdown narrative for thesis break signals; no action
+3. **Energy (XLE/CVX/XOM) — WATCHLIST** | Energy +47.7% YTD; WTI $92/Brent $103 rising; but sector possibly peaking; would add new sector exposure; lower conviction than HON industrials play
+
+### Risk Factors
+- **AI safety/slowdown concerns (MEDIUM-HIGH):** Frontier model slowdown calls hitting semiconductor sector; TSM fundamentals strong but faces sector headwind today — monitor for thesis break
+- **Oil spike (MEDIUM):** Brent $103 reverses yesterday's retreat; inflation risk could counter Williams dovish narrative; watch at open
+- **JPM buffer narrowing (MEDIUM):** 5.36% — approaching 5% critical flag; if buffer closes <5% today flag as CRITICAL
+- **Yield gate active (MEDIUM):** 4.79% — declining but still above 4.5% gate; P/E >40 names remain blocked
+- **Deployed only 46.2% (LOW):** Well below 75-85% target; but patience rule applies; adding HON would bring to ~66%
+- **Q3 window dressing (LOW-MEDIUM):** Sep 30 quarter-end; amplifies moves — sector leaders may get bid up; also possible rebalancing volatility
+
+### Decision
+**CONDITIONAL HOLD** — default patience rule + AI sector uncertainty + oil spike warrant caution at open. Evaluate HON entry only if SPX opens flat/green AND VIX spot ≤16 AND oil/yield not spiking further at 9:31. TSM tighten trigger ($458.57) on standby — act immediately if triggered. JPM buffer watch at close today; flag CRITICAL if <5%.
+
+_Sources: Alpaca API (live), WebSearch (Investing.com, Schwab, CNBC, Yahoo Finance, ChartRow, Benzinga)_
