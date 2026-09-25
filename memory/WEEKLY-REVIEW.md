@@ -1069,3 +1069,65 @@ Rule adherence A (all binary gates enforced; no entry violations; TSM stop activ
 Rule adherence A (FOMC blackout executed; T+0 stop on JPM; XOM blocked correctly; no violations; all 5 gates met on JPM entry), risk management A (both stop buffers safe; TSM 3.22% midday buffer survived with thesis intact and recovered; no manual cuts triggered; dividend captured), relative performance D (bot −0.28% vs SPX ~+1.1% = ~−1.38% gap; 21st week of negative relative performance; JPM entry breaks the single-position concentration; 70% cash still structural drag entering Week 21). Phase P&L: −$1,682.92 (−1.68%) after 20 weeks.
 
 ---
+
+## Week ending 2026-09-25
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,317.08 (Fri Sep 18 EOD) |
+| Ending portfolio | $98,017.81 (Fri Sep 25 EOD) |
+| Week return | −$299.27 (−0.30%) |
+| S&P 500 week | ~−0.6% (7,785 Sep 18 → ~7,739 Sep 25; mid-week low 7,704; Fri recovery on yield/oil pullback) |
+| Bot vs S&P | +0.30% |
+| Trades | 2 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | TSM +13.04% unrealized (existing; near tighten trigger) |
+| Worst trade | JPM −2.85% unrealized (week-old position; AI disruption narrative headwind) |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TSM | $398.76 (Aug 3) | $450.74 | +$1,195.54 (+13.04%) | 10% GTC (265e7f23, HWM $455.03, stop $409.53) — buffer 9.14% ✓ |
+| JPM | $352.00 (Sep 17) | $341.97 | −$561.96 (−2.85%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) — buffer 6.70% ✓ |
+| BAC | $58.03 (Sep 22) | $56.58 | −$415.12 (−2.51%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) — buffer 8.20% ✓ |
+| HON | $211.95 (Sep 24) | $212.06 | +$8.61 (+0.05%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) — buffer 9.33% ✓ |
+
+### What Worked
+- Deployment doubled from 30% (Sep 18) to 63.7% (Sep 25) in one week — BAC (Sep 22) and HON (Sep 24) entries resolved the most acute structural concentration risk of the phase; 4/6 positions now open for the first time
+- Financials recovered Friday: JPM +1.01%, BAC +0.97% on the day as yields pulled back slightly from 5.12% intraday high and AI disruption fears receded; both theses intact entering next week
+- TSM tighten trigger ($458.57, +15%) closed at 1.01% gap at week end — highest conviction point since entry Aug 3; Friday HWM $455.03 establishes a new stop floor
+- All 4 GTC trailing stops confirmed active at week end — process reliability maintained; no positions unprotected overnight
+- Bot outperformed S&P 500 by +0.30% — 4th consecutive week of positive relative performance; deployment broadening is the mechanism as cash-only drag decreases
+
+### What Didn't Work
+- HON GTC stop missed at market-open Sep 24 — placed midday (8303e452) after gap; recurring process failure pattern (XOM Jun 1, ASML Jul 16, GEV entry pattern); same root cause each time: fill confirmed, stop deferred to midday scan
+- JPM (−2.85%) and BAC (−2.51%) entered into a lagging sector facing dual headwinds: AI disruption narrative (Meta Muse agent fears hitting bank stocks Mon/Tue) + NIM plateau concerns; financial sector trailing Industrials/Energy/Tech YTD
+- Deployed only 63.7% at week end — below 75% minimum target; 2/6 slots remain open; structural gap narrowed but not closed
+- Week return −$299.27 vs −$0 optimal (no closed positions available to harvest); all losses are unrealized floating in new financials entries
+- 10-yr yield surged to 5.12% intraday (near 19-yr high) — compounding pressure on growth names (TSM still exempt at P/E ~28); no yield gate relief visible for AMAT/NVDA/PANW
+
+### Key Lessons
+- **T+0 stop placement is a pre-fill gate, not a post-fill task:** HON Sep 24 is the fourth occurrence of a stop gap at entry (GEV, XOM, ASML, HON). The pattern is identical every time: fill confirmed, stop placed at midday. The fix is mechanical: stop order must be submitted simultaneously with the market order or immediately on fill confirmation in the same workflow step — not deferred to the midday scan
+- **AI disruption narrative creates fast sector sentiment shifts in Financials:** JPM/BAC took 3–4% intraday hits on Meta Muse agent fears with no company-specific negative; this is a new structural headwind for financial stocks that wasn't present when JPM was entered Sep 17; NIM thesis is still intact but sentiment risk is now elevated
+- **Deployment from 30% → 63.7% in one week significantly reduces the cash-drag problem:** the phase's dominant relative underperformance driver was 85–90% cash; the week's +0.30% outperformance is the first positive relative number that came partly from position returns, not just cash defensiveness in a down week
+
+### Adjustments for Next Week
+- **Monday Sep 28 first action:** Verify all 4 stops ACTIVE at open (265e7f23 TSM, f11bd758 JPM, 425ccf1c BAC, 8303e452 HON); check all buffers >3%; if TSM gaps above $458.57 at open → tighten immediately to 7% GTC (cancel 265e7f23, new stop = $458.57 × 0.93 = $426.47 minimum)
+- **T+0 stop placement:** Treat stop order placement as a pre-fill gate: enter the market order and stop order in immediate succession; no midday deferral; if fill is confirmed without a stop, place stop before any other scan action
+- **TSM tighten trigger ($458.57, +15%) is imminent** — 1.01% gap at week close; if gap-up Monday or any move intraday to $458.57 → cancel 265e7f23 + place 7% GTC stop immediately; do not wait for midday
+- **Q3 ends Sep 30 (Tuesday):** Window dressing tailwind may benefit HON (Industrials sector YTD +44.9%) and TSM; heightened volume and rebalancing volatility expected Mon/Tue; avoid new entries on Sep 30 itself
+- **3rd/4th open slots (2 remaining):** Only 1 weekly trade slot remains (used 2/3 this week); prioritize filling at least 1 more slot next week; candidates: XOM at current price ~$170 (fresh research required; prior model was stale); ETN (Industrials, non-correlated); yield gate (>4.5%) continues to block P/E >40 names (NVDA, AMAT, PANW)
+- **JPM ex-div Oct 6 ($92.40 on 56sh capture):** Hold through; earnings Oct 13 is key catalyst; NIM thesis at 5.12% yield is intact; buffer 6.70% safe
+- **BAC earnings Oct 14:** Hold; NIM thesis intact; P/E ~12x; buffer 8.20% safe
+
+### Overall Grade: B−
+Rule adherence B (HON stop gap at market-open is a 4th-instance recurring process failure, even remediated midday — no longer a one-off; requires structural fix in workflow, not just acknowledgment), risk management A (all 4 stop buffers healthy at week end: 6.70%–9.33%; no cut triggers reached; thesis checks passed; automation intact), relative performance B (bot −0.30% vs S&P ~−0.6% = +0.30% outperformance; 4th consecutive week of positive relative performance; deployment expansion is the driver, not position alpha yet; cash drag structurally reduced). Phase P&L: −$1,982.19 (−1.98%) after 21 weeks.
+
+---
