@@ -4989,3 +4989,17 @@ _No trades executed. Friday + risk-off (SPX −0.44%, Nasdaq −0.96%) + no docu
 | 2026-09-24 | HON | LONG | 79 | $211.95 | $212.11 | +$12.64 (+0.08%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) | Industrials leading sector; aerospace + automation + AI infra; Q3 window dressing Sep 30 | $280 | 2:1 |
 
 _No action taken. Friday midday scan: no cuts (all above −7%), no tighten (TSM +13.32%, trigger $458.57 = 1.48% gap), all theses intact. Portfolio recovering day-over-day: Day P&L +$255.23. JPM/BAC/HON all green intraday. TSM tighten trigger carries into next week — monitor Monday open. Equity $97,915.21 | Cash $35,624.21 | Deployed 63.6% | Phase P&L −$2,084.79 (−2.08%). Weekly: 2/3 trades. Day 106._
+
+---
+
+### Sep 25 — EOD Snapshot (Day 106, Friday)
+**Portfolio:** $98,017.81 | **Cash:** $35,624.21 (36.3%) | **Day P&L:** +$357.83 (+0.37%) | **Phase P&L:** −$1,982.19 (−1.98%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $450.74 | −0.09% | +$1,195.54 (+13.04%) | 10% GTC (265e7f23, HWM $455.03, stop $409.53) |
+| JPM | 56 | $352.00 | $341.97 | +1.01% | −$561.96 (−2.85%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
+| BAC | 285 | $58.03 | $56.58 | +0.97% | −$415.12 (−2.51%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) |
+| HON | 79 | $211.95 | $212.06 | +0.13% | +$8.61 (+0.05%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) |
+
+**Notes:** Day 106 (Week 21, Friday) closed up +$357.83 (+0.37%), a solid end to the week driven by financials recovery — JPM +1.01% ($190.68 intraday) and BAC +0.97% ($155.33) powered the day. TSM gave back slightly (−0.09%, −$9.43) but remains the portfolio's biggest winner at +13.04% unrealized. HON nudged up +0.13% ($21.25) on its second day. No trades today (Friday rule + risk-off morning; disciplined hold). All 4 GTC trailing stops confirmed active and untouched: TSM 265e7f23 HWM $455.03/stop $409.53, JPM f11bd758 HWM $354.50/stop $319.05, BAC 425ccf1c HWM $57.71/stop $51.94, HON 8303e452 HWM $213.64/stop $192.28. TSM tighten trigger ($458.57) remains in focus for Monday open — $4.57 (1.01%) gap at close. Weekly trades: 2/3. Phase P&L improving: −$1,982.19 (−1.98%) vs −$2,447.04 (−2.45%) at last week's close.
