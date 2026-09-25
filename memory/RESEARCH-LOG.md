@@ -8559,3 +8559,21 @@ _Sources: Alpaca API (live positions/orders/account)_
 **HOLD** — patience rule. No new entries today. Primary action item: watch TSM tighten trigger at $458.57 (0.78% gap at open). Three of four positions in the red but all above −7% cut line. Q3 ends next Tuesday — window dressing may give HON/industrials a small lift. Weekly trades 2/3, 1 slot banked for next week.
 
 _Sources: Alpaca API (live), WebSearch (TradingEconomics, Investing.com, CNBC, Yahoo Finance, Barchart, MacroRadar, Kiplinger, Benzinga)_
+
+### Afternoon Addendum — 2026-09-25 (Midday Scan)
+
+**Account state midday:** Equity $97,915.21 | Deployed $62,291 (63.6%) | 4 positions: TSM +13.32%, JPM −2.94%, BAC −3.13%, HON +0.08%
+
+**Position observations:**
+- **TSM +13.32%:** Pulled back from morning high ($455.20→$451.88); tighten trigger $458.57 remains 1.48% away — deferred to next week; stop HWM $455.03, trail 10% active ✓
+- **JPM −2.94% (+0.92% intraday):** Recovering from recent weakness; yield at 5.12% continues to support NIM thesis; buffer 6.62% ✓
+- **BAC −3.13% (+0.33% intraday):** Mild recovery, same sector narrative as JPM; buffer 7.60% ✓
+- **HON +0.08%:** Turned briefly positive — Q3 window dressing (Sep 30) still potential catalyst; industrials sector momentum intact ✓
+
+**No new entries:** Friday + end-of-quarter + deployed 63.6% below 75-85% target but patience > activity; 1 weekly slot saved for next week setup.
+
+**Key watch for Monday:**
+- TSM: Trigger at $458.57 — if gap up at open, tighten to 7% GTC immediately (cancel 265e7f23, new stop $458.57 × 0.93 = $426.47 minimum)
+- Q3 ends Sep 30 (Tuesday) — window dressing tailwind for HON/industrials possible Mon/Tue
+
+_Sources: Alpaca API (live positions/orders/account)_

@@ -4948,3 +4948,44 @@ All 4 GTC trailing stops confirmed active (qty_available = 0 on all positions).
 
 _No trades executed. Friday + risk-off (SPX −0.44%, Nasdaq −0.96%) + no documented catalyst = patience rule applied. TSM +14.15% — tighten trigger $458.57 is 0.74% away; monitor closely — midday scan must check. JPM/BAC recovering slightly on the day; both theses intact. HON day-1 noise. All 4 GTC stops confirmed active. Equity $97,879.89 | Cash $35,624.21 | Deployed 63.6% | Phase P&L −$2,120.11 (−2.12%). Weekly: 2/3 trades. Day 106._
 
+
+---
+
+### Midday Scan — 2026-09-25 (Day 106, Week 21 Day 5, Friday)
+
+- **Account:** Equity $97,915.21 | Cash $35,624.21 (36.4%) | Deployed $62,291 (63.6%) | Day P&L: +$255.23 (+0.26%) | Phase P&L: −$2,084.79 (−2.08%) | Weekly trades: 2/3
+- **TSM (API):** Price $451.88 | Entry $398.76 | Unrealized +$1,221.76 (+13.32%) | Intraday +0.16% | Stop 265e7f23: HWM $455.03, stop $409.53 | Buffer $42.35 (9.37% > 3% min) ✓
+- **JPM (API):** Price $341.66 | Entry $352.00 | Unrealized −$579.04 (−2.94%) | Intraday +0.92% | Stop f11bd758: HWM $354.50, stop $319.05 | Buffer $22.61 (6.62% > 3% min) ✓
+- **BAC (API):** Price $56.22 | Entry $58.03 | Unrealized −$517.72 (−3.13%) | Intraday +0.33% | Stop 425ccf1c: HWM $57.71, stop $51.94 | Buffer $4.28 (7.60% > 3% min) ✓
+- **HON (API):** Price $212.11 | Entry $211.95 | Unrealized +$12.64 (+0.08%) | Intraday +0.15% | Stop 8303e452: HWM $213.64, stop $192.28 | Buffer $19.83 (9.35% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM unrealized_plpc = +13.32% — threshold −7% ($370.85) not triggered ✓
+- JPM unrealized_plpc = −2.94% — threshold −7% ($327.36) not triggered; current $341.66 > $327.36 ✓
+- BAC unrealized_plpc = −3.13% — threshold −7% ($53.97) not triggered; current $56.22 > $53.97 ✓
+- HON unrealized_plpc = +0.08% — threshold −7% ($197.11) not triggered ✓
+
+#### Step 4 — Winner Tighten: NOT TRIGGERED
+- TSM +13.32% — tighten trigger at +15% = $458.57; current $451.88; **gap $6.69 (1.48%)** — not triggered
+- TSM HWM today: $455.03 (morning open); pulled back modestly mid-session; trigger remains active
+- All other positions: losses or negligible gain, not eligible ✓
+
+#### Step 5 — Thesis Check: ALL INTACT
+- TSM: AI chip demand intact; TSMC record revenues; tighten trigger $458.57 = 1.48% away; intact ✓
+- JPM: Recovering +0.92% intraday; NIM thesis intact; yield 5.12% supporting NIM; buffer 6.62% ✓
+- BAC: Same financials recovery; NIM thesis intact; buffer 7.60% ✓
+- HON: HON turned slightly positive today (+0.08%); industrials momentum intact; Q3 window dressing Sep 30 tailwind still potential ✓
+
+#### Step 6 — Intraday Research: NO UNUSUAL MOVES
+- All position moves consistent with market context (SPX/Nasdaq risk-off morning, mild recovery midday)
+- No sharp moves requiring investigation
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $451.88 | +$1,221.76 (+13.32%) | 10% GTC (265e7f23, HWM $455.03, stop $409.53) | AI chip demand; TSMC record rev; tighten trigger $458.57 (1.48% away) | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $341.66 | −$579.04 (−2.94%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; yield NIM expansion; P/E ~12x; ex-div Oct 6; earnings Oct 13 | $385 | 2.6:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $56.22 | −$517.72 (−3.13%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) | Financials NIM; P/E ~12x; sector momentum; earnings Oct 14 | $72.00 | 3.44:1 |
+| 2026-09-24 | HON | LONG | 79 | $211.95 | $212.11 | +$12.64 (+0.08%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) | Industrials leading sector; aerospace + automation + AI infra; Q3 window dressing Sep 30 | $280 | 2:1 |
+
+_No action taken. Friday midday scan: no cuts (all above −7%), no tighten (TSM +13.32%, trigger $458.57 = 1.48% gap), all theses intact. Portfolio recovering day-over-day: Day P&L +$255.23. JPM/BAC/HON all green intraday. TSM tighten trigger carries into next week — monitor Monday open. Equity $97,915.21 | Cash $35,624.21 | Deployed 63.6% | Phase P&L −$2,084.79 (−2.08%). Weekly: 2/3 trades. Day 106._
