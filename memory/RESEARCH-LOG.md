@@ -8503,3 +8503,59 @@ _Sources: Alpaca API (live), WebSearch (Investing.com, Schwab, CNBC, Yahoo Finan
 **No new entries warranted:** 4/6 positions; deployed 63.4% (below 75-85% target but 1 weekly trade slot remaining); financials sector lagging; patience rule applies.
 
 _Sources: Alpaca API (live positions/orders/account)_
+
+---
+
+## Pre-Market Research — 2026-09-25 (Day 106, Week 21 Day 5, Friday)
+
+### Account Snapshot
+- **Equity:** $97,811.87 | **Cash:** $35,624.21 (36.4%) | **Deployed:** $62,187.66 (63.6%)
+- **Day P&L:** +$151.89 (+0.16%) | **Phase P&L:** −$2,188.13 (−2.19%)
+- **Buying Power (non-margin):** $35,624.21 | **Weekly trades:** 2/3 | **PDT count:** 0
+- **Positions:** 4/6 | **Slots available:** 2
+
+### Current Positions (pre-market)
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop (HWM / Stop Price) | Buffer |
+|--------|--------|-------|---------|----------------|--------------------------|--------|
+| TSM | 23 | $398.76 | $455.00 | +$1,293.52 (+14.10%) | HWM $452.83 / $407.55 | 10.43% |
+| JPM | 56 | $352.00 | $339.00 | −$728.00 (−3.69%) | HWM $354.50 / $319.05 | 5.88% |
+| BAC | 285 | $58.03 | $56.35 | −$479.24 (−2.90%) | HWM $57.71 / $51.94 | 7.82% |
+| HON | 79 | $211.95 | $211.13 | −$65.14 (−0.39%) | HWM $212.97 / $191.67 | 9.21% |
+
+⚠ **TSM CRITICAL:** Tighten trigger at +15% = $458.57; current $455.00 → only **$3.57 (0.78%) gap**. Act immediately on trigger.
+
+### Market Context
+- **WTI:** ~$94 (up from $92.18 yesterday; +2.82% overnight) | **Brent:** ~$107 (rising; geopolitical risk premium)
+- **SPX Futures (ESU26):** +0.49–0.50% (~7,756) — recovering on dovish Fed narrative
+- **VIX:** ~15.7–16.3 (stable; below 17 threshold; low-fear environment)
+- **10-yr Yield:** ~4.79% (declining; NY Fed Williams dovish; still above 4.5% gate)
+- **Sector YTD:** Energy outperforming | Industrials strong | Tech (XLK) −2.43% YTD | Financials lagging
+
+### Economic Calendar (Sep 25)
+- University of Michigan Consumer Sentiment (final, Sep) — preliminary showed sharp plunge
+- Multiple Fed speakers (10+ appearances this week, no decisions)
+- No major pre-market earnings today (minor reports only)
+- Q3 ends Sep 30 (Tue) — window-dressing tailwind for sector leaders may extend into Monday/Tuesday
+
+### Holdings News
+- **TSM:** Revenue +53% YoY (record); EPS Q3 est. +52% YoY; 15/18 analysts Strong Buy; AI demand intact; Synopsys collaboration announced Sep 23; $29.4B capacity expansion. Pre-market $455 — near tighten trigger.
+- **JPM:** +0.31% today; AI-disruption fears (Meta "Muse" agent) hit financials; JPM fell ~3% earlier this week; $20B QIA partnership announced. NIM thesis intact. Avg PT $378.67 (+12% upside).
+- **BAC:** Same AI-fear sector pressure; recovering today; NIM thesis intact; no company-specific negative news.
+- **HON:** Trading ~$211; earnings Oct 22; post-split (3 companies: aerospace/automation/materials) business mix debate; analyst avg PT $263.27; industrials sector momentum intact. Technical sell signal on daily (short-term noise).
+
+### Trade Ideas
+1. **TSM TIGHTEN (pending action)** — At $458.57 (+15% from entry): replace 10% stop (265e7f23) with 7% GTC trailing stop immediately. New stop at trigger = $458.57 × 0.93 = $426.47. Monitor intraday — gap is <1%.
+2. **HON — HOLD** | Q3 window dressing (Sep 30) potential tailwind; thesis intact; −0.39% unrealized; patience.
+3. **No new entries** | Deployed 63.6% (below 75-85% target); 1 weekly trade slot remaining; no high-conviction catalyst today; Friday + end-of-quarter rebalancing risk; patience > activity.
+
+### Risk Factors
+- **Oil rising (MEDIUM-HIGH):** WTI $94 / Brent $107 — inflation risk could delay yield decline; bond market reaction key
+- **AI disruption narrative (MEDIUM):** Bank stocks took hit this week from Meta Muse AI agent fears; JPM/BAC recovering but sector sentiment soft
+- **TSM tighten trigger imminent (LOW — positive risk):** If TSM gaps above $458.57 at open, tighten stop must execute in first minute
+- **End-of-quarter rebalancing (MEDIUM):** Sep 30 is Q3 close; window dressing can amplify moves both ways; potential volatility Fri/Mon/Tue
+- **UMich Sentiment miss (LOW-MEDIUM):** Preliminary showed consumer confidence plunge; final reading could rattle markets if confirms weak
+
+### Decision
+**HOLD** — patience rule. No new entries today. Primary action item: watch TSM tighten trigger at $458.57 (0.78% gap at open). Three of four positions in the red but all above −7% cut line. Q3 ends next Tuesday — window dressing may give HON/industrials a small lift. Weekly trades 2/3, 1 slot banked for next week.
+
+_Sources: Alpaca API (live), WebSearch (TradingEconomics, Investing.com, CNBC, Yahoo Finance, Barchart, MacroRadar, Kiplinger, Benzinga)_
