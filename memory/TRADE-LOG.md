@@ -4903,3 +4903,48 @@ _Action: HON GTC trailing stop placed (8303e452) — missing stop from market-op
 | HON | 79 | $211.95 | $211.785 | −0.37% | −$13.04 (−0.08%) | 10% GTC (8303e452, HWM $212.965, stop $191.67) |
 
 **Notes:** Day 105 (Week 21, Thursday) closed nearly flat (+$51.91, +0.05%) as TSM led the session (+0.66%, intraday +$68.31) while HON gave back a small amount on its first day (−0.37%). JPM and BAC were essentially unchanged. Today's one trade: HON BUY 79sh @ $211.95 (industrials sector momentum, Q3 window dressing, aerospace + AI infra). All 4 GTC trailing stops active and confirmed — TSM HWM $452.83 / stop $407.55 (buffer 9.57%), JPM HWM $354.50 / stop $319.05 (buffer 5.40%), BAC HWM $57.71 / stop $51.94 (7.34%), HON HWM $212.965 / stop $191.67 (10.07%). TSM tighten trigger ($458.57) now only 2.01% away ($449.54 current) — watch closely at morning open. Portfolio deployed 63.5% (4/6 slots used); 2/3 weekly capacity consumed. HON stop from market-open remediated at midday — all positions now fully protected. Weekly trades: 2/3.
+
+---
+
+### Market-Open Scan — 2026-09-25 (Day 106, Week 21 Day 5, Friday)
+
+- **Account (API):** Equity $97,879.89 | Cash $35,624.21 (36.4%) | Deployed $62,255.68 (63.6%) | Day P&L: +$219.91 (+0.22%) | Phase P&L: −$2,120.11 (−2.12%) | Daytrade count: 0 | Weekly trades: 2/3
+- **VIX:** 15.67 (< 17 gate ✓) | **10-yr yield:** ~5.12% (near 19-yr high; yield gate ACTIVE ≥4.5%) | **SPX:** −0.44% | **Nasdaq:** −0.96% (risk-off day)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Trail Stop (HWM / Stop) | Buffer |
+|--------|--------|-------|---------|----------------|--------------------------|--------|
+| TSM | 23 | $398.76 | $455.20 | +$1,298.12 (+14.15%) ⚠ | 265e7f23: auto-trailing / ~$409.68 | ~10% |
+| JPM | 56 | $352.00 | $340.20 | −$660.80 (−3.35%) | f11bd758: HWM $354.50 / $319.05 | $21.15 (6.22% ✓) |
+| BAC | 285 | $58.03 | $56.30 | −$493.49 (−2.98%) | 425ccf1c: HWM $57.71 / $51.94 | $4.36 (7.74% ✓) |
+| HON | 79 | $211.95 | $211.13 | −$65.14 (−0.39%) | 8303e452: HWM $212.97 / $191.67 | $19.46 (9.22% ✓) |
+
+All 4 GTC trailing stops confirmed active (qty_available = 0 on all positions).
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM +14.15% — threshold −7% ($370.85) not triggered ✓
+- JPM −3.35% — threshold −7% ($327.36) not triggered; current $340.20 > $327.36 ✓
+- BAC −2.98% — threshold −7% ($53.97) not triggered; current $56.30 > $53.97 ✓
+- HON −0.39% — threshold −7% ($197.11) not triggered; current $211.13 > $197.11 ✓
+
+#### Step 4 — Winner Tighten: NOT YET TRIGGERED
+- TSM +14.15% — tighten trigger at +15% = $458.57; current $455.20; **gap $3.37 (0.74%)** ⚠ IMMINENT
+- All other positions: losses or well below +15%
+- **ACTION REQUIRED if TSM reaches $458.57:** Cancel 265e7f23, place new 7% GTC trailing stop immediately
+
+#### Step 5 — New Trade Gate: SKIP
+- Market risk-off day (SPX −0.44%, Nasdaq −0.96%)
+- Friday — patience > activity rule applies
+- Sep 25 research: HOLD decision; no new catalyst documented
+- Weekly capacity: 1 remaining but no qualifying setup
+- **No new trades today**
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $455.20 | +$1,298.12 (+14.15%) | 10% GTC (265e7f23, auto-trailing ~$409.68) | AI chip demand; TSMC +40% guidance; price hike Jan 2027; record rev; **tighten trigger $458.57 imminent** | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $340.20 | −$660.80 (−3.35%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; 5.12% yield → NIM expansion; P/E ~12x; ex-div Oct 6 ($92.40); earnings Oct 13 | $385 | 2.6:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $56.30 | −$493.49 (−2.98%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) | Financials NIM; P/E ~12x; sector momentum; earnings Oct 14 | $72.00 | 3.44:1 |
+| 2026-09-24 | HON | LONG | 79 | $211.95 | $211.13 | −$65.14 (−0.39%) | 10% GTC (8303e452, HWM $212.97, stop $191.67) | Industrials leading sector; aerospace + automation + AI infra; Q3 window dressing Sep 30 | $280 | 2:1 |
+
+_No trades executed. Friday + risk-off (SPX −0.44%, Nasdaq −0.96%) + no documented catalyst = patience rule applied. TSM +14.15% — tighten trigger $458.57 is 0.74% away; monitor closely — midday scan must check. JPM/BAC recovering slightly on the day; both theses intact. HON day-1 noise. All 4 GTC stops confirmed active. Equity $97,879.89 | Cash $35,624.21 | Deployed 63.6% | Phase P&L −$2,120.11 (−2.12%). Weekly: 2/3 trades. Day 106._
+
