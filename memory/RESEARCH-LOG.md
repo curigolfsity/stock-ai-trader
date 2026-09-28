@@ -8577,3 +8577,59 @@ _Sources: Alpaca API (live), WebSearch (TradingEconomics, Investing.com, CNBC, Y
 - Q3 ends Sep 30 (Tuesday) — window dressing tailwind for HON/industrials possible Mon/Tue
 
 _Sources: Alpaca API (live positions/orders/account)_
+
+---
+
+## 2026-09-28 Pre-Market Research (Day 107, Week 22 Day 1, Monday)
+
+### Account Snapshot
+- **Equity:** $97,854.99 | **Cash:** $35,624.21 (36.4%) | **Deployed:** $62,230.78 (63.6%)
+- **Buying Power:** $316,743.01 | **Day P&L (premarket):** −$295.56 (−0.30% vs Friday close)
+- **Daytrade Count:** 0 (new week) | **Weekly Trades Used:** 0/3
+
+### Positions (premarket prices)
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop (HWM/Stop) | Buffer |
+|--------|--------|-------|---------|----------------|-----------------|--------|
+| TSM | 23 | $398.76 | $445.25 | +$1,069.27 (+11.66%) | 265e7f23: $455.03 / $409.53 | 8.32% |
+| JPM | 56 | $352.00 | $341.09 | −$610.90 (−3.10%) | f11bd758: $354.50 / $319.05 | 6.47% |
+| BAC | 285 | $58.03 | $56.56 | −$419.39 (−2.54%) | 425ccf1c: $57.71 / $51.94 | 8.17% |
+| HON | 79 | $211.95 | $212.27 | +$25.28 (+0.12%) | 8303e452: $213.64 / $192.28 | 9.42% |
+
+All 4 GTC trailing stops active. No stop buffer < 3% ✓
+
+### Market Context
+- **WTI:** $94.10 (+1.83%) | **Brent:** $106.89 (+2.46%) — Trump rejected Iran/Hormuz deal; geopolitical risk premium
+- **SPX Futures:** +0.47% premarket (~7,756)
+- **VIX:** 16.23 (+9.15% vs Friday) — elevated but below 17 threshold
+- **10-yr Yield:** ~4.79% — above 4.5% gate → hold-only for high-multiple growth names (P/E > 40)
+- **Sector YTD leaders:** Energy +25.37% > Industrials > Financials >> Tech (XLK −2.43%)
+- **Q3 ends Sep 30 (Wednesday)** — 2 more sessions of potential window dressing for sector leaders
+
+### Economic Calendar This Week
+- **Today:** 31 earnings reports (minor names), 25 economic events
+- **Thu Sep 30:** PCE Price Index (August) — Fed's preferred inflation gauge
+- **Fri Oct 1:** September Jobs Report (NFP)
+- **Next week:** JPM earnings Oct 13, BAC earnings Oct 14, TSM earnings Oct 15
+
+### Holdings News
+- **TSM:** TSMC ramping 2nm chip capacity; Apple/Nvidia orders jumping; 21 analysts Strong Buy; avg PT $552.26 (+24%); earnings Oct 15. Premarket $445.25 — tighten trigger $458.57 now $13.32 (3.0%) away; not imminent.
+- **JPM:** Ex-div Oct 6 ($1.65/share); new Thunes cross-border payments partnership; avg analyst PT $375.14 (+10% upside). NIM thesis intact.
+- **BAC:** BAC strategists warn Wall Street due for pullback — bearish signal from own holding. NIM thesis intact; no company-specific negative catalyst.
+- **HON:** ⚡ **JPMorgan upgraded to Overweight** on upcoming break-up; Quantinuum (quantum computing unit) confidentially filed S-1 for IPO — fresh positive catalyst. Q3 window dressing (Sep 30) potential tailwind.
+
+### Trade Ideas
+1. **HON HOLD (existing position, upgrade catalyst)** — JPM upgrade to OW + Quantinuum IPO filing = fresh catalyst. Current +0.12% unrealized; hold through Q3 window dressing (Sep 30) and beyond. Already at 17.1% of equity — no add (thin margin before 20% limit, and new entry threshold requires stronger catalyst).
+2. **Energy sector new entry (post-PCE)** — XLE YTD +25.37%; oil surging on geopolitical risk. CVX/DVN/XOM as candidates. Deployment gap: 63.6% vs 75-85% target = $11-22k to fill. **Defer until after PCE Thursday** — oil/inflation risk could shift Fed narrative.
+3. **All current positions: HOLD** — TSM tighten trigger ($458.57) remains active watch; JPM/BAC ex-div/earnings approaching; no stop at critical level.
+
+### Risk Factors
+- **Oil spike (HIGH):** WTI $94 / Brent $107 — inflation risk, could delay rate cuts; bond market key
+- **PCE Thursday + Jobs Friday (HIGH):** Big macro week; avoid new entries until Thursday data
+- **BAC pullback warning (MEDIUM):** BofA strategists bearish on near-term markets; could pressure JPM/BAC further
+- **VIX elevation (MEDIUM):** 16.23 (+9%) but still below 17 threshold
+- **Q3 rebalancing volatility (LOW-MEDIUM):** Sep 30 close; window dressing can amplify both ways
+
+### Decision
+**HOLD — patience rule.** No new trades today. Three reasons: (1) PCE + jobs report creates high macro uncertainty this week; (2) deployment gap best filled post-PCE with fresh data; (3) all 4 positions have intact theses with upcoming earnings catalysts Oct 13-15. Primary watch items: TSM tighten trigger $458.57 (3.0% gap); HON reaction to JPM upgrade; Q3 window dressing through Sep 30.
+
+_Sources: Alpaca API (live), WebSearch (CNBC, Yahoo Finance, Investing.com, StrongBuyAnalytics, TradingEconomics, Kiplinger, ad-hoc-news.de)_
