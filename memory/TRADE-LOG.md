@@ -5044,3 +5044,17 @@ _No action taken. Friday midday scan: no cuts (all above −7%), no tighten (TSM
 | 2026-09-24 | HON | LONG | 79 | $211.95 | $210.48 | −$116.33 (−0.70%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) | Industrials leading; JPM upgrade OW; Quantinuum IPO filing; Q3 window dressing Sep 30 | $280 | 2:1 |
 
 _No action taken. Monday midday scan: no cuts (all above −7%), no tighten (TSM +12.87%, trigger $458.57 = 1.89% gap), all theses intact. Portfolio down −$639.02 on broad market weakness (oil/macro pressure). Financials (JPM/BAC) both −1.2% to −1.5% intraday — sector-level move, not position-specific thesis break. All 4 GTC stops confirmed active (qty_available = 0). TSM tighten trigger $458.57 remains active watch — $8.51 gap. Key upcoming events: Q3 window dressing Sep 30, PCE Thursday, HON catalyst (JPM upgrade + Quantinuum IPO). Equity $97,511.53 | Phase P&L −$2,488.47 (−2.49%). Weekly: 0/3 trades. Day 107._
+
+---
+
+### Sep 28 — EOD Snapshot (Day 107, Monday)
+**Portfolio:** $97,455.96 | **Cash:** $35,624.21 (36.6%) | **Day P&L:** −$694.59 (−0.71%) | **Phase P&L:** −$2,544.04 (−2.54%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $453.94 | +0.74% | +$1,269.14 (+13.84%) | 10% GTC (265e7f23, HWM $455.27, stop $409.74) |
+| JPM | 56 | $352.00 | $337.11 | −1.73% | −$833.84 (−4.23%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
+| BAC | 285 | $58.03 | $55.50 | −2.12% | −$721.49 (−4.36%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) |
+| HON | 79 | $211.95 | $211.34 | −0.57% | −$48.59 (−0.29%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) |
+
+**Notes:** Day 107 (Week 22, Monday) closed down −$694.59 (−0.71%), broad market selling persisting from midday as financials continued to drag — JPM −1.73% (−$333.20) and BAC −2.12% (−$342.00) were the primary headwinds. TSM was the lone bright spot at +0.74% (+$76.59), with HWM now $455.27 and the tighten trigger at $458.57 just $2.63 (0.58%) away — the closest it has been since tracking began. HON −0.57% (−$95.99) on light volume, Q3 window dressing catalyst Sep 30 still two sessions away. No trades today (0/3 this week); patience rule applied — no high-conviction setups. All 4 GTC trailing stops confirmed ACTIVE and unmodified: TSM 265e7f23 HWM $455.27/stop $409.74, JPM f11bd758 HWM $354.50/stop $319.05, BAC 425ccf1c HWM $57.71/stop $51.94, HON 8303e452 HWM $213.64/stop $192.28. Key upcoming: Q3 window dressing Sep 30 (HON catalyst), PCE Thursday, TSM tighten trigger close at +15% threshold. Phase P&L −$2,544.04 (−2.54%) vs. −$1,982.19 (−1.98%) last Friday — week started on the back foot; needs recovery.
