@@ -8633,3 +8633,13 @@ All 4 GTC trailing stops active. No stop buffer < 3% ✓
 **HOLD — patience rule.** No new trades today. Three reasons: (1) PCE + jobs report creates high macro uncertainty this week; (2) deployment gap best filled post-PCE with fresh data; (3) all 4 positions have intact theses with upcoming earnings catalysts Oct 13-15. Primary watch items: TSM tighten trigger $458.57 (3.0% gap); HON reaction to JPM upgrade; Q3 window dressing through Sep 30.
 
 _Sources: Alpaca API (live), WebSearch (CNBC, Yahoo Finance, Investing.com, StrongBuyAnalytics, TradingEconomics, Kiplinger, ad-hoc-news.de)_
+
+### Midday Addendum — 2026-09-28 12:04 UTC
+
+**Market:** Broad market pullback from premarket highs; financials sector under pressure. No single-stock catalysts identified.
+- TSM $450.06 (−0.12% intraday): orderly; tighten trigger $458.57 = 1.89% away
+- JPM $338.955 (−1.20%): sector-wide financials weakness; NIM thesis intact
+- BAC $55.875 (−1.46%): consistent with BofA bearish market call; no company-specific news; NIM intact
+- HON $210.48 (−0.98%): Q3 window dressing catalyst (Sep 30) still ahead; JPM upgrade intact
+
+**Decision:** No action. All positions above −7% cut threshold. Hold through Q3 close (Sep 30) and PCE Thursday.
