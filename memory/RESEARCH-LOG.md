@@ -8643,3 +8643,69 @@ _Sources: Alpaca API (live), WebSearch (CNBC, Yahoo Finance, Investing.com, Stro
 - HON $210.48 (−0.98%): Q3 window dressing catalyst (Sep 30) still ahead; JPM upgrade intact
 
 **Decision:** No action. All positions above −7% cut threshold. Hold through Q3 close (Sep 30) and PCE Thursday.
+
+---
+
+## Pre-Market Research — 2026-09-29 (Day 108, Week 22 Day 2, Tuesday)
+
+### Account Snapshot
+- **Equity:** $97,489.77 | **Cash:** $35,624.21 (36.5%) | **Deployed:** $61,865.56 (63.5%)
+- **Buying Power:** $315,720.41 | **Day P&L:** +$81.25 vs prior close | **Daytrade Count:** 0 | **Weekly Trades:** 0/3
+- **Deployment gap:** 63.5% vs 75–85% target → $11k–$22k below target
+
+### Positions (live premarket)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (HWM / Stop) | Buffer |
+|--------|--------|-------|---------|----------------|-------------------|--------|
+| TSM | 23 | $398.76 | $451.39 | +$1,210.49 (+13.20%) | 265e7f23: $455.27 / $409.74 | 9.22% — expires Oct 30 ⚠️ |
+| JPM | 56 | $352.00 | $337.58 | −$807.52 (−4.10%) | f11bd758: $354.50 / $319.05 | 5.47% |
+| BAC | 285 | $58.03 | $55.80 | −$635.99 (−3.85%) | 425ccf1c: $57.71 / $51.94 | 7.97% |
+| HON | 79 | $211.95 | $211.09 | −$67.94 (−0.41%) | 8303e452: $213.64 / $192.28 | 9.13% |
+
+⚠️ **TSM stop order 265e7f23 expires 2026-10-30 — renewal needed before Oct 30.**
+
+### Market Context
+- **WTI:** ~$93.16 | **Brent:** $105.31 — Hormuz risk elevated; Trump dismissed Iran deal as "HOAX"
+- **SPX Futures:** +0.12% — modest bounce after 3 consecutive down sessions
+- **VIX:** ~16.34 (prior close ~14.87) — moderate fear; not panic
+- **10-yr Yield:** 5.27% (19-year high) — HAWKISH — far above 4.5% gate; hold-only on P/E >40 names
+- **Fed rate hike probability (Oct FOMC):** ~72.5% — significant hawkish shift
+- **Sector YTD leaders:** Energy +47.7% > Consumer Staples +15.97% > Materials +15.67% > Industrials +11.92%
+- **Sector YTD laggards:** Financials −5.7% | Consumer Discretionary −5.0% | Info Technology −3.83%
+
+### Economic Calendar Today (Sep 29)
+- **10:00 ET:** Consumer Confidence (Conference Board)
+- **10:00 ET:** JOLTS Job Openings (August)
+- **Sep 30 (tomorrow):** ADP Employment 08:15, GDP 3rd release 08:30, PCE Deflator 08:30 — Fed's preferred inflation gauge
+- **Oct 3 (Friday):** NFP, Unemployment Rate, ISM Services PMI
+- **Note:** Q3 window dressing TOMORROW (Sep 30 = last day of quarter)
+
+### Holdings News
+- **TSM ($451.39):** Raised 2026 revenue growth outlook to >40% (vs prior guide); capex raised to $18.75B–$20B on AI chip demand surge; Q3 revenue guide $44.6B–$45.8B; gross margin 65–67%. Tighten trigger $458.57 = $7.18 (1.59%) away. 21 analysts Strong Buy, avg PT $552.26. Thesis: INTACT/BULLISH. Stop expires Oct 30 — renewal required.
+- **JPM ($337.58):** Ex-div Oct 6 ($1.65/share); Qatar Investment Authority $20B partnership; Thunes cross-border payments. Financials sector −5.7% YTD headwind; 10yr at 5.27% compresses NIM valuations. Earnings Oct 13. Thesis: INTACT but under pressure.
+- **BAC ($55.80):** BofA strategists bearish near-term; Wells Fargo Buy rating; $150M workforce investment. Credit pressure narrative; financials sector headwind. Earnings Oct 14. Thesis: INTACT but sector under pressure.
+- **HON ($211.09):** BofA Securities issued Hold rating Sep 25 (downgrade risk). Q2 revenue $9.72B, net income $5.68B — solid fundamentals. Industrials sector YTD +11.92% = tailwind. Q3 window dressing Sept 30 tomorrow = short-term catalyst. JPMorgan Overweight + Quantinuum IPO filing intact. Thesis: INTACT.
+
+### Trade Ideas
+1. **Energy sector entry (CVX/XOM/DVN) — DEFER post-PCE:** Energy +47.7% YTD; oil elevated on Hormuz risk; fills deployment gap ($11k–$22k). Hard pass today: JOLTS + Consumer Confidence at 10am, PCE + ADP + GDP tomorrow, NFP Friday. Too many data landmines. Enter after PCE Sep 30 if data benign.
+2. **HON ADD — NO:** BofA downgraded to Hold Sep 25; already 17.1% of equity; thin margin before 20% cap. Q3 window dressing tomorrow could briefly lift; hold current position only.
+3. **ALL CURRENT — HOLD:** TSM near tighten trigger; JPM/BAC above −7% cut threshold; HON fundamentally intact. No thesis breaks detected.
+
+### Risk Factors
+- **Fed rate hike 72.5% probability (HIGH):** Most hawkish expectation in months; 10yr at 5.27% (19yr high) — genuine headwind for all equity positions, particularly financials
+- **PCE tomorrow + NFP Friday (HIGH):** Two-day macro gauntlet; avoid new positions until data clears
+- **JOLTS / Consumer Confidence today (MEDIUM):** Beats could push yields higher further; misses could trigger risk-off
+- **Oil/Iran (MEDIUM):** WTI ~$93, Brent $105; Hormuz closure risk persists; energy inflation = rate headwind
+- **BAC/JPM sector drag (MEDIUM):** Financials −5.7% YTD; NIM compression at 5.27% yield; both positions in loss
+- **TSM stop expiry Oct 30 (LOW — note to action):** Must renew before Oct 30 or position becomes unprotected
+
+### Decision: **HOLD**
+Five reasons:
+1. 10yr yield at 5.27% (19yr high) + 72.5% Fed hike probability = most hawkish environment since positions were opened
+2. JOLTS + Consumer Confidence today, PCE + ADP + GDP tomorrow, NFP Friday — maximum data uncertainty this week
+3. Q3 window dressing ends Sep 30 (tomorrow) — let rebalancing settle
+4. All 4 positions above −7% cut threshold; all theses intact; no stops triggered
+5. TSM tighten trigger $458.57 = 1.59% away — patience to let it come to us vs forcing a new entry
+
+**Action items:** (1) Renew TSM stop order before Oct 30; (2) Evaluate energy entry post-PCE Sep 30; (3) Monitor JOLTS 10am for yield direction
+
+_Sources: Alpaca API (live), WebSearch (Reuters, CNBC, Yahoo Finance, Investing.com, FedWatch, BLS)_
