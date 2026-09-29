@@ -5101,3 +5101,16 @@ _No action taken. Monday midday scan: no cuts (all above −7%), no tighten (TSM
 _No action taken. Tuesday midday scan: no cuts (all above −7%), no tighten (TSM +14.64%, trigger $458.57 = 0.31% gap — IMMINENT; monitor at EOD), all theses intact. ⚠️ BAC watch: −5.63% (1.37pp from cut threshold). Equity ~$97,029 | Phase P&L ~−$2,971 (−2.97%). Weekly: 0/3 trades. Day 108._
 
 ---
+
+### Sep 29 — EOD Snapshot (Day 108, Week 22 Day 2, Tuesday)
+**Portfolio:** $97,253.81 | **Cash:** $35,624.21 (36.6%) | **Day P&L:** −$202.15 (−0.21%) | **Phase P&L:** −$2,746.19 (−2.75%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $458.74 | +1.29% | +$1,379.54 (+15.04%) | 10% GTC (265e7f23, HWM $459.43, stop $413.49) ⚡ TIGHTEN NEEDED |
+| JPM | 56 | $352.00 | $335.49 | −0.33% | −$924.56 (−4.69%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
+| BAC | 285 | $58.03 | $55.05 | −0.76% | −$849.74 (−5.14%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) |
+| HON | 79 | $211.95 | $210.17 | −0.64% | −$140.62 (−0.84%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) |
+
+**Notes:** Day 108 (Week 22, Tuesday) closed down −$202.15 (−0.21%), a relatively quiet session that nonetheless produced a milestone: TSM surged to close $458.74, crossing the +15% tighten trigger ($458.574) and reaching an intraday HWM of $459.43 (+15.20% from entry $398.76). ⚡ URGENT: TSM trailing stop must be tightened from 10% to 7% (cancel order 265e7f23, place new 7% trailing stop). The current 10% stop is at $413.49; a 7% trail from HWM $459.43 would set stop at ~$427.27. JPM and BAC continued to drift lower (−0.33% and −0.76%) on persistent macro headwinds (10yr rates, hawkish tone), but both remain above the −7% cut threshold (JPM −4.69%, cut threshold $327.36 vs $335.49; BAC −5.14%, cut threshold $53.97 vs $55.05 — BAC now 1.86pp from threshold, elevated watch). HON was quiet −0.64%, with Q3 window dressing catalyst tomorrow (Sep 30) still live. No trades today (0/3 this week). All 4 GTC trailing stops confirmed ACTIVE. Phase P&L −$2,746.19 (−2.75%) — slight deterioration from yesterday; TSM gain (+$110.40 day) partially offset by financials/HON drag. Key action required: TIGHTEN TSM STOP TO 7% (requires manual execution).
+
