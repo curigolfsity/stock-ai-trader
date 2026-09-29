@@ -8709,3 +8709,13 @@ Five reasons:
 **Action items:** (1) Renew TSM stop order before Oct 30; (2) Evaluate energy entry post-PCE Sep 30; (3) Monitor JOLTS 10am for yield direction
 
 _Sources: Alpaca API (live), WebSearch (Reuters, CNBC, Yahoo Finance, Investing.com, FedWatch, BLS)_
+
+### Midday Addendum — 2026-09-29 ~15:00 UTC
+
+**Market:** Broad markets mixed; financials continuing decline; TSM bucking trend on AI demand.
+- TSM $457.14 (+0.94% intraday): ⚡ tighten trigger $458.57 = $1.43 (0.31%) away — IMMINENT; stop HWM updated to $458.10
+- JPM $333.46 (−0.93%): sector-wide financials weakness; NIM thesis intact; 4.32% stop buffer
+- BAC $54.765 (−1.27%): ⚠️ −5.63% unrealized — 1.37pp from −7% cut threshold; 5.16% stop buffer; thesis intact
+- HON $210.235 (−0.61%): Q3 window dressing catalyst (Sep 30) tomorrow; thesis intact
+
+**Decision:** No action. All above −7% cut threshold. ⚡ TSM tighten trigger ($458.57) within 0.31% — EOD scan should execute tighten if triggered. ⚠️ BAC approaching −7% — monitor closely.
