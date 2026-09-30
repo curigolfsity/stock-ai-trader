@@ -5157,3 +5157,17 @@ _No action taken. Tuesday midday scan: no cuts (all above −7%), no tighten (TS
 
 _No action taken. Wed midday scan (last day of Q3): no cuts (all above −7%), no tighten (TSM 7% already set; +20% threshold $478.51 = 4.05% away), all theses intact. ⚠️ BAC critical watch: −5.70%, only $0.755 (1.38pp) from mandatory −7% cut at $53.97 — one bad intraday session could trigger. TSM HWM auto-advanced to $461.87 today (+0.64% intraday). HON window dressing catalyst did not fire. Equity ~$97,061 | Phase P&L ~−$2,939 (−2.94%). Weekly: 0/3 trades. Day 109._
 
+
+---
+
+### Sep 30 — EOD Snapshot (Day 109, Week 22 Day 3, Wednesday — Last Day of Q3)
+**Portfolio:** $96,901.60 | **Cash:** $35,624.21 (36.7%) | **Day P&L:** −$254.98 (−0.26%) | **Phase P&L:** −$3,098.40 (−3.10%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $456.875 | −0.01% | +$1,336.65 (+14.57%) | 7% GTC (b372a638, HWM $461.87, stop $429.54) |
+| JPM | 56 | $352.00 | $332.055 | −0.87% | −$1,116.92 (−5.67%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
+| BAC | 285 | $58.03 | $54.445 | −0.94% | −$1,022.17 (−6.18%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) ⚠️ CRITICAL: $0.476 buffer (0.88pp) from −7% cut at $53.97 |
+| HON | 79 | $211.95 | $210.92 | +0.38% | −$81.37 (−0.49%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) |
+
+**Notes:** Day 109 (Week 22, Wednesday — Q3 final close) ended down −$254.98 (−0.26%), closing Q3 at Phase P&L −$3,098.40 (−3.10%). BAC is at CRITICAL WATCH: −6.18% unrealized (entry $58.03 → close $54.445), only $0.476 (0.88pp) above the mandatory −7% cut threshold of $53.97 — one more adverse session will trigger a forced manual cut. JPM drifted lower (−0.87%) on rate headwinds; 1.62pp above cut threshold, elevated but not critical. TSM effectively flat (−0.01%), 7% GTC stop (b372a638, HWM $461.87, stop $429.54) protecting +$1,336.65 unrealized gain; no tighten action needed (+20% threshold at $478.51 still 4.7% away). HON the lone bright spot (+0.38%), Q3 window dressing provided marginal support on the final Q3 session. No trades today (0/3 this week). All 4 GTC trailing stops confirmed ACTIVE and unmodified. Key actions for Q4 open (Oct 1): BAC critical — any close at/below $53.97 requires immediate manual cut; JPM watch for continuation of macro pressure ahead of Oct 6 ex-div and Oct 13 earnings. Phase P&L −$3,098.40 (−3.10%) as Q3 closes.
