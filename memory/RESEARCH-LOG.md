@@ -8780,4 +8780,18 @@ _Sources: Alpaca API (live), WebSearch (Reuters, CNBC, Yahoo Finance, Investing.
 - Energy entry: evaluate at market open AFTER 8:30 PCE data; requires benign print + sector momentum confirmation
 - Default: HOLD. No new entries before PCE data.
 
+### Midday Addendum — 2026-09-30 ~Midday
+
+**Market conditions (live API data):**
+- TSM $459.87 (+0.64% intraday): ⭐ New intraday HWM $461.87 — 7% stop auto-tracked to $429.54; AI chip thesis INTACT/BULLISH; +20% tighten trigger ($478.51) = 4.05% away
+- JPM $333.13 (−0.55%): ⚠️ −5.36% from entry — 1.73pp from −7% mandatory cut ($327.36); Q3 end-of-quarter pressure; NIM thesis intact; ex-div Oct 6 approaching
+- BAC $54.725 (−0.43%): ⚠️⚠️ CRITICAL WATCH — −5.70% from entry; only $0.755 (1.38pp) from mandatory −7% cut at $53.97; intraday move modest; Q3 rebalancing consistent with sector-wide decline; no company-specific catalyst
+- HON $210.22 (+0.04%): Q3 window dressing catalyst (last Q3 trading day) did NOT materially fire; Quantinuum IPO + JPM OW thesis intact; flat session
+
+**Actions taken:** NONE — no −7% cuts triggered; TSM 7% stop already set pre-market; no +20% tighten needed
+
+**Decision:** HOLD. BAC elevated watch heading into close — if it approaches $54.00, reassess for early exit. Energy entry deferred (no confirmation post-PCE data visible in positioning).
+
+_Sources: Alpaca API (live positions + orders)_
+
 _Sources: Alpaca API (live), WebSearch (CNBC, Equityclock, KuCoin, Investing.com, Seeking Alpha, HPCWire)_

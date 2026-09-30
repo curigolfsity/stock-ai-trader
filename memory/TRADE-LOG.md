@@ -5114,3 +5114,46 @@ _No action taken. Tuesday midday scan: no cuts (all above −7%), no tighten (TS
 
 **Notes:** Day 108 (Week 22, Tuesday) closed down −$202.15 (−0.21%), a relatively quiet session that nonetheless produced a milestone: TSM surged to close $458.74, crossing the +15% tighten trigger ($458.574) and reaching an intraday HWM of $459.43 (+15.20% from entry $398.76). ⚡ URGENT: TSM trailing stop must be tightened from 10% to 7% (cancel order 265e7f23, place new 7% trailing stop). The current 10% stop is at $413.49; a 7% trail from HWM $459.43 would set stop at ~$427.27. JPM and BAC continued to drift lower (−0.33% and −0.76%) on persistent macro headwinds (10yr rates, hawkish tone), but both remain above the −7% cut threshold (JPM −4.69%, cut threshold $327.36 vs $335.49; BAC −5.14%, cut threshold $53.97 vs $55.05 — BAC now 1.86pp from threshold, elevated watch). HON was quiet −0.64%, with Q3 window dressing catalyst tomorrow (Sep 30) still live. No trades today (0/3 this week). All 4 GTC trailing stops confirmed ACTIVE. Phase P&L −$2,746.19 (−2.75%) — slight deterioration from yesterday; TSM gain (+$110.40 day) partially offset by financials/HON drag. Key action required: TIGHTEN TSM STOP TO 7% (requires manual execution).
 
+---
+
+### Midday Scan — 2026-09-30 (Day 109, Week 22 Day 3, Wednesday — Last Day of Q3)
+
+- **Account:** Equity ~$97,061 | Cash $35,624.21 (36.7%) | Deployed ~$61,437 (63.3%) | Day P&L: ~−$193 (−0.20%) | Phase P&L: ~−$2,939 (−2.94%) | Weekly trades: 0/3
+- **TSM (API):** Price $459.87 | Entry $398.76 | Unrealized +$1,405.53 (+15.33%) | Intraday +0.64% | Stop b372a638: 7% trail, HWM $461.87 (new high today), stop $429.54 | Buffer $30.33 (6.59% > 3% min) ✓
+- **JPM (API):** Price $333.13 | Entry $352.00 | Unrealized −$1,056.72 (−5.36%) | Intraday −0.55% | Stop f11bd758: HWM $354.50, stop $319.05 | Buffer $14.08 (4.23% > 3% min) ✓ | ⚠️ 1.73pp to −7% cut ($327.36)
+- **BAC (API):** Price $54.725 | Entry $58.03 | Unrealized −$942.37 (−5.70%) | Intraday −0.43% | Stop 425ccf1c: HWM $57.71, stop $51.94 | Buffer $2.79 (5.10% > 3% min) ✓ | ⚠️ 1.38pp to −7% cut ($53.97) — ELEVATED WATCH
+- **HON (API):** Price $210.22 | Entry $211.95 | Unrealized −$136.47 (−0.82%) | Intraday +0.04% | Stop 8303e452: HWM $213.64, stop $192.28 | Buffer $17.94 (8.53% > 3% min) ✓
+
+#### Step 3 — Loser Cut: NO CUT
+- TSM +15.33% — threshold −7% ($370.85) not triggered ✓
+- JPM −5.36% — threshold −7% ($327.36) not triggered; current $333.13 > $327.36; buffer $5.77 (1.73pp) ✓
+- BAC −5.70% — threshold −7% ($53.97) not triggered; current $54.725 > $53.97; buffer $0.755 (1.38pp) ⚠️
+- HON −0.82% — threshold −7% ($197.11) not triggered ✓
+
+#### Step 4 — Winner Tighten: NO ACTION (ALREADY TIGHTENED)
+- TSM +15.33% — 7% trail already in place (b372a638, executed pre-market Sep 30) ✓
+- 5% tighten threshold (+20%) = $478.51; current $459.87 is $18.64 (4.05%) away — not triggered
+- TSM HWM auto-advanced to $461.87 intraday (new high); stop auto-tracked to $429.54 ✓
+
+#### Step 5 — Thesis Check: ALL INTACT
+- TSM: INTACT/BULLISH — TSMC AI chip demand robust (Aug revenue +53.3% YoY); 2nm ramp on track; new intraday HWM $461.87; 7% stop protecting +$1,406 unrealized gain ✓
+- JPM: INTACT but pressured — NIM thesis holds at elevated 10-yr yield; ex-div Oct 6 ($1.65/sh) and earnings Oct 13 remain catalysts; −5.36% driven by macro/rate environment, no JPM-specific thesis break ✓
+- BAC: INTACT but ⚠️ ELEVATED WATCH — Financials NIM; −5.70% from entry ($54.725 vs cut $53.97 = $0.755 buffer); intraday −0.43% only; earnings Oct 14; no company-specific negative catalyst; Q3 end-of-quarter rebalancing pressure consistent with sector-wide move ✓
+- HON: INTACT — Q3 window dressing catalyst (last day of Q3) did not materially fire (+0.04% intraday); Quantinuum IPO filing and JPM OW upgrade remain primary longer-term thesis; no thesis break ✓
+
+#### Step 6 — Intraday Research: MACRO-DRIVEN MOVES
+- TSM +0.64%: AI chip demand thesis confirmed; HWM auto-advanced; consistent with pre-market outlook
+- JPM/BAC modest decline (−0.55%/−0.43%): sector-level financials pressure; consistent with Q3 end-of-quarter rebalancing and elevated 10-yr; no single-name catalysts detected
+- HON flat (+0.04%): Q3 window dressing catalyst failed to move the stock materially; thesis remains on Quantinuum IPO + JPM OW
+- No sharp single-name moves requiring deeper investigation
+
+#### Open Positions
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $459.87 | +$1,405.53 (+15.33%) | **7% GTC (b372a638, HWM $461.87, stop $429.54)** ✓ | AI chip demand; 2nm ramp; +53.3% Aug rev YoY | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $333.13 | −$1,056.72 (−5.36%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) | FOMC lifted; NIM expansion; ex-div Oct 6; earnings Oct 13 | $385 | 2.6:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $54.725 | −$942.37 (−5.70%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) | Financials NIM; P/E ~12x; earnings Oct 14 | $72.00 | 3.44:1 |
+| 2026-09-24 | HON | LONG | 79 | $211.95 | $210.22 | −$136.47 (−0.82%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) | Industrials; JPM OW upgrade; Quantinuum IPO filing | $280 | 2:1 |
+
+_No action taken. Wed midday scan (last day of Q3): no cuts (all above −7%), no tighten (TSM 7% already set; +20% threshold $478.51 = 4.05% away), all theses intact. ⚠️ BAC critical watch: −5.70%, only $0.755 (1.38pp) from mandatory −7% cut at $53.97 — one bad intraday session could trigger. TSM HWM auto-advanced to $461.87 today (+0.64% intraday). HON window dressing catalyst did not fire. Equity ~$97,061 | Phase P&L ~−$2,939 (−2.94%). Weekly: 0/3 trades. Day 109._
+
