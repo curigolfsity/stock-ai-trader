@@ -8719,3 +8719,65 @@ _Sources: Alpaca API (live), WebSearch (Reuters, CNBC, Yahoo Finance, Investing.
 - HON $210.235 (−0.61%): Q3 window dressing catalyst (Sep 30) tomorrow; thesis intact
 
 **Decision:** No action. All above −7% cut threshold. ⚡ TSM tighten trigger ($458.57) within 0.31% — EOD scan should execute tighten if triggered. ⚠️ BAC approaching −7% — monitor closely.
+
+---
+
+## 2026-09-30 — Pre-Market Research (Day 109, Week 22 Day 3, Wednesday)
+
+### Account Snapshot
+- **Equity:** $97,178.72 | **Cash:** $35,624.21 (36.6%) | **Long MV:** $61,554.51 | **Deployed:** 63.3%
+- **Phase P&L:** −$2,821.28 (−2.82%) | **Weekly trades:** 0/3 | **Daytrade count:** 0
+- **Deployment gap:** 63.3% vs 75-85% target (~$11.6k–$22.1k under-deployed)
+
+### Stop Action Executed (Pre-Market)
+- ⚡ **TSM tighten COMPLETE:** Cancelled 265e7f23 (10% trail, stop $413.49), placed new 7% trail
+  - New order: **b372a638** | Trail: 7% | HWM: $455.17 | Stop: $423.31 | Expires: 2026-12-29
+  - Trigger threshold (+15%) was crossed at EOD Sep 29 ($458.74 = +15.04%); action executed pre-market Sep 30
+
+### Positions (Pre-Market)
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TSM | 23 | $398.76 | $454.70 | +$1,286.62 (+14.03%) | **7% GTC (b372a638, HWM $455.17, stop $423.31)** ✓ TIGHTENED |
+| JPM | 56 | $352.00 | $335.99 | −$896.56 (−4.55%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) |
+| BAC | 285 | $58.03 | $55.02 | −$858.29 (−5.19%) | 10% GTC (425ccf1c, HWM $57.71, stop $51.94) ⚠️ 1.86pp to cut |
+| HON | 79 | $211.95 | $210.13 | −$143.78 (−0.86%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) |
+
+### Market Context
+- **WTI:** ~$90.54 (Sep 29 close) — pulled back from $93+ last week; SPR release pressure
+- **Brent:** ~$96-97 est. — still elevated on Hormuz risk
+- **SPX Futures:** +0.27% pre-market — modest bounce after 3-day slide; awaiting 8:30 data
+- **10-yr Yield:** ~5.25% — elevated (19-yr high), hawkish; hold-only on P/E >40 names
+- **Fed:** Raised 25bps at Sep 16 meeting (funds rate 3.75%-4.00%); market watching for further hikes
+
+### Economic Calendar Today (Sep 30)
+- **07:15 ET:** ADP Employment Change (forecast: +73K vs prior +38K)
+- **08:30 ET:** PCE Price Index August (+0.3% MoM expected; core ~3.3% YoY — Fed's preferred gauge)
+- **08:30 ET:** Q2 GDP 3rd Estimate (final revision)
+- **Earnings BMO:** MU (Micron), CAG (Conagra), LEVI — none held
+
+### Holdings News
+- **TSM ($454.70):** Aug 2026 revenue +53.3% YoY — AI demand surge intact; Q3 earnings Oct 15. 7% stop now active. Thesis: INTACT/BULLISH.
+- **JPM ($335.99):** Ex-div Oct 6 ($1.65/share); earnings Oct 13. Financials sector under NIM pressure at 5.25% yield. Thesis: INTACT but pressured.
+- **BAC ($55.02):** ⚠️ −5.19% unrealized — $1.05 gap / 1.86pp from −7% cut threshold ($53.97). Earnings Oct 14. Thesis: INTACT; elevated watch.
+- **HON ($210.13):** Q3 window dressing today (last day of Q3) = short-term catalyst. Quantinuum IPO filing ($12.7B target, Nasdaq "QNT") in process. JPM Overweight intact. Thesis: INTACT.
+
+### Trade Ideas
+1. **Energy entry (CVX/XOM/DVN) — CONDITIONAL:** Energy +47.7% YTD, highest momentum sector. Oil ~$90-97. Wait for PCE data at 8:30 ET; if in-line or benign (≤+0.3% core) and no new rate-hike catalyst → evaluate entry EOD. Size: ~$10-12k (1 position, max 20%). Entry on confirmed bounce off support.
+2. **Additional AI/Tech (NVDA/AVGO) — DEFER:** Deployment gap = ~$11-22k room. High-multiple growth names blocked at 10-yr >4.5%. Pass until yield retreats below 4.5%.
+3. **Existing positions — HOLD:** All above −7% cut; TSM tightened; theses intact.
+
+### Risk Factors
+- **PCE at 8:30 ET (HIGH):** Hot print above +0.3% core = yields spike, equities sell off; could push BAC/JPM to cut threshold
+- **BAC proximity to cut (HIGH):** $55.02 vs cut $53.97 — 1.9pp buffer; a −2% open would trigger mandatory close
+- **10-yr at 5.25% (HIGH):** Still 75bps above 4.5% gate; no new growth entries
+- **Q3 rebalancing outflows (MEDIUM):** Window dressing ends today; could see institutional rotation and vol
+- **TSM post-tighten pullback (LOW):** New 7% stop $423.31 from HWM $455.17; if TSM pulls back >7% from HWM, stop fires at $423.31
+
+### Decision: **HOLD — CONDITIONAL ENERGY ENTRY POST-PCE**
+- All 4 positions above −7% cut threshold; all theses intact
+- TSM stop tightened ✓ (critical action complete)
+- ⚠️ BAC — monitor opening print; if opens ≤$54.60, elevated alert
+- Energy entry: evaluate at market open AFTER 8:30 PCE data; requires benign print + sector momentum confirmation
+- Default: HOLD. No new entries before PCE data.
+
+_Sources: Alpaca API (live), WebSearch (CNBC, Equityclock, KuCoin, Investing.com, Seeking Alpha, HPCWire)_
