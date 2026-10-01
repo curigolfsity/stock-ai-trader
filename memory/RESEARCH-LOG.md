@@ -8882,3 +8882,22 @@ _Sources: Alpaca API (live positions + orders), WebSearch (Continuum Economics, 
 
 #### Decision: NO TRADES — HOLD ALL
 _Rules passed. No mandatory exits. Energy entry deferred pending ISM. Equity ~$96,782 | Cash $35,624 (36.8%) | Phase P&L ~−$3,219 (−3.22%). BAC at ⚠️⚠️ CRITICAL ($0.27 buffer to −7% cut). Day 110._
+
+### Midday Addendum — 2026-10-01 ~Midday
+
+**Live data (Alpaca API — midday):**
+- BAC $53.425 (−1.85% intraday): ⛔ −7.94% from entry — MANDATORY CUT TRIGGERED; API writes blocked (403); manual sell required ASAP
+- JPM $329.46 (−0.41%): ⚠️ −6.40% from entry — 0.64pp buffer to mandatory cut ($327.36); financials headwind continues
+- TSM $454.87 (−0.29%): +14.07% from entry — 7% stop (b372a638, HWM $461.87, stop $429.54) protecting gain; minor pullback
+- HON $213.825 (+1.37%): +0.88% — now in green; Quantinuum/JPM OW thesis reflecting into price
+
+**Actions attempted:** BAC mandatory cut triggered → `DELETE /positions/BAC` and `POST /orders` (sell market) both returned 403; write operations blocked in remote execution environment.
+
+**⛔ MANUAL ACTION REQUIRED:** Sell 285 shares BAC at market. After fill, cancel GTC stop 425ccf1c.
+
+**ISM Manufacturing PMI (10:00 ET):** S&P Global Mfg PMI printed 57 for Sep — strong manufacturing expansion. ISM likely in-line or above. Financials weakness likely rate-driven, not macro deterioration.
+
+**Decision:** No new entries. BAC cut required manually. JPM on critical watch — if JPM approaches $327.36 (additional -0.6% from current), execute manual cut.
+
+_Sources: Alpaca API (live positions + orders)_
+

@@ -5171,3 +5171,60 @@ _No action taken. Wed midday scan (last day of Q3): no cuts (all above −7%), n
 | HON | 79 | $211.95 | $210.92 | +0.38% | −$81.37 (−0.49%) | 10% GTC (8303e452, HWM $213.64, stop $192.28) |
 
 **Notes:** Day 109 (Week 22, Wednesday — Q3 final close) ended down −$254.98 (−0.26%), closing Q3 at Phase P&L −$3,098.40 (−3.10%). BAC is at CRITICAL WATCH: −6.18% unrealized (entry $58.03 → close $54.445), only $0.476 (0.88pp) above the mandatory −7% cut threshold of $53.97 — one more adverse session will trigger a forced manual cut. JPM drifted lower (−0.87%) on rate headwinds; 1.62pp above cut threshold, elevated but not critical. TSM effectively flat (−0.01%), 7% GTC stop (b372a638, HWM $461.87, stop $429.54) protecting +$1,336.65 unrealized gain; no tighten action needed (+20% threshold at $478.51 still 4.7% away). HON the lone bright spot (+0.38%), Q3 window dressing provided marginal support on the final Q3 session. No trades today (0/3 this week). All 4 GTC trailing stops confirmed ACTIVE and unmodified. Key actions for Q4 open (Oct 1): BAC critical — any close at/below $53.97 requires immediate manual cut; JPM watch for continuation of macro pressure ahead of Oct 6 ex-div and Oct 13 earnings. Phase P&L −$3,098.40 (−3.10%) as Q3 closes.
+
+---
+
+### Midday Scan — 2026-10-01 (Day 110, Week 22 Day 4, Q4 Day 1)
+
+- **Account:** Equity $96,678.73 | Cash $35,624.21 (36.8%) | Deployed ~$61,030 (63.2%) | Phase P&L: ~−$3,321 (−3.32%) | Weekly trades: 0/3
+- **Date/Time:** 2026-10-01 Midday
+
+#### Live Positions (Alpaca API)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Buffer to −7% Cut |
+|--------|--------|-------|---------|----------------|----------|------|-------------------|
+| BAC | 285 | $58.03 | $53.425 | −$1,312.87 (−**7.94%**) | −1.85% | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) | ⛔ CUT TRIGGERED |
+| JPM | 56 | $352.00 | $329.46 | −$1,262.24 (−6.40%) | −0.41% | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | ⚠️ $2.10 (0.64pp) |
+| TSM | 23 | $398.76 | $454.87 | +$1,290.53 (+14.07%) | −0.29% | 7% GTC b372a638 (HWM $461.87, stop $429.54) | N/A (+14.07%) |
+| HON | 79 | $211.95 | $213.825 | +$148.13 (+0.88%) | +1.37% | 10% GTC 8303e452 (HWM $214.52, stop $193.07) | N/A (+0.88%) |
+
+#### Step 3 — LOSER CUT: ⛔ BAC MANDATORY CUT TRIGGERED
+- **BAC: −7.94%** — EXCEEDS −7% THRESHOLD. Mandatory cut rule: "Unrealized loss <= -7%: close immediately."
+- **ATTEMPTED EXECUTION: FAILED** — both `DELETE /positions/BAC` and `POST /orders` (market sell) returned 403 from the API proxy. Write operations (POST/DELETE) are blocked in this remote execution environment.
+- **⚠️ MANUAL ACTION REQUIRED IMMEDIATELY:** Sell 285 shares BAC at market. GTC stop 425ccf1c remains active as backstop (stop $51.94) until manual close executed.
+- JPM: −6.40% — below −7% threshold; no cut needed; watch closely (0.64pp buffer = $2.10)
+- TSM: +14.07% — no cut
+- HON: +0.88% — no cut
+
+#### Step 4 — Winner Tighten: NO ACTION
+- TSM +14.07% — 7% stop already set (b372a638); +20% threshold $478.51 = 5.16% away; not triggered
+- All others underwater; no tighten
+
+#### Step 5 — Thesis Check
+- **BAC:** BEING CUT (rule-based -7.94%); thesis irrelevant at this point; cut at -7% per rules
+- **JPM:** INTACT but CRITICAL ⚠️ — NIM thesis holds; elevated 10-yr headwind; ex-div Oct 6 ($1.65/sh); earnings Oct 13; no company-specific thesis break; $2.10 buffer to mandatory cut
+- **TSM:** INTACT/BULLISH — AI chip demand; 7% stop protecting gain; thesis robust
+- **HON:** INTACT — +0.88% now green; Quantinuum IPO + JPM OW thesis; window dressing didn't fire Q3 but stock rebounding today
+
+#### Step 6 — Intraday Research
+- **BAC −1.85% intraday:** Q4 rebalancing + persistent 10-yr rate headwind driving financials sector down; no company-specific catalyst; mandatory cut triggered by cumulative loss from entry
+- **JPM −0.41%:** Continued sector pressure; ISM Manufacturing PMI 10:00 ET reading may have affected; watch for any further deterioration
+- **TSM −0.29%:** Minor pullback; AI chip demand thesis intact
+- **HON +1.37%:** Quantinuum IPO momentum / industrials rotation into Q4
+
+#### Sector Rule Check
+- BAC cut (pending manual execution) = 1 failed financials trade
+- JPM still open (not yet a failed trade); 2-consecutive-failed-sector-trade rule NOT yet triggered
+- If JPM also hits −7% and is closed → sector exit rule triggers → document when/if that occurs
+
+#### Open Positions (post-cut, pending manual BAC close)
+| Date | Ticker | Side | Shares | Avg Entry | Current | Unrealized P&L | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|---------|----------------|------------|--------|--------|-----|
+| 2026-08-03 | TSM | LONG | 23 | $398.76 | $454.87 | +$1,290.53 (+14.07%) | 7% GTC b372a638 (HWM $461.87, stop $429.54) | AI chip demand; 2nm ramp | $530–545 | 3.4:1 |
+| 2026-09-17 | JPM | LONG | 56 | $352.00 | $329.46 | −$1,262.24 (−6.40%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | FOMC lifted; NIM expansion; ex-div Oct 6; earnings Oct 13 | $385 | 2.6:1 |
+| 2026-09-24 | HON | LONG | 79 | $211.95 | $213.825 | +$148.13 (+0.88%) | 10% GTC 8303e452 (HWM $214.52, stop $193.07) | Industrials; JPM OW upgrade; Quantinuum IPO | $280 | 2:1 |
+| 2026-09-22 | BAC | LONG | 285 | $58.03 | $53.425 | −$1,312.87 (−7.94%) | 10% GTC 425ccf1c (BACKSTOP only — CUT ORDER PENDING MANUAL EXEC) | ⛔ CUT AT −7% RULE — AWAITING MANUAL CLOSE |  |  |
+
+**⛔ CRITICAL ACTION REQUIRED:** Sell 285 BAC at market immediately. API write operations blocked in this environment. Approx realized P&L on close: ~−$1,313 (−7.94%). After close, cancel stop 425ccf1c.
+
+_Midday scan Oct 1 (Q4 Day 1): BAC mandatory −7% cut TRIGGERED (−7.94%) — API write blocked, manual execution required. JPM elevated watch (−6.40%, 0.64pp from cut). TSM and HON stable. Equity $96,679 | Phase P&L ~−$3,321 (−3.32%). Weekly: 0/3 trades. Day 110._
+
