@@ -8859,3 +8859,26 @@ _Sources: Alpaca API (live), WebSearch (CNBC, Equityclock, KuCoin, Investing.com
 - Weekly trade budget: 0/3 used (room for up to 3 new entries if conditions met).
 
 _Sources: Alpaca API (live positions + orders), WebSearch (Continuum Economics, TradingEconomics, oilpriceapi.com, heygotrade.com, itiger.com, akrostec.com, financecalendar.com)_
+
+### Market-Open Scan — 2026-10-01 (Day 110, Week 22 Day 4, Q4 Day 1)
+**Time:** Pre-market 8:31 AM ET | **Weekly trades:** 0/3
+
+#### Live Data (Alpaca API)
+| Ticker | Price | Entry | Unreal P&L | Stop | Buffer to Cut | Stop Buffer | Action |
+|--------|-------|-------|------------|------|---------------|-------------|--------|
+| TSM | $457.50 | $398.76 | +$1,351 (+14.73%) | 7% GTC b372a638 (HWM $461.87, stop $429.54) | N/A | 6.11% | HOLD ✓ |
+| JPM | $330.57 | $352.00 | −$1,200 (−6.09%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | $3.21 (0.97pp) ⚠️ | 3.48% | HOLD ✓ |
+| BAC | $54.24 | $58.03 | −$1,081 (−6.53%) | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) | $0.27 (0.50pp) ⚠️⚠️ | 4.25% | HOLD ✓ |
+| HON | $210.94 | $211.95 | −$79 (−0.48%) | 10% GTC 8303e452 (HWM $213.64, stop $192.28) | N/A | 8.85% | HOLD ✓ |
+
+#### Rule Checks — ALL PASS
+- Mandatory -7% cut: NONE triggered (BAC -6.53%, JPM -6.09% — both above thresholds) ✓
+- Overnight stop buffer <3%: NONE triggered (BAC 4.25%, JPM 3.48%) ✓
+- BAC opens below $54.20 pre-emptive trigger: BAC at $54.24 — NOT triggered ✓
+- All 4 GTC trailing stops confirmed active and unchanged ✓
+
+#### New Entries
+- **Energy (XOM/CVX):** DEFERRED — ISM Manufacturing PMI (10:00 ET) not yet released; entry conditions incomplete. Evaluate at midday scan.
+
+#### Decision: NO TRADES — HOLD ALL
+_Rules passed. No mandatory exits. Energy entry deferred pending ISM. Equity ~$96,782 | Cash $35,624 (36.8%) | Phase P&L ~−$3,219 (−3.22%). BAC at ⚠️⚠️ CRITICAL ($0.27 buffer to −7% cut). Day 110._
