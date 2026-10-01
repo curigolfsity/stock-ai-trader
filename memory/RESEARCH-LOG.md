@@ -8795,3 +8795,67 @@ _Sources: Alpaca API (live), WebSearch (Reuters, CNBC, Yahoo Finance, Investing.
 _Sources: Alpaca API (live positions + orders)_
 
 _Sources: Alpaca API (live), WebSearch (CNBC, Equityclock, KuCoin, Investing.com, Seeking Alpha, HPCWire)_
+
+---
+
+## 2026-10-01 — Pre-Market Research (Day 110, Week 22 Day 4, Thursday — Q4 Day 1)
+
+### Account Snapshot
+- **Equity:** $96,694.25 | **Cash:** $35,624.21 (36.8%) | **Deployed:** $61,070.04 (63.2%)
+- **Day P&L:** −$207.35 (−0.21%) vs last_equity $96,901.60 (Q3 close)
+- **Phase P&L:** −$3,305.75 (−3.31%) | **Weekly trades:** 0/3 (Week 22)
+- **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Buffer to −7% Cut |
+|--------|--------|-------|---------|----------------|------|-------------------|
+| TSM | 23 | $398.76 | $457.78 | +$1,357.46 (+14.80%) | 7% GTC b372a638 (HWM $461.87, stop $429.54) | N/A (+14.80%) |
+| JPM | 56 | $352.00 | $329.20 | −$1,276.80 (−6.47%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | ⚠️ $1.84 (0.56pp) to cut at $327.36 |
+| BAC | 285 | $58.03 | $54.22 | −$1,086.29 (−6.57%) | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) | ⚠️⚠️ CRITICAL: $0.25 (0.46pp) to cut at $53.97 |
+| HON | 79 | $211.95 | $210.80 | −$90.85 (−0.54%) | 10% GTC 8303e452 (HWM $213.64, stop $192.28) | N/A (−0.54%) |
+
+### Market Context
+- **WTI crude:** ~$89–90 (Sep 2026 range; Sep 2 close $89.62)
+- **Brent crude:** ~$93–94 (Sep 2026 range; Sep 2 close $93.93)
+- **SPX futures:** Pre-market data unavailable; S&P Global Mfg PMI surged to 57 in Sep (from 53.9 Aug); constructive signal
+- **VIX:** ~16–18 est. (July 31 close 16.0; analysts flagged Aug–Oct seasonality risk)
+- **10-yr yield:** ~4.6–5.25% — elevated; hold-only gate active for P/E >40 growth names
+- **FOMC:** Next decision Oct 28; no meeting window restriction today (window = 2 sessions before decision)
+
+### Economic Calendar — Oct 1 (Today)
+- **10:00 ET:** ISM Manufacturing PMI September (forecast ~54.8–55.5 vs Aug 54.6) — KEY DATA POINT
+- **Note:** S&P Global Mfg PMI already printed 57 for Sep — upside surprise likely for ISM too
+- **Oct 2:** Nonfarm Payrolls / Jobs Report — major macro catalyst tomorrow
+- **Oct 6:** JPM ex-div ($1.65/share)
+- **Oct 8:** TSMC Sep monthly revenue report
+- **Oct 13:** JPM Q3 earnings
+- **Oct 14:** BAC Q3 earnings
+- **Oct 15:** TSM Q3 earnings + CPI release
+- **Oct 28:** FOMC rate decision — hold-only on new entries 2 sessions prior (Oct 26–28)
+
+### Holdings News
+- **TSM ($457.78):** Thesis INTACT/BULLISH. TSMC raised 2026 capex to $60–64B; AI demand surge continues; stock +50% YTD; Sep revenue report Oct 8; Q3 earnings Oct 15 (analysts consensus Buy). 7% stop protecting +$1,357 unrealized. +20% tighten threshold $478.51 = 4.55% away.
+- **JPM ($329.20):** Thesis INTACT but CRITICAL. −6.47% unrealized, only $1.84 (0.56pp) from mandatory −7% cut ($327.36). Ex-div Oct 6 ($1.65/share reduces cut threshold pressure by ~0.50pp post-div). Earnings Oct 13. Elevated 10-yr rate = NIM tailwind but multiple compression. Watch for gap-down at open.
+- **BAC ($54.22):** ⚠️⚠️ CRITICAL EMERGENCY WATCH. −6.57% unrealized, only $0.25 (0.46pp) from mandatory −7% cut at $53.97. A −0.46% intraday move triggers immediate mandatory close. Q4 rebalancing flows could push lower. Earnings Oct 14 — 2 weeks away. Consider pre-emptive exit at/near open if price action is weak; cost of waiting is asymmetric (small buffer vs. large position $15,453).
+- **HON ($210.80):** Thesis INTACT. −0.54%, well within range. Q3 window dressing catalyst did not fire but Quantinuum IPO filing + JPM OW thesis intact. No action.
+
+### Trade Ideas
+1. **BAC pre-emptive exit (DEFENSIVE):** At $54.22, any -0.46% move = mandatory cut. With $15,453 position and only $0.25 buffer, asymmetric risk. If BAC opens below $54.20 or shows immediate weakness → execute manual cut at market to preserve $15k+ vs. waiting for $53.97 auto-trigger. Cost: locks in −6.57% loss ($1,086). Benefit: avoids gap-down cut scenario, frees $15k for better opportunities in earnings season.
+2. **Energy entry (XOM or CVX) — CONDITIONAL:** Energy sector YTD leader; oil $89–90 WTI; Mfg PMI 57 signals expansion. Conditions: (a) ISM ≥54 at 10:00 ET, (b) oil holds ≥$88, (c) SPX futures green or flat, (d) BAC/JPM not cutting first. Size: $10–12k (~10–12% of equity). Entry on confirmed open + first 15-min candle direction. Stop 10% below entry GTC.
+3. **Hold TSM/HON:** Both theses intact, stop management current, no action needed.
+
+### Risk Factors
+- **BAC cut imminent (CRITICAL):** $0.25 buffer — single bad tick triggers mandatory −7% exit. Financials under Q4 rebalancing pressure + rate headwinds.
+- **JPM cut proximity (HIGH):** $1.84 buffer (0.56pp). If both BAC and JPM cut → 2 consecutive financials failures → SECTOR EXIT RULE triggers (must exit all financial sector positions). Currently no other financials held but rule documented.
+- **Jobs report tomorrow Oct 2 (HIGH):** NFP could spike volatility; hot number → yields up → financials + growth names under pressure. Weak number → rate cut hopes → financials rally.
+- **FOMC window Oct 26–28 (MEDIUM):** No new entries allowed 2 sessions before Oct 28 decision → new entry window closes ~Oct 24.
+- **10-yr yield ≥4.5% (HIGH):** Gate remains active; no new P/E >40 growth entries (NVDA, AVGO, etc.).
+- **ISM miss (LOW-MEDIUM):** If ISM <50 = contraction → risk-off; defer energy entry.
+
+### Decision: **HOLD — BAC CRITICAL WATCH + CONDITIONAL ENERGY ENTRY POST-ISM**
+- **Priority #1:** BAC at $54.22 — monitor opening print. If opens ≤$54.10 or declines to $53.97 → MANDATORY IMMEDIATE CUT (no hesitation).
+- **Priority #2:** ISM at 10:00 ET — await print before any new entry.
+- **Priority #3:** Energy entry (XOM/CVX) valid ONLY IF: ISM ≥54, oil ≥$88, BAC/JPM not cutting, market stable.
+- Default: HOLD. Patience > activity. Earnings season starts next week — let positions play out.
+- Weekly trade budget: 0/3 used (room for up to 3 new entries if conditions met).
+
+_Sources: Alpaca API (live positions + orders), WebSearch (Continuum Economics, TradingEconomics, oilpriceapi.com, heygotrade.com, itiger.com, akrostec.com, financecalendar.com)_
