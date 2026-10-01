@@ -5228,3 +5228,17 @@ _No action taken. Wed midday scan (last day of Q3): no cuts (all above −7%), n
 
 _Midday scan Oct 1 (Q4 Day 1): BAC mandatory −7% cut TRIGGERED (−7.94%) — API write blocked, manual execution required. JPM elevated watch (−6.40%, 0.64pp from cut). TSM and HON stable. Equity $96,679 | Phase P&L ~−$3,321 (−3.32%). Weekly: 0/3 trades. Day 110._
 
+
+---
+
+### Oct 01 — EOD Snapshot (Day 110, Week 22 Day 4, Q4 Day 1)
+**Portfolio:** $96,975.62 | **Cash:** $35,624.21 (36.7%) | **Day P&L:** +$73.02 (+0.08%) | **Phase P&L:** −$3,024.38 (−3.02%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| BAC | 285 | $58.03 | $53.58 | −1.56% | −$1,268.69 (−7.67%) | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) ⛔ OVER −7% — MANUAL CUT REQUIRED |
+| HON | 79 | $211.95 | $214.33 | +1.61% | +$188.02 (+1.12%) | 10% GTC 8303e452 (HWM $215.00, stop $193.50) |
+| JPM | 56 | $352.00 | $332.03 | +0.36% | −$1,118.60 (−5.68%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) |
+| TSM | 23 | $398.76 | $458.98 | +0.61% | +$1,385.06 (+15.10%) | 7% GTC b372a638 (HWM $461.87, stop $429.54) |
+
+**Notes:** Day 110 (Q4 Day 1, Thursday) ended slightly positive +$73.02 (+0.08%), recovering from the midday low to close at equity $96,975.62 (Phase P&L −$3,024.38, −3.02%). BAC remains open at −7.67% — significantly past the mandatory −7% cut threshold triggered at midday (−7.94%) — API write operations blocked in this remote environment; GTC stop 425ccf1c (stop $51.94) is the only backstop. **⛔ MANUAL CLOSE OF 285 BAC STILL REQUIRED.** HON recovered strongly (+1.61%) with HWM auto-advancing to $215.00 and stop auto-advancing to $193.50; thesis intact. JPM reversed mildly positive (+0.36% intraday) to −5.68% unrealized, at 1.07pp above mandatory cut; ex-div Oct 6 ($1.65/sh) approaching. TSM continued grinding up (+0.61%) to $458.98, now +15.10% unrealized; 7% stop (HWM $461.87, stop $429.54) protecting the gain — +20% tighten threshold at $478.51 is 4.26% away. No trades executed this week (0/3). Priority action: manually close BAC at market open Oct 2 — currently −7.67% and stop at $51.94 ($1.64 / 3.06pp below current price) offers limited protection overnight.
