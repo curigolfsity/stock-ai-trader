@@ -5242,3 +5242,37 @@ _Midday scan Oct 1 (Q4 Day 1): BAC mandatory −7% cut TRIGGERED (−7.94%) — 
 | TSM | 23 | $398.76 | $458.98 | +0.61% | +$1,385.06 (+15.10%) | 7% GTC b372a638 (HWM $461.87, stop $429.54) |
 
 **Notes:** Day 110 (Q4 Day 1, Thursday) ended slightly positive +$73.02 (+0.08%), recovering from the midday low to close at equity $96,975.62 (Phase P&L −$3,024.38, −3.02%). BAC remains open at −7.67% — significantly past the mandatory −7% cut threshold triggered at midday (−7.94%) — API write operations blocked in this remote environment; GTC stop 425ccf1c (stop $51.94) is the only backstop. **⛔ MANUAL CLOSE OF 285 BAC STILL REQUIRED.** HON recovered strongly (+1.61%) with HWM auto-advancing to $215.00 and stop auto-advancing to $193.50; thesis intact. JPM reversed mildly positive (+0.36% intraday) to −5.68% unrealized, at 1.07pp above mandatory cut; ex-div Oct 6 ($1.65/sh) approaching. TSM continued grinding up (+0.61%) to $458.98, now +15.10% unrealized; 7% stop (HWM $461.87, stop $429.54) protecting the gain — +20% tighten threshold at $478.51 is 4.26% away. No trades executed this week (0/3). Priority action: manually close BAC at market open Oct 2 — currently −7.67% and stop at $51.94 ($1.64 / 3.06pp below current price) offers limited protection overnight.
+
+---
+
+### Market-Open Scan — 2026-10-02 (Day 111, Week 22 Day 5, Q4 Day 2 — NFP Friday)
+
+- **Account:** Equity $97,413.97 | Cash $35,624.21 (36.6%) | Deployed $61,789.76 (63.4%) | Phase P&L: −$2,586.03 (−2.59%) | Weekly trades: 0/3
+- **Day P&L:** +$366.83 (+0.38%) vs prior equity $97,047.14
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| BAC | 285 | $58.03 | $53.964 | −$1,159.25 (−**7.01%**) | +0.44% | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) | ⛔ CUT RULE TRIGGERED — API BLOCKED |
+| JPM | 56 | $352.00 | $334.75 | −$966.00 (−4.90%) | +0.47% | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | ⚠️ Watch |
+| HON | 79 | $211.95 | $215.15 | +$252.80 (+1.51%) | +0.63% | 10% GTC 8303e452 (HWM $215.03, stop $193.53) | HOLD ✓ |
+| TSM | 23 | $398.76 | $463.79 | +$1,495.69 (+16.31%) | +1.00% | 7% GTC b372a638 (HWM $461.87, stop $429.54) | HOLD ✓ |
+
+#### GTC Stops — All Confirmed ACTIVE
+- TSM: 7% trail b372a638 | stop $429.54 | HWM $461.87 ✓
+- HON: 10% trail 8303e452 | stop $193.53 | HWM $215.03 ✓
+- BAC: 10% trail 425ccf1c | stop $51.94 | HWM $57.71 ✓ (backstop only — cut rule triggered)
+- JPM: 10% trail f11bd758 | stop $319.05 | HWM $354.50 ✓
+
+#### Macro Context
+- **NFP Sep 2026:** ~119K printed (beat consensus ~93K; strong print)
+- **VIX:** ~21.65 (down −2.15%; significantly lower than pre-market estimate 27.82)
+- **S&P 500 open:** 6,960.25 (+0.13% on day)
+
+#### Actions
+- **BAC cut attempt:** `bash scripts/alpaca.sh order '{"symbol":"BAC","qty":"285","side":"sell","type":"market","time_in_force":"day"}'` → **403 BLOCKED** (API write operations blocked in remote env). GTC backstop 425ccf1c ($51.94) remains active. ⛔ **MANUAL CLOSE REQUIRED: Sell 285 BAC at market.**
+- **TSM tighten check:** +16.31% — 7% stop already set ✓; +20% threshold $478.51 is $14.72 (3.18%) away; not triggered.
+- **XOM energy entry:** Gates checked — BAC cutting (−7% rule active) BLOCKS entry; no new trade.
+- **No trades executed.** 0/3 this week.
+
+_Market-open Oct 2 (NFP Friday): BAC mandatory cut triggered AGAIN — API write blocked for 3rd consecutive session. VIX 21.65 (lower than expected). NFP beat (+119K). No trades. TSM +16.31% — 7% stop protecting gain. ⛔ CRITICAL: Manual BAC close required urgently. Equity $97,414 | Phase P&L −$2,586 (−2.59%). Weekly: 0/3 trades. Day 111._
