@@ -1131,3 +1131,64 @@ Rule adherence A (FOMC blackout executed; T+0 stop on JPM; XOM blocked correctly
 Rule adherence B (HON stop gap at market-open is a 4th-instance recurring process failure, even remediated midday — no longer a one-off; requires structural fix in workflow, not just acknowledgment), risk management A (all 4 stop buffers healthy at week end: 6.70%–9.33%; no cut triggers reached; thesis checks passed; automation intact), relative performance B (bot −0.30% vs S&P ~−0.6% = +0.30% outperformance; 4th consecutive week of positive relative performance; deployment expansion is the driver, not position alpha yet; cash drag structurally reduced). Phase P&L: −$1,982.19 (−1.98%) after 21 weeks.
 
 ---
+
+## Week ending 2026-10-02
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,017.81 (Fri Sep 25 EOD) |
+| Ending portfolio | $97,366.69 (Fri Oct 2 live) |
+| Week return | −$651.12 (−0.66%) |
+| S&P 500 week | ~−0.46% (~7,739 Sep 25 → ~7,704 Oct 2; NFP +29K miss drove intraweek volatility) |
+| Bot vs S&P | −0.20% |
+| Trades | 0 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | TSM +18.50% unrealized (tighten trigger crossed; 7% stop protecting gains) |
+| Worst trade | BAC −7.15% (⛔ mandatory cut triggered Oct 1 — API write blocked, not yet closed) |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TSM | $398.76 (Aug 3) | $472.53 | +$1,696.71 (+18.50%) | 7% GTC (b372a638, HWM $474.20, stop $441.01) — buffer 6.67% ✓ |
+| JPM | $352.00 (Sep 17) | $332.38 | −$1,098.72 (−5.57%) | 10% GTC (f11bd758, HWM $354.50, stop $319.05) — buffer 4.01% ✓ |
+| BAC | $58.03 (Sep 22) | $53.88 | −$1,183.19 (−7.15%) | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) — ⛔ CUT RULE TRIGGERED; API write blocked; GTC backstop only |
+| HON | $211.95 (Sep 24) | $213.99 | +$161.16 (+0.96%) | 10% GTC (8303e452, HWM $216.13, stop $194.52) — buffer 9.10% ✓ |
+
+### What Worked
+- TSM +18.50% unrealized — tighten trigger (+15% = $458.57) crossed Tuesday Sep 29; 10%→7% stop correctly executed (b372a638, HWM $474.20, stop $441.01); automation protecting largest phase gain since CAT
+- TSM tighten was clean: stop cancelled (265e7f23), new 7% GTC placed pre-market Sep 30; no gap in coverage; correct execution with highest stakes position
+- HON recovered +0.96% unrealized on the week — Q4 Quantinuum IPO catalyst remains intact; HWM auto-advanced to $216.13; thesis holding through sector rotation
+- JPM buffer held above 3% all week despite macro headwinds — 4.01% buffer at week end; ex-div Oct 6 ($1.65/sh × 56 = $92.40) approaching; earnings Oct 13 catalyst intact
+- NFP +29K miss (vs +89K est) on Oct 2 triggered risk-on repricing: VIX 21.65→16.39, Nasdaq +1.7%; TSM +18.54% intraday; financials sector yield-relief medium-term positive
+
+### What Didn't Work
+- BAC mandatory −7% cut triggered Oct 1 midday (−7.94%) — API write operations (POST/DELETE) returned 403 proxy-blocked for 4 consecutive sessions; mandatory cut rule has been violated through week end; GTC stop $51.94 is the only backstop
+- Financials sector (JPM/BAC) compound decline: 10-yr spiked to 5.27% (JPM at −5.57%; BAC at −7.15%) + AI disruption narrative hitting bank stocks (Meta Muse agent fears); entered NIM expansion thesis into a week of rate shock
+- 0/3 weekly trade capacity used — no new entries despite VIX clearing late Friday (16.39); BAC unresolved cut blocked any new position evaluation
+- Bot −0.66% vs S&P −0.46% = −0.20% gap; 5th consecutive Friday in negative relative terms (slight underperformance); financials drag offset TSM's strong week
+- Q3 window dressing catalyst (HON, Sep 30) failed to materialize — HON essentially flat on the quarter-end session; Quantinuum IPO now the primary HON driver
+
+### Key Lessons
+- **API write blocking (403 proxy) is a critical infrastructure gap:** 4 consecutive sessions with a triggered cut rule and no execution path available; remote execution environments must have a documented fallback when write operations fail — currently there is none; this is the most severe process failure of the phase from a risk-management perspective
+- **Financials sector entered with dual headwinds already building:** JPM/BAC thesis (NIM expansion) is sound but 10-yr at 5.27% + AI banking disruption narrative created a compounding multi-session drawdown that exceeded the −7% cut threshold for BAC within 10 days of entry; check sector technical momentum (not just yield) before entering bank stocks
+- **TSM tighten trigger discipline was the week's only bright spot:** clean execution of the 10%→7% stop tighten on crossing +15%; the 7% stop is now protecting +18.50% unrealized gain; next trigger at +20% ($478.51) is $6.00 / 1.27% from current close — likely to fire early next week
+
+### Adjustments for Next Week
+- **Monday Oct 6 priority #1 (URGENT):** Manual close of 285 BAC at market — cut rule triggered 5+ sessions; must execute before any other action; after fill cancel GTC stop 425ccf1c; expected realized P&L ~−$1,183 (−7.15%)
+- **TSM tighten trigger ($478.51, +20%) is imminent** — $6.00 / 1.27% from $472.53 Friday close; if gap-up Monday or any intraday move to $478.51 → cancel b372a638, place 5% GTC stop immediately before any other action; do not wait for midday
+- **JPM:** Hold; ex-div Oct 6 ($1.65/sh = $92.40); buffer 4.01% — verify stop ACTIVE at Monday open; if buffer <3% at open, execute manual cut per protocol; earnings Oct 13 = key thesis validation
+- **After BAC close:** assess 3rd/4th position slots — would be ~47% deployed (TSM + JPM + HON); energy sector remains off-limits (Rule 10: GEV+OXY+XOM = 3 failures); evaluate ETN (Industrials; non-financial; non-Energy) as BAC replacement
+- **BAC realized loss → financials sector track record:** BAC = 1st financials failure; JPM still open; if JPM also closes as a realized loss → 2 consecutive financials failures = sector exit rule triggers per Rule 10; monitor closely
+- **FOMC Oct 24-25:** hard block 2 sessions before meeting; clean entry windows are Oct 6–21 (avoiding Oct 13 JPM earnings day + CPI/PPI macro days)
+
+### Overall Grade: C
+Rule adherence D (BAC mandatory −7% cut triggered Oct 1; position open and in violation through week end due to API write blocking — technically a systemic infrastructure failure, not a willful violation, but the result is identical to skipping the cut rule; TSM tighten correctly executed at +15%; no other rule violations), risk management C (TSM 7% stop protecting largest phase gain correctly; JPM buffer 4.01% above 3% mandate; BAC in cut-rule violation at −7.15% with only GTC backstop at $51.94; HON healthy; one cut-rule violation is one too many regardless of cause), relative performance C (bot −0.66% vs S&P ~−0.46% = −0.20% gap; slightly negative relative; TSM's +18.50% partially offset by financials drag; no new capital deployed this week). Phase P&L: −$2,633.31 (−2.63%) after 22 weeks.
+
+---
