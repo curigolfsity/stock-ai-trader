@@ -8960,3 +8960,32 @@ _Sources: Alpaca API (live positions + orders)_
 - Default: HOLD. 0/3 trades used this week. Patience > activity.
 
 _Sources: Alpaca API (live positions + orders), WebSearch (FXStreet NFP preview, Investing.com, Barchart sector data, Yahoo Finance TSM/HON news, historicaloptiondata.com VIX)_
+
+### Midday Addendum — 2026-10-02 ~Midday (NFP Friday)
+
+**Live data (Alpaca API — midday):**
+- BAC $53.61 (−0.22% intraday): ⛔ −7.62% from entry — MANDATORY CUT TRIGGERED; API writes blocked (403) for 4th consecutive session; GTC backstop 425ccf1c ($51.94) only protection
+- JPM $331.40 (−0.53%): −5.85% from entry — 1.15pp buffer to mandatory cut; sector pressure offset by rate-hold pricing
+- HON $215.07 (+0.59%): +1.47% from entry — HWM auto-advanced to $216.13; thesis intact
+- TSM $473.94 (+3.21%): +18.85% from entry — HWM $474.20; stop $441.01; approaching +20% tighten threshold $478.51 ($4.57 / 0.96% away)
+
+**NFP Sep 2026 (8:30 ET):** +29K (miss vs ~89K consensus; prior +133K)
+- Rate-hold repricing: Fed less likely to hike; 10-yr yield compressed; yield curve 2s/10s +0.57%
+- Market: S&P +1.0% to ~7,692 | Nasdaq +1.7% | VIX 16.39 (from 21.65 at open)
+- Beneficiaries: High-multiple tech/semis (lower discount rate), AI infrastructure names
+
+**TSM catalyst (+3.21% intraday):**
+- 2nm wafer output target raised ~20% to ~120K/month by end-2026
+- 2nm pricing ~$30K/wafer (~50% premium over 3nm) → margin expansion
+- Full-year 2026 revenue growth outlook raised to >40%; 18 Buy / 1 Neutral analyst consensus
+- Oct 15 earnings catalyst: investors positioning ahead of print
+- NFP miss → Nasdaq tailwind amplifying move
+
+**JPM rate-hold update:**
+- Soft NFP → yield compression → NIM expansion thesis improving medium term
+- Ex-div Oct 6 ($1.65/sh still approaching); earnings Oct 13 unchanged
+- No thesis break; buffer narrowing but manageable at 1.15pp
+
+**Decisions:** No new trades. No stop adjustments. BAC cut pending manual execution. Energy entry (XOM) deferred — BAC unresolved, portfolio uncertain. TSM approaching +20% tighten: if TSM touches $478.51, new trailing stop at 5% to be placed (cancel b372a638, place new 5% trail).
+
+_Sources: Alpaca API (live positions + orders), WebSearch (BLS NFP release, CNBC, Yahoo Finance markets live, Investing.com TSMC)_

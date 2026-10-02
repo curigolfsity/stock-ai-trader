@@ -5276,3 +5276,57 @@ _Midday scan Oct 1 (Q4 Day 1): BAC mandatory −7% cut TRIGGERED (−7.94%) — 
 - **No trades executed.** 0/3 this week.
 
 _Market-open Oct 2 (NFP Friday): BAC mandatory cut triggered AGAIN — API write blocked for 3rd consecutive session. VIX 21.65 (lower than expected). NFP beat (+119K). No trades. TSM +16.31% — 7% stop protecting gain. ⛔ CRITICAL: Manual BAC close required urgently. Equity $97,414 | Phase P&L −$2,586 (−2.59%). Weekly: 0/3 trades. Day 111._
+
+---
+
+### Midday Scan — 2026-10-02 (Day 111, Week 22 Day 5, Q4 Day 2 — NFP Friday)
+
+- **Account:** Equity ~$97,353 | Cash $35,624.21 (36.6%) | Deployed $61,728.40 (63.4%) | Phase P&L: −$2,647 (−2.65%) | Weekly trades: 0/3
+- **Day P&L:** ~−$61 vs market-open equity $97,414
+
+#### Live Positions (Midday)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| BAC | 285 | $58.03 | $53.61 | −$1,260.14 (−**7.62%**) | −0.22% | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) | ⛔ CUT RULE TRIGGERED — API BLOCKED (4th session) |
+| JPM | 56 | $352.00 | $331.40 | −$1,153.60 (−5.85%) | −0.53% | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | ⚠️ Watch (1.15pp above −7% cut) |
+| HON | 79 | $211.95 | $215.07 | +$246.48 (+1.47%) | +0.59% | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+| TSM | 23 | $398.76 | $473.94 | +$1,729.14 (+**18.85%**) | +3.21% | 7% GTC b372a638 (HWM $474.20, stop $441.01) | HOLD ✓ — approaching +20% tighten |
+
+#### GTC Stops — All Confirmed ACTIVE (midday API pull)
+- TSM: 7% trail b372a638 | HWM $474.20 | stop $441.01 ✓ (auto-advanced from $429.54)
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓ (auto-advanced from $193.53)
+- BAC: 10% trail 425ccf1c | HWM $57.71 | stop $51.94 ✓ (backstop only — cut rule triggered)
+- JPM: 10% trail f11bd758 | HWM $354.50 | stop $319.05 ✓
+
+#### Step 3 — LOSER CUT: ⛔ BAC MANDATORY CUT TRIGGERED (AGAIN)
+- **BAC: −7.62%** — exceeds −7% threshold. Rule: "Unrealized loss <= -7%: close immediately."
+- **EXECUTION: FAILED** — API write operations (POST/DELETE) return 403 from proxy; blocked for 4th consecutive session.
+- GTC stop 425ccf1c ($51.94) remains only backstop; $1.67 / 3.12pp below current price.
+- ⛔ **MANUAL ACTION REQUIRED (URGENT):** Sell 285 BAC at market. After fill, cancel GTC stop 425ccf1c.
+
+#### Step 4 — Winner Tighten Check
+- TSM +18.85% — 7% stop already active (correct for +15% tier) ✓
+- +20% tighten threshold: $478.51 — current $473.94 = $4.57 (0.96%) **away**; NOT triggered
+- TSM HWM auto-advanced to $474.20 (was $461.87); stop auto-advanced to $441.01 (was $429.54) ✓
+- HON stop HWM auto-advanced to $216.13; no tighten needed at +1.47%
+- No tighten actions executed
+
+#### Step 5 — Thesis Check
+- **BAC:** Rule-based cut active. Thesis irrelevant.
+- **JPM:** INTACT — NIM expansion thesis holds; NFP miss (+29K vs +89K consensus) → rate-hold pricing → yield relief → positive for NIM medium term; ex-div Oct 6 ($1.65/sh); earnings Oct 13; no company-specific break. Buffer −$12.35 / 1.15pp above mandatory cut.
+- **TSM:** STRONGLY INTACT — 2nm ramp raised to 120K wafers/month; full-year 2026 revenue growth outlook >40%; NFP miss + rate-hold repricing → Nasdaq +1.7% → semis outperform; Oct 15 earnings catalyst approaching.
+- **HON:** INTACT — industrials sector holding; Quantinuum IPO catalyst in play; +1.47% stable.
+
+#### Step 6 — Intraday Research Summary (NFP Oct 2)
+- **NFP Sep 2026:** +29K printed (miss vs ~89K consensus; prior +133K) — significant jobs miss
+- **Market reaction (risk-on, rate-hold repricing):** S&P 500 +1.0% to ~7,692 | Nasdaq +1.7% | VIX ~16.39 (from 21.65 at open — significant compression)
+- **TSM catalyst:** 2nm ramp target raised 20% → ~120K wafers/month; AI chip demand thesis + Oct 15 earnings positioning driving +3.21% intraday; 18 Buy / 1 Neutral analyst consensus
+- **JPM / BAC:** Soft NFP → rate-hold pricing → yield curve healthy (2s/10s +0.57%); net positive for financials medium term; XLF tracking inflows; banks recovering but underperforming Nasdaq intraday
+- **Sector rotation:** AI infrastructure (TSM, NVDA, ASML) leading; energy still top YTD sector
+
+#### Decisions
+- **No new trades** — BAC cut pending manual close; portfolio at 4 positions; energy entry deferred (BAC unresolved)
+- **No tighten** — TSM not yet at +20% threshold ($4.57 / 0.96% away); monitor closely into close
+- Weekly trades: 0/3 used; window open through Oct 23 (FOMC gate Oct 24)
+
+_Midday Oct 2 (NFP Friday): NFP +29K miss → risk-on; VIX 16.39; Nasdaq +1.7%. TSM +18.85% — approaching +20% tighten ($478.51). BAC −7.62% cut triggered again — API write blocked 4th session. JPM −5.85% stable. No trades. Equity ~$97,353 | Phase P&L −2.65%. ⛔ CRITICAL: Manual close 285 BAC at market._
