@@ -5330,3 +5330,15 @@ _Market-open Oct 2 (NFP Friday): BAC mandatory cut triggered AGAIN — API write
 - Weekly trades: 0/3 used; window open through Oct 23 (FOMC gate Oct 24)
 
 _Midday Oct 2 (NFP Friday): NFP +29K miss → risk-on; VIX 16.39; Nasdaq +1.7%. TSM +18.85% — approaching +20% tighten ($478.51). BAC −7.62% cut triggered again — API write blocked 4th session. JPM −5.85% stable. No trades. Equity ~$97,353 | Phase P&L −2.65%. ⛔ CRITICAL: Manual close 285 BAC at market._
+
+---
+
+### Oct 02 — EOD Snapshot (Day 111, Friday)
+**Portfolio:** $97,278 | **Cash:** $35,624 (36.6%) | **Day P&L:** +$231 (+0.24%) | **Phase P&L:** −$2,722 (−2.72%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| BAC | 285 | $58.03 | $53.67 | −0.11% | −$1,243 (−7.52%) | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) |
+| JPM | 56 | $352.00 | $331.66 | −0.46% | −$1,139 (−5.78%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) |
+| HON | 79 | $211.95 | $214.12 | +0.15% | +$171 (+1.02%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
+| TSM | 23 | $398.76 | $472.70 | +2.94% | +$1,701 (+18.54%) | 7% GTC b372a638 (HWM $474.20, stop $441.01) |
+**Notes:** Day 111 (NFP Friday, Oct 2) closes with a mild day gain of +$231 (+0.24%) driven entirely by TSM's +2.94% move on AI/semi momentum following the NFP jobs miss — risk-on repricing lifted Nasdaq +1.7% and TSM ended at $472.70 (+18.54% unrealized). JPM and BAC drifted lower into the close (JPM −0.46%, BAC −0.11%), with BAC still firmly in mandatory-cut territory at −7.52%. The BAC cut rule has been triggered for 4+ consecutive sessions but API write operations remain blocked (403 proxy); GTC stop 425ccf1c at $51.94 is the only backstop — $1.73 below close. HON held steady (+0.15%). No new trades executed this week (0/3 capacity used). TSM approaching +20% tighten threshold ($478.51) but did not trigger at close ($472.70, $5.81 away). ⛔ CRITICAL CARRY-FORWARD: Manual close of 285 BAC at market required Monday open before any other action.
