@@ -8901,3 +8901,62 @@ _Rules passed. No mandatory exits. Energy entry deferred pending ISM. Equity ~$9
 
 _Sources: Alpaca API (live positions + orders)_
 
+
+## 2026-10-02 — Pre-market Research
+
+### Account
+- Equity: $97,263.16
+- Cash: $35,624.21 (36.6%)
+- Long market value: $61,638.95 (63.4%)
+- Buying power: $132,887.37 (reg-T)
+- Daytrade count: 0 (PDT limit: 3)
+- Phase P&L: ~−$2,737 (−2.74%) vs $100K start
+- Weekly trades: 0/3 used
+
+### Positions (Pre-Market)
+| Ticker | Shares | Entry | Current | Unrealized | Stop | Status |
+|--------|--------|-------|---------|------------|------|--------|
+| BAC | 285 | $58.03 | $53.99 | −6.96% | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) | ⛔ CRITICAL: $0.02 above −7% cut |
+| JPM | 56 | $352.00 | $334.40 | −5.00% | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | ⚠️ Watch |
+| HON | 79 | $211.95 | $213.80 | +0.87% | 10% GTC 8303e452 (HWM $215.03, stop $193.53) | HOLD ✓ |
+| TSM | 23 | $398.76 | $462.40 | +15.96% | 7% GTC b372a638 (HWM $461.87, stop $429.54) | HOLD ✓ |
+
+### Market Context
+- WTI / Brent: WTI ~$99, Brent ~$101.09 (elevated; OPEC+ supply discipline)
+- S&P 500 futures: Positive premarket gap; all three indices indicated higher
+- VIX: ~27.82 (elevated — market apprehension persists)
+- Today's catalysts:
+  - **NFP Jobs Report 8:30 AM ET** — consensus ~84–90K (vs prior 162K in Aug); a miss → rate-cut hopes → yields down → financials relief; a beat → yields up → financials pressure → BAC cut risk
+  - Energy sector momentum: Oil near multi-month highs; energy sector +39.4% YTD (top sector)
+  - Q4 earnings season begins next week; JPM reports Oct 13
+- Earnings before open: No major BAC/JPM/HON/TSM earnings today
+- Economic calendar: NFP (8:30 ET), Unemployment Rate (8:30 ET)
+- Sector momentum YTD: Energy +39.4% > Tech +32.1% > Industrials +20.6% >> Financials ~+4%
+- 10-yr yield: Elevated (>4.5% gate active — no new P/E >40 growth names)
+
+### Holdings News
+- **TSM:** BofA $590 PT (Buy); Arizona facility revenue +145% YoY; AI chip demand thesis intact; strong
+- **JPM:** Ex-div Oct 6 ($1.65/sh); Q3 earnings Oct 13; NIM expansion thesis intact; rate headwind
+- **BAC:** No company-specific catalyst; sector pressure; −6.96% (entry $58.03, cut at $53.97, current $53.99 = $0.02 buffer)
+- **HON:** JPM OW upgrade Jan ($255 PT); Quantinuum IPO catalyst; industrials sector momentum
+
+### Trade Ideas
+1. **XOM (Exxon Mobil) — Energy entry:** Oil ~$101 Brent; energy #1 sector YTD +39.4%. XOM P/E ~14 (value; yield gate N/A). Entry $135–138 on post-NFP stability, stop 10% below (~$123), target $165 (R:R ~2.3:1). Catalyst: oil supply discipline + energy sector momentum. Requires: NFP stable, BAC/JPM not cutting, market not in risk-off.
+2. **CVX (Chevron) — Energy alt:** Similar to XOM; strong dividend; diversified exposure. Entry $165–168, stop $150, target $200 (R:R ~2:1).
+3. **TSM hold/no add:** Already +15.96%; 7% stop protecting gains; BofA $590 PT. No add (would breach 20% position cap from current $10.6K). Thesis intact; let it run.
+
+### Risk Factors
+- **BAC CRITICAL (EXTREME):** $0.02 above mandatory −7% cut ($53.97). NFP day vol could trigger cut on opening print. GTC stop 425ccf1c backstop at $51.94.
+- **NFP miss + yield spike (HIGH):** If jobs print >90K → 10-yr yield spikes → financials under pressure → BAC/JPM both at risk; JPM ex-div Oct 6 = limited downside cushion from div.
+- **Financials sector exit rule (MEDIUM):** BAC + JPM = 2 financials positions. If BAC cuts (= 1 failed trade) + JPM also cuts = 2 consecutive failed financials trades → must exit all financials. JPM at −5.00%, stop at $319.05.
+- **VIX 27.82 (MEDIUM):** Elevated. Market unease; don't add into high volatility unless thesis is crisp.
+- **FOMC Oct 26–28 (LOW-MEDIUM):** Entry gate closes ~Oct 24 (2 sessions before). Window for new entries = today through ~Oct 23.
+- **Oil reversal (LOW):** Energy entry only valid if oil holds $97+. A sudden demand shock could reverse energy trade.
+
+### Decision: **HOLD — BAC CRITICAL WATCH + CONDITIONAL ENERGY ENTRY POST-NFP**
+- Priority 1: BAC at $53.99 — CRITICAL ($0.02 from mandatory cut). Open below $53.97 = immediate manual sell 285 shares. API writes blocked; manual execution required.
+- Priority 2: Await NFP at 8:30 ET. Evaluate market reaction before any new entry.
+- Priority 3: Energy entry (XOM) valid ONLY IF: NFP stable, oil ≥$97, BAC/JPM not cutting, VIX retreating below 25.
+- Default: HOLD. 0/3 trades used this week. Patience > activity.
+
+_Sources: Alpaca API (live positions + orders), WebSearch (FXStreet NFP preview, Investing.com, Barchart sector data, Yahoo Finance TSM/HON news, historicaloptiondata.com VIX)_
