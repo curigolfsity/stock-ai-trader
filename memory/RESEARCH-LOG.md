@@ -9086,3 +9086,32 @@ _Sources: Alpaca API (live positions + orders), WebSearch (FXStreet oil forecast
 
 _Sources: Alpaca API (live positions, fill confirms), WebSearch (no Oct 5 2026 specific market data retrieved)_
 
+
+### Afternoon Research Addendum — 2026-10-05 (Post-Agent)
+
+**Intraday Market Context (agent-retrieved):**
+- S&P 500: 7,758.98 (+0.47%) | Nasdaq: +0.8% | Dow: flat — soft payrolls (Sep +29K) driving tech/AI
+- 10-yr Treasury yield: **5.25%** (elevated — hold-only mode on P/E >40 names remains in force)
+- VIX: not retrieved (prior reference ~19.56 pre-market)
+
+**Oil:** WTI ~$85.15 (−2.14% today) | G7/IEA emergency release: **400M barrels** (largest on record)
+- Stabilizing at $85-90 floor; energy stocks holding despite oil pullback
+- Pre-market threshold was "wait for $92-95 stabilization" → **still not met; CVX/XOM entry deferred**
+
+**JPM ex-div clarification:** Agent data suggests ex-div date may be Oct 5 (today) not Oct 6 — discrepancy vs. pre-market research. We hold JPM either way; dividend captured. No action required.
+
+**TSM price note:** Agent forecast cited ~$442; live Alpaca API shows $484.18 — trust Alpaca live data. 5% GTC stop $460.27 correct.
+
+**New Position Candidate — CVX (top pick):**
+- Fwd P/E 13.1x (well within 5.25% yield environment; earnings yield ~7.7% vs. 5.25% risk-free = positive spread)
+- YTD +25.8% | Q3 earnings Oct 23 (within FOMC gate close ~Oct 22 — earnings are AFTER last valid entry day)
+- $25K suggested → capped at 20% = $19,532 / $190 ≈ **102 shares @ ~$190**
+- 10% trailing stop GTC | Cut at -7% (~$176.70) | Target +20% = $228
+- **DEFERRED** — wait for WTI to stabilize above $88-90 before entry. Re-evaluate pre-market Oct 6.
+
+**Alt:** XOM at ~$151, P/E 12.6x, earnings Oct 30 — similar thesis, Q3 earnings outside FOMC gate window
+
+**ASML / AMD / NVDA:** SKIP — P/E likely >40 at 5.25% yield environment per strategy rule.
+
+_Sources: Research subagent (TheStreet, SEC, Tickflow, StockEvents, eToro, IDN Financials, VanEck, Yahoo Finance)_
+
