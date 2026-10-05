@@ -8989,3 +8989,70 @@ _Sources: Alpaca API (live positions + orders), WebSearch (FXStreet NFP preview,
 **Decisions:** No new trades. No stop adjustments. BAC cut pending manual execution. Energy entry (XOM) deferred — BAC unresolved, portfolio uncertain. TSM approaching +20% tighten: if TSM touches $478.51, new trailing stop at 5% to be placed (cancel b372a638, place new 5% trail).
 
 _Sources: Alpaca API (live positions + orders), WebSearch (BLS NFP release, CNBC, Yahoo Finance markets live, Investing.com TSMC)_
+
+---
+
+## 2026-10-05 — Pre-Market Research (Day 112, Week 23 Day 1, Q4 Day 3 — Monday)
+
+### Account Snapshot
+- **Equity:** $97,308.98 | **Cash:** $35,624.21 (36.6%) | **Deployed:** $61,684.77 (63.4%)
+- **Phase P&L:** −$2,691 (−2.69%) | **Weekly trades:** 0/3 | **Daytrade count:** 0/3
+- **Overnight P&L:** −$26 (vs Friday close $97,335)
+
+### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Status |
+|--------|--------|-------|---------|----------------|------|--------|
+| BAC | 285 | $58.03 | $53.80 | −$1,206 (−**7.29%**) | 10% GTC 425ccf1c (HWM $57.71, stop $51.94) | ⛔ CUT RULE TRIGGERED — API BLOCKED (5th session) |
+| JPM | 56 | $352.00 | $330.68 | −$1,194 (−6.06%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | ⚠️ Watch — 0.94pp above −7% cut ($327.36) |
+| HON | 79 | $211.95 | $213.28 | +$105 (+0.63%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+| TSM | 23 | $398.76 | $477.59 | +$1,813 (+**19.77%**) | 7% GTC b372a638 (HWM $474.79, stop $441.55) | HOLD ✓ — $0.92 from +20% tighten ($478.51) |
+
+### GTC Orders Confirmed Active
+- TSM: 7% trail b372a638 | HWM $474.79 | stop $441.55 ✓
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓
+- BAC: 10% trail 425ccf1c | HWM $57.71 | stop $51.94 ✓ (backstop only — cut rule triggered)
+- JPM: 10% trail f11bd758 | HWM $354.50 | stop $319.05 ✓
+
+### Market Context
+- **WTI crude:** ~$90.65 (−0.50%) — G7 released ~100M barrels emergency reserves; Brent slipped below $102
+- **S&P 500 futures:** Lower premarket; negative sentiment (no specific level retrieved)
+- **VIX:** ~19.56 premarket (+0.98%) — moderate volatility, elevated but below Oct 2 high
+- **Sector momentum YTD:** Energy +39.4% > Tech +32.1% > Industrials +20.6% > Financials ~+4%
+- **10-yr yield:** Still elevated >4.5% — no-new-growth-name gate active
+- **FOMC gate:** Oct 24 (entry window closes ~Oct 22) — 12 trading days remain for new entries
+
+### Earnings & Economic Calendar
+- **Oct 5:** No major pre-open earnings
+- **Oct 6:** JPM ex-div ($1.65/sh) — JPM must NOT close before market open today/tomorrow to capture div
+- **Oct 8:** TSMC September monthly revenue report (3 days out — major catalyst)
+- **Oct 13:** JPM Q3 earnings
+- **Oct 15:** TSM Q3 earnings conference (TSMC quiet period starts TODAY Oct 5 – Oct 14)
+- **Economic:** ISM Services PMI due this week; no CPI/PPI/FOMC this week
+
+### Holdings News
+- **TSM:** TSMC quiet period starts Oct 5; Sep monthly revenue report Oct 8; Q3 earnings Oct 15; Q3 guidance $44.6–45.8B (vs $33.1B Q3 2025 = +35–38% YoY); Aug revenue +53.3% YoY; 18 Buy / 1 Neutral; BofA $590 PT. Thesis very strongly intact. TSM at $477.59 — **$0.92 from +20% tighten ($478.51).** If open ≥$478.51 → cancel b372a638 → place new 5% trail.
+- **JPM:** Ex-div Oct 6 ($1.65/sh tomorrow). Q3 earnings Oct 13. NIM expansion thesis intact; yield compression post-NFP is positive medium term. JPM at −6.06% — GTC stop $319.05 protects. Hold through ex-div.
+- **BAC:** No company catalyst. At −7.29% — CUT RULE TRIGGERED. API writes blocked 5th consecutive session. GTC backstop $51.94 is $1.86 below current price (3.46% buffer). ⛔ **MANUAL CLOSE REQUIRED AT OPEN: Sell 285 BAC at market.**
+- **HON:** Steady. Quantinuum IPO catalyst still developing. Industrials +20.6% YTD. Thesis intact. No action.
+
+### Trade Ideas
+1. **TSM tighten to 5% trail (CONDITIONAL ACTION):** If TSM opens at or above $478.51, immediately cancel GTC b372a638 and place new 5% trailing stop. This is a rule-based tighten — not a new trade.
+2. **XOM energy entry — DEFERRED:** G7 emergency reserve release (100M bbl) pressured WTI to $90.65. Energy momentum weakening near-term. Defer until oil stabilizes above $92–95 and reserve pressure clears. Energy still #1 sector YTD (+39.4%) but near-term headwind.
+3. **Post-BAC-cut new position:** Once BAC is closed, ~$15,333 cash freed. Portfolio drops to 3 positions. Best next candidate: energy name (XOM/CVX) when oil stabilizes, OR semiconductor adjacent (ASML, NVDA) if yield gate clears. No rush — patience > activity.
+
+### Risk Factors
+- **BAC CUT (CRITICAL):** −7.29% — rule mandates immediate close. API writes blocked. Manual execution required at market open.
+- **TSM over-threshold tighten (HIGH):** $0.92 from +20% level. Pre-open move could trigger on open print. API writes still blocked — cannot place tighten order via bot. Monitor manually.
+- **JPM at -6.06% (MEDIUM):** 0.94pp above mandatory cut. Any further decline into open risks -7% trigger. Ex-div Oct 6 provides $1.65/sh value anchor.
+- **Oil drop (MEDIUM):** G7 reserve release pressuring WTI/Brent. Energy entry (XOM) deferred. If oil drops below $88, energy sector thesis weakens significantly.
+- **TSMC quiet period (LOW):** Starts Oct 5. Normal; Sep revenue report Oct 8 = next catalyst.
+- **API writes still blocked (PERSISTENT):** All stop tighten and order modifications require manual execution. Bot cannot trade autonomously this session.
+
+### Decision: **HOLD — BAC MANUAL CLOSE CRITICAL + TSM TIGHTEN WATCH**
+- **Priority 1 (URGENT):** Sell 285 BAC at market open. Manual — API writes blocked. After fill, cancel GTC 425ccf1c.
+- **Priority 2 (CONDITIONAL):** If TSM opens ≥ $478.51 → cancel GTC b372a638 → place new 5% trailing stop at market open.
+- **Priority 3:** JPM hold through ex-div Oct 6 ($1.65/sh). Cut only if closes below $327.36.
+- **Priority 4:** Energy entry (XOM/CVX) deferred — oil under pressure. Re-evaluate post-oil stabilization.
+- **Default:** HOLD. 0/3 trades this week. Patience > activity. FOMC gate 12 sessions away.
+
+_Sources: Alpaca API (live positions + orders), WebSearch (FXStreet oil forecast, convextrade.com WTI, historicaloptiondata.com VIX/futures, TSMC investor calendar, akrostec.com earnings, Barchart sector YTD)_
