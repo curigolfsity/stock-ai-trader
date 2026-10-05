@@ -5427,3 +5427,15 @@ _Market-open Oct 5 (Monday): TSM hit +20.41% — tighten to 5% trail TRIGGERED b
 
 _Midday Oct 5: BAC cut executed @ $54.12 (−6.74% realized, freed ~$15,424). TSM tightened to 5% trail (stop $451.73 → $460.27). API writes unblocked. Equity $97,658 | Cash 52.3% — seeking 1-2 new positions. Research agent dispatched for opportunities._
 
+
+---
+
+### Oct 05 — EOD Snapshot (Day 112, Monday)
+**Portfolio:** $97,749 | **Cash:** $51,048 (52.2%) | **Day P&L:** +$413 (+0.42%) | **Phase P&L:** −$2,251 (−2.25%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $213.91 | −0.04% | +$154 (+0.92%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
+| JPM | 56 | $352.00 | $332.44 | +0.02% | −$1,095 (−5.56%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) |
+| TSM | 23 | $398.76 | $486.38 | +2.88% | +$2,015 (+21.97%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) |
+**Notes:** Day 112 closes at $97,749 (+$413, +0.42%), driven by TSM's continued rally (+2.88%, now +21.97% unrealized at $486.38). Key action today: BAC exited at midday @ $54.12 (−6.74% realized, freed ~$15,424 cash). TSM stop tightened from 7% → 5% trail (GTC 6b2348f0, HWM $487.46, stop $463.09). Portfolio 3 positions, cash-heavy at 52.2% (47.8% deployed — below 75-85% target). JPM ex-div tomorrow Oct 6 ($1.65/sh = +$92.40 expected income). Weekly trades: 0/3 new entries. FOMC gate Oct 24 — entry window open through ~Oct 22.
+
