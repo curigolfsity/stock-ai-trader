@@ -5377,3 +5377,53 @@ _Midday Oct 2 (NFP Friday): NFP +29K miss → risk-on; VIX 16.39; Nasdaq +1.7%. 
 
 _Market-open Oct 5 (Monday): TSM hit +20.41% — tighten to 5% trail TRIGGERED but API write blocked 6th session. BAC −7.06% mandatory cut still blocked. JPM improving to −5.65% (ex-div Oct 6 tomorrow). HON steady. No trades. Equity $97,512 | Phase P&L −$2,488 (−2.49%). ⛔ CRITICAL: Manual BAC close + TSM stop tighten (5% trail) required immediately._
 
+
+---
+
+### Midday Scan — 2026-10-05 (Day 112, Week 23 Day 1, Q4 Day 3 — Monday)
+
+- **Account:** Equity $97,658.28 | Cash $51,048.41 (52.3%) | Deployed $46,609.87 (47.7%) | Phase P&L: −$2,342 (−2.34%) | Weekly trades: 0/3
+
+#### Actions Executed
+
+**STEP 3 — BAC CUT (EXECUTED):**
+- BAC at −6.74% midday (was −7.06% at open; rule triggered across 6+ sessions)
+- Thesis broken: persistent underperformance, no catalyst, traded at/above −7% cut line repeatedly
+- Canceled GTC stop 425ccf1c (BAC backstop) → placed market sell 285 shares
+- **FILLED:** 285 BAC @ $54.12 | Realized P&L: −$1,114.79 (−6.74%) | 16:03 UTC
+- Cash freed: ~$15,424
+
+**STEP 4 — TSM TIGHTEN (EXECUTED):**
+- TSM at +21.42% ($484.18) — above +20% tighten threshold ($478.51)
+- Canceled 7% GTC b372a638 (HWM $485.73, stop $451.73)
+- **NEW 5% GTC placed:** Order 6b2348f0 | HWM $484.50 | Stop $460.27 | Expires 2026-12-31
+- Stop improvement: $451.73 → $460.27 (+$8.54 per share, +$196.42 total)
+
+#### Live Positions (Post-Action)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| JPM | 56 | $352.00 | $332.42 | −$1,096 (−5.56%) | +0.01% | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | HOLD — ex-div Oct 6 ($1.65/sh) |
+| HON | 79 | $211.95 | $213.40 | +$114 (+0.68%) | −0.28% | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+| TSM | 23 | $398.76 | $484.18 | +$1,965 (+21.42%) | +2.41% | 5% GTC 6b2348f0 (HWM $484.50, stop $460.27) | HOLD ✓ — stop tightened |
+
+#### GTC Stops — Confirmed ACTIVE
+- TSM: 5% trail 6b2348f0 | HWM $484.50 | stop $460.27 ✓ (tightened from 7%)
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓
+- JPM: 10% trail f11bd758 | HWM $354.50 | stop $319.05 ✓
+- BAC: CLOSED ✓
+
+#### Step 5 — Thesis Check
+- **JPM:** INTACT — ex-div Oct 6 ($1.65/sh tomorrow); Q3 earnings Oct 13; NIM expansion thesis; −5.56% with $319.05 GTC backstop
+- **HON:** INTACT — industrials momentum; Quantinuum IPO developing; +0.68%
+- **TSM:** STRONGLY INTACT — +21.42%; Oct 8 TSMC monthly revenue; Oct 15 Q3 earnings; 5% stop now active
+
+#### Portfolio Status
+- 3 positions (below 75-85% deployed target; cash 52.3%)
+- Need 1-2 new positions to reach target deployment
+- BAC financials sector: 1 failed trade logged (JPM still open — no 2-consecutive-sector rule triggered)
+- FOMC gate: Oct 24 (entry window open through ~Oct 22)
+- Weekly trades: 0/3 used
+- 10-yr yield >4.5%: hold-only on P/E >40 growth names
+
+_Midday Oct 5: BAC cut executed @ $54.12 (−6.74% realized, freed ~$15,424). TSM tightened to 5% trail (stop $451.73 → $460.27). API writes unblocked. Equity $97,658 | Cash 52.3% — seeking 1-2 new positions. Research agent dispatched for opportunities._
+

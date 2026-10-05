@@ -9056,3 +9056,33 @@ _Sources: Alpaca API (live positions + orders), WebSearch (BLS NFP release, CNBC
 - **Default:** HOLD. 0/3 trades this week. Patience > activity. FOMC gate 12 sessions away.
 
 _Sources: Alpaca API (live positions + orders), WebSearch (FXStreet oil forecast, convextrade.com WTI, historicaloptiondata.com VIX/futures, TSMC investor calendar, akrostec.com earnings, Barchart sector YTD)_
+
+### Midday Addendum — 2026-10-05 (16:03 UTC)
+
+**API writes unblocked** — actions previously blocked for 6+ sessions executed:
+
+**TRADES EXECUTED:**
+1. **BAC CLOSED** — 285 shares @ $54.12 | Realized P&L: −$1,114.79 (−6.74%)
+   - Rule: Cut loser / thesis broken (persistent at/above −7% cut line across 6+ sessions)
+   - Canceled GTC stop 425ccf1c; filled 16:03 UTC via market order 2e8c6612
+   - Freed ~$15,424 cash
+
+2. **TSM STOP TIGHTENED** — 5% trail placed (rule: +20% tighten triggered)
+   - Canceled 7% GTC b372a638 (HWM $485.73, stop $451.73)
+   - NEW 5% GTC: order 6b2348f0 | HWM $484.50 | stop $460.27 | expires 2026-12-31
+   - Stop improvement: +$8.54/share (+$196.42 total protection)
+
+**POST-ACTION STATE:**
+- Account: $97,658.28 | Cash $51,048.41 (52.3%) | 3 positions (47.7% deployed)
+- TSM: +21.42% | 5% GTC ✓ | Oct 8 revenue report + Oct 15 earnings upcoming
+- JPM: −5.56% | 10% GTC ✓ | Ex-div $1.65/sh tomorrow (Oct 6)
+- HON: +0.68% | 10% GTC ✓ | Steady
+
+**PORTFOLIO GAP:** Cash at 52.3% — below 75-85% deployed target. Need 1-2 new positions (~$26-37K).
+- FOMC gate open until ~Oct 22 (12 sessions)
+- 10-yr yield >4.5%: no P/E >40 growth names
+- Energy (XOM/CVX): near-term oil headwind from G7 reserve release (~$89-91 WTI); defer until stabilization above $92
+- Semicond/industrial alternatives: under evaluation for next pre-market research
+
+_Sources: Alpaca API (live positions, fill confirms), WebSearch (no Oct 5 2026 specific market data retrieved)_
+
