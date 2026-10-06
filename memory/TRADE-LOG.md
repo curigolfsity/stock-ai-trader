@@ -5439,3 +5439,34 @@ _Midday Oct 5: BAC cut executed @ $54.12 (−6.74% realized, freed ~$15,424). TS
 | TSM | 23 | $398.76 | $486.38 | +2.88% | +$2,015 (+21.97%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) |
 **Notes:** Day 112 closes at $97,749 (+$413, +0.42%), driven by TSM's continued rally (+2.88%, now +21.97% unrealized at $486.38). Key action today: BAC exited at midday @ $54.12 (−6.74% realized, freed ~$15,424 cash). TSM stop tightened from 7% → 5% trail (GTC 6b2348f0, HWM $487.46, stop $463.09). Portfolio 3 positions, cash-heavy at 52.2% (47.8% deployed — below 75-85% target). JPM ex-div tomorrow Oct 6 ($1.65/sh = +$92.40 expected income). Weekly trades: 0/3 new entries. FOMC gate Oct 24 — entry window open through ~Oct 22.
 
+
+---
+
+### Market-Open — 2026-10-06 (Day 113, Week 23 Day 2, Q4 Day 4 — Tuesday)
+
+- **Account:** Equity $97,818.70 | Cash $51,048.08 (52.2%) | Deployed $46,770.62 (47.8%) | Phase P&L: −$2,181 (−2.18%) | Weekly trades: 0/3
+- **Day P&L:** +$67 (+0.07%) vs prior equity $97,751.82
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Status |
+|--------|--------|-------|---------|----------------|------|--------|
+| HON | 79 | $211.95 | $214.98 | +$239 (+1.43%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+| JPM | 56 | $352.00 | $332.61 | −$1,086 (−5.51%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | EX-DIV TODAY +$92.40 — HOLD ✓ |
+| TSM | 23 | $398.76 | $485.36 | +$1,992 (+21.72%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) | HOLD ✓ |
+
+#### GTC Stops — All Confirmed ACTIVE
+- TSM: 5% trail 6b2348f0 | HWM $487.46 | stop $463.09 ✓
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓
+- JPM: 10% trail f11bd758 | HWM $354.50 | stop $319.05 ✓
+
+#### STEP 3 — Rule Checks
+- **HON +1.43%:** Steady. HOLD.
+- **JPM −5.51%:** Cut threshold −7% = $327.36; current $332.61 — 1.49pp above threshold. Ex-div today ($1.65/sh = $92.40 income; open mechanically lower by ~$1.65). HOLD.
+- **TSM +21.72%:** 5% stop active (tightened Oct 5). No new HWM today (current $485.36 < HWM $487.46). HOLD.
+- **CVX (candidate):** WTI conflicting pre-market data ($88.41–$90.38); Oct-6-specific source shows ~$88.41 — below $89 trigger. Patience > activity → DEFER.
+
+#### Actions
+- **No trades executed.** CVX trigger (WTI ≥ $89 at market open) not confirmed; borderline $88.4 data triggered HOLD default.
+- Re-evaluate CVX pre-market Oct 7 — check WTI overnight trend.
+- Weekly trades: 0/3 used. FOMC gate entry window open through ~Oct 22 (11 sessions remain).
+
