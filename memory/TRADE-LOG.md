@@ -5470,3 +5470,15 @@ _Midday Oct 5: BAC cut executed @ $54.12 (−6.74% realized, freed ~$15,424). TS
 - Re-evaluate CVX pre-market Oct 7 — check WTI overnight trend.
 - Weekly trades: 0/3 used. FOMC gate entry window open through ~Oct 22 (11 sessions remain).
 
+
+
+---
+
+### Oct 06 — EOD Snapshot (Day 113, Tuesday)
+**Portfolio:** $97,511 | **Cash:** $51,048 (52.3%) | **Day P&L:** −$241 (−0.25%) | **Phase P&L:** −$2,489 (−2.49%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $212.15 | −0.93% | +$16 (+0.09%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
+| JPM | 56 | $352.00 | $331.53 | −0.26%* | −$1,147 (−5.82%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) |
+| TSM | 23 | $398.76 | $484.25 | −0.32% | +$1,966 (+21.44%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) |
+**Notes:** Mild red day (−$240.73, −0.25%). No trades executed; 0/3 weekly used. JPM went ex-div today ($1.65/sh × 56 = $92.40 income, dividend settles T+1). TSM remains the anchor at +21.44% unrealized — stop active at $463.09 (5% GTC). All three positions held steady; WTI still borderline (~$88.4) for CVX trigger — re-evaluate pre-market Oct 7. Cash-heavy at 52.3%; FOMC entry window open through ~Oct 22. *JPM price decline expected on ex-div day.
