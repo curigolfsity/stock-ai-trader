@@ -9115,3 +9115,90 @@ _Sources: Alpaca API (live positions, fill confirms), WebSearch (no Oct 5 2026 s
 
 _Sources: Research subagent (TheStreet, SEC, Tickflow, StockEvents, eToro, IDN Financials, VanEck, Yahoo Finance)_
 
+
+
+---
+
+## 2026-10-06 — Pre-market Research (Day 113, Week 23 Day 2, Q4 Day 4 — Tuesday)
+
+### Account Snapshot
+- **Equity:** $97,724.85 | **Cash:** $51,048.08 (52.2%) | **Deployed:** $46,676.77 (47.8%)
+- **Buying Power:** $148,772.93 | **Phase P&L:** −$2,275 (−2.28%)
+- **Daytrade count:** 0 (PDT limit 3) | **Weekly trades:** 0/3
+
+### Live Positions
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | Stop | Status |
+|--------|--------|-------|---------|----------------|------|--------|
+| HON | 79 | $211.95 | $214.09 | +$169 (+1.01%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+| JPM | 56 | $352.00 | $332.59 | −$1,087 (−5.52%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | EX-DIV TODAY +$92.40 ✓ |
+| TSM | 23 | $398.76 | $484.30 | +$1,967 (+21.45%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) | HOLD ✓ — Sep revenue Oct 8 |
+
+### GTC Stops — All Confirmed ACTIVE
+- TSM: 5% trail 6b2348f0 | HWM $487.46 | stop $463.09 ✓
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓
+- JPM: 10% trail f11bd758 | HWM $354.50 | stop $319.05 ✓
+
+### Market Context
+- **WTI crude:** ~$90.57 (recovering from $85.15 low; U.S.-Iran tensions providing geopolitical floor)
+- **Brent crude:** ~$98.90 (approaching $100; Iran standoff pushing premium)
+- **S&P 500 futures:** ~+0.35% (~7,727); prior close ~7,759
+- **Nasdaq futures:** ~+0.69% (~29,360)
+- **VIX:** ~19-20 (elevated; geopolitical risk premium)
+- **10-yr Treasury yield:** ~5.25% (hold-only mode on P/E >40 growth names in force)
+- **JPM ex-dividend today:** $1.65/share × 56 = +$92.40 income (payable Oct 31; stock opens ~$1.65 lower mechanically)
+
+### Economic Calendar / Events Today
+- No major U.S. economic releases (NFP was Oct 2)
+- **TSMC (TSM) September revenue report: Oct 8** (2 sessions away — key catalyst watch)
+- **TSMC Q3 earnings: Oct 15** (9 sessions away)
+- **JPM Q3 earnings: Oct 13** (5 sessions away) — significant: thesis anchor for current position
+- **CVX Q3 earnings: Oct 23** (within FOMC gate — entry needed before ~Oct 22 to qualify)
+- **FOMC decision: Oct 24** — entry window closes ~Oct 22 (11 sessions remain)
+
+### Sector Momentum YTD
+1. Energy: +39.4% (top — geopolitical + commodity cycle)
+2. Technology: +32.1% (AI/semi driven; yield gate suppresses new entries)
+3. Industrials: elevated (HON proxy)
+4. Financials: +6.15% (weakest — JPM drag confirmed)
+
+### Trade Ideas
+
+**1. CVX (Chevron) — TOP CANDIDATE [CONDITIONAL BUY]**
+- Catalyst: Energy #1 sector YTD (+39.4%); WTI recovering to $90+ on Iran tensions; Brent near $100
+- P/E ~13.1x (earnings yield ~7.7% vs. 5.25% risk-free = +2.45% positive spread — passes yield gate)
+- YTD +25.8%; Q3 earnings Oct 23 (FOMC gate window — must enter before Oct 22)
+- Entry: ~$190-195 | 10% GTC stop | Cut at -7% (~$177) | Target +20% = $228-234
+- Size: 20% of $97,725 = $19,545 → ~102 shares @ $191
+- **Trigger:** Oil WTI holding above $89-90 at market open → BUY. Below $87 → defer.
+- Conviction: HIGH (sector momentum + oil recovery + earnings catalyst + yield-gate compliant)
+
+**2. XOM (ExxonMobil) — ALTERNATE [WATCH]**
+- Same energy thesis; P/E ~12.6x; Q3 earnings Oct 30 (outside FOMC gate)
+- Entry: ~$150-155 | Target +20% | 10% GTC stop
+- Prefer CVX (earnings within gate window = more upside catalyst leverage)
+
+**3. ASML / NVDA / AMD — SKIP**
+- P/E >40; 5.25% yield hold-only gate remains in force
+
+### Rule Checks
+- **TSM +21.45%:** 5% stop active (tightened yesterday). No new action — rule already executed.
+- **JPM −5.52%:** 1.48pp above −7% cut trigger. Ex-div today ($1.65/sh) is value anchor. Q3 earnings Oct 13 (thesis check in 5 sessions). Stop $319.05 GTC backstop intact. HOLD.
+- **HON +1.01%:** Steady. HOLD.
+- **Deployment gap:** 47.8% deployed vs. 75-85% target → need ~$27-37K new positions. CVX entry addresses this.
+- **Financials sector:** 1 failed trade (BAC). JPM still open. No 2-consecutive-sector rule triggered.
+
+### Risk Factors
+1. **Iran-U.S. conflict escalation (HIGH):** If ceasefire news breaks → oil could drop sharply, reversing CVX thesis. Monitor oil pre-open.
+2. **JPM ex-div mechanical drop (MEDIUM):** Expect ~$1.65 lower open (~$330.90); don't mistake for stop trigger
+3. **TSM Sep revenue Oct 8 (MEDIUM):** Potential +/− 3-5% move. 5% stop at $463.09 holds vs. current ~$484. If revenue disappoints, stop is backstop.
+4. **10-yr yield 5.25% (PERSISTENT):** Blocks all P/E >40 growth entries. Will not change near-term.
+5. **Geopolitical tail risk (LOW-MEDIUM):** Broader escalation could spike VIX, pressure all equities.
+
+### Decision: **CONDITIONAL BUY CVX / HOLD default**
+- **Action 1 (conditional):** If WTI opens above $89 → BUY ~102 shares CVX @ market open. Place 10% trailing GTC stop immediately after fill. This brings deployment to ~67% (within range).
+- **Action 2 (default):** If WTI below $87 → HOLD. Re-evaluate pre-market Oct 7.
+- **HON / JPM / TSM:** HOLD. No stops to adjust.
+- **Priority:** CVX entry is time-sensitive — FOMC gate closes ~Oct 22 (11 sessions). Delay costs conviction window.
+- **Default HOLD applies** if any hesitation — patience > activity.
+
+_Sources: Alpaca API (live account/positions/orders), WebSearch (WikiPedia oil chronology 2026, OilPriceAPI.com, historicaloptiondata.com, SEC TSMC 6-K filings, stockevents.app JPM dividends, jpmorganchase.com IR, tapeboard.com sector data, barchart.com sector YTD)_
