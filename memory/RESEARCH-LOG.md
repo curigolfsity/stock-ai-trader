@@ -9202,3 +9202,20 @@ _Sources: Research subagent (TheStreet, SEC, Tickflow, StockEvents, eToro, IDN F
 - **Default HOLD applies** if any hesitation — patience > activity.
 
 _Sources: Alpaca API (live account/positions/orders), WebSearch (WikiPedia oil chronology 2026, OilPriceAPI.com, historicaloptiondata.com, SEC TSMC 6-K filings, stockevents.app JPM dividends, jpmorganchase.com IR, tapeboard.com sector data, barchart.com sector YTD)_
+
+### Midday Addendum — Oct 06
+
+**HON intraday -1.55% ($214.98 → $211.645):**
+- No specific Oct 6 catalyst found. Broad industrials/sector rotation.
+- Last notable HON news: Deutsche Bank industrials summit (Aug 11) — guidance seen as cautious but priced in.
+- Thesis intact: Quantinuum IPO developing, earnings Oct 26. Stop at $194.52. HOLD.
+
+**WTI Crude ~$85.15 (intraday, -2.14%):**
+- Below $87 threshold → CVX entry deferred per plan. Re-evaluate pre-market Oct 7.
+- Geopolitical note: Trump threatening Iran action if Strait of Hormuz not reopened by Tuesday (Oct 7). Could be oil supply catalyst either way — watch overnight.
+- CVX still top candidate if WTI recovers above $89. FOMC gate entry window: 10 sessions remain.
+
+**Portfolio midday status:**
+- HON: −0.14% | JPM: −5.68% (ex-div, thesis intact) | TSM: +21.33% (5% stop active)
+- No trades. No cuts. No stop changes. All GTC stops confirmed active.
+- Cash: ~52.2% deployed (below 75-85% target). CVX remains priority entry.
