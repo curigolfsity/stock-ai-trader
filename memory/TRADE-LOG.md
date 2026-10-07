@@ -5554,3 +5554,13 @@ _Market-open Oct 7 (pre-open): JPM crossed −7% cut threshold (now −7.13%) �
 - 3 positions — still below 75-85% deployed target; opportunity for 1 more position
 
 _Market-open Oct 7 RESOLVED: CVX bought 100sh @ $209.628 (10% GTC stop f5c51b1f active). JPM cut executed @ $326.499 (−7.24% realized). API write block cleared after market open (needed cancel-then-sell for JPM). Equity $96,461 | Cash 50.1% | 3 positions._
+
+#### Midday Scan — 2026-10-07 (~18:00 UTC)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Status |
+|--------|--------|-------|---------|----------------|------|--------|
+| CVX | 100 | $209.628 | $205.20 | −$443 (−2.11%) | 10% GTC f5c51b1f (HWM $206.67, stop $186.00) | HOLD — WTI >$100 thesis intact |
+| HON | 79 | $211.95 | $208.77 | −$251 (−1.50%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD — M&A catalyst intact |
+| TSM | 23 | $398.76 | $472.47 | +$1,695 (+18.49%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) | HOLD — TSMC revenue report due |
+
+**Actions:** None. No positions at −7%. TSM stop already tightened to 5% (Oct 5). No tightening needed. All theses intact.
+**Cash:** ~$48,369 (50.1%) | **Deployed:** ~$47,880 (49.7%) | **Weekly trades:** 1/3 (CVX buy this morning)

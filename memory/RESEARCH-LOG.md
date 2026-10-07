@@ -9289,3 +9289,16 @@ _Sources: Alpaca API (live account/positions/orders), WebSearch (WikiPedia oil c
 - Default HOLD if WTI reverses below $87 pre-open
 
 _Sources: Alpaca API (live), WebSearch (tradingeconomics.com, akrostec.com, barchart.com, tapeboard.com, hudson-labs.com)_
+
+### Midday Addendum — 2026-10-07 (~18:00 UTC)
+**Thesis Check (all positions):**
+- **CVX:** Thesis INTACT. WTI surged to >$100/bbl (Brent ~$107) — geopolitical tailwind (Strait of Hormuz supply concerns). CVX at $205.20 (−2.11% entry), normal lag vs WTI move. Stop $186.00 (10% GTC). No action.
+- **TSM:** Thesis INTACT. TSMC Sept revenue report may be releasing today or tomorrow (Oct 8). Aug revenue was +53% YoY, AI demand intact. Price $472.47 (−2.04% today), well above 5% GTC stop $463.09 (HWM $487.46). No action.
+- **HON:** Thesis INTACT. M&A catalyst active: £1.8B Johnson Matthey Catalyst deal announced. Further spinoffs planned 2026. Restructuring story constructive. Price $208.77 (−1.50% entry). Stop $194.52 (10% GTC). No action.
+
+**Rule Checks:**
+- No position at ≤ −7% (CVX −2.11%, HON −1.50%, TSM +18.49%). No cuts.
+- TSM already at 5% trail (tightened Oct 5 at +21.72%). No re-tightening needed (can't move stop down).
+- CVX and HON below +15% threshold. No stop tightening needed.
+
+**Actions:** None. HOLD all three positions.
