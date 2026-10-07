@@ -9219,3 +9219,73 @@ _Sources: Alpaca API (live account/positions/orders), WebSearch (WikiPedia oil c
 - HON: −0.14% | JPM: −5.68% (ex-div, thesis intact) | TSM: +21.33% (5% stop active)
 - No trades. No cuts. No stop changes. All GTC stops confirmed active.
 - Cash: ~52.2% deployed (below 75-85% target). CVX remains priority entry.
+
+
+---
+
+## 2026-10-07 — Pre-Market Research (Day 114, Week 23 Day 3, Q4 Day 5 — Wednesday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $97,320.53 |
+| Cash | $51,048.08 (52.5%) |
+| Deployed | $46,272.45 (47.5%) |
+| Phase P&L | −$2,679 (−2.68%) |
+| Daytrades (rolling 5d) | <3 |
+| Weekly trades used | 0/3 |
+
+### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Status |
+|--------|--------|-------|---------|----------------|------|--------|
+| HON | 79 | $211.95 | $212.66 | +$56 (+0.34%) | 10% trail 8303e452 HWM $216.13 stop $194.52 | HOLD ✓ |
+| JPM | 56 | $352.00 | $331.05 | −$1,173 (−5.95%) | 10% trail f11bd758 HWM $354.50 stop $319.05 | HOLD — cut at $327.36 (−7%) |
+| TSM | 23 | $398.76 | $475.37 | +$1,762 (+19.21%) | 5% trail 6b2348f0 HWM $487.46 stop $463.09 | HOLD — TSMC Sept rev Oct 8 |
+
+### Market Context
+- **WTI crude:** $90.09 (+0.65%) — ✅ ABOVE $89 CVX trigger
+- **Brent crude:** $101.24 (+0.65%)
+- **SPX futures:** +0.42% (~7,859)
+- **VIX:** 15.31 (−1.35%) — low volatility, risk-on
+- **FOMC:** Minutes release today (afternoon); next meeting Oct 24 — entry window open through ~Oct 22 (10 sessions remain)
+- **Earnings today:** None before open; LEVI, APLD and minor names after close
+- **Economic releases today:** EIA crude oil inventories; Consumer Credit (August)
+- **Sector YTD (as of Oct 1):** Energy +37.5% | Tech +27.1% | Healthcare +10.3% | Comm Svcs +4.0% | Utilities −12.4%
+
+### Catalyst Watch
+- **TSM:** TSMC September monthly revenue **tomorrow Oct 8** — potential ±3-5% catalyst. Current $475.37, stop $463.09 (2.57% gap). Positive revenue = new HWM, stop rises. Disappointing = could test stop. 5% trail is active protection.
+- **JPM:** Q3 earnings **Oct 13** (6 sessions). Consensus EPS $5.86 / Revenue $50.8B. Cut trigger at $327.36 (4.93% below current). HOLD through earnings.
+- **CVX:** WTI $90.09 → **BUY TRIGGER MET** (>$89). Energy #1 sector YTD +37.5%. FOMC gate: entry window open. P/E ~13.1x — yield-gate OK.
+
+### Trade Ideas
+
+**1. CVX (Chevron) — TOP CANDIDATE [BUY TRIGGER MET ✅]**
+- Catalyst: WTI $90.09 > $89 trigger; Energy sector #1 YTD +37.5%; Q3 earnings Oct 23 (within FOMC gate window)
+- Entry: market open ~$191-195 | Size: ~20% equity = $19,464 → ~100 shares
+- 10% GTC trailing stop immediately after fill
+- Cut at −7% (~$179-182) | Target +20% = $229-234
+- R:R: 2.86:1 — passes entry checklist ✓
+- Rules check: 4 total positions (≤6 ✓) | 1/3 weekly trades (≤3 ✓) | 20% size ✓ | cash $51,048 covers ✓ | P/E 13.1x (yield gate OK ✓) | FOMC window open ✓
+
+**2. XOM (ExxonMobil) — ALTERNATE [WATCH]**
+- Same energy thesis; Q3 earnings Oct 30 (outside immediate FOMC gate)
+- Prefer CVX (earlier earnings = more near-term catalyst leverage)
+
+**3. All P/E >40 growth names — SKIP**
+- 10-yr yield >4.5% hold-only gate remains in force
+
+### Risk Factors
+1. **FOMC minutes (today, afternoon):** Hawkish surprise could spike yields/VIX — risk-off for all entries
+2. **TSMC Sept revenue (Oct 8):** TSM near +19.21%; miss could test $463 stop
+3. **JPM at −5.95%:** Cut trigger $327.36 = 1.05pp buffer; Q3 earnings Oct 13 provides catalyst
+4. **Iran/Middle East:** Ceasefire = oil drop reverses CVX thesis; escalation = oil spike = CVX profits
+5. **Yield 5.25%:** Growth names blocked; no NVDA/AMD/ASML
+
+### Decision: **BUY CVX** (WTI trigger met)
+- WTI $90.09 > $89 threshold confirmed — CVX entry authorized at market open
+- Buy ~100 shares CVX at market open; place 10% GTC trailing stop immediately after fill
+- HON / JPM / TSM: HOLD. No stop adjustments needed.
+- If CVX fills at ~$194: deployment rises to ~67% ($46,272 + $19,400 = $65,672 / $97,320 = 67.5%) — approaching 75-85% target
+- Default HOLD if WTI reverses below $87 pre-open
+
+_Sources: Alpaca API (live), WebSearch (tradingeconomics.com, akrostec.com, barchart.com, tapeboard.com, hudson-labs.com)_
