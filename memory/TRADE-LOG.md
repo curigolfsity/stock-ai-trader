@@ -5482,3 +5482,37 @@ _Midday Oct 5: BAC cut executed @ $54.12 (−6.74% realized, freed ~$15,424). TS
 | JPM | 56 | $352.00 | $331.53 | −0.26%* | −$1,147 (−5.82%) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) |
 | TSM | 23 | $398.76 | $484.25 | −0.32% | +$1,966 (+21.44%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) |
 **Notes:** Mild red day (−$240.73, −0.25%). No trades executed; 0/3 weekly used. JPM went ex-div today ($1.65/sh × 56 = $92.40 income, dividend settles T+1). TSM remains the anchor at +21.44% unrealized — stop active at $463.09 (5% GTC). All three positions held steady; WTI still borderline (~$88.4) for CVX trigger — re-evaluate pre-market Oct 7. Cash-heavy at 52.3%; FOMC entry window open through ~Oct 22. *JPM price decline expected on ex-div day.
+
+
+---
+
+### Market-Open — 2026-10-07 (Day 114, Week 23 Day 3, Q4 Day 5 — Wednesday)
+
+- **Account:** Equity $96,877.68 | Cash $51,048.08 (52.7%) | Deployed $45,829.60 (47.3%) | Phase P&L: −$3,122 (−3.12%) | Weekly trades: 0/3
+- **Day P&L:** −$632 (−0.65%) vs prior equity $97,509
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Status |
+|--------|--------|-------|---------|----------------|------|--------|
+| HON | 79 | $211.95 | $210.82 | −$89 (−0.53%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+| JPM | 56 | $352.00 | $326.90 | −$1,402 (−**7.13%**) | 10% GTC f11bd758 (HWM $354.50, stop $319.05) | ⛔ CUT RULE TRIGGERED — API BLOCKED |
+| TSM | 23 | $398.76 | $472.54 | +$1,694 (+18.50%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) | HOLD ✓ |
+
+#### GTC Stops — All Confirmed ACTIVE
+- TSM: 5% trail 6b2348f0 | HWM $487.46 | stop $463.09 ✓
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓
+- JPM: 10% trail f11bd758 | HWM $354.50 | stop $319.05 ✓ (backstop only — cut rule triggered)
+
+#### STEP 3 — Rule Checks
+- **JPM:** −7.13% ≥ −7% threshold → MANDATORY CUT. Attempts: `bash scripts/alpaca.sh order '{"symbol":"JPM","qty":"56","side":"sell","type":"market","time_in_force":"day"}'` → **403 BLOCKED** and `close JPM` → **403 BLOCKED** (API write gate, same recurring issue).
+- **CVX (BUY):** WTI $90.09 confirmed > $89 trigger; Energy sector #1 YTD +37.5%; FOMC gate open; P/E 13.1× OK; all rules pass → ORDER SUBMITTED order 49b85120, 100 shares, market, day TIF. Awaiting fill at market open (13:30 UTC).
+
+#### Actions
+- **CVX BUY:** Order 49b85120 submitted (100 shares, market, day) — pending fill at 13:30 UTC open.
+- **JPM CUT:** −7.13% TRIGGERED — API write blocked (403). GTC stop f11bd758 ($319.05) active as backstop. Stop tighten NOT needed.
+- **⛔ URGENT MANUAL ACTIONS REQUIRED:**
+  1. Sell 56 JPM at market — rule says cut at −7%; already at −7.13% and declining.
+  2. After JPM fill: cancel GTC f11bd758. JPM GTC backstop at $319.05 may trigger naturally if not acted on.
+  3. After CVX fills: immediately place 10% trailing stop GTC on 100 shares CVX.
+
+_Market-open Oct 7: JPM crossed −7% cut threshold (now −7.13%) — mandatory cut BLOCKED by API writes (403). CVX buy order 49b85120 submitted (100 shares, pending open). HON/TSM steady. Equity $96,878 | Phase P&L −$3,122 (−3.12%). ⛔ CRITICAL: Manual JPM close required. Manual CVX trailing stop required after fill._
