@@ -5564,3 +5564,15 @@ _Market-open Oct 7 RESOLVED: CVX bought 100sh @ $209.628 (10% GTC stop f5c51b1f 
 
 **Actions:** None. No positions at −7%. TSM stop already tightened to 5% (Oct 5). No tightening needed. All theses intact.
 **Cash:** ~$48,369 (50.1%) | **Deployed:** ~$47,880 (49.7%) | **Weekly trades:** 1/3 (CVX buy this morning)
+
+
+---
+
+### Oct 07 — EOD Snapshot (Day 114, Wednesday)
+**Portfolio:** $96,288 | **Cash:** $48,369 (50.2%) | **Day P&L:** −$1,221 (−1.25%) | **Phase P&L:** −$3,712 (−3.71%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $205.57 | −0.97% | −$406 (−1.94%) | 10% GTC f5c51b1f (HWM $206.67, stop $186.00) |
+| HON | 79 | $211.95 | $208.825 | −1.90% | −$247 (−1.47%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
+| TSM | 23 | $398.76 | $472.38 | −2.06% | +$1,693 (+18.46%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) |
+**Notes:** Busy day. JPM cut at −7.24% realized (−$1,428; net ~−$1,336 after $92 dividend). CVX bought 100sh @ $209.628 (WTI >$89 trigger; energy #1 sector YTD; 10% GTC stop placed). Broad market weakness dragged all three positions lower at close. Day P&L −$1,221 (−1.25%) dominated by JPM realized loss. Portfolio at 3 positions, 49.8% deployed — room for 1 more entry. Weekly trades: 1/3. FOMC gate open through ~Oct 22. All GTC stops confirmed active. Pre-market Oct 8: watch WTI trend; re-evaluate 4th position candidate.
