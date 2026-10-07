@@ -5515,4 +5515,42 @@ _Midday Oct 5: BAC cut executed @ $54.12 (−6.74% realized, freed ~$15,424). TS
   2. After JPM fill: cancel GTC f11bd758. JPM GTC backstop at $319.05 may trigger naturally if not acted on.
   3. After CVX fills: immediately place 10% trailing stop GTC on 100 shares CVX.
 
-_Market-open Oct 7: JPM crossed −7% cut threshold (now −7.13%) — mandatory cut BLOCKED by API writes (403). CVX buy order 49b85120 submitted (100 shares, pending open). HON/TSM steady. Equity $96,878 | Phase P&L −$3,122 (−3.12%). ⛔ CRITICAL: Manual JPM close required. Manual CVX trailing stop required after fill._
+_Market-open Oct 7 (pre-open): JPM crossed −7% cut threshold (now −7.13%) — mandatory cut BLOCKED by API writes (403). CVX buy order 49b85120 submitted (100 shares, pending open). HON/TSM steady. Equity $96,878 | Phase P&L −$3,122 (−3.12%). ⛔ CRITICAL: Manual JPM close required. Manual CVX trailing stop required after fill._
+
+#### Post-Open Execution (14:05 UTC — Actions RESOLVED)
+
+**CVX BUY — FILLED:**
+- Order 49b85120 | Filled at market open | 100 shares @ $209.628 | Cost $20,962.80
+- Catalyst: WTI $90.09 > $89 trigger; Energy sector #1 YTD +37.5%; P/E 13.1× (yield gate OK)
+- Thesis: Energy momentum, WTI elevated, Q3 earnings Oct 23
+- Target: +20% = $251.55 | Cut: −7% = $194.95 | R:R: 2.86:1
+
+**CVX 10% GTC Trailing Stop — PLACED:**
+- Order f5c51b1f | Trail 10% | HWM $206.63 | Stop $185.97 | Expires 2027-01-05
+- Tighten to 7% trail at +15% ($241.07); to 5% at +20% ($251.55)
+
+**JPM −7% CUT — EXECUTED:**
+- Cancel GTC f11bd758 → placed market sell 56 shares
+- **FILLED:** 56 JPM @ $326.499 | 14:05:29 UTC | Realized P&L: −$1,428 (−7.24%)
+- Cash freed: ~$18,284 | Dividend income (Oct 6 ex-div): +$92.40 (T+1 settled)
+- Net JPM P&L: ~−$1,336 after dividend
+
+#### Live Positions (Post-Action)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Status |
+|--------|--------|-------|---------|----------------|------|--------|
+| CVX | 100 | $209.628 | $206.40 | −$323 (−1.54%) | 10% GTC f5c51b1f (HWM $206.63, stop $185.97) | HOLD — new position |
+| HON | 79 | $211.95 | $209.78 | −$171 (−1.02%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+| TSM | 23 | $398.76 | $472.89 | +$1,706 (+18.59%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) | HOLD ✓ |
+
+#### GTC Stops — All Confirmed ACTIVE
+- CVX: 10% trail f5c51b1f | HWM $206.63 | stop $185.97 ✓ (new)
+- TSM: 5% trail 6b2348f0 | HWM $487.46 | stop $463.09 ✓
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓
+- JPM: CLOSED ✓ (exit $326.499, −7.24% realized)
+
+#### Portfolio Status (Post-Action)
+- **Equity:** $96,460.95 | **Cash:** $48,369.25 (50.1%) | **Deployed:** $48,091.70 (49.9%)
+- **Phase P&L:** −$3,539 (−3.54%) | **Weekly trades:** 1/3 (CVX buy)
+- 3 positions — still below 75-85% deployed target; opportunity for 1 more position
+
+_Market-open Oct 7 RESOLVED: CVX bought 100sh @ $209.628 (10% GTC stop f5c51b1f active). JPM cut executed @ $326.499 (−7.24% realized). API write block cleared after market open (needed cancel-then-sell for JPM). Equity $96,461 | Cash 50.1% | 3 positions._
