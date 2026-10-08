@@ -9302,3 +9302,68 @@ _Sources: Alpaca API (live), WebSearch (tradingeconomics.com, akrostec.com, barc
 - CVX and HON below +15% threshold. No stop tightening needed.
 
 **Actions:** None. HOLD all three positions.
+
+---
+
+### Pre-Market Research — 2026-10-08 (Day 115, Thursday)
+
+#### Account Snapshot
+- **Equity:** $96,170.70 | **Cash:** $48,368.86 (50.3%) | **Deployed:** $47,801.84 (49.7%)
+- **Buying power:** $144,539.56 (margin) | **Day P&L (pre-open):** −$14.45 (vs last equity $96,185.15)
+- **Daytrade count:** 0 (no intraday round-trips recent)
+- **Weekly trades:** 1/3 (CVX buy Oct 7)
+- **Open positions:** 3 — CVX, HON, TSM
+
+| Ticker | Shares | Entry | Pre-Open | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|----------|----------------|------|--------|
+| CVX | 100 | $209.628 | $207.91 (+1.35% today) | −$172 (−0.82%) | 10% GTC f5c51b1f (HWM $206.67, stop $186.00) | 10.5% ✓ |
+| HON | 79 | $211.95 | $205.86 (−1.08% today) | −$481 (−2.87%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | 5.5% ✓ |
+| TSM | 23 | $398.76 | $467.30 (−1.04% today) | +$1,576 (+17.19%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) | **0.9% ⚠️ CRITICAL** |
+
+#### Market Context
+- **WTI crude:** ~$89–92 (range from pre-open sources; elevated above CVX $89 trigger ✓)
+- **Brent crude:** ~$101–104
+- **SPX futures:** −0.3% to −0.5% (bearish open; rising yields + AI financing concerns cited)
+- **Dow futures:** −0.6% | **Nasdaq futures:** −0.5% | **Russell 2000:** −0.9%
+- **VIX:** ~15.0–15.3 (stable; low volatility regime)
+- **10-yr Treasury:** ~4.7–4.8% (yield gate ACTIVE — P/E >40 growth names blocked)
+- **30-yr mortgage:** 7.49% — yields rising, risk-off pressure building
+
+#### Today's Key Catalysts
+- **TSMC Sept 2026 Revenue (RELEASED ✅):** NT$511.86B / ~$16.07B — +54.6% YoY, −0.6% MoM (seasonal). Q3 total NT$1.49T (+51% YoY), beat consensus NT$1.46T. AI demand intact. BULLISH for TSM — but offset by futures weakness.
+- **PepsiCo earnings (BMO):** Not in portfolio; minor market signal
+- **Jobless claims (8:30 AM ET):** Prior 197K, consensus 200K — main macro catalyst
+- **CPI:** Oct 14 (next week) — yield pressure risk
+- **JPMorgan + bank earnings:** Oct 13
+- **HON earnings:** Oct 22 | **TSM earnings:** Oct 15 | **CVX earnings:** Oct 30
+- **FOMC next meeting:** Oct 28 (entry gate still open; not within 2-session window yet)
+
+#### Position Thesis Checks
+- **TSM ⚠️ CRITICAL STOP:** Current $467.30 vs stop $463.09 = **0.9% buffer**. Futures −0.5% → TSM could gap through stop at open. Revenue beat (+54.6% YoY, Q3 +51% vs consensus) is a positive catalyst but market mood is risk-off. If stop triggers (~$463): +$1,479 realized gain on 23 shares; cash rises ~$10.6K; only 2 positions (~39% deployed).
+- **CVX:** WTI >$89 thesis intact. News: Chevron divesting Hess Midstream + DJ Basin assets, taking $3–4B one-time after-tax loss. Neutral-to-negative near-term headline but strategic; earnings Oct 30. Pre-market +1.35% today.
+- **HON:** −2.87% entry, well above −7% cut. Earnings Oct 22, consensus $2.17 EPS / $5.05B revenue. MS target $250, WF target $231. Thesis intact (automation pure-play post-aerospace spin).
+
+#### Sector Momentum (YTD as of early Oct)
+- Energy: **+37–39%** #1 ✓
+- Technology: **+30–35%** #2 ✓ (AI/semicap heavy)
+- Healthcare: **+10%** #3
+- Consumer Disc: **−8.7%** weakest
+
+#### Trade Ideas
+1. **HOLD TSM** — TSMC revenue beat is the thesis vindication. Stop $463.09 is critically close; if futures lift at open on revenue news, HWM moves up and stop rises with it. Do NOT sell proactively — let stop manage the risk. If stop triggers, realize +$1,479 profit.
+2. **4th Position — Research Candidate (not today):** With 50% deployed and 2 trades remaining this week, a 4th entry would bring deployment toward 75% target. Best candidates: XOM (energy concentration risk vs CVX), healthcare (ABBV or LLY — check P/E vs yield gate), or defense (LMT, RTX — P/E ~15–20×, yield-gate OK).
+3. **No new entries today** — Bearish futures open + TSM stop risk = need to see TSM outcome first before committing more capital.
+
+#### Risk Factors
+1. **TSM stop trigger at open:** 0.9% buffer vs −0.5% futures gap — high probability trigger risk. Would reduce to 2 positions / 39% deployed.
+2. **Rising 10-yr yields (~4.7–4.8%):** Yield gate blocks growth names; market headwind for equities broadly.
+3. **Bearish futures open (SPX −0.3–0.5%):** All three positions could open lower.
+4. **CVX Hess Midstream divestiture news:** $3–4B one-time loss — headline risk if market interprets poorly.
+5. **Jobless claims 8:30 AM ET:** Beat (low claims) = hawkish rate expectations = more yield pressure.
+
+#### Decision: **HOLD**
+- **Primary:** Wait to see TSM outcome at open. Revenue beat is bullish catalyst — may lift stop clear of risk zone.
+- **Secondary:** If TSM stop triggers, research 4th position entry for later this week (still 2/3 weekly trades remaining).
+- **No new trades today.** Patience > activity.
+
+_Sources: Alpaca API (live), WebSearch (CNBC, Reuters, Tribune India, Motley Fool, Strong Buy Analytics, chartrow.com, tradingeconomics.com)_
