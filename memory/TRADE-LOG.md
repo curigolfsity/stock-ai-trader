@@ -5615,3 +5615,14 @@ _Market-open Oct 7 RESOLVED: CVX bought 100sh @ $209.628 (10% GTC stop f5c51b1f 
 - TSM stop trigger risk is high but mechanical — managed by GTC. Patience > activity.
 
 _Midday Oct 8: All positions within rules. CVX +3.08% (WTI momentum). TSM stop critically close (0.2% buffer) — managed by GTC; if triggered, locks in +16.4% profit. HON −3.27% unrealized, thesis intact. No action taken._
+
+---
+
+### Oct 08 — EOD Snapshot (Day 115, Thursday)
+**Portfolio:** $96,512 | **Cash:** $59,025 (61.2%) | **Day P&L:** +$224 (+0.23%) | **Phase P&L:** −$3,488 (−3.49%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $211.83 | +3.26% | +$220 (+1.05%) | 10% GTC f5c51b1f (HWM $212.05, stop $190.85) |
+| HON | 79 | $211.95 | $206.38 | −0.83% | −$440 (−2.63%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
+| TSM | 23 | $398.76 | $463.29 | STOPPED | +$1,484 (+16.18%) REALIZED | 5% GTC 6b2348f0 triggered |
+**Notes:** TSM 5% trailing stop triggered at ~$463.09 (0.2% buffer at midday was too thin; continued softness brought price to trigger). 23 shares exited, realizing +$1,484 (+16.18%). CVX rallied +3.26% on WTI strength, HON slipped −0.83%. Overall equity +$224 (+0.23%). Now at 2 positions, 38.8% deployed — significantly below 75-85% target; room for 2 new entries. Weekly trades: 1/3 (CVX Oct 7). TSM earnings Oct 15 — monitor for re-entry opportunity post-print. FOMC gate open through ~Oct 22. Pre-market Oct 9: research 2 new sector-momentum candidates.
