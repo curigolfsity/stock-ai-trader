@@ -5576,3 +5576,42 @@ _Market-open Oct 7 RESOLVED: CVX bought 100sh @ $209.628 (10% GTC stop f5c51b1f 
 | HON | 79 | $211.95 | $208.825 | −1.90% | −$247 (−1.47%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
 | TSM | 23 | $398.76 | $472.38 | −2.06% | +$1,693 (+18.46%) | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) |
 **Notes:** Busy day. JPM cut at −7.24% realized (−$1,428; net ~−$1,336 after $92 dividend). CVX bought 100sh @ $209.628 (WTI >$89 trigger; energy #1 sector YTD; 10% GTC stop placed). Broad market weakness dragged all three positions lower at close. Day P&L −$1,221 (−1.25%) dominated by JPM realized loss. Portfolio at 3 positions, 49.8% deployed — room for 1 more entry. Weekly trades: 1/3. FOMC gate open through ~Oct 22. All GTC stops confirmed active. Pre-market Oct 8: watch WTI trend; re-evaluate 4th position candidate.
+
+---
+
+### Midday Scan — 2026-10-08 (Day 115, Thursday)
+
+- **Account:** Equity $96,379 | Cash $48,369 (50.2%) | Deployed $48,010 (49.8%) | Phase P&L: −$3,621 (−3.62%) | Weekly trades: 1/3 (CVX buy Oct 7)
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $211.46 | +$183 (+0.87%) | +3.08% | 10% GTC f5c51b1f (HWM $211.79, stop $190.61) | HOLD ✓ |
+| HON | 79 | $211.95 | $205.03 | −$547 (−3.27%) | −1.48% | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+| TSM | 23 | $398.76 | $463.995 | +$1,500 (+16.36%) | −1.74% | 5% GTC 6b2348f0 (HWM $487.46, stop $463.09) ⚠️ | HOLD — stop buffer $0.91 (0.2%) |
+
+#### GTC Stops — Confirmed ACTIVE
+- CVX: 10% trail f5c51b1f | HWM $211.79 | stop $190.61 ✓ (auto-advanced from $185.97; WTI rally today)
+- TSM: 5% trail 6b2348f0 | HWM $487.46 | stop $463.09 ✓ (CRITICAL: 0.2% buffer from current $463.995)
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓
+
+#### STEP 3 — Cut Check
+- **HON −3.27%:** Cut threshold −7% = $197.11. Current $205.03. No trigger. ✓
+- **CVX +0.87%:** No trigger. ✓
+- **TSM +16.36%:** Winner. No cut needed. ✓
+
+#### STEP 4 — Stop Tighten Check
+- **TSM:** Already at 5% trail (tightened Oct 5 when >+20%). Now +16.36% — between thresholds. No further tighten needed. Cannot move stop down. Let GTC manage.
+- **CVX +0.87%:** Below +15% ($241.07). No tighten.
+- **HON −3.27%:** Not a winner. No action.
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — WTI elevated; intraday +3.08% consistent with energy momentum thesis. Hess Midstream divestiture headline is strategic/neutral, earnings Oct 30.
+- **HON:** INTACT — broad market weakness driving −1.48% intraday. Automation pure-play thesis unchanged; earnings Oct 22 (consensus $2.17 EPS). −3.27% unrealized well above −7% cut line.
+- **TSM:** INTACT — TSMC Sept revenue beat (+54.6% YoY, Q3 +51% vs consensus) is fundamental vindication. Intraday −1.74% = broad market pullback, not TSM-specific. Stop $463.09 critically close to current $463.995 (0.2% buffer). Do NOT move stop — let 5% GTC manage. If triggers: +$1,479 realized gain (net +16.2% on position); reduces to 2 positions at ~39% deployed. TSM earnings Oct 15.
+
+#### Actions
+- **No trades executed.** No −7% triggers. No stop tightening needed. No thesis breaks.
+- TSM stop trigger risk is high but mechanical — managed by GTC. Patience > activity.
+
+_Midday Oct 8: All positions within rules. CVX +3.08% (WTI momentum). TSM stop critically close (0.2% buffer) — managed by GTC; if triggered, locks in +16.4% profit. HON −3.27% unrealized, thesis intact. No action taken._
