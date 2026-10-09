@@ -5661,3 +5661,13 @@ _Midday Oct 8: All positions within rules. CVX +3.08% (WTI momentum). TSM stop c
 
 _Midday Oct 9: No action needed. CVX advancing with WTI support (+1.57% unrealized). HON recovering intraday (−1.54% unrealized, thesis intact). All GTC stops active. Research 4th/5th position candidates over weekend for Monday entry._
 
+
+---
+
+### Oct 09 — EOD Snapshot (Day 116, Friday)
+**Portfolio:** $96,668.86 | **Cash:** $59,024.53 (61.1%) | **Day P&L:** +$167.93 (+0.17%) | **Phase P&L:** −$3,331.14 (−3.33%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $211.86 | +0.15% | +$223.20 (+1.07%) | 10% GTC f5c51b1f (HWM $213.72, stop $192.35) |
+| HON | 79 | $211.95 | $208.21 | +0.78% | −$295.46 (−1.77%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
+**Notes:** Week 23 closes with only 2 positions after TSM's 5% trailing stop triggered Thursday (realized +$1,484 / +16.18%). Today both positions moved higher — CVX continued its WTI-supported advance (+1.07% unrealized), HON recovered intraday (+0.78% from prior close, still −1.77% from entry). Day P&L +$167.93 (+0.17%) driven by both positions gaining. Portfolio remains significantly under-deployed at 38.9% vs 75-85% target; cash heavy at 61.1% ($59,025). Weekly trades: 1/3 (CVX buy Oct 7). Phase P&L −$3,331.14 (−3.33%) vs $100,000 starting equity. FOMC gate open through ~Oct 22 (9 sessions remain). All GTC stops confirmed active. Weekend research queued: XOM, LMT/RTX, or AMAT as 4th/5th position candidates for Monday entry — need 2 new positions to reach deployment target before FOMC window closes.
