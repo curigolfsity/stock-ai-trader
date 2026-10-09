@@ -9367,3 +9367,70 @@ _Sources: Alpaca API (live), WebSearch (tradingeconomics.com, akrostec.com, barc
 - **No new trades today.** Patience > activity.
 
 _Sources: Alpaca API (live), WebSearch (CNBC, Reuters, Tribune India, Motley Fool, Strong Buy Analytics, chartrow.com, tradingeconomics.com)_
+
+---
+
+## 2026-10-09 — Pre-market Research (Day 116, Friday)
+
+### Account Snapshot
+- **Equity:** $96,325.41 | **Cash:** $59,024.53 (61.3%) | **Deployed:** $37,300.88 (38.7%)
+- **Buying power:** $340,540.58 (margin) | **Phase P&L:** −$3,675 (−3.68%)
+- **Weekly trades:** 1/3 (CVX buy Oct 7) | **Daytrade count:** 0
+- **Positions:** 2 (CVX, HON) — TSM 5% GTC stop triggered EOD Oct 8, +$1,484 realized (+16.18%)
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Open | Unrealized P&L | Stop | Status |
+|--------|--------|-------|----------|----------------|------|--------|
+| CVX | 100 | $209.628 | $209.70 | +$7 (+0.03%) | 10% GTC f5c51b1f (HWM $212.36, stop $191.12) | HOLD ✓ |
+| HON | 79 | $211.95 | $206.72 | −$413 (−2.47%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+
+**HON note:** Honeywell Aerospace spin-off (HONA) completed June 29, 2026. HON is now Honeywell Technologies — automation pure-play. Position entered Sep 24 (post-spin), thesis applies to new entity. Earnings Oct 22 (consensus $2.17 EPS / $5.05B rev).
+
+### Market Context
+- **WTI crude:** ~$89-92/bbl (Oct 6 actual: $89.79); Iran War supply disruption supporting elevated prices
+- **Brent crude:** ~$100-101/bbl (Oct 6 actual: $100.53)
+- **SPX futures:** Mixed/slight negative — market range-bound with yield pressure
+- **10-yr Treasury yield:** ~5.27-5.32% (multi-decade highs last seen 2002) — **YIELD GATE ACTIVE**
+- **VIX:** ~15-17 (stable, low volatility regime)
+- **Sept jobs report:** 29K (vs 90K consensus) — weak labor; hawkish rate environment continues
+- **Sector momentum YTD:** Energy XLE +37-40% (#1), Technology XLK +30-38% (#2), Utilities/Disc negative
+- **Upcoming:** CPI Oct 14; JPM/bank earnings Oct 13; HON earnings Oct 22; CVX earnings Oct 30; FOMC Oct 28
+
+### CVX Thesis Check
+- WTI >$89 thesis intact. Energy sector #1 YTD. Pre-open flat (+0.03%).
+- No new negative catalysts found. Hess Midstream divestiture headline is strategic/neutral.
+- Stop HWM $212.36, stop $191.12 (9% buffer from $209.70 current). ✓
+
+### HON Thesis Check
+- HON now = Honeywell Technologies (automation/industrial), post-HONA spin June 29.
+- −2.47% unrealized, well above −7% cut line ($197.11 trigger). Thesis intact.
+- Earnings Oct 22 — positive catalyst on horizon. MS target $250, WF target $231.
+- Stop HWM $216.13, stop $194.52 (5.9% buffer from $206.72 current). ✓
+
+### Trade Ideas — 4th/5th Position Research (for Monday Oct 12 entry)
+
+**Deployment gap:** Need ~$18-20K more deployed to reach 75% target (currently 38.7%)
+
+1. **XOM (ExxonMobil):** Energy #1 sector momentum. P/E ~11-13x (yield-gate OK). Q3 earnings late Oct. 52-week surge +54.7%. Risk: energy concentration (already hold CVX); max 2 energy names if prices stay elevated. Entry target ~$120-130; stop 10% below entry. Catalyst: WTI sustained >$89, Q3 earnings beat.
+
+2. **LMT (Lockheed Martin) / RTX (RTX Corp):** Defense — geopolitical tailwinds, low P/E (~15-20x, yield-gate OK), minimal macro sensitivity. FOMC/yield pressure less relevant. Catalyst: defense budget cycle, conflict-driven demand. Needs further research on entry levels.
+
+3. **AMAT (Applied Materials):** Semiconductor equipment — AI buildout beneficiary, P/E ~20-25x (yield-gate OK), XLK #2 YTD momentum. Replaces TSM semi exposure. Q4 earnings mid-Nov. Risk: yields could compress semis further.
+
+**Yield gate reminder:** 10-yr ~5.3% → all P/E >40 names blocked. XOM, LMT/RTX, AMAT all within gate.
+
+### Risk Factors
+1. **10-yr yield ~5.3%** — multi-decade high; equity headwind; growth names fully blocked
+2. **Weak jobs (29K vs 90K)** — slowing economy but sticky inflation = stagflation risk
+3. **FOMC Oct 28** — no entry gate restriction yet (2-session window = Oct 24-28); monitor
+4. **HON earnings Oct 22** — binary catalyst; if miss, could approach −7% cut zone
+5. **CVX earnings Oct 30** — moderate binary risk; energy sector in structural uptrend
+6. **Energy concentration** — adding XOM to CVX increases sector risk; evaluate LMT/RTX as diversifier
+
+### Decision: **HOLD — Research new entries for Monday**
+- TSM stop-out frees ~$10.7K cash. Now 2 positions at 38.7% deployed — significantly underweight vs 75-85% target.
+- **Do NOT enter new positions today (Friday):** Yield environment + weekend gap risk + insufficient research on new tickers.
+- **Weekend task:** Research XOM vs LMT/RTX vs AMAT for 4th/5th position entry Monday Oct 12.
+- **HON and CVX:** Both theses intact, both stops healthy. HOLD.
+
+_Sources: Alpaca API (live), WebSearch (Kalshi, Investrade, Tapeboard, 247WallSt, Barchart, Pluang, SEC EDGAR/Honeywell)_
