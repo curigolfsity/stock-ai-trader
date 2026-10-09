@@ -5626,3 +5626,38 @@ _Midday Oct 8: All positions within rules. CVX +3.08% (WTI momentum). TSM stop c
 | HON | 79 | $211.95 | $206.38 | −0.83% | −$440 (−2.63%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
 | TSM | 23 | $398.76 | $463.29 | STOPPED | +$1,484 (+16.18%) REALIZED | 5% GTC 6b2348f0 triggered |
 **Notes:** TSM 5% trailing stop triggered at ~$463.09 (0.2% buffer at midday was too thin; continued softness brought price to trigger). 23 shares exited, realizing +$1,484 (+16.18%). CVX rallied +3.26% on WTI strength, HON slipped −0.83%. Overall equity +$224 (+0.23%). Now at 2 positions, 38.8% deployed — significantly below 75-85% target; room for 2 new entries. Weekly trades: 1/3 (CVX Oct 7). TSM earnings Oct 15 — monitor for re-entry opportunity post-print. FOMC gate open through ~Oct 22. Pre-market Oct 9: research 2 new sector-momentum candidates.
+
+---
+
+### Midday Scan — 2026-10-09 (Day 116, Friday)
+
+- **Account:** Equity ~$97,778 | Cash $59,025 (60.4%) | Deployed $37,779 (38.6%) | Phase P&L: −$2,222 (−2.22%) | Weekly trades: 1/3 (CVX buy Oct 7)
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $212.92 | +$329 (+1.57%) | +0.65% | 10% GTC f5c51b1f (HWM $213.72, stop $192.35) | HOLD ✓ |
+| HON | 79 | $211.95 | $208.69 | −$258 (−1.54%) | +1.01% | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+
+#### GTC Stops — Confirmed ACTIVE
+- CVX: 10% trail f5c51b1f | HWM $213.72 | stop $192.35 ✓ (advanced from $191.12 as CVX hit new HWM today)
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓
+
+#### STEP 3 — Cut Check
+- **HON −1.54%:** Cut threshold −7% = $197.11. Current $208.69. No trigger. ✓
+- **CVX +1.57%:** No trigger. ✓
+
+#### STEP 4 — Stop Tighten Check
+- **CVX +1.57%:** Below +15% ($241.07). No tighten. ✓
+- **HON −1.54%:** Not a winner. No action. ✓
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — WTI >$89 elevated on Iran supply disruption. CVX +0.65% intraday consistent with energy momentum. Stop advanced to $192.35 (HWM $213.72). CVX earnings Oct 30.
+- **HON:** INTACT — HON +1.01% intraday recovery from yesterday's close. Automation pure-play thesis unchanged. −1.54% unrealized well above −7% cut. Earnings Oct 22.
+
+#### Actions
+- **No trades executed.** No −7% triggers. No stop tightening needed. No thesis breaks.
+- 2 positions, 38.6% deployed — still significantly below 75-85% target. Weekend research for Monday entry candidates (XOM vs LMT/RTX vs AMAT).
+
+_Midday Oct 9: No action needed. CVX advancing with WTI support (+1.57% unrealized). HON recovering intraday (−1.54% unrealized, thesis intact). All GTC stops active. Research 4th/5th position candidates over weekend for Monday entry._
+
