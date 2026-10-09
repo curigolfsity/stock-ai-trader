@@ -1192,3 +1192,66 @@ Rule adherence B (HON stop gap at market-open is a 4th-instance recurring proces
 Rule adherence D (BAC mandatory −7% cut triggered Oct 1; position open and in violation through week end due to API write blocking — technically a systemic infrastructure failure, not a willful violation, but the result is identical to skipping the cut rule; TSM tighten correctly executed at +15%; no other rule violations), risk management C (TSM 7% stop protecting largest phase gain correctly; JPM buffer 4.01% above 3% mandate; BAC in cut-rule violation at −7.15% with only GTC backstop at $51.94; HON healthy; one cut-rule violation is one too many regardless of cause), relative performance C (bot −0.66% vs S&P ~−0.46% = −0.20% gap; slightly negative relative; TSM's +18.50% partially offset by financials drag; no new capital deployed this week). Phase P&L: −$2,633.31 (−2.63%) after 22 weeks.
 
 ---
+
+## Week ending 2026-10-09
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $97,366.69 (Fri Oct 2 close) |
+| Ending portfolio | $96,668.86 (Fri Oct 9 EOD) |
+| Week return | −$697.83 (−0.72%) |
+| S&P 500 week | ~+0.83% (7,722.72 Oct 2 → ~7,787 Oct 9) |
+| Bot vs S&P | ~−1.55% |
+| Trades | 4 (W:1 / L:2 / open:1) |
+| Win rate | 33% (1/3 closed trades) |
+| Best trade | TSM +$1,484 (+16.18%) |
+| Worst trade | JPM −$1,428 (−7.24% gross; −$1,336 net after $92 dividend) |
+| Profit factor | 0.58 ($1,484 / $2,542 gross losses) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| BAC | $58.03 (Sep 22) | ~$54.12 (Oct 5-6) | −$1,114 (−6.74%) | GTC stop 425ccf1c triggered (stop $51.94); cut rule had been active since Oct 1; API write block resolved via stop execution; held 14 days |
+| JPM | $352.00 (Sep 17) | $326.499 (Oct 7) | −$1,428 (−7.24%); net −$1,336 after $92 dividend | −7% cut rule triggered Oct 7 morning (−7.13%); API write block from prior days cleared post-open; same-day execution; held 20 days |
+| TSM | $398.76 (Aug 3) | ~$463.09 (Oct 8) | +$1,484 (+16.18%) | 5% GTC trailing stop 6b2348f0 auto-triggered; HWM $487.46; stop buffer 0.2% at midday Oct 8; held 67 days; phase-best exit since CAT |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CVX | $209.628 (Oct 7) | $211.86 | +$223 (+1.07%) | 10% GTC f5c51b1f (HWM $213.72, stop $192.35) |
+| HON | $211.95 (Sep 24) | $208.21 | −$295 (−1.77%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
+
+### What Worked
+- TSM 5% trailing stop executed automatically at +16.18% (+$1,484) — largest realized gain since CAT; stop system protected the position through TSM's Sept revenue beat (+54.6% YoY); automation worked exactly as designed
+- JPM cut executed same-day once API write block cleared Oct 7 — discipline maintained when execution path became available; net loss reduced to −$1,336 after the $92.40 ex-div dividend captured Oct 6
+- CVX entry Oct 7 cleanly met all gates: WTI >$89 ✓, Energy #1 sector YTD +37.5% ✓, P/E 13.1× (yield-gate OK) ✓, T+0 stop placed (f5c51b1f) ✓; WTI immediately surged toward $100+ on Oct 7 geopolitical tailwind confirming thesis
+- BAC finally resolved — GTC backstop performed its function when manual API writes remained unavailable; position closed before further deterioration
+- HON + CVX both positive Friday Oct 9 — portfolio stabilizing with cleaner book entering Week 24
+
+### What Didn't Work
+- Dual financials sector failure: JPM −$1,428 (−7.24%) + BAC −$1,114 (−6.74%) = −$2,542 gross realized losses in one week; JPM + BAC = 2 consecutive Financials failures → Rule 10 sector exit triggered for Financials
+- API write-blocking (403) recurred for the 2nd consecutive week — BAC cut rule triggered Oct 1 but position held in violation through at least Oct 5-6 due to API gate; same infrastructure failure prevented JPM cut Oct 7 morning until post-open; critical systemic risk with no documented fallback
+- CVX entered with Energy sector Rule 10 previously active (GEV + OXY + XOM = 3 consecutive Energy failures) — distinct WTI geopolitical catalyst invoked as override, but Rule 10 re-entry criteria are not formally documented in strategy
+- Only 38.9% deployed at week end — losing 4 positions (BAC cut, JPM cut, TSM stopped, positions now only CVX+HON) in one week collapsed deployment from 63.7% (Sep 25) to 38.9%; far below 75-85% target
+- Phase P&L at −$3,331 (−3.33%) after 23 weeks — all realized gains from CAT (+$1,900) and TSM (+$1,484) offset by 5 realized losses (GEV, ISRG, ASML, JPM, BAC); cumulative loss widening
+
+### Key Lessons
+- **API write-blocking is the phase's most critical unresolved infrastructure risk:** Two consecutive weeks of cut-rule violation due to 403-blocked write operations; GTC backstops cannot substitute for a timely −7% cut in a fast-moving stock; document a formal fallback (reduce position via cancel-then-sell, or contact broker) and test monthly
+- **Entering financials with dual NIM thesis is a concentration risk — not just position concentration:** JPM + BAC were both rate-correlated; when AI-disruption narrative + 10-yr spike hit the sector, both positions moved together to cut triggers in <10 days; never hold 2 positions with the same thesis driver simultaneously
+- **TSM trailing stop system validated over 67-day hold:** stop ratcheted from 10% → 7% → 5% automatically; locked in +16.18% on entry; even though Thursday's 0.2% buffer was alarmingly thin, the automated system executed perfectly; no manual intervention required or desired
+
+### Adjustments for Next Week
+- **Monday Oct 13 first action:** Verify CVX stop (f5c51b1f) + HON stop (8303e452) ACTIVE at open; CVX buffer check ($192.35 stop vs ~$211.86 = 9.2% ✓); HON buffer check ($194.52 vs ~$208.21 = 6.6% ✓); no cuts needed
+- **Deployment priority (URGENT):** 38.9% deployed vs 75-85% target; need 2-3 new positions; candidates: LMT/RTX (Defense, P/E ~15-20×, yield-gate OK, low macro sensitivity), AMAT (Semis, P/E ~22×, yield-gate OK, AI foundry demand), XOM (Energy, distinct from CVX midstream exposure, WTI elevated — but see Rule 10 below)
+- **Rule 10 — Financials sector exit triggered:** JPM + BAC = 2 consecutive Financials losses; no new Financials positions until (a) Financials re-ranks in top-2 YTD sector momentum AND (b) ≥1 month since BAC close AND (c) fresh catalyst documented
+- **Rule 10 — Energy sector status:** CVX is open and thesis intact (WTI >$89); if CVX closes as a realized loss, Energy = 4 consecutive failures; evaluate non-Energy candidates (LMT, RTX, AMAT, ABBV) as primary 2nd/3rd position targets to avoid over-concentration in Energy
+- **HON earnings Oct 22:** Hold through; binary catalyst; consensus $2.17 EPS / $5.05B rev; thesis intact; if miss → thesis-break exit at next open
+- **CVX earnings Oct 30:** Hold through; energy sector momentum intact
+- **FOMC Oct 28:** Hard block 2 sessions before (Oct 24-25); entry window Oct 13-21 is clean; prioritize 2 new entries in this window
+- **10-yr yield (~5.3%):** P/E >40 gate still blocked; AMAT (~22×), LMT (~17×), RTX (~18×), XOM (~12×) all below threshold and eligible
+
+### Overall Grade: C
+Rule adherence C (BAC finally closed per Rule 10 via GTC stop execution; JPM cut executed same-day once API unblocked — better than last week but still delayed; CVX Energy entry with Rule 10 arguably active — invoked "distinct catalyst" exception without formal criteria; TSM stop automation clean; HON held correctly), risk management B− (TSM +16.18% protected; both remaining stops healthy; BAC + JPM realized losses are large but within system parameters; 38.9% cash is a risk in a rising market), relative performance D (bot −0.72% vs S&P +0.83% = −1.55% gap; 38.9% deployment collapse following 4 position closures in 5 days; phase P&L −$3,331 / −3.33% after 23 weeks).
+
+---

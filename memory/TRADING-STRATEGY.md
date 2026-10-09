@@ -19,7 +19,7 @@ Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 7. Never within 3% of current price; never move a stop down
 8. Max 3 new trades per week
 9. Follow sector momentum
-10. Exit a sector after 2 consecutive failed trades
+10. Exit a sector after 2 consecutive failed trades; re-entry requires: sector ranked #1 or #2 YTD, ≥1 month since last failure in that sector, and a fresh distinct catalyst documented
 11. Patience > activity
 
 ## Entry Checklist
