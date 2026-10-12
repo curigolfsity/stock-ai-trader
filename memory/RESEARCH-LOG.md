@@ -9510,3 +9510,12 @@ _Sources: Alpaca API (live), WebSearch (Kalshi, Investrade, Tapeboard, 247WallSt
 - **CPI Wednesday:** If CPI hot → pause on LMT or reduce size; if cold → full entry both names.
 
 _Sources: Alpaca API (live), WebSearch (Investing.com, Tapeboard, Mitrade, Pluang, Forbes, FXEmpire, OneValor, Benzinga)_
+
+### Afternoon Addendum — 2026-10-12 Midday Scan
+
+**No new research required.** Columbus Day — thin liquidity, no major macro releases. Both theses confirmed intact via live Alpaca data and secondary news scan.
+
+- **CVX:** HWM auto-advanced to $216.67 (intraday high). Stop improved to $195.003. WTI thesis holds — live price action confirms energy support. No downgrade/guidance news found.
+- **HON:** −0.85% unrealized, recovering intraday. No new negative catalysts. Q3 earnings Oct 22 remains the key binary event — will execute position-sizing review ahead of earnings.
+- **Tuesday action plan unchanged:** Enter XOM (~$16-17K) + LMT (sizing to confirm pre-market) to close deployment gap (39% → ~65-70%).
+- **CPI Wednesday Oct 14:** If hot → pause LMT entry; if cold → full entry both names same session.

@@ -5701,3 +5701,39 @@ _Midday Oct 9: No action needed. CVX advancing with WTI support (+1.57% unrealiz
 - Next entry: XOM (~100sh ~$16-17K) + LMT (size TBD) on Tuesday Oct 13 open.
 
 _Market-open Oct 12 (Columbus Day): No trades. CVX +2.08%, HON −1.97%. All GTC stops active. 2 weekly trades remaining. Entering XOM + LMT Tuesday to close deployment gap (39% → ~65-70%)._
+
+---
+
+### Midday Scan — 2026-10-12 (Day 117, Monday)
+
+- **Account:** Equity $97,127.12 | Cash $59,024.53 (60.8%) | Deployed $38,095.46 (39.2%) | Day P&L: +$493.92 (+0.51%) | Phase P&L: −$2,872.88 (−2.87%) | Weekly trades: 1/3 (CVX Oct 7)
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $214.94 | +$531.20 (+2.53%) | +1.40% | 10% GTC f5c51b1f (HWM $216.67→auto-advanced, stop $195.003) | HOLD ✓ |
+| HON | 79 | $211.95 | $210.145 | −$142.60 (−0.85%) | +1.16% | 10% GTC 8303e452 (HWM $216.13, stop $194.517) | HOLD ✓ |
+
+#### GTC Stops — Confirmed ACTIVE
+- CVX: 10% trail f5c51b1f | HWM $216.67 (advanced from $213.72 at open — CVX hit intraday high $216.67) | stop $195.003 ✓ (buffer 9.3% from $214.94)
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.517 ✓ (buffer 7.4% from $210.145)
+
+#### STEP 3 — Cut Check
+- **CVX +2.53%:** No trigger. ✓
+- **HON −0.85%:** Cut threshold −7% = $197.11. Current $210.145. No trigger. ✓
+
+#### STEP 4 — Stop Tighten Check
+- **CVX +2.53%:** Below +15% ($241.07). No tighten. ✓
+- **HON −0.85%:** Not a winner. No action. ✓
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — live price action +2.53% today consistent with WTI elevated (~$90 per morning research). CVX hit intraday HWM $216.67; trailing stop auto-advanced to $195.003 (stronger protection). Columbus Day thin liquidity; no catalyst break. CVX earnings Oct 30.
+- **HON:** INTACT — recovering intraday +1.16%. Automation pure-play thesis unchanged post-HONA spin. No new negative catalysts found. −0.85% unrealized well above −7% cut ($197.11). Earnings Oct 22 binary catalyst remains.
+
+#### Actions
+- **NO TRADES EXECUTED.** Columbus Day hold-only per plan.
+- CVX stop protection improved: HWM advanced $213.72 → $216.67; stop $192.35 → $195.003 (+$2.65 improvement).
+- All GTC stops confirmed active and healthy.
+- 2 positions, 39.2% deployed. Tuesday Oct 13: enter XOM + LMT to reach ~65-70% deployed.
+
+_Midday Oct 12: No action. CVX +2.53% (stop auto-advanced to $195.003; new HWM $216.67). HON −0.85% (thesis intact). Day P&L +$493.92. Enter XOM + LMT Tuesday._
