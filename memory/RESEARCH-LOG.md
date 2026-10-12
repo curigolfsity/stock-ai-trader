@@ -9434,3 +9434,79 @@ _Sources: Alpaca API (live), WebSearch (CNBC, Reuters, Tribune India, Motley Foo
 - **HON and CVX:** Both theses intact, both stops healthy. HOLD.
 
 _Sources: Alpaca API (live), WebSearch (Kalshi, Investrade, Tapeboard, 247WallSt, Barchart, Pluang, SEC EDGAR/Honeywell)_
+
+---
+
+## Pre-Market Research — 2026-10-12 (Day 117, Monday)
+
+### Account Snapshot
+- **Equity:** $96,808.53 | **Cash:** $59,024.53 (61.1%) | **Deployed:** $37,784 (39.0%)
+- **Buying power:** $155,833 (RegT) | **Phase P&L:** −$3,191.47 (−3.19%)
+- **Weekly trades:** 1/3 (CVX Oct 7) | **Daytrade count:** 0
+- **Positions:** 2 (CVX, HON) — 2 GTC trailing stops active
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Open | Unrealized P&L | Stop | Status |
+|--------|--------|-------|----------|----------------|------|--------|
+| CVX | 100 | $209.628 | $213.52 | +$389 (+1.86%) | 10% GTC f5c51b1f (HWM $213.72, stop $192.35) | HOLD ✓ |
+| HON | 79 | $211.95 | $208.00 | −$312 (−1.86%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+
+### Market Context
+- **WTI crude:** ~$90.26/bbl (Brent ~$102-103); volatile — Russia-Ukraine "energy ceasefire" rumor caused Brent to swing $105.63→$102.33 in Asian hours; Iran supply disruption still underlying support
+- **SPX futures:** +0.3% premarket (Nasdaq +0.4%)
+- **VIX:** ~15.4-15.5 (slight uptick; stable low-volatility regime)
+- **10-yr Treasury yield:** ~5.24% (Oct 9 close; likely range 5.2-5.3% today) — **YIELD GATE ACTIVE** (P/E >40 names blocked)
+- **Columbus Day:** Bond market + banks closed; stock market open — expect thin liquidity
+- **No major macro releases today** — CPI Wednesday Oct 14 8:30 ET is next major event
+- **Fed speeches:** Hammack + Waller today (watch for rate commentary)
+- **Earnings BMO today:** None material (FDX after close)
+- **Bank earnings this week:** JPM, WFC, BAC (Fri Oct 17); HON Oct 22; XOM ~Oct 23-30
+- **Sector momentum YTD:** Energy (XLE) ~+40% (#1), Technology (XLK) ~+30-38% (#2); only 2 sectors beating S&P 500 (+13.2% YTD)
+
+### CVX Thesis Check
+- **INTACT.** CVX +1.86% unrealized. WTI still ~$90+ on Iran disruption; energy ceasefire rumor = Brent risk, but WTI less affected. Energy sector #1 YTD. GTC stop HWM $213.72, stop $192.35 (10.0% buffer from $213.52). ✓
+- CVX earnings Oct 30; no new negative catalysts.
+
+### HON Thesis Check
+- **INTACT.** HON −1.86% unrealized ($208), well above −7% cut line ($197.11). Honeywell Technologies (automation pure-play post-HONA spin Jun 29). Earnings Oct 22 = binary catalyst on horizon. Stop HWM $216.13, stop $194.52 (6.5% buffer from $208). ✓
+
+### Trade Ideas — 4th/5th Position Entry (target Tuesday Oct 13)
+**Deployment gap:** ~$33K needed to reach 75% target (~$72K deployed)
+
+1. **XOM (ExxonMobil) — PRIMARY CANDIDATE**
+   - Catalyst: Energy #1 YTD; WTI >$90 sustained; Q3 EPS ~$3.80 est. (earnings ~Oct 23-30)
+   - Current ~$168.50; P/E ~11-13x ✓ yield gate OK
+   - Entry: ~$166-170 (pullback to 10-day MA); stop 10% below (~$150-153); target $190+ (>2:1 R:R)
+   - Risk: Energy concentration (already hold CVX); max 2 energy names OK if WTI >$88 sustained
+   - Size: ~$16-17K (100 shares); within 20% cap rule ✓
+
+2. **LMT (Lockheed Martin) — SECONDARY CANDIDATE**
+   - Catalyst: Defense spending cycle; geopolitical tailwinds (Ukraine/Middle East conflicts); low macro correlation; P/E ~15-18x ✓ yield gate OK
+   - Diversifies away from energy concentration in portfolio
+   - Entry: Need to confirm current price and technicals Tuesday premarket
+   - Stop 10% below entry; target 15-20% above (2:1+ R:R)
+   - Risk: Defense budget uncertainty; needs fresh entry level research
+
+3. **AMAT (Applied Materials) — WATCH**
+   - Catalyst: AI/semiconductor buildout, XLK #2 momentum, services margin expansion
+   - P/E ~20-25x ✓ yield gate OK; Q4 earnings mid-Nov
+   - Yield ~5.3% creates headwind for semis broadly — monitor for better entry
+   - Defer entry pending CPI data Wednesday (semis most yield-sensitive)
+
+### Risk Factors
+1. **Columbus Day thin liquidity** — spreads wider, fills unpredictable; avoid new entries today
+2. **10-yr yield ~5.24%** — elevated; equity headwind; P/E >40 fully blocked
+3. **CPI Wednesday Oct 14** — hot print = yield spike = selloff risk; cold = relief rally
+4. **WTI ceasefire volatility** — energy ceasefire rumor could keep oil choppy; CVX/XOM at risk if WTI breaks below $88
+5. **FOMC Oct 28** — gate activates Oct 24 (2 sessions prior); ~8 sessions remaining for new entries
+6. **HON earnings Oct 22** — binary catalyst; −1.86% unrealized leaves modest buffer; binary risk
+7. **Energy concentration risk** — 2 energy names (CVX + XOM) = 35% sector bet if XOM entered
+
+### Decision: **HOLD today — Enter XOM + LMT on Tuesday Oct 13**
+- **Today (Oct 12): NO NEW TRADES.** Columbus Day = thin liquidity. Oil volatile on ceasefire rumor. Wait for Tuesday open.
+- **Tuesday plan:** Enter XOM (~$16-17K, ~100 shares) + LMT (size TBD after Tuesday research) to bring deployment to ~65-70%.
+- **HON and CVX:** Both theses intact, all GTC stops healthy. HOLD.
+- **Weekly budget:** 2 trades remaining (of 3 weekly max); use both on Tue/Wed if catalysts hold.
+- **CPI Wednesday:** If CPI hot → pause on LMT or reduce size; if cold → full entry both names.
+
+_Sources: Alpaca API (live), WebSearch (Investing.com, Tapeboard, Mitrade, Pluang, Forbes, FXEmpire, OneValor, Benzinga)_
