@@ -5671,3 +5671,33 @@ _Midday Oct 9: No action needed. CVX advancing with WTI support (+1.57% unrealiz
 | CVX | 100 | $209.628 | $211.86 | +0.15% | +$223.20 (+1.07%) | 10% GTC f5c51b1f (HWM $213.72, stop $192.35) |
 | HON | 79 | $211.95 | $208.21 | +0.78% | −$295.46 (−1.77%) | 10% GTC 8303e452 (HWM $216.13, stop $194.52) |
 **Notes:** Week 23 closes with only 2 positions after TSM's 5% trailing stop triggered Thursday (realized +$1,484 / +16.18%). Today both positions moved higher — CVX continued its WTI-supported advance (+1.07% unrealized), HON recovered intraday (+0.78% from prior close, still −1.77% from entry). Day P&L +$167.93 (+0.17%) driven by both positions gaining. Portfolio remains significantly under-deployed at 38.9% vs 75-85% target; cash heavy at 61.1% ($59,025). Weekly trades: 1/3 (CVX buy Oct 7). Phase P&L −$3,331.14 (−3.33%) vs $100,000 starting equity. FOMC gate open through ~Oct 22 (9 sessions remain). All GTC stops confirmed active. Weekend research queued: XOM, LMT/RTX, or AMAT as 4th/5th position candidates for Monday entry — need 2 new positions to reach deployment target before FOMC window closes.
+
+---
+
+### Market-Open Scan — 2026-10-12 (Day 117, Monday)
+
+- **Account:** Equity $96,836.36 | Cash $59,024.53 (61.0%) | Deployed $37,811.83 (39.0%) | Phase P&L: −$3,163.64 (−3.16%) | Weekly trades: 1/3 (CVX Oct 7)
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $213.98 | +$435.20 (+2.08%) | +0.94% | 10% GTC f5c51b1f (HWM $213.72, stop $192.35) | HOLD ✓ |
+| HON | 79 | $211.95 | $207.77 | −$330.22 (−1.97%) | +0.02% | 10% GTC 8303e452 (HWM $216.13, stop $194.52) | HOLD ✓ |
+
+#### GTC Stops — Confirmed ACTIVE
+- CVX: 10% trail f5c51b1f | HWM $213.72 | stop $192.35 ✓ (buffer 10.1% from $213.98)
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.52 ✓ (buffer 6.4% from $207.77)
+
+#### Cut Check
+- **HON −1.97%:** Cut threshold −7% = $197.11. Current $207.77. No trigger. ✓
+- **CVX +2.08%:** No trigger. ✓
+
+#### Stop Tighten Check
+- **CVX +2.08%:** Below +15% ($241.07). No tighten. ✓
+- **HON −1.97%:** Not a winner. No action. ✓
+
+#### Actions
+- **NO TRADES EXECUTED.** Columbus Day — thin liquidity; WTI volatile on ceasefire rumor. Per documented pre-market plan: hold-only today.
+- Next entry: XOM (~100sh ~$16-17K) + LMT (size TBD) on Tuesday Oct 13 open.
+
+_Market-open Oct 12 (Columbus Day): No trades. CVX +2.08%, HON −1.97%. All GTC stops active. 2 weekly trades remaining. Entering XOM + LMT Tuesday to close deployment gap (39% → ~65-70%)._
