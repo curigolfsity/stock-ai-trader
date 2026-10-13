@@ -9519,3 +9519,87 @@ _Sources: Alpaca API (live), WebSearch (Investing.com, Tapeboard, Mitrade, Pluan
 - **HON:** −0.85% unrealized, recovering intraday. No new negative catalysts. Q3 earnings Oct 22 remains the key binary event — will execute position-sizing review ahead of earnings.
 - **Tuesday action plan unchanged:** Enter XOM (~$16-17K) + LMT (sizing to confirm pre-market) to close deployment gap (39% → ~65-70%).
 - **CPI Wednesday Oct 14:** If hot → pause LMT entry; if cold → full entry both names same session.
+
+---
+
+## Pre-Market Research — 2026-10-13 (Day 118, Tuesday)
+
+### Account Snapshot
+- **Equity:** $97,142.04 | **Cash:** $59,024.53 (60.8%) | **Deployed:** $38,117.51 (39.2%)
+- **Phase P&L:** −$2,857.96 (−2.86%) | **Day P&L:** +$55.95 (+0.06%) vs last equity $97,086.09
+- **Daytrade count:** 0/3 | **Weekly trades:** 0/3 (new week)
+- **Buying power:** $342,827 (4x margin)
+
+### Live Positions
+| Ticker | Shares | Entry | PM Price | Unrealized P&L | Stop |
+|--------|--------|-------|----------|----------------|------|
+| CVX | 100 | $209.628 | $215.52 | +$589.20 (+2.81%) | 10% GTC f5c51b1f (HWM $216.67, stop $195.003, buf 9.5%) |
+| HON | 79 | $211.95 | $209.69 | −$178.54 (−1.07%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 7.2%) |
+
+**Cut check:** CVX +2.81% ✓ | HON −1.07% (cut at $197.11, current $209.69) ✓
+**Stop tighten:** Neither position at +15% — no action ✓
+
+### Market Context
+- **WTI:** ~$92.8–93.3 | **Brent:** ~$105.5–106.0 (both easing ~1% on Russian diesel supply deal)
+- **SPX futures:** −0.1% to −0.23% | **Nasdaq futures:** −0.6% to −0.81% | **Dow futures:** +0.23%
+- **VIX:** ~15–17 (estimate; not confirmed for today — moderate, not elevated)
+- **SPX close Oct 12:** 7,807.36 | **YTD:** +13.2%
+- **10-yr yield:** ~5.24% (elevated — P/E >40 names blocked; XOM ~11-13x ✓, LMT ~15-18x ✓)
+
+### Today's Catalysts (Oct 13)
+- **JPM earnings BMO:** Q3 EPS est ~$5.74–5.93; analyst call 8:30 ET; prior Q2 EPS $6.14 beat
+- **JNJ earnings BMO**
+- **NFIB Small Business Optimism** (AM data)
+- **Korean chip stocks tumbling** → Nasdaq weak; NVDA/MU pressure; limited impact on energy/defense
+- **Russian diesel supply deal** (Trump-brokered) → WTI down ~1%; still $93 = energy thesis intact
+- **CPI Wednesday Oct 14** — key binary risk; hot print = yield spike = equity pressure
+
+### Sector Momentum YTD (as of Oct 8)
+- **Energy (XLE): +37–40% (#1)** — leading all sectors ✓
+- **Technology (XLK): +30–38% (#2)**
+- **S&P 500: +13.2%** — only 2 sectors outperforming (lowest breadth since 1990)
+- **Health Care:** laggard
+
+### Holdings News
+- **CVX:** No adverse news. WTI $93 = thesis intact. YTD +21.8%. Earnings Oct 30 (catalyst ahead). ✓
+- **HON:** No adverse news. HONA spin-off completed June 2026. HON pure-play automation. YTD +23.6%. Earnings Oct 22 binary event — 9 days out. ✓
+
+### Trade Ideas — Tuesday Oct 13 Entry
+
+**1. XOM (ExxonMobil) — PRIMARY, BUY TODAY**
+- Catalyst: Energy #1 YTD (+37-40%); WTI ~$93 sustained (even with Russian diesel, still elevated); Q3 earnings ~Oct 23-30 (beat expected given energy margins); XOM YTD +36%
+- Last known price ~$164-168 range (Oct 2 data: $164.01; energy has run since then)
+- Entry: market open or limit ~$166-170; stop 10% below (~$150-153); target $185-190 (>2:1 R:R)
+- Size: ~$16-17K (~100 shares at $166-170) = 17% of equity ✓ (≤20% cap)
+- Gates: positions 3→4 (≤6 ✓), weekly trades 0→1 (≤3 ✓), P/E ~11-13x (yield gate ✓), not FOMC window ✓
+- Risk: Energy concentration with CVX (~35% sector if both held); WTI could fall if ceasefire broadens
+
+**2. LMT (Lockheed Martin) — SECONDARY, defer to post-CPI Wednesday**
+- Catalyst: Defense spending cycle; Ukraine/Middle East conflicts ongoing; low macro correlation; diversifies energy concentration
+- P/E ~15-18x ✓ yield gate; low earnings sensitivity to tech/AI cycle
+- Entry: research price at Wed premarket after CPI clears (Wed Oct 14 AM)
+- Stop 10% below entry; target 15-20% (2:1+ R:R)
+- Risk: CPI hot print = general equity selloff; better to confirm CPI-neutral before entering
+- If CPI cold or in-line → full LMT entry Wednesday
+
+**3. AMAT — HOLD WATCH**
+- Still monitoring; semiconductor weakness today (Nasdaq −0.6%) supports deferral
+- Enter only after CPI clears and Nasdaq stabilizes
+
+### Risk Factors
+1. **CPI tomorrow (Oct 14)** — hot = yield spike, equity selloff; cold = relief rally; creates binary for LMT entry timing
+2. **Nasdaq weakness premarket** (−0.6 to −0.81%) — chip/AI stocks struggling; limited portfolio impact (no tech held)
+3. **WTI Russian diesel relief** — WTI down ~1% ($93) but still well above $88 support; XOM thesis intact
+4. **Energy concentration** — CVX + XOM = ~35% in energy sector; acceptable given XLE #1 YTD
+5. **HON earnings Oct 22** — 9 days out; −1.07% unrealized; binary event risk; stop $194.52 (7.2% buffer from $209.69)
+6. **FOMC Oct 28** — gate activates Oct 24 (~7 trading sessions left for new entries)
+7. **Bank earnings sentiment** — JPM/JNJ results pre-open; if miss, market opens risk-off broadly
+
+### Decision: **TRADE — Enter XOM today; LMT defer to Wednesday post-CPI**
+- **XOM:** All gates pass. Energy #1 YTD. WTI $93 supports thesis. Enter at open (market or limit ~$166-170, 100 shares ~$16.6-17K). Place 10% GTC trailing stop immediately.
+- **LMT:** Defer to Wednesday Oct 14 post-CPI release. If CPI in-line/cold → enter at Wed open. If CPI hot → hold and reassess.
+- **CVX + HON:** Both theses intact. All GTC stops healthy. HOLD.
+- **Deployment after XOM:** ~57% deployed (vs 75-85% target); LMT entry Wednesday brings to ~74%.
+- **Weekly budget used:** 1/3 (XOM today); 1 remaining for LMT Wednesday.
+
+_Sources: Alpaca API (live), WebSearch (HDFCSKY, FXEmpire, Onevalor, 247wallst, Kiplinger, Investing.com, Saxo, Tapeboard, Pluang, AOL, Chartmill)_
