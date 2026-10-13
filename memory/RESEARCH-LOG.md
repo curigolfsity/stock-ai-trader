@@ -9603,3 +9603,9 @@ _Sources: Alpaca API (live), WebSearch (Investing.com, Tapeboard, Mitrade, Pluan
 - **Weekly budget used:** 1/3 (XOM today); 1 remaining for LMT Wednesday.
 
 _Sources: Alpaca API (live), WebSearch (HDFCSKY, FXEmpire, Onevalor, 247wallst, Kiplinger, Investing.com, Saxo, Tapeboard, Pluang, AOL, Chartmill)_
+
+#### Midday Addendum — 2026-10-13
+- **HON** down −1.84% intraday to $205.79 — no breaking news found; pre-earnings pressure; HONA spinoff sentiment read-across possible. Stop buffer thinned to 5.47% (HWM $216.13, stop $194.517). Thesis intact. Earnings Oct 22.
+- **CVX** +1.42% intraday to $218.06 — WTI stable ~$93. Trailing stop auto-advanced (HWM $218.79, stop $196.911).
+- **XOM** +0.59% intraday to $174.24 on first day held. Normal. Stop at $157.401.
+- **LMT:** Deferred to Wednesday Oct 14 post-CPI. CPI release ~8:30 ET tomorrow. Watch 10-yr yield reaction.

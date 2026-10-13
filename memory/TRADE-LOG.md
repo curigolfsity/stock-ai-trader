@@ -5776,3 +5776,44 @@ _Market-open Oct 13: XOM buy order placed (pending fill at open). Stop to be pla
 - **Filled:** 100 shares @ $173.219
 - **10% trailing stop GTC:** 7467f25a-d08c-4b36-b532-21754909a65f (approx $155.9)
 - **HWM:** $173.219 | **Buffer:** 10%
+
+---
+
+### Midday Scan — 2026-10-13 (Day 118, Tuesday)
+
+- **Account:** Equity ~$97,190 | Cash ~$41,703 (42.9%) | Deployed ~$55,487 (57.1%) | Day P&L: +$104 (+0.11%) | Phase P&L: ~−$2,810 (−2.81%) | Weekly trades: 1/3 (XOM today)
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $218.06 | +$843.20 (+4.02%) | +1.42% | 10% GTC f5c51b1f (HWM $218.79, stop $196.911, buf 9.7%) | HOLD ✓ |
+| HON | 79 | $211.95 | $205.79 | −$486.64 (−2.91%) | −1.84% | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 5.47%) | HOLD ⚠️ |
+| XOM | 100 | $173.219 | $174.24 | +$102.10 (+0.59%) | +0.59% | 10% GTC 7467f25a (HWM $174.89, stop $157.401, buf 9.7%) | HOLD ✓ |
+
+#### GTC Stops — Confirmed ACTIVE
+- CVX: 10% trail f5c51b1f | HWM $218.79 (auto-advanced from $216.67) | stop $196.911 ✓ (buffer 9.7% from $218.06)
+- HON: 10% trail 8303e452 | HWM $216.13 | stop $194.517 ✓ (buffer 5.47% from $205.79) ⚠️ thinning
+- XOM: 10% trail 7467f25a | HWM $174.89 | stop $157.401 ✓ (buffer 9.7% from $174.24)
+
+#### STEP 3 — Cut Check
+- **CVX +4.02%:** No trigger. ✓
+- **HON −2.91%:** Cut threshold −7% = $197.11. Current $205.79. No trigger. ✓
+- **XOM +0.59%:** No trigger. ✓
+
+#### STEP 4 — Stop Tighten Check
+- **CVX +4.02%:** +15% threshold = $241.07. Below threshold. No tighten. ✓
+- **HON −2.91%:** Not a winner. No action. ✓
+- **XOM +0.59%:** +15% threshold = $199.20. Well below. No tighten. ✓
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — +4.02% unrealized; WTI still elevated ~$93; stop auto-advanced (HWM $218.79); CVX earnings Oct 30. ✓
+- **HON:** INTACT — No thesis-breaking news Oct 13. Pure-play automation thesis post-HONA spin confirmed structurally. Q1 mixed (revenue miss, cash flow cut) but no Q3 pre-announcement. Analyst target trims (Citi $270, JPM $240) but no downgrades. Earnings Oct 22 binary event remains. ⚠️ Stop buffer 5.47% — thinning but above 3% overnight cut threshold. Monitor intraday.
+- **XOM:** INTACT — Just entered today at $173.219; WTI ~$93 supports energy thesis; XOM earnings ~Oct 23-30. ✓
+
+#### Actions
+- **NO TRADES EXECUTED.** All positions hold — no cut triggers, no stop tightening needed.
+- CVX: stop auto-advanced (HWM $216.67 → $218.79; stop $195.003 → $196.911).
+- HON: ⚠️ Monitor — stop buffer thinned to 5.47% intraday (from 7.2% at pre-market). Thesis intact. No forced action yet (> 3% overnight buffer rule).
+- XOM stop confirmed active (HWM $174.89, stop $157.401).
+
+_Midday Oct 13: No action. CVX +4.02% (stop advanced to $196.911; HWM $218.79). HON −2.91% thesis intact but stop buffer at 5.47% — watch. XOM +0.59% first day. 3 positions, 57.1% deployed. LMT deferred to Wed Oct 14 post-CPI._
