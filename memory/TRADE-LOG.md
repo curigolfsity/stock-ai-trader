@@ -5747,3 +5747,27 @@ _Midday Oct 12: No action. CVX +2.53% (stop auto-advanced to $195.003; new HWM $
 | CVX | 100 | $209.628 | $215.09 | +1.47% | +$546.20 (+2.61%) | 10% GTC f5c51b1f (HWM $216.67, stop $195.003) |
 | HON | 79 | $211.95 | $209.41 | +0.81% | −$200.66 (−1.20%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517) |
 **Notes:** Columbus Day Monday closes with 0 trades executed per hold-only plan. Day P&L +$444.51 (+0.46%) driven by CVX +1.47% and HON +0.81% intraday. CVX trailing stop auto-advanced to $195.003 (HWM $216.67) — strongest stop protection so far. HON recovering +0.81% intraday, −1.20% from entry, well above −7% cut threshold ($197.11); thesis intact. Portfolio 39.2% deployed vs 75-85% target; 0 trades this week (new week — CVX Oct 7 was prior week, count resets). Tuesday Oct 13: enter XOM (~100sh ~$16-17K) + LMT (size TBD) to close deployment gap to ~65-70%. Approximately 8 FOMC gate sessions remaining. All GTC stops active and confirmed.
+
+---
+
+### Market-Open Execution — 2026-10-13 (Day 118, Tuesday)
+
+#### Trade Executed
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-10-13 | XOM | BUY | 100 | PENDING FILL @ open 09:30 ET | 10% trail GTC (≈$146–149 TBD) | Energy #1 YTD (+37-40%); WTI ~$93; XOM Q3 earnings ~Oct 23-30; diversifies energy at favorable entry | $185–190 | ~2.3:1 |
+
+- **Order ID:** b2245ad1-b525-4cc1-bbc2-cd74c44952cb (status: new — day TIF, executes at 09:30 ET open)
+- **Stop:** 10% trailing GTC to be placed immediately upon fill confirmation
+- **Gate check:** Positions 3/6 ✓ | Weekly trades 1/3 ✓ | Size ~16.7% equity ✓ | Catalyst documented ✓ | DT count 0/3 ✓ | P/E ~12x (yield gate ✓) | FOMC window clear ✓
+
+#### Hold Checks (09:30 open)
+- **CVX:** $216.50 (+3.28% unrealized). HOLD. GTC f5c51b1f (HWM $216.67, stop $195.003, buffer 10%). No tighten needed (below +15%).
+- **HON:** $211.80 (−0.07% unrealized). HOLD. GTC 8303e452 (HWM $216.13, stop $194.517, buffer 7.8%). Above −7% cut.
+
+#### Next Action
+- LMT: Deferred to Wednesday Oct 14 post-CPI. If CPI in-line/cold → enter. If hot → reassess.
+- Weekly trades: 1/3 used (XOM today). 2 remaining.
+- FOMC gate: Oct 24 activates (~8 sessions from now).
+
+_Market-open Oct 13: XOM buy order placed (pending fill at open). Stop to be placed on fill. CVX +3.28%, HON −0.07%, all GTC stops active._
