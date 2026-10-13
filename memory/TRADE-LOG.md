@@ -5771,3 +5771,8 @@ _Midday Oct 12: No action. CVX +2.53% (stop auto-advanced to $195.003; new HWM $
 - FOMC gate: Oct 24 activates (~8 sessions from now).
 
 _Market-open Oct 13: XOM buy order placed (pending fill at open). Stop to be placed on fill. CVX +3.28%, HON −0.07%, all GTC stops active._
+
+### XOM Fill + Stop — 2026-10-13
+- **Filled:** 100 shares @ $173.219
+- **10% trailing stop GTC:** 7467f25a-d08c-4b36-b532-21754909a65f (approx $155.9)
+- **HWM:** $173.219 | **Buffer:** 10%
