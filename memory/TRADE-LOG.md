@@ -5817,3 +5817,14 @@ _Market-open Oct 13: XOM buy order placed (pending fill at open). Stop to be pla
 - XOM stop confirmed active (HWM $174.89, stop $157.401).
 
 _Midday Oct 13: No action. CVX +4.02% (stop advanced to $196.911; HWM $218.79). HON −2.91% thesis intact but stop buffer at 5.47% — watch. XOM +0.59% first day. 3 positions, 57.1% deployed. LMT deferred to Wed Oct 14 post-CPI._
+
+---
+
+### Oct 13 — EOD Snapshot (Day 118, Tuesday)
+**Portfolio:** $97,318.00 | **Cash:** $41,702.63 (42.8%) | **Day P&L:** +$231.91 (+0.24%) | **Phase P&L:** −$2,682.00 (−2.68%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $218.265 | +1.52% | +$863.70 (+4.12%) | 10% GTC f5c51b1f (HWM $218.79, stop $196.911, buf 9.78%) |
+| HON | 79 | $211.95 | $207.170 | −1.18% | −$377.62 (−2.26%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 6.11%) ⚠️ |
+| XOM | 100 | $173.219 | $174.224 | +1.21% | +$100.54 (+0.58%) | 10% GTC 7467f25a (HWM $174.89, stop $157.401, buf 9.66%) |
+**Notes:** Day 118 closes after XOM entry at the open ($173.219, 100sh, 1st day +0.58%). CVX +1.52% intraday, strongest position at +4.12% unrealized; stop auto-advanced to $196.911 (HWM $218.79, buffer 9.78%). HON −1.18% intraday, −2.26% from entry; cut threshold −7% = $197.11 — well above, thesis intact (HON earnings Oct 22 binary event), but stop buffer thinned to 6.11% — monitor. 3 positions deployed, 57.1% of equity vs 75-85% target. 1 trade this week (XOM; 2 remaining). LMT deferred to Wed Oct 14 post-CPI — enter if CPI in-line/cold. All GTC stops confirmed active.
