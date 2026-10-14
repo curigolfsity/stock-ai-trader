@@ -5828,3 +5828,45 @@ _Midday Oct 13: No action. CVX +4.02% (stop advanced to $196.911; HWM $218.79). 
 | HON | 79 | $211.95 | $207.170 | −1.18% | −$377.62 (−2.26%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 6.11%) ⚠️ |
 | XOM | 100 | $173.219 | $174.224 | +1.21% | +$100.54 (+0.58%) | 10% GTC 7467f25a (HWM $174.89, stop $157.401, buf 9.66%) |
 **Notes:** Day 118 closes after XOM entry at the open ($173.219, 100sh, 1st day +0.58%). CVX +1.52% intraday, strongest position at +4.12% unrealized; stop auto-advanced to $196.911 (HWM $218.79, buffer 9.78%). HON −1.18% intraday, −2.26% from entry; cut threshold −7% = $197.11 — well above, thesis intact (HON earnings Oct 22 binary event), but stop buffer thinned to 6.11% — monitor. 3 positions deployed, 57.1% of equity vs 75-85% target. 1 trade this week (XOM; 2 remaining). LMT deferred to Wed Oct 14 post-CPI — enter if CPI in-line/cold. All GTC stops confirmed active.
+
+---
+
+### Midday Scan — 2026-10-14 (Day 119, Wednesday)
+
+- **Account:** Equity $97,834.10 | Cash $41,702.62 (42.6%) | Deployed $56,131.48 (57.4%) | Weekly trades: 1/3 (XOM)
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $220.89 | +$1,126.20 (+5.37%) | +1.45% | 10% GTC f5c51b1f (HWM $221.05, stop $198.945, buf 9.93%) | HOLD ✓ |
+| HON | 79 | $211.95 | $207.59 | −$344.44 (−2.06%) | +0.15% | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 6.30%) | HOLD ⚠️ |
+| XOM | 100 | $173.219 | $176.41 | +$319.10 (+1.84%) | +1.34% | 10% GTC 7467f25a (HWM $176.52, stop $158.868, buf 9.94%) | HOLD ✓ |
+
+#### STEP 3 — Cut Check
+- **CVX +5.37%:** No trigger. ✓
+- **HON −2.06%:** Cut threshold −7% = $197.11. Current $207.59. No trigger. ✓
+- **XOM +1.84%:** No trigger. ✓
+
+#### STEP 4 — Stop Tighten Check
+- **CVX +5.37%:** +15% threshold = $241.07. Below. No tighten. ✓
+- **HON −2.06%:** Not a winner. No action. ✓
+- **XOM +1.84%:** +15% threshold = $199.20. Well below. No tighten. ✓
+
+#### GTC Stops — Auto-Advanced
+- CVX: HWM $218.79 → $221.05 (new high); stop $196.911 → $198.945 ✓
+- XOM: HWM $174.89 → $176.52 (new high); stop $157.401 → $158.868 ✓
+- HON: HWM $216.13 unchanged (not at new highs); stop $194.517 unchanged ⚠️
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — +5.37% unrealized; energy sector strong intraday; stop buffer 9.93%. ✓
+- **HON:** INTACT — recovering intraday +0.15%; −2.06% unrealized well above −7% cut ($197.11); stop buffer 6.30% above 3% overnight threshold; earnings Oct 22 binary event ⚠️
+- **XOM:** INTACT — Day 2 held; +1.84% unrealized; energy sector intraday +1.34%; stop buffer 9.94%. ✓
+
+#### Actions
+- **NO TRADES EXECUTED.** No cuts triggered. No stop tightening needed.
+- CVX stop auto-advanced (HWM $218.79 → $221.05; stop $196.911 → $198.945).
+- XOM stop auto-advanced (HWM $174.89 → $176.52; stop $157.401 → $158.868).
+- HON: No stop change; intraday recovery +0.15% positive; buffer 6.30% — above overnight threshold.
+- **LMT:** Not entered (no position found at midday). CPI result unknown from web search — market-open may have deferred per hot-CPI rule. Carry forward to Thursday if weekly budget allows.
+
+_Midday Oct 14: No action. CVX +5.37% (stop auto-advanced to $198.945; HWM $221.05). HON −2.06% thesis intact, recovering +0.15% intraday. XOM +1.84% (stop auto-advanced to $158.868; HWM $176.52). 3 positions, 57.4% deployed. LMT pending — confirm CPI result at EOD._

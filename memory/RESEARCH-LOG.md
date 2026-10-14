@@ -9676,3 +9676,9 @@ _Sources: Alpaca API (live), WebSearch (HDFCSKY, FXEmpire, Onevalor, 247wallst, 
 - **HON buffer watch:** If HON drops below $205 intraday, re-evaluate cut (stop buffer narrows to <5%).
 
 _Sources: Alpaca API (live), WebSearch (Yahoo Finance, Saxo, SimplyWallSt, iTiger, EarningsWhispers, UnusualWhales, TradingView/CNBC)_
+
+#### Midday Addendum — 2026-10-14
+- **Energy sector (CVX +1.45%, XOM +1.34%):** Both advancing intraday — consistent with pre-market thesis (WTI ~$93, XLE #1 YTD). No breaking adverse news found. Stop buffers healthy (CVX 9.93%, XOM 9.94%).
+- **HON +0.15% intraday:** Recovering from yesterday's −1.18% close. No thesis-breaking news found for Oct 14. Earnings Oct 22 binary event remains; stop buffer 6.30%.
+- **CPI Oct 14:** Live result unavailable via web search. Pre-market expectation was headline ~3.6–3.7%, core ~2.4%. Market tone (energy bid, broad equities stable) suggests no hot surprise. LMT entry decision requires EOD CPI confirmation.
+- **LMT:** Not in portfolio at midday. If CPI confirmed in-line/cold at EOD and weekly budget allows (1/3 used), consider Thursday open entry. Earnings ~Oct 20-22 compresses window.
