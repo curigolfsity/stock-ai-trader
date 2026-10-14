@@ -9609,3 +9609,70 @@ _Sources: Alpaca API (live), WebSearch (HDFCSKY, FXEmpire, Onevalor, 247wallst, 
 - **CVX** +1.42% intraday to $218.06 — WTI stable ~$93. Trailing stop auto-advanced (HWM $218.79, stop $196.911).
 - **XOM** +0.59% intraday to $174.24 on first day held. Normal. Stop at $157.401.
 - **LMT:** Deferred to Wednesday Oct 14 post-CPI. CPI release ~8:30 ET tomorrow. Watch 10-yr yield reaction.
+
+---
+
+## Pre-Market Research — 2026-10-14 (Day 119, Wednesday)
+
+### Account Snapshot
+- **Equity:** $97,426.53 | **Cash:** $41,702.62 (42.8%) | **Deployed:** $55,723.91 (57.2%)
+- **Buying Power:** $139,129.15 (RegT) | **Day P&L (premarket):** +$167 vs prior close
+- **Daytrade count:** 0/3 | **Weekly trades:** 1/3 (XOM entered Oct 13)
+
+### Live Positions
+| Ticker | Shares | Entry | Last | Unrealized P&L | Stop | Status |
+|--------|--------|-------|------|----------------|------|--------|
+| CVX | 100 | $209.628 | $218.86 | +$923.20 (+4.40%) | 10% GTC f5c51b1f (HWM $218.79, stop $196.911) | HOLD ✓ |
+| HON | 79 | $211.95 | $207.29 | −$368.14 (−2.20%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517) | HOLD ⚠️ |
+| XOM | 100 | $173.219 | $174.62 | +$140.10 (+0.81%) | 10% GTC 7467f25a (HWM $174.89, stop $157.401) | HOLD ✓ |
+
+### Market Context
+- **CPI (Sep):** Not yet released as of pre-market. Expectations: headline +3.6–3.7% YoY (+0.6% m/m); core +2.5% YoY (+0.2% m/m). Release ~8:30 AM ET. KEY BINARY RISK TODAY.
+- **S&P 500 Futures:** +0.1% (Dow/S&P); Nasdaq roughly flat. Prior close: 7,805.45 (−0.02%).
+- **VIX:** ~24 (last confirmed April 2026; no fresh Oct 14 data available)
+- **WTI Crude:** ~$93 (prior session; one unverified source suggested $72.88 — treat as uncertain; prior 3-day data confirms ~$93)
+- **10-yr Yield:** Rate-hike risk alive — CME FedWatch priced 22% chance of October hike pre-CPI
+- **Sector:** Energy (XLE) still #1 YTD (+37-40%); Valero Energy +4.69% premarket = energy bid intact
+- **Chipmakers:** Weak 6th consecutive session (AMAT −6.7% yesterday); Nasdaq pressure — no portfolio impact
+
+### Holdings News
+- **CVX:** No adverse news. WTI intact. Earnings Oct 30. Stop buffer 9.78% (HWM $218.79). ✓
+- **HON:** Earnings Oct 22 confirmed (before open). Consensus EPS $2.16, revenue $5.05B. Implied move ±5.70% ($12.13). Stock −8.64% since last earnings. Price $207.29 (−2.20% unrealized). Stop $194.517 (buffer ~6.4% from $207.29). ⚠️ Binary event in 8 days — monitor buffer.
+- **XOM:** Day 2 +0.81%. Earnings ~Oct 23-30. Energy thesis intact. ✓
+
+### Trade Ideas
+
+**1. LMT (Lockheed Martin) — CONDITIONAL ON CPI (primary idea, deferred from Oct 13)**
+- Catalyst: Defense spending cycle; $230B backlog; US-Iran conflict driving missile demand; Pentagon restocking. LMT earnings ~Oct 20-22 (before FOMC gate Oct 24).
+- Recent price: ~$509-537 (conflicting sources); -8.88% in 30 days = potential mean-reversion entry
+- Entry: Market open IF CPI in-line/cold (≤3.7% headline, ≤2.5% core). Limit ~$510-540.
+- Stop: 10% below entry (~$459-486 area). Target: +15-20% (2:1+ R:R).
+- Size: ~$10-11K (~20 shares) = ~10-11% equity (undersized vs normal 15-17% to account for upcoming binary earnings)
+- Gates: Positions 3→4 (≤6 ✓) | Weekly trades 1→2 (≤3 ✓) | P/E ~15-18x (yield gate ✓) | DT 0/3 ✓ | Not FOMC window ✓ | Catalyst documented ✓
+- Risk: LMT earnings ~Oct 20-22 (6-8 days) + HON earnings Oct 22 = two binary events same week. Concentration of event risk.
+- **IF CPI hot (>3.7% headline or >2.5% core): HOLD, defer LMT entirely past FOMC gate.**
+
+**2. AMAT (Applied Materials) — WATCH ONLY, no entry today**
+- −6.7% yesterday; semiconductor sector headwinds. Wait for stabilization.
+- Not entering before CPI clears AND Nasdaq stabilizes.
+
+**3. Energy sector concentration monitor**
+- CVX + XOM = ~40% of equity in energy. Acceptable given XLE #1 YTD but at upper bound.
+- No new energy names before some reduction.
+
+### Risk Factors
+1. **CPI today 8:30 AM ET** — hot print = yield spike, equity selloff, LMT entry aborted; cold/in-line = relief rally, LMT entry proceeds
+2. **HON earnings Oct 22** — stop buffer 6.4% from $207.29, just above 3% overnight cut threshold; watch closely
+3. **LMT earnings Oct 20-22** — IF entered today, holding 6-8 days to binary event; undersizing position mitigates
+4. **FOMC gate Oct 24** — ~7 trading days left for new entries; LMT is only candidate
+5. **Energy concentration** — CVX + XOM ~40% of equity; no new energy buys
+6. **CME 22% Oct rate-hike chance** — hot CPI could spike to 40-50%, equity pressure
+
+### Decision: **CONDITIONAL — TRADE (LMT) if CPI in-line/cold; HOLD if CPI hot**
+- **LMT:** Enter at open IF Sep CPI headline ≤3.7% YoY AND core ≤2.5% YoY. Size ~20 shares (~$10-11K, 10-11% equity — undersized vs normal to account for Oct 20-22 earnings binary). Place 10% GTC trailing stop immediately.
+- **CVX / HON / XOM:** All GTC stops confirmed active. No cuts triggered. HOLD.
+- **Deployment:** 57.2% → ~68% after LMT entry (still below 75-85% target; acceptable given event risk density)
+- **Weekly budget:** 1/3 used (XOM); LMT = 2/3; 1 remaining.
+- **HON buffer watch:** If HON drops below $205 intraday, re-evaluate cut (stop buffer narrows to <5%).
+
+_Sources: Alpaca API (live), WebSearch (Yahoo Finance, Saxo, SimplyWallSt, iTiger, EarningsWhispers, UnusualWhales, TradingView/CNBC)_
