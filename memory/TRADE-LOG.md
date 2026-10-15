@@ -5925,3 +5925,14 @@ _Midday Oct 14: No action. CVX +5.37% (stop auto-advanced to $198.945; HWM $221.
 
 _Midday Oct 15: No action. CVX +5.19% (stop auto-advanced to $201.114; HWM $223.461). HON −2.10% thesis intact, flat intraday, earnings Oct 22 confirmed. XOM +0.90% (stop auto-advanced to $160.767; HWM $178.63). 3 positions, 57.3% deployed. LMT blocked past FOMC Oct 28._
 
+
+---
+
+### Oct 15 — EOD Snapshot (Day 120, Thursday)
+**Portfolio:** $97,523.81 | **Cash:** $41,702.62 (42.8%) | **Day P&L:** −$517.45 (−0.53%) | **Phase P&L:** −$2,476.19 (−2.48%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $218.925 | −1.40% | +$929.70 (+4.44%) | 10% GTC f5c51b1f (HWM $223.461, stop $201.114, buf 8.13%) |
+| HON | 79 | $211.95 | $208.610 | +0.48% | −$263.86 (−1.58%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 6.76%) ⚠️ |
+| XOM | 100 | $173.219 | $174.495 | −1.42% | +$127.60 (+0.74%) | 10% GTC 7467f25a (HWM $178.63, stop $160.767, buf 7.87%) |
+**Notes:** Day 120 closes down as energy pulled back from recent highs. CVX −1.40% intraday, still +4.44% unrealized; stop $201.114, buffer 8.13%. XOM −1.42% intraday, +0.74% unrealized; stop $160.767, buffer 7.87% — confirm earnings date (Oct 23 vs Oct 30) before Oct 22 open. HON +0.48% recovery, −1.58% unrealized, stop buffer 6.76% above 3% overnight threshold; Oct 22 earnings binary event approaching (3 trading days). No trades today. 1 trade this week (XOM; 2 slots remain). 57.2% deployed vs 75–85% target. LMT blocked until Oct 29 (FOMC gate, hot CPI 2.6%).
