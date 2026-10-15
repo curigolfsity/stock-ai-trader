@@ -290,3 +290,11 @@ Decision: HOLD
 Ideas: TSM HOLD +10.97% (tighten trigger $458.57 watch, 3.6% away), BAC WATCHLIST (VIX gate; defer to open)
 Market: SPX rising early, VIX futures ~17.82 (spot ~14.8 Sep 18), Oil WTI ~$91-94 (5th decline day)
 Risks: VIX uncertainty; Fed 10+ speakers; yield 5%+ gate active; deployment gap 30.2% vs 75-85% target
+
+---
+## 2026-10-15 10:06 UTC (fallback — notification services blocked)
+Pre-market 2026-10-15
+Decision: HOLD
+Ideas: LMT post-FOMC (Oct 29+ earliest, core CPI 2.6%>2.5% gate), Energy watch (CVX+XOM 40% limit)
+Market: SPX futures -0.3%, VIX 16.87, Oil WTI $94-95
+Risks: Triple data 8:30 ET (PPI+RetailSales+Claims); HON earnings date uncertain; XOM earnings Oct 23
