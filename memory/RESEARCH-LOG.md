@@ -9682,3 +9682,82 @@ _Sources: Alpaca API (live), WebSearch (Yahoo Finance, Saxo, SimplyWallSt, iTige
 - **HON +0.15% intraday:** Recovering from yesterday's −1.18% close. No thesis-breaking news found for Oct 14. Earnings Oct 22 binary event remains; stop buffer 6.30%.
 - **CPI Oct 14:** Live result unavailable via web search. Pre-market expectation was headline ~3.6–3.7%, core ~2.4%. Market tone (energy bid, broad equities stable) suggests no hot surprise. LMT entry decision requires EOD CPI confirmation.
 - **LMT:** Not in portfolio at midday. If CPI confirmed in-line/cold at EOD and weekly budget allows (1/3 used), consider Thursday open entry. Earnings ~Oct 20-22 compresses window.
+
+---
+
+## Pre-Market Research — 2026-10-15 (Day 120, Thursday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,324.52 |
+| Cash | $41,702.62 (42.4%) |
+| Long Market Value | $56,621.90 (57.6%) |
+| Buying Power | $325,351.80 |
+| Day Trade Count | 0/3 |
+| Weekly Trades | 1/3 (XOM) |
+| Balance As-Of | 2026-10-14 |
+
+### Live Positions
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop | Buffer | Status |
+|--------|--------|-------|-----------|----------------|------|--------|--------|
+| CVX | 100 | $209.628 | $223.50 | +$1,387.20 (+6.62%) | 10% GTC f5c51b1f (HWM $222.55→$223.50, stop $200.295→$201.15) | 10.00% | HOLD ✓ |
+| HON | 79 | $211.95 | $208.10 | −$304.15 (−1.82%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517) | 6.53% | HOLD ⚠️ |
+| XOM | 100 | $173.219 | $178.32 | +$510.10 (+2.95%) | 10% GTC 7467f25a (HWM $177.43→$178.32, stop $159.687→$160.49) | 10.00% | HOLD ✓ |
+
+### Market Context
+- **WTI Crude:** ~$94–$95/bbl (Middle East/Houthi shipping disruptions supporting; shadow-fleet sanction relief capping upside)
+- **Brent Crude:** ~$106–$109/bbl (WTI–Brent spread ~$11–$14)
+- **S&P 500 Futures:** −0.3% to −0.4% (hot CPI hangover from Oct 14)
+- **Nasdaq Futures:** −0.9% to −1.1% (chip selloff leading: CRWV, MU, TSM, SKHY all lower)
+- **Dow Futures:** ~flat
+- **VIX:** ~16.87 (+10.48%) — elevated; rate-hike repricing driving volatility bid
+- **September CPI (released Oct 14):** Headline +3.7% YoY (+0.6% MoM) — EXACTLY at 3.7% threshold; Core +2.6% YoY (+0.3% MoM) — HOTTER than 2.5% consensus. Gasoline +9.1% MoM drove >50% of headline.
+- **Market reaction Oct 14:** Treasuries plunged, S&P/Nasdaq −2%, dollar surged, Fed hike odds jumped
+- **Economic Calendar today (8:30 ET):** PPI (Sep, est. +0.5% MoM headline / +0.3% core), Retail Sales (Sep, est. +0.3% MoM), Initial Jobless Claims — THREE data points at 8:30 = double/triple catalyst risk
+- **Sector YTD leaders:** Energy +39.4% (#1), Technology +32.1%, Industrials +20.6%; laggards: Comm Services −3.8%, Cons. Disc. −0.8%
+
+### Holdings News
+- **CVX:** No adverse news; WTI $94–95 intact; $13.8B Argentina Vaca Muerta (RIGI) investment; earnings Oct 30; stop buffer 10% ✓
+- **HON:** ⚠️ Honeywell Aerospace spinoff confirmed COMPLETE — Aerospace is now independent entity. Remaining HON = industrial automation + building automation + energy. Q3 earnings for HON Aerospace spinoff: Oct 28 (before open). Q3 earnings for HON parent: unconfirmed — previously estimated Oct 22, now uncertain. Stop $194.517, buffer 6.53%, current $208.10; cut threshold ($197.11) well above current — HOLD but thesis clarity needed.
+- **XOM:** Q3 earnings Oct 23 (before open); Guyana 5th FPSO on track; redomiciled NJ→TX Jul 1; stop buffer 10% ✓
+- **LMT:** Q3 earnings Oct 22 (before open); record $230B backlog; Q2 raised FY2026 guidance; $35B THAAD contract with MDA; ~$724M Japan ASEV destroyer contract. DEFERRED past FOMC gate (core CPI >2.5%)
+
+### Trade Ideas
+
+**1. HOLD (primary decision)**
+- CPI hot core (2.6% > 2.5%) → LMT entry rule: "IF >2.5% core: HOLD, defer LMT entirely past FOMC gate"
+- FOMC decision: Oct 28 → gate starts ~Oct 25 (2 sessions before); earliest new entry: Oct 29
+- LMT earnings Oct 22 will have PASSED by Oct 29 → removes binary risk, cleaner entry
+- S&P futures −0.3–0.4%, VIX 16.87, PPI + Retail Sales + Claims all at 8:30 = data uncertainty
+- Energy concentration: CVX + XOM ~40% equity — no new energy names
+
+**2. LMT — POST-FOMC WATCH (Oct 29 earliest)**
+- Catalyst: Record $230B backlog; THAAD/Japan contracts; defense cycle intact
+- Entry: After Oct 28 FOMC decision (earliest Oct 29 open)
+- By then: LMT earnings Oct 22 already cleared (binary risk removed)
+- Entry target: ~$520–540; Stop 10% below entry; Target +15–20%
+- Gates to re-confirm: ≤6 positions, ≤3 weekly trades, 20% equity cap, catalyst documented
+- Risk: CVX earnings Oct 30 = two binary events (CVX + possibly HON parent) overlapping
+
+**3. Energy sector add — WATCH ONLY**
+- CVX + XOM already ~40% equity (at upper limit)
+- WTI $94–95 supports thesis; no new energy buys until one exits
+- VLO, SLB alternatives if sector stays #1 into Q4
+
+### Risk Factors
+1. **PPI + Retail Sales + Jobless Claims (8:30 ET)** — triple data event; hot PPI confirms inflation path → yield spike; weak retail sales → recession fear; either could move market sharply
+2. **HON earnings uncertainty** — spinoff complete; original Oct 22 HON earnings date may be for Aerospace entity not remaining HON; need to confirm Q3 reporting date for NASDAQ HON ticker; stop buffer 6.53% ⚠️
+3. **HON stop buffer thinning** — buffer 6.53% from current $208.10; if drops to ~$205.50 buffer reaches ~5% danger zone; watch intraday
+4. **XOM earnings Oct 23** — in 6 trading days; earnings binary risk approaching; will monitor stop buffer
+5. **FOMC gate approaching** — all new entries blocked Oct 25 (2 sessions before Oct 28 decision); effectively 7 trading days for new trades
+6. **Chip sector contagion** — Nasdaq −1% premarket; if broader selloff extends beyond chips, energy sector rotation possible (negative for XOM/CVX if funds unwind risk-assets broadly)
+
+### Decision: **HOLD**
+- LMT deferred past FOMC gate (hot core CPI 2.6% > 2.5% threshold) — earliest entry Oct 29
+- CVX / HON / XOM: All GTC stops active; no cut triggers; no stop tightening needed today
+- Deployment: 57.6% (below 75–85% target) — acceptable given CPI hot, VIX elevated, triple data at 8:30 ET
+- HON earnings date uncertainty: monitor; if confirmed still Oct 22, evaluate binary event risk management before then
+- No new trades today
+
+_Sources: Alpaca API (live), Research agent (BLS, Bloomberg, FXStreet, Fortune, Benzinga, TheStreet, Seeking Alpha, tikr.com, Lockheed Martin IR, quantisnow)_
