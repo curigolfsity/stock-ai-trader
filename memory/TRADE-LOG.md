@@ -5882,3 +5882,46 @@ _Midday Oct 14: No action. CVX +5.37% (stop auto-advanced to $198.945; HWM $221.
 | XOM | 100 | $173.219 | $177.201 | +1.79% | +$398.19 (+2.30%) | 10% GTC 7467f25a (HWM $177.43, stop $159.687, buf 9.88%) |
 **Notes:** Day 119 closes strong across all three positions. CVX reached new intraday HWM $222.195 (+5.86% unrealized); stop auto-advanced to $199.976 — now above $200 level, buffer 9.88%. XOM Day 2 solid +1.79% intraday, HWM $177.43, stop $159.687, buffer 9.88%. HON +0.32% intraday recovery, still −1.89% from entry but well above −7% cut threshold ($197.11); stop buffer 6.46% — above 3% overnight threshold, monitor into Oct 22 earnings binary event. No trades today. 1 trade this week (XOM; 2 remaining). 57.5% deployed vs 75-85% target — LMT still pending for Thursday if weekly budget/CPI permits. All GTC stops confirmed active.
 
+---
+
+### Midday Scan — 2026-10-15 (Day 120, Thursday)
+
+- **Account:** Equity ~$97,622 | Cash $41,702.62 (42.7%) | Deployed $55,919.11 (57.3%) | Weekly trades: 1/3 (XOM)
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $220.50 | +$1,087.20 (+5.19%) | −0.69% | 10% GTC f5c51b1f (HWM $223.461, stop $201.114, buf 8.79%) | HOLD ✓ |
+| HON | 79 | $211.95 | $207.495 | −$351.95 (−2.10%) | −0.06% | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 6.25%) | HOLD ⚠️ |
+| XOM | 100 | $173.219 | $174.77 | +$155.10 (+0.90%) | −1.27% | 10% GTC 7467f25a (HWM $178.63, stop $160.767, buf 8.01%) | HOLD ✓ |
+
+#### STEP 3 — Cut Check
+- **CVX +5.19%:** No trigger. ✓
+- **HON −2.10%:** Cut threshold −7% = $197.11. Current $207.50. No trigger. ✓
+- **XOM +0.90%:** No trigger. ✓
+
+#### STEP 4 — Stop Tighten Check
+- **CVX +5.19%:** +15% trigger = $241.07. Not reached. ✓
+- **HON −2.10%:** Not a winner. No action. ✓
+- **XOM +0.90%:** +15% trigger = $199.20. Not reached. ✓
+
+#### GTC Stops — Auto-Advanced
+- CVX: HWM $222.195 → $223.461 (new high); stop $199.976 → $201.114 ✓
+- XOM: HWM $177.43 → $178.63 (new high); stop $159.687 → $160.767 ✓
+- HON: HWM $216.13 unchanged (not at new high); stop $194.517 unchanged ⚠️
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — One-time $3–4B midstream restructuring charge (Hess/DJ Basin) in Q3 is non-recurring; does not affect WTI crude thesis. Zacks upgraded to Strong Buy. Earnings Oct 30. Buffer 8.79%. ✓
+- **HON:** INTACT (monitor) — Earnings Oct 22 confirmed for remaining HON (industrial automation + building automation + energy). CFO held LT guidance (4–6% organic, ~$12 EPS 2029) slightly below consensus. Jim Cramer trust exited — not a thesis signal. Stop buffer 6.25% ⚠️ Watch intraday; overnight threshold 3%.
+- **XOM:** INTACT (watch earnings date) — Wells Fargo cut to Equal Weight Oct 1 (not today; $182 PT); Guyana expansion on track. Earnings date discrepancy: pre-market said Oct 23, one source says Oct 30 — confirm on IR before Oct 23 open. Buffer 8.01%. ✓
+
+#### Actions
+- **NO TRADES EXECUTED.** No cuts triggered. No stop tightening needed.
+- CVX stop auto-advanced (HWM $222.195 → $223.461; stop $199.976 → $201.114).
+- XOM stop auto-advanced (HWM $177.43 → $178.63; stop $159.687 → $160.767).
+- HON: No stop change; flat intraday −0.06%; buffer 6.25% — above 3% overnight threshold.
+- **LMT:** Blocked past FOMC gate (hot core CPI 2.6% > 2.5%); earliest entry Oct 29.
+- **XOM earnings date:** Confirm Oct 23 vs Oct 30 before Oct 22 open.
+
+_Midday Oct 15: No action. CVX +5.19% (stop auto-advanced to $201.114; HWM $223.461). HON −2.10% thesis intact, flat intraday, earnings Oct 22 confirmed. XOM +0.90% (stop auto-advanced to $160.767; HWM $178.63). 3 positions, 57.3% deployed. LMT blocked past FOMC Oct 28._
+

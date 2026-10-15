@@ -9761,3 +9761,12 @@ _Sources: Alpaca API (live), WebSearch (Yahoo Finance, Saxo, SimplyWallSt, iTige
 - No new trades today
 
 _Sources: Alpaca API (live), Research agent (BLS, Bloomberg, FXStreet, Fortune, Benzinga, TheStreet, Seeking Alpha, tikr.com, Lockheed Martin IR, quantisnow)_
+
+#### Midday Addendum — 2026-10-15 (~12:00 PM ET)
+- **CVX $220.50 (−0.69% intraday):** Non-recurring $3–4B midstream restructuring charge (Hess/DJ Basin) weighed on sentiment but not thesis. Zacks upgraded to Strong Buy. Thesis intact. Stop auto-advanced (HWM $223.461, stop $201.114, buf 8.79%). ✓
+- **HON $207.495 (−0.06% intraday):** Essentially flat. Earnings Oct 22 confirmed for remaining HON entity post-Aerospace spinoff. CFO held LT guidance (4–6% organic, ~$12 EPS 2029) slightly below consensus. Jim Cramer trust exit noted — not a thesis signal. Stop buffer 6.25% ⚠️ Monitor into Oct 22 binary event.
+- **XOM $174.77 (−1.27% intraday):** Broader market selloff (hot CPI hangover) driving move, not XOM-specific. Wells Fargo Equal Weight cut was Oct 1, not today. Guyana on track. **Action needed:** Confirm earnings date Oct 23 vs Oct 30 on ExxonMobil IR before Oct 22 open. Stop auto-advanced (HWM $178.63, stop $160.767, buf 8.01%). ✓
+- **No trades. No cuts. No stop tightening.** All positions HOLD.
+- **XOM earnings date discrepancy** — resolve before Oct 22 market open.
+
+_Sources: Alpaca API (live), WebSearch thesis check_
