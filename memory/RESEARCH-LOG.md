@@ -9844,3 +9844,15 @@ _Sources: Alpaca API (live), WebSearch thesis check_
 - LMT: On deck for Oct 29 entry post-FOMC + post-earnings
 
 _Sources: Alpaca API (live), WebSearch (EIA, Kalshi, sector data, earnings calendars)_
+
+### Afternoon Addendum — 2026-10-16
+
+**XOM Earnings Date — Resolved:**
+- TipRanks: **Oct 23, 2026 pre-market** (confirmed Q3 2026 report)
+- Earnings Whispers: Oct 30 (alternative)
+- **Decision: Treat as Oct 23 pre-market.** Prior open item closed.
+- Risk flag: HON Oct 22 + XOM Oct 23 = consecutive binary events next week.
+- Pre-earnings cut triggers: HON buffer < 5% before Oct 22 close; XOM buffer < 7% before Oct 23 open.
+- No position changes at midday. All positions above thresholds; no cuts or tighten needed.
+
+_Sources: TipRanks (Oct 23 confirmed pre-market), Earnings Whispers (Oct 30 alternative)_

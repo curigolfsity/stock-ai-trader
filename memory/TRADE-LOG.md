@@ -5936,3 +5936,52 @@ _Midday Oct 15: No action. CVX +5.19% (stop auto-advanced to $201.114; HWM $223.
 | HON | 79 | $211.95 | $208.610 | +0.48% | −$263.86 (−1.58%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 6.76%) ⚠️ |
 | XOM | 100 | $173.219 | $174.495 | −1.42% | +$127.60 (+0.74%) | 10% GTC 7467f25a (HWM $178.63, stop $160.767, buf 7.87%) |
 **Notes:** Day 120 closes down as energy pulled back from recent highs. CVX −1.40% intraday, still +4.44% unrealized; stop $201.114, buffer 8.13%. XOM −1.42% intraday, +0.74% unrealized; stop $160.767, buffer 7.87% — confirm earnings date (Oct 23 vs Oct 30) before Oct 22 open. HON +0.48% recovery, −1.58% unrealized, stop buffer 6.76% above 3% overnight threshold; Oct 22 earnings binary event approaching (3 trading days). No trades today. 1 trade this week (XOM; 2 slots remain). 57.2% deployed vs 75–85% target. LMT blocked until Oct 29 (FOMC gate, hot CPI 2.6%).
+
+---
+
+### Midday Scan — 2026-10-16 (Day 121, Friday)
+
+- **Account:** Equity ~$98,281 | Cash $41,702.62 (42.5%) | Deployed $56,578.49 (57.6%) | Weekly trades: 1/3 (XOM)
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $222.47 | +$1,284.20 (+6.13%) | +1.44% | 10% GTC f5c51b1f (HWM $223.461, stop $201.114, buf 9.60%) | HOLD ✓ |
+| HON | 79 | $211.95 | $211.31 | −$50.56 (−0.30%) | +0.39% | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 7.95%) | HOLD ⚠️ |
+| XOM | 100 | $173.219 | $176.38 | +$316.10 (+1.83%) | +0.97% | 10% GTC 7467f25a (HWM $178.63, stop $160.767, buf 8.85%) | HOLD ✓ |
+
+#### STEP 3 — Cut Check
+- **CVX +6.13%:** No trigger. ✓
+- **HON −0.30%:** Cut threshold −7% = $197.11. Current $211.31. No trigger. ✓
+- **XOM +1.83%:** No trigger. ✓
+
+#### STEP 4 — Stop Tighten Check
+- **CVX +6.13%:** +15% trigger = $241.07. Not reached. ✓
+- **HON −0.30%:** Not a winner. No action. ✓
+- **XOM +1.83%:** +15% trigger = $199.20. Not reached. ✓
+
+#### GTC Stops — Auto-Advanced
+- CVX: HWM $223.461 unchanged (current $222.47 < HWM); stop $201.114 unchanged ✓
+- XOM: HWM $178.63 unchanged (current $176.38 < HWM); stop $160.767 unchanged ✓
+- HON: HWM $216.13 unchanged; stop $194.517 unchanged ⚠️
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — Rebounding +6.13% unrealized; energy sector supported by Iran-Hormuz tensions; stop buffer 9.60%. ✓
+- **HON:** INTACT (monitor) — Recovering +0.39% intraday; −0.30% unrealized (improved from −1.58% EOD yesterday); buffer 7.95% well above 5% hold threshold; earnings Oct 22 (4 trading days). ⚠️
+- **XOM:** INTACT — Intraday +0.97%; buffer 8.85%; **XOM earnings date resolved: Oct 23 pre-market (TipRanks confirmed)**; binary event in 5 trading days. ✓⚠️
+
+#### STEP 6 — XOM Earnings Date Resolved
+- TipRanks: **Oct 23, 2026 pre-market** (confirmed Q3 2026 report date)
+- Earnings Whispers: Oct 30 (alternative, unconfirmed)
+- **Treating as Oct 23 pre-market.** Risk: HON Oct 22 + XOM Oct 23 = consecutive binary events.
+- No position changes. Both above thresholds. Pre-earnings cut rule: HON < 5% buffer before Oct 22 close; XOM < 7% buffer before Oct 23 open.
+
+#### Actions
+- **NO TRADES EXECUTED.** No cuts triggered. No stop tightening needed.
+- CVX, XOM, HON: All GTC stops active; no new HWMs today.
+- **XOM earnings date: Oct 23 pre-market (TipRanks).** Open item resolved.
+- **HON buffer 7.95%** — improved from 6.25% yesterday midday; above 5% hold threshold. Monitor.
+- Columbus Day thin volume: no new trades per pre-market decision.
+- FOMC gate: Oct 25–28; 5 trading days left; LMT only candidate (earliest Oct 29).
+
+_Midday Oct 16: No action. CVX +6.13% (buffer 9.60%). HON −0.30% recovering, buffer 7.95%. XOM +1.83%, earnings Oct 23 pre-market (TipRanks). Consecutive binary events HON Oct 22 + XOM Oct 23 next week. 3 positions, 57.6% deployed._
