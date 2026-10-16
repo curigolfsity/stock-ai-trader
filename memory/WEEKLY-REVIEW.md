@@ -1255,3 +1255,63 @@ Rule adherence D (BAC mandatory −7% cut triggered Oct 1; position open and in 
 Rule adherence C (BAC finally closed per Rule 10 via GTC stop execution; JPM cut executed same-day once API unblocked — better than last week but still delayed; CVX Energy entry with Rule 10 arguably active — invoked "distinct catalyst" exception without formal criteria; TSM stop automation clean; HON held correctly), risk management B− (TSM +16.18% protected; both remaining stops healthy; BAC + JPM realized losses are large but within system parameters; 38.9% cash is a risk in a rising market), relative performance D (bot −0.72% vs S&P +0.83% = −1.55% gap; 38.9% deployment collapse following 4 position closures in 5 days; phase P&L −$3,331 / −3.33% after 23 weeks).
 
 ---
+
+## Week ending 2026-10-16
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $96,668.86 (Fri Oct 9 close) |
+| Ending portfolio | $98,778.60 (Fri Oct 16 EOD) |
+| Week return | +$2,109.74 (+2.18%) |
+| S&P 500 week | ~+0.8% (est.; Oct 12 SPX 7,807.36 → Oct 16 ~7,875; no official close available) |
+| Bot vs S&P | ~+1.38% |
+| Trades | 1 (W:0 / L:0 / open:3) |
+| Win rate | N/A (no closed trades) |
+| Best trade | CVX +7.24% unrealized |
+| Worst trade | HON −0.01% unrealized |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CVX | $209.628 (Oct 7) | $224.795 | +$1,516.70 (+7.24%) | 10% GTC f5c51b1f (HWM $225.31, stop $202.779, buf 10.0%) |
+| HON | $211.95 (Sep 24) | $211.93 | −$1.58 (−0.01%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 8.22%) ⚠️ earnings Oct 22 |
+| XOM | $173.219 (Oct 13) | $178.54 | +$532.11 (+3.07%) | 10% GTC 7467f25a (HWM $179.16, stop $161.244, buf 9.77%) ⚠️ earnings Oct 23 |
+
+### What Worked
+- Energy thesis paid off — WTI elevated on Iran-Hormuz tensions; CVX +7.24%, XOM +3.07% unrealized; CVX HWM auto-advanced 4 consecutive sessions; automation functioning correctly
+- XOM entry Oct 13 met all gates cleanly (VIX ✓, Energy #1 YTD ✓, P/E ~12× ✓, 16.7% equity ✓); T+0 stop placed immediately on fill — no recurrence of prior stop-delay failures
+- Columbus Day hold-only discipline executed — no impulse entries on thin liquidity; pre-documented plan followed exactly
+- LMT hot-CPI block correctly enforced — core CPI 2.6% > 2.5% threshold; LMT deferred past FOMC gate without hesitation; prevented forcing a position ahead of binary macro events
+- HON recovered from −1.89% mid-week to near-breakeven −0.01% at week end; buffer 8.22% entering Oct 22 earnings binary
+
+### What Didn't Work
+- 57.8% deployed vs 75–85% target — FOMC gate (Oct 25) + earnings binaries (HON Oct 22, XOM Oct 23) + hot CPI blocked all additional entries beyond XOM; structural deployment gap continues
+- HON remains an open binary event — Oct 22 pre-market earnings; −0.01% unrealized; any significant miss exits position at next open
+- XOM earnings Oct 23 creates consecutive binary week: HON Mon + XOM Tue = two forced hold-or-exit decisions in two sessions with no room for new deployment
+- LMT deferred again (now Oct 29 earliest) — FOMC gate + hot CPI combined to block the only diversification candidate for the 3rd+ consecutive week
+- Phase P&L still negative (−1.22%) despite best recovery week — five realized losses (GEV, ISRG, ASML, BAC, JPM) still weigh on cumulative performance
+
+### Key Lessons
+- Energy sector concentration (CVX + XOM ~40% equity) cuts both ways — this week Iran-Hormuz tailwind lifted both positions sharply; next week's earnings risk in both names simultaneously means the same concentration could reverse just as fast; pre-earnings cut protocols are the guard
+- Hot CPI gate (core >2.5%) is correctly calibrated — prevented forcing LMT into a FOMC + earnings dense week; the gate's cost (deferred entry, continued under-deployment) is the correct trade-off given the density of binary events in the final stretch of October
+- XOM earnings Oct 23 pre-market confirmed (TipRanks) — treating Oct 23 as the date; same-week consecutive binaries (HON Oct 22 + XOM Oct 23) require a clear pre-earnings buffer protocol: HON buffer <5% before Oct 22 close = cut; XOM buffer <7% before Oct 23 open = cut; no waiting intraday on either
+
+### Adjustments for Next Week
+- **Monday Oct 20 first action:** Verify all 3 GTC stops ACTIVE at open (f5c51b1f CVX, 8303e452 HON, 7467f25a XOM); check HON buffer vs $194.517 — if <5% at open, execute pre-earnings cut immediately; HON earnings Oct 22 BMO (binary event in 2 trading sessions)
+- **HON Oct 22 (before open):** Hold through if buffer ≥5% on Oct 21 close; beat + strong guide = hold, monitor HWM advance; miss or guidance cut = thesis-break exit at Oct 22 open; do NOT hold a breaking thesis through the open
+- **XOM Oct 23 (before open):** After HON resolves, check XOM buffer — if <7% before Oct 22 close = pre-earnings cut; earnings Oct 23 BMO; if buffer ≥7%, hold through; beat + WTI >$88 = intact thesis; miss + WTI deterioration = exit at Oct 23 open
+- **FOMC Oct 28:** Hard block Oct 24–25 (no new entries 2 sessions before decision); earliest new entry Oct 29
+- **LMT Oct 29 (earliest):** Earnings cleared (Oct 22); FOMC resolved (Oct 28); entry ~20sh @$520–540 if gates pass (VIX <17, P/E ~17× ✓, ≤20% equity); place 10% GTC trail T+0; this remains the sole identified new-position candidate
+- **Post-earnings deployment:** If HON + XOM both pass their binaries with thesis intact, continue hold; if either exits, evaluate fresh candidate (AMAT, ETN, VLO) to fill the slot — do NOT let a resolved binary leave a permanent hole in deployment
+
+### Overall Grade: B+
+Rule adherence A (Columbus Day hold; LMT hot-CPI block; T+0 stop on XOM; no gate violations; all stops active and verified daily; XOM earnings date resolved same session), risk management A (all stop buffers ≥7.95% at close; CVX HWM auto-advanced daily; no cut triggers reached; consecutive binary event protocols clearly documented for next week), relative performance B+ (bot +2.18% vs S&P est ~+0.8% = ~+1.38% outperformance; best relative week since Jun 26 +2.10%; energy sector concentrated exposure was the correct bet this week; phase P&L recovered from −3.33% to −1.22% in one week — largest single-week improvement of the phase).
+
+---
