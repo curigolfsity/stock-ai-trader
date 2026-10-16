@@ -5985,3 +5985,15 @@ _Midday Oct 15: No action. CVX +5.19% (stop auto-advanced to $201.114; HWM $223.
 - FOMC gate: Oct 25–28; 5 trading days left; LMT only candidate (earliest Oct 29).
 
 _Midday Oct 16: No action. CVX +6.13% (buffer 9.60%). HON −0.30% recovering, buffer 7.95%. XOM +1.83%, earnings Oct 23 pre-market (TipRanks). Consecutive binary events HON Oct 22 + XOM Oct 23 next week. 3 positions, 57.6% deployed._
+
+
+---
+
+### Oct 16 — EOD Snapshot (Day 121, Friday)
+**Portfolio:** $98,778.60 | **Cash:** $41,702.62 (42.2%) | **Day P&L:** +$1,254.79 (+1.29%) | **Phase P&L:** −$1,221.40 (−1.22%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $224.795 | +2.50% | +$1,516.70 (+7.24%) | 10% GTC f5c51b1f (HWM $224.80, stop $202.32, buf 10.0%) |
+| HON | 79 | $211.95 | $211.93 | +0.68% | −$1.58 (−0.01%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 8.22%) ⚠️ |
+| XOM | 100 | $173.219 | $178.54 | +2.21% | +$532.11 (+3.07%) | 10% GTC 7467f25a (HWM $178.63, stop $160.767, buf 9.96%) |
+**Notes:** Day 121 (Friday) closes strong on energy sector tailwinds (Iran-Hormuz tensions). CVX hits new HWM $224.80 (+7.24% unrealized); stop auto-advanced by Alpaca to $202.32, buffer at 10.0%. XOM +2.21% intraday, +3.07% unrealized; HWM $178.63, stop $160.767, buffer 9.96%; earnings Oct 23 pre-market confirmed (5 calendar days). HON nearly breakeven at −0.01% unrealized (+0.68% intraday recovery); buffer 8.22% above pre-earnings 5% hold threshold; earnings Oct 22 Monday open — binary event 3 calendar days away. No trades today. 1 trade this week (XOM; 2 slots remain). 57.8% deployed vs 75–85% target. LMT blocked until Oct 29 (FOMC gate). Critical next week: HON Oct 22 pre-earnings cut rule (<5% buffer), XOM Oct 23 pre-earnings cut rule (<7% buffer).
