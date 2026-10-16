@@ -9770,3 +9770,77 @@ _Sources: Alpaca API (live), Research agent (BLS, Bloomberg, FXStreet, Fortune, 
 - **XOM earnings date discrepancy** — resolve before Oct 22 market open.
 
 _Sources: Alpaca API (live), WebSearch thesis check_
+
+---
+
+## Pre-Market Research — 2026-10-16 (Day 121, Friday)
+
+### Account Snapshot
+- **Equity:** $97,731.12 | **Cash:** $41,702.62 (42.7%) | **Deployed:** $56,028.50 (57.3%)
+- **Day P&L:** −$1.00 (flat) | **Phase P&L:** −$2,268.88 (−2.27%)
+- **Weekly trades:** 1/3 (XOM; 2 remaining) | **Daytrade count:** 0
+
+### Positions
+| Ticker | Shares | Entry | Last Close | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|------------|----------------|------|--------|
+| CVX | 100 | $209.628 | $219.32 | +$969.20 (+4.62%) | $201.114 GTC (HWM $223.46) | 8.30% ✓ |
+| HON | 79 | $211.95 | $210.50 | −$114.55 (−0.68%) | $194.517 GTC (HWM $216.13) | 7.59% ⚠️ |
+| XOM | 100 | $173.219 | $174.67 | +$145.10 (+0.84%) | $160.767 GTC (HWM $178.63) | 7.96% ✓ |
+
+### Market Context
+- **WTI crude:** ~$88–90/bbl (EIA 2026 avg $88.21; Oct data implies Brent ~$91–93)
+- **Brent crude:** ~$91–93/bbl; Kalshi prediction markets show elevated odds toward $100 on Iran-Hormuz tensions
+- **SPX / Dow:** S&P 500 closed prior week at ~7,811.54; Dow ~51,850; no live premarket quote available
+- **VIX:** ~20–24 (stale; last confirmed 24.33 on Apr 1; elevated rate environment)
+- **Today's releases:** Import/Export Price Indexes 8:30 ET; Industrial Production 9:15 ET; US bond market CLOSED (Columbus Day) — equities open; CME futures open
+- **FOMC:** Next decision Oct 28; FOMC gate starts ~Oct 25 (no new entries 2 sessions prior); effectively 5–6 trading days left for new trades
+- **Sector YTD leaders:** Energy +37.5% (#1), IT +27.1%, Industrials ~+20.6%
+- **Macro:** Iran-Israel tensions supporting energy; diesel/Russia trade deal noise; tech rotation slipping Oct 12; bond market closed today = lower institutional volume
+
+### Holdings News
+- **CVX:** No adverse news. Energy sector #1 YTD +37.5%. Earnings Oct 30. Stop buffer 8.30%. Thesis intact ✓
+- **HON:** Earnings Oct 22 (6 trading days) — binary event ⚠️. Aerospace spinoff complete; remaining HON = industrial automation + building automation + energy. −0.68% unrealized; stop buffer 7.59%. HON at ~$210.50 vs cut threshold $197.11. MONITOR closely into earnings.
+- **XOM:** Earnings date discrepancy unresolved (Oct 23 vs Oct 30) — MUST confirm before Oct 22 open. Wells Fargo Equal Weight cut was Oct 1. Guyana expansion on track. Stop buffer 7.96%. Thesis intact ✓
+
+### Trade Ideas
+
+**1. HOLD (primary decision)**
+- All three positions above stop thresholds; no cut triggers
+- 57.3% deployed vs 75–85% target — under-deployed but acceptable given: HON earnings Oct 22 binary risk, FOMC gate Oct 25, Columbus Day thin volume
+- No new energy adds (CVX + XOM already ~40% equity)
+
+**2. HON pre-earnings management — EVALUATE**
+- Oct 22 earnings (6 days) is a binary event; HON currently −0.68% unrealized, buffer 7.59%
+- Options: (a) hold through earnings with 7.59% buffer, (b) cut before earnings to avoid binary risk
+- HON is the weakest position; CFO guidance slightly below consensus; Aerospace spinoff adds complexity
+- Rule: "thesis broken → close regardless of P&L" — thesis still intact but binary risk is real
+- **Decision:** HOLD into earnings unless stop buffer narrows below 5% before Oct 22
+
+**3. LMT — POST-FOMC WATCH (Oct 29 earliest)**
+- Blocked by hot-CPI rule (core CPI 2.6% > 2.5%) AND FOMC gate Oct 25–28
+- Earliest entry: Oct 29 open (post-FOMC, LMT earnings Oct 22 already cleared)
+- Catalyst: $230B backlog, THAAD, Japan ASEV; defense cycle intact
+- Target entry: ~$520–540; stop 10% below; R:R ≥2:1
+
+**4. Energy add (VLO, SLB) — WATCH ONLY**
+- CVX + XOM ~40% equity — at upper concentration limit
+- No new energy buys until one exits
+- VLO (refining, clean fuels) and SLB (oilfield services) remain on watchlist
+
+### Risk Factors
+1. **HON earnings Oct 22** — 6 days; −0.68% unrealized; buffer 7.59%; binary event ⚠️
+2. **XOM earnings date** — Oct 23 vs Oct 30 UNCONFIRMED; confirm before Oct 22 open
+3. **FOMC gate Oct 25** — only 5 trading days left for new entries; LMT is only candidate (post-gate)
+4. **Columbus Day thin volume** — bond market closed; institutional participation lower; wider spreads possible
+5. **Iran-Hormuz tensions** — positive for energy thesis but tail risk if de-escalation causes oil spike reversal
+6. **Under-deployed (57.3%)** — below 75–85% target; needs 1–2 new positions but no near-term candidates past current constraints
+7. **CVX earnings Oct 30** — 10 trading days; monitor for binary risk overlap with HON/XOM
+
+### Decision: **HOLD**
+- No new trades today (Columbus Day thin volume, HON binary risk approaching, FOMC gate in 5 days)
+- CVX / HON / XOM: All GTC stops active; all above cut threshold; no tightening needed
+- HON: Monitor stop buffer daily; cut before Oct 22 if buffer narrows below 5%
+- XOM: Confirm earnings date (Oct 23 vs Oct 30) before Oct 22 open
+- LMT: On deck for Oct 29 entry post-FOMC + post-earnings
+
+_Sources: Alpaca API (live), WebSearch (EIA, Kalshi, sector data, earnings calendars)_
