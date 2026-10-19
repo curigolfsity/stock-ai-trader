@@ -9856,3 +9856,89 @@ _Sources: Alpaca API (live), WebSearch (EIA, Kalshi, sector data, earnings calen
 - No position changes at midday. All positions above thresholds; no cuts or tighten needed.
 
 _Sources: TipRanks (Oct 23 confirmed pre-market), Earnings Whispers (Oct 30 alternative)_
+
+
+---
+
+### Pre-Market — 2026-10-19 (Day 122, Monday)
+
+#### Account Snapshot
+- **Equity:** $98,686.32 | **Cash:** $41,702.62 (42.3%) | **Deployed:** $56,983.70 (57.7%)
+- **Phase P&L:** −$1,313.68 (−1.31%) | **Weekly trades:** 0/3 (new week)
+- **GTC Stops:** CVX f5c51b1f ✓ | HON 8303e452 ✓ | XOM 7467f25a ✓
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Status |
+|--------|--------|-------|---------|----------------|------|--------|--------|
+| CVX | 100 | $209.628 | $224.03 | +$1,440.20 (+6.87%) | 10% GTC f5c51b1f (HWM $225.31, stop $202.779, buf 9.49%) | HOLD ✓ |
+| HON | 79 | $211.95 | $212.30 | +$27.65 (+0.17%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 8.38%) | HOLD ⚠️ earnings Oct 22 |
+| XOM | 100 | $173.219 | $178.09 | +$487.10 (+2.81%) | 10% GTC 7467f25a (HWM $179.16, stop $161.244, buf 9.46%) | HOLD ✓ |
+
+#### GTC Stop Auto-Advances Since Oct 16 EOD
+- **CVX:** HWM $224.80 → $225.31; stop $202.32 → $202.779 ✓
+- **XOM:** HWM $178.63 → $179.16; stop $160.767 → $161.244 ✓
+- **HON:** HWM $216.13 unchanged (current $212.30 < HWM); stop $194.517 unchanged
+
+#### Market Context
+- **WTI:** ~$100.40 (−1.0%) | **Brent:** ~$107.80 (−1.9%) — US waived Russia sanctions/tariffs; more Russian supply expected; softening today after $110 Brent high on Friday
+- **SPX futures:** ~7,692 (flat) | **VIX:** ~16.88 (low, risk-on)
+- **Fed funds rate:** 3.75%–4.00% (25 bps hike Sep 16)
+- **FOMC:** Decision Oct 28 (Wed) 2 PM ET; gate Oct 26–28; no new entries those days; earliest new entry Oct 29
+
+#### Key Resolution: XOM Earnings Date
+- **Prior log (Oct 16 afternoon):** Treated as Oct 23 (TipRanks estimate)
+- **Today's research:** Multiple independent sources (Motley Fool Oct 16, RTT News, Seeking Alpha, Benzinga, Public.com) confirm **Oct 30** — ExxonMobil pre-announced Q3 data Oct 16 "a couple of weeks before its scheduled release (Oct. 30)"
+- **RESOLVED: XOM earnings = Oct 30 pre-market** (not Oct 23)
+- Pre-earnings cut rule updated: XOM buffer < 7% before **Oct 30** open (not Oct 23)
+- This week's binary event is HON ONLY (Oct 22); no consecutive HON+XOM binary events
+
+#### XOM Q3 Preview (Oct 30)
+- EPS consensus: $3.80–$3.83 (vs $1.88 YoY; refining margins +$4.5B vs Q2)
+- Revenue consensus: $102.02B
+- Refining margins hit record $7.8B Q3; timing effects −$2.5B (reversible)
+- Very bullish setup; stop buffer 9.46% well above 7% pre-earnings threshold
+
+#### HON Q3 Preview (Oct 22 pre-market)
+- EPS consensus: $2.17–$2.18 | Revenue: $5.01–$5.06B
+- Q3 guidance: $2.05–$2.20 (consensus near top of range)
+- YoY declines reflect divestitures/spinoffs, NOT demand weakness
+- Sentiment: 15/24 analysts Strong Buy; MarketBeat Hold with $250 PT
+- Buffer 8.38% > 5% hold threshold ✓ — hold unless buffer narrows below 5% before Oct 22 close
+
+#### Sector Momentum (YTD as of Aug 2026)
+1. Energy: +39.4% — #1 (thesis intact)
+2. Technology: +32.1% — #2
+3. Industrials: +20.6% — #3
+
+#### Trade Ideas
+**1. HOLD (primary decision)**
+- All positions above cut and buffer thresholds
+- 57.7% deployed (below 75-85% target) but blocked by HON binary event + FOMC gate timing
+
+**2. LMT — Oct 29 entry watch (blocked)**
+- Blocked by FOMC gate until Oct 29
+- Catalyst: $230B backlog, THAAD/Japan ASEV; defense cycle intact
+- Target entry: ~$520–540; stop 10% below; R:R ≥2:1
+- Available trading days before FOMC gate: Oct 20, 21, 22, 23 — but HON binary risk makes new entries inadvisable this week
+
+**3. Technology diversification — post-HON evaluation**
+- Energy at ~40.7% equity (CVX+XOM) — concentration at upper limit
+- Tech sector #2 YTD (+32.1%); would diversify away from energy
+- No action today; evaluate after HON Oct 22 binary resolves and FOMC gate clears
+
+#### Risk Factors
+1. **HON earnings Oct 22** — 3 trading days; buffer 8.38% (above 5% threshold); binary event ⚠️
+2. **CVX + XOM earnings Oct 30** — same week as post-FOMC entry window; concentration risk
+3. **Oil down today** — US-Russia sanctions waiver; headwind for CVX/XOM intraday
+4. **FOMC gate Oct 26–28** — 3-4 available trading days before gate (Oct 20–23)
+5. **Under-deployed 57.7%** — below 75-85% target; new positions constrained by timing
+6. **Energy concentration** — CVX+XOM = 40.7% of equity; no new energy adds until one exits
+
+#### Decision: **HOLD**
+- CVX / HON / XOM: all GTC stops active, all above thresholds, no cuts or tightening needed
+- HON: monitor buffer daily; cut before Oct 22 close if buffer narrows < 5%
+- XOM: pre-earnings cut rule updated to < 7% buffer before Oct 30 open (not Oct 23)
+- LMT: Oct 29 earliest entry (post-FOMC); maintain watch
+- No new positions this week — HON binary Oct 22 + FOMC gate Oct 26 constrains timing
+
+_Sources: Alpaca API (live), WebSearch (Motley Fool/Benzinga/RTT News XOM Oct 30 confirmation, HON earnings data, oil price, FOMC calendar, sector YTD)_
