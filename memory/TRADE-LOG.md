@@ -6053,3 +6053,14 @@ _Midday Oct 16: No action. CVX +6.13% (buffer 9.60%). HON −0.30% recovering, b
 - **FOMC gate Oct 26–28:** LMT earliest entry Oct 29.
 
 _Midday Oct 19: No action. CVX +6.77% (stop $203.094; HWM $225.66, buf 9.26%). HON −0.46% thesis intact, earnings Oct 22 in 2 sessions, buffer 7.80%. XOM +2.58% (stop $161.37; HWM $179.30, buf 9.18%). 3 positions, 57.7% deployed. No triggers. Phase P&L −$1,480 (−1.48%)._
+
+---
+
+### Oct 19 — EOD Snapshot (Day 122, Monday)
+**Portfolio:** $98,772.99 | **Cash:** $41,702.62 (42.2%) | **Day P&L:** −$28.02 (−0.03%) | **Phase P&L:** −$1,227.01 (−1.23%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $225.20 | +0.09% | +$1,557.20 (+7.43%) | 10% GTC f5c51b1f (HWM $225.66, stop $203.094, buf 9.82%) |
+| HON | 79 | $211.95 | $211.03 | −0.18% | −$72.68 (−0.43%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 7.83%) ⚠️ |
+| XOM | 100 | $173.219 | $178.79 | −0.11% | +$557.10 (+3.22%) | 10% GTC 7467f25a (HWM $179.30, stop $161.37, buf 9.74%) |
+**Notes:** Day 122 (Monday) closes slightly red (−$28.02, −0.03%) on mild broad-market softness — all three positions gave back a few ticks. CVX +7.43% unrealized, HWM $225.66 intact, buffer 9.82%. XOM +3.22% unrealized, buffer 9.74%; earnings confirmed Oct 30 pre-market. HON key watch: −0.43% unrealized, buffer 7.83% above 5% hold threshold; earnings Oct 22 pre-market (2 sessions). No trades executed. 0 trades this week (3 slots remain). 57.7% deployed vs 75–85% target. Phase P&L −$1,227 (−1.23%). Critical: HON earnings Oct 22 pre-market — cut if buffer < 5% before Oct 21 close.
