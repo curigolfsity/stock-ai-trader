@@ -10016,3 +10016,10 @@ _Sources: Alpaca API (live), WebSearch (Motley Fool/Benzinga/RTT News XOM Oct 30
 - LMT watch maintained for Oct 29+ entry
 
 _Sources: Alpaca API (live), WebSearch (EarningsWhispers/Kiplinger earnings calendar, Zacks/Yahoo HON estimates, MarketBeat HON Q3, oilprice.com/OilPriceAPI WTI estimates, regardsofwallstreet.com SPX futures/VIX)_
+
+### Oct 20 — Afternoon Addendum (Midday Scan)
+- **CVX:** $223.46 (−0.41% intraday); HWM $227.28, stop $204.552, buf 8.46%. GTC auto-advanced since Oct 19. Energy sector soft midday — oil retreating on US-Russia sanctions waiver rumors. Thesis intact.
+- **HON:** $213.035 (+1.45% intraday); HWM $216.13, stop $194.517, buf 8.69%. Pre-earnings bounce normal; buf well above 5% cut threshold. Earnings Oct 22 pre-mkt. **Critical: Oct 21 EOD cut rule < 5% ($202.75).**
+- **XOM:** $176.52 (−0.99% intraday); HWM $180.24, stop $162.216, buf 8.10%. GTC auto-advanced. Oil headwind same as CVX. Earnings Oct 30.
+- **No action taken.** All positions within thresholds.
+- **GE/RTX/NOC earnings out today:** Aerospace sector reactions mixed; no direct impact on our energy/industrial positions.
