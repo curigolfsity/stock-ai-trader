@@ -9942,3 +9942,77 @@ _Sources: TipRanks (Oct 23 confirmed pre-market), Earnings Whispers (Oct 30 alte
 - No new positions this week — HON binary Oct 22 + FOMC gate Oct 26 constrains timing
 
 _Sources: Alpaca API (live), WebSearch (Motley Fool/Benzinga/RTT News XOM Oct 30 confirmation, HON earnings data, oil price, FOMC calendar, sector YTD)_
+
+---
+
+## 2026-10-20 — Pre-Market Research (Day 123, Tuesday)
+
+### Account Snapshot
+- **Equity:** $99,001.04 | **Cash:** $41,702.62 (42.2%) | **Deployed:** $57,298.42 (57.8%)
+- **Daytrade count:** 0 this week (3 slots remain)
+- **Phase P&L:** ~−$999 (−1.0% vs starting ~$100k)
+
+### Live Positions (pre-market)
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Intraday | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $227.00 | +$1,737.20 (+8.29%) | +1.17% | 10% GTC f5c51b1f (HWM $225.66→$227, stop $203.09→$204.30*) | 10.53% |
+| HON | 79 | $211.95 | $209.98 | −$155.63 (−0.93%) | 0% | 10% GTC 8303e452 (HWM $216.13, stop $194.517) | 7.36% ⚠️ |
+| XOM | 100 | $173.219 | $180.10 | +$688.10 (+3.97%) | +1.02% | 10% GTC 7467f25a (HWM $179.30→$180.10, stop $161.37→$162.09*) | 10.40% |
+*Stop auto-advances to new HWM * 0.90 during live session.
+
+### Market Context
+- **WTI Crude:** ~$99–103/bbl (range from sources; Oct 19 close ~$99–103); sustained above $96 support
+- **Brent Crude:** ~$107–110/bbl; Iran-Hormuz supply tension ongoing
+- **S&P 500 Futures:** ~7,692 (−0.02%); near flat premarket
+- **VIX:** ~16.88 (−1.29%); low — complacent market ahead of big earnings week
+- **10yr Yield:** ~4.5% (FOMC at 3.75–4.00%; Oct 28 decision)
+
+### Today's Major Earnings (Before Open Oct 20)
+- **GE Aerospace (GE):** EPS est $2.01 — defense/aerospace bellwether
+- **RTX (Raytheon):** EPS est $1.76–$1.79, rev ~$24.3B
+- **General Motors (GM):** EPS est $3.52
+- **Northrop Grumman (NOC):** EPS est $7.18–$7.22
+- **3M (MMM), Halliburton (HAL), KeyCorp (KEY), Equifax (EFX), Ally Financial (ALLY)** — 28 reports before open
+- **After close:** Netflix (NFLX, ±9% implied), United Airlines (UAL), Capital One
+
+### HON Earnings Preview (Oct 22 pre-market — Thursday)
+- **EPS consensus:** $2.17 (Zacks/Yahoo) vs guidance $2.05–$2.20; 60-day ago was $2.19
+- **Revenue consensus:** $5.01B
+- **Context:** Honeywell Aerospace Technologies spun off June 29, 2026 → YoY comparisons distorted; HON now = "Honeywell Technologies" (standalone)
+- **Track record:** Beat EPS in each of last 4 quarters
+- **Analyst sentiment:** Moderate Buy; avg PT $253.92
+- **HON buffer:** 7.36% > 5% hold threshold → **HOLD** through earnings
+- **Cut rule:** If buffer narrows below 5% (current price ~$204.76) before Oct 21 close → cut preemptively
+
+### Economic Calendar
+- **Oct 20:** ADP employment entry noted; no major CPI/PPI/FOMC releases
+- **Oct 28:** FOMC rate decision — FOMC gate Oct 26–28 (no new entries)
+
+### GTC Stop Status
+- **CVX:** HWM $225.66 → $227.00 (price above prior HWM); stop auto-advances to ~$204.30 during session ✓
+- **XOM:** HWM $179.30 → $180.10; stop auto-advances to ~$162.09 during session ✓
+- **HON:** HWM $216.13, stop $194.517, buffer 7.36% — unchanged (no new HWM) ⚠️ earnings Oct 22
+
+### Trade Ideas
+1. **HOLD (primary)** — All positions above cut and buffer thresholds; no action needed
+2. **LMT — Oct 29 watch (blocked)** — FOMC gate Oct 26–28; earliest entry Oct 29; $230B backlog, defense cycle intact; entry ~$520–540; stop 10%; R:R ≥ 2:1
+3. **Tech diversification (post-HON/FOMC)** — Tech #2 YTD (+32.1%); evaluate after Oct 22 HON binary + Oct 28 FOMC; no action this week
+
+### Risk Factors
+1. **HON earnings Oct 22 (Thursday)** — binary event; buffer 7.36% above 5% threshold; monitor Oct 21 close ⚠️
+2. **HAL earnings today** — energy services bellwether; beat could reinforce energy thesis; miss could pressure CVX/XOM intraday
+3. **Large industrials/defense earnings today** — GE/RTX/NOC; sets sector tone for industrials (HON relevant)
+4. **Oil price uncertainty** — WTI $99–103 range; above $96 support; supply tension supports CVX/XOM
+5. **FOMC gate Oct 26–28** — only 3 available sessions (Oct 23, 24, 25) but HON binary makes new entries inadvisable this week anyway; effectively no new entry until Oct 29
+6. **Energy concentration** — CVX+XOM ~40.7% equity; no new energy adds until one exits
+7. **Under-deployed 57.8%** — below 75–85% target; constrained by HON binary + FOMC gate timing
+
+### Decision: **HOLD**
+- CVX / HON / XOM: all GTC stops active, all above thresholds; no cuts or tightening needed
+- CVX +8.29%: stop auto-advances with new HWM $227; buffer 10.53% ✓
+- XOM +3.97%: stop auto-advances with new HWM $180.10; buffer 10.40% ✓
+- HON −0.93%: buffer 7.36% > 5% pre-earnings threshold; monitor Oct 21 close — cut if buffer < 5%
+- **No new positions this week:** HON binary Oct 22 + FOMC gate Oct 26 constrains timing; new entry window opens Oct 29
+- LMT watch maintained for Oct 29+ entry
+
+_Sources: Alpaca API (live), WebSearch (EarningsWhispers/Kiplinger earnings calendar, Zacks/Yahoo HON estimates, MarketBeat HON Q3, oilprice.com/OilPriceAPI WTI estimates, regardsofwallstreet.com SPX futures/VIX)_
