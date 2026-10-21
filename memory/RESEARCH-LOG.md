@@ -10023,3 +10023,62 @@ _Sources: Alpaca API (live), WebSearch (EarningsWhispers/Kiplinger earnings cale
 - **XOM:** $176.52 (−0.99% intraday); HWM $180.24, stop $162.216, buf 8.10%. GTC auto-advanced. Oil headwind same as CVX. Earnings Oct 30.
 - **No action taken.** All positions within thresholds.
 - **GE/RTX/NOC earnings out today:** Aerospace sector reactions mixed; no direct impact on our energy/industrial positions.
+
+---
+
+## Pre-Market Research — 2026-10-21 (Day 124, Wednesday)
+
+### Account Snapshot
+- **Equity:** $98,893.55 | **Cash:** $41,702.62 (42.2%) | **Deployed:** $57,190.93 (57.8%) | **Day P&L:** −$18.35 (−0.02%)
+- **Positions:** 3 | **Weekly trades:** 0/3 | **Daytrade count:** 0
+- CVX: 100 × $226.00 | unrealized +$1,637.20 (+7.81%) | stop $204.552 (HWM $227.28, buf 9.49%)
+- HON: 79 × $212.67 | unrealized +$56.88 (+0.34%) | stop $194.517 (HWM $216.13, buf 8.54%) ⚠️ EARNINGS OCT 22 PRE-MKT
+- XOM: 100 × $177.90 | unrealized +$468.10 (+2.70%) | stop $162.216 (HWM $180.24, buf 8.82%)
+
+### Market Context
+- **WTI Crude:** ~$99.18 (+1.4%) | **Brent:** ~$110.38 (+1.5%) — Middle East supply fears, Iran tanker route tension, record freight rates
+- **S&P 500 Futures:** ~7,784 (+0.2%) — AI earnings optimism (SpaceX/NFLX beat) lifting Nasdaq futures +0.7%
+- **VIX:** ~17.3–18.7 (sources vary) — low-moderate; complacent but not extreme
+- **10yr Yield:** ~4.5% (FOMC at 3.75–4.00%; Oct 28 decision); yield sustained >4.5% → high-multiple growth hold-only mode active
+
+### Today's Catalysts (Oct 21)
+**Before open:** Abbott (ABT), AT&T (T), Thermo Fisher (TMO), Philip Morris (PM), NextEra (NEE), Danaher (DHR), Texas Instruments (TXN), CME Group (CME)
+**After close:** Tesla (TSLA, est. EPS $0.45 flat), Meta (META), IBM (est. $2.89) — big tech earnings
+**SpaceX (SPCX) / Netflix (NFLX):** reported after Tuesday close; reactions carrying into Wednesday open
+
+### HON Earnings Preview (Oct 22, TOMORROW, pre-market 8:30 AM ET) ⚠️
+- Consensus EPS: $2.17 (guidance $2.05–$2.20); Revenue: $5.01B
+- Beat EPS in last 4 quarters; standalone co post-aerospace spinoff Jun 29 — YoY comps distorted
+- HON buffer: 8.54% > 5% hold threshold → **HOLD** ✓
+- Cut trigger: if buffer < 5% at TODAY's (Oct 21) close → price below ~$204.76 → cut before earnings
+- Analyst consensus: Hold; avg PT $253.92
+
+### CVX / XOM News
+- **CVX:** Goldman Sachs PT raised $228 → $241; BMO raised to $240. XOM at new all-time high, up ~50% YTD
+- **Oil thesis intact:** WTI $99 (+1.4%), Brent $110 (+1.5%); supply fears from Middle East/Iran corridor; falling US inventories
+- **Political risk:** Trump "too much money" comments (Aug 3) — background noise, not new catalyst
+- **CVX earnings Oct 30, XOM earnings Oct 30** — no binary event this week
+
+### Trade Ideas
+1. **HOLD CVX** — $241 PT upside; oil $99 tailwind; stop $204.552; buffer 9.49% ✓
+2. **HOLD HON** — buffer 8.54% > 5%; earnings tomorrow — monitor close today; cut below $204.76 EOD
+3. **HOLD XOM** — new ATH thesis; oil intact; stop $162.216; buffer 8.82% ✓
+4. **LMT watch (Oct 29+ earliest)** — blocked: HON binary today/tomorrow + FOMC gate Oct 26–28; $230B backlog, defense cycle; entry ~$520–540 on pullback
+5. **TXN post-earnings** — reports today after hours; if guidance signals semiconductor demand recovery, consider entry Oct 22–23 if it pulls back 3–5% from reaction high; would be Tech sector entry (sector #2 YTD +32%)
+
+### Risk Factors
+1. ⚠️ **HON earnings Oct 22 pre-mkt** — binary; buffer 8.54% > 5%; monitor Oct 21 close
+2. **TSLA/META/IBM after close** — tech-sector sentiment driver; TSLA expected weak (EPS −10%)
+3. **Oil volatility** — WTI +1.4% today; Iran talks rumors → sudden supply relief could reverse
+4. **FOMC gate Oct 26–28** — 3 available sessions (Oct 22–24) blocked by HON; effective new-entry window Oct 29
+5. **Energy concentration** — CVX+XOM ~40.9% equity; no new energy adds
+6. **Under-deployed 57.8%** — below 75–85% target; constrained by HON binary + FOMC gate; will address post-Oct 29
+
+### Decision: **HOLD**
+- All 3 positions above cut and buffer thresholds — no action needed at open
+- HON: buffer 8.54% > 5% → hold through close; cut only if price falls below ~$204.76 at Oct 21 EOD
+- No new trades: HON binary event tomorrow; FOMC gate opens Oct 26; earliest new entry Oct 29 (LMT primary watch)
+- GTC stops active on all positions; auto-advances continue via Alpaca
+
+_Sources: Alpaca API (live positions/orders), WebSearch (FinanceFeeds/OilPriceAPI WTI/Brent, CNBC/CNN SPX futures, MarketBeat/Yahoo HON estimates, Kiplinger earnings calendar, Motley Fool XOM ATH, MarketScreener CVX PT)_
+
