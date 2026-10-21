@@ -6166,3 +6166,15 @@ _Midday Oct 20: No action. CVX +6.60% (buf 8.46%, stop $204.552). HON +0.51%, bu
 
 _Midday Oct 21: No action. CVX +8.03% (buf 9.67%, stop $204.552). HON +0.885%, earnings Oct 22 pre-mkt — buf 9.03% > 5% cut threshold (safe at midday). XOM +2.57% (buf 8.70%, stop $162.216). Phase P&L ~−$993 (−0.99%). Weekly trades 0/3._
 **Notes:** Day 123 (Tuesday) finishes slightly red (−$93.46, −0.09%) — XOM pulled back on oil softness (−0.54%) while CVX (+0.21%) and HON (+1.04%) posted gains. HON buffer improved to 8.31% well above the 5% pre-earnings hold threshold; HON earnings Oct 22 pre-market remains the critical watch — will cut if buffer < 5% ($201.65) at Oct 21 close. No stop HWM advances today (all three positions closed below their prior HWMs). No trades executed. 0 trades this week (3 slots remain). 57.8% deployed vs 75–85% target. Phase P&L −$1,320 (−1.32%). FOMC gate Oct 26–28; LMT earliest entry Oct 29.
+
+---
+
+### Oct 21 — EOD Snapshot (Day 124, Wednesday)
+**Portfolio:** $99,314.61 | **Cash:** $41,702.62 (42.0%) | **Day P&L:** +$402.71 (+0.41%) | **Phase P&L:** −$685.39 (−0.69%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $228.215 | +1.11% | +$1,858.70 (+8.87%) | 10% GTC f5c51b1f (HWM $228.33, stop $205.497, buf 9.95%) |
+| HON | 79 | $211.95 | $214.013 | +0.32% | +$162.94 (+0.97%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 9.11%) ⚠️ earnings Oct 22 pre-mkt |
+| XOM | 100 | $173.219 | $178.86 | +0.56% | +$564.10 (+3.26%) | 10% GTC 7467f25a (HWM $180.24, stop $162.216, buf 9.31%) |
+
+**Notes:** Day 124 (Wednesday) finished green (+$402.71, +0.41%) with all three positions advancing. CVX led the day (+1.11%) as WTI firmed; HWM auto-advanced to $228.33 with stop moving up to $205.497 (buffer 9.95%). HON closed +0.32% with buffer 9.11% at EOD — well above the 5% pre-earnings hold threshold ($202.75) — HOLD into Q3 earnings Oct 22 pre-market. XOM added +0.56% on continued energy strength with buffer 9.31%. No trades executed (0 this week, 3 slots remain). Phase P&L improved to −$685.39 (−0.69%) from −$1,088 yesterday. Deployed 58.0% vs. 75–85% target — under-deployed pending FOMC gate (Oct 26–28); LMT earliest entry Oct 29.
