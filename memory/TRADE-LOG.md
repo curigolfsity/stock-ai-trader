@@ -6115,4 +6115,54 @@ _Midday Oct 20: No action. CVX +6.60% (buf 8.46%, stop $204.552). HON +0.51%, bu
 | CVX | 100 | $209.628 | $224.84 | +0.21% | +$1,521.20 (+7.26%) | 10% GTC f5c51b1f (HWM $227.28, stop $204.552, buf 9.02%) |
 | HON | 79 | $211.95 | $212.16 | +1.04% | +$16.36 (+0.10%) | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 8.31%) ⚠️ earnings Oct 22 |
 | XOM | 100 | $173.219 | $177.33 | −0.54% | +$410.60 (+2.37%) | 10% GTC 7467f25a (HWM $180.24, stop $162.216, buf 8.52%) |
+
+---
+
+### Midday Scan — 2026-10-21 (Day 124, Wednesday)
+
+- **Account:** Equity ~$99,007 | Cash $41,702.62 (42.1%) | Deployed $57,305 (57.9%) | Weekly trades: 0/3
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $226.46 | +$1,683.20 (+8.03%) | +0.33% | 10% GTC f5c51b1f (HWM $227.28, stop $204.552, buf 9.67%) | HOLD ✓ |
+| HON | 79 | $211.95 | $213.825 | +$148.13 (+0.885%) | +0.24% | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 9.03%) | HOLD ⚠️ earnings Oct 22 |
+| XOM | 100 | $173.219 | $177.665 | +$444.60 (+2.57%) | −0.11% | 10% GTC 7467f25a (HWM $180.24, stop $162.216, buf 8.70%) | HOLD ✓ |
+
+#### STEP 3 — Cut Check
+- CVX +8.03%: No trigger ✓
+- HON +0.885%: No trigger ✓
+- XOM +2.57%: No trigger ✓
+
+#### STEP 4 — Stop Tighten Check
+- CVX: +15% at $241.07 — not reached ✓
+- HON: Not a winner — no action ✓
+- XOM: +15% at $199.20 — not reached ✓
+
+#### GTC Stops — Auto-Advanced Since Oct 20 EOD
+- CVX: HWM $227.28 unchanged (current $226.46 < HWM); stop $204.552 unchanged ✓
+- XOM: HWM $180.24 unchanged (current $177.665 < HWM); stop $162.216 unchanged ✓
+- HON: HWM $216.13 unchanged; stop $194.517 unchanged ⚠️
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — +8.03% unrealized; WTI ~$99 / Brent ~$110 intact; Goldman Sachs PT $241 / BMO $240; earnings Oct 30; buffer 9.67% ✓
+- **HON:** INTACT (earnings tomorrow) — +0.885% unrealized; buffer 9.03% well above 5% pre-earnings cut threshold ($204.76); no new adverse pre-earnings news intraday ⚠️
+- **XOM:** INTACT — +2.57% unrealized; oil thesis intact; buffer 8.70%; earnings Oct 30 ✓
+
+#### STEP 6 — Intraday Research
+- No position moving sharply without obvious cause; all intraday moves within normal range and macro-explained (oil price + earnings anticipation)
+- TSLA/META/IBM reporting after close today — monitoring for tech sentiment read-through into Thursday
+
+#### HON Pre-Earnings Critical Check
+- Buffer 9.03% midday → **well above 5% hold threshold** ✓
+- Cut trigger: price below ~$204.76 at Oct 21 close → no trigger at midday ($213.825)
+- Trailing stop GTC 8303e452 active; HWM $216.13; stop $194.517 ✓
+
+#### Actions
+- **NO TRADES EXECUTED.** No cuts triggered. No stop tightening needed.
+- GTC stops: all active and auto-advancing with market; no new HWMs today (all positions below prior HWMs)
+- HON: monitor Oct 21 EOD close — cut only if price falls below ~$204.76
+- FOMC gate Oct 26–28: no new entries until Oct 29; LMT on watch
+
+_Midday Oct 21: No action. CVX +8.03% (buf 9.67%, stop $204.552). HON +0.885%, earnings Oct 22 pre-mkt — buf 9.03% > 5% cut threshold (safe at midday). XOM +2.57% (buf 8.70%, stop $162.216). Phase P&L ~−$993 (−0.99%). Weekly trades 0/3._
 **Notes:** Day 123 (Tuesday) finishes slightly red (−$93.46, −0.09%) — XOM pulled back on oil softness (−0.54%) while CVX (+0.21%) and HON (+1.04%) posted gains. HON buffer improved to 8.31% well above the 5% pre-earnings hold threshold; HON earnings Oct 22 pre-market remains the critical watch — will cut if buffer < 5% ($201.65) at Oct 21 close. No stop HWM advances today (all three positions closed below their prior HWMs). No trades executed. 0 trades this week (3 slots remain). 57.8% deployed vs 75–85% target. Phase P&L −$1,320 (−1.32%). FOMC gate Oct 26–28; LMT earliest entry Oct 29.
