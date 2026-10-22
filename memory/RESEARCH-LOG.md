@@ -10082,3 +10082,66 @@ _Sources: Alpaca API (live), WebSearch (EarningsWhispers/Kiplinger earnings cale
 
 _Sources: Alpaca API (live positions/orders), WebSearch (FinanceFeeds/OilPriceAPI WTI/Brent, CNBC/CNN SPX futures, MarketBeat/Yahoo HON estimates, Kiplinger earnings calendar, Motley Fool XOM ATH, MarketScreener CVX PT)_
 
+
+---
+
+## Pre-Market Research — 2026-10-22 (Day 125, Thursday)
+
+### Account Snapshot
+- **Equity:** $99,632.52 | **Cash:** $41,702.62 (41.9%) | **Deployed:** $57,929.90 (58.1%)
+- **Day P&L:** +$479.23 (+0.48%) | **Phase P&L:** −$367.48 (−0.37%)
+- **Positions:** 3 | **Weekly trades:** 0/3 | **Daytrade count:** 0
+- CVX: 100 × $229.50 | unrealized +$1,987.20 (+9.48%) | stop $205.632 (HWM $228.48, buf 10.40%)
+- HON: 79 × $214.10 | unrealized +$169.85 (+1.01%) | stop $194.517 (HWM $216.13, buf 9.15%) ⚠️ EARNINGS OUT PRE-MKT TODAY
+- XOM: 100 × $180.66 | unrealized +$744.10 (+4.30%) | stop $162.216 (HWM $180.24, buf 9.20%)
+
+### Market Context
+- **WTI Crude:** ~$99 (+ongoing; US-Iran tanker tensions, inventories −4.9M bbls) | **Brent:** ~$110
+- **S&P 500 Futures:** Lower; Nasdaq-100 futures ~−1.8% — tech earnings selloff (TSLA −5%, LRCX −8.94%, META slightly lower)
+- **VIX:** ~19–21 (elevated from yesterday's ~17; tech-driven spike)
+- **10yr Yield:** ~4.5% (FOMC Oct 28; high-multiple growth hold-only mode ACTIVE)
+- **Sector YTD (as of Oct 16):** Energy #1 (+49.5%), Technology #2 (~+38%); S&P 500 +11.7%
+
+### Today's Key Catalysts (Oct 22)
+- **HON:** Reported pre-market; price −0.29% intraday (muted vs ±5.7% implied move — no large negative surprise)
+- **LMT:** Reported pre-market today; pre-earnings Yahoo title hinted possible miss; consensus EPS ~$7.43–$7.52
+- **TSLA:** EPS $0.48 beat (est $0.45); stock −5% — guidance concern
+- **META:** Slight beat; stock slightly lower
+- **LRCX (Lam Research):** Beat + −8.94% — typical semi sell-the-news
+- **IBM:** EPS $2.95 beat (est $2.86); positive
+- **Also reporting today:** PG, Comcast, Spotify, Western Digital
+
+### HON Post-Earnings Analysis ⚠️
+- Price $214.10 (−$0.63, −0.29%) — muted vs. ±$12.13 implied; no material negative surprise
+- Buffer 9.15% — well above 5% manual-cut threshold
+- Q3 consensus EPS $2.17 / Rev $5.01B; 8-consecutive-beat track record
+- **Thesis:** INTACT — post-earnings price reaction benign; stop $194.517 active
+- **Action:** HOLD; monitor intraday for any late analyst revisions or guidance cuts
+
+### CVX / XOM — Thesis Check
+- **CVX:** +9.48% unrealized; WTI $99 intact; Goldman Sachs PT $241; HWM $228.48 (stop auto-advanced to $205.632); earnings Oct 30 — no binary event this week ✓
+- **XOM:** +4.30% unrealized; XOM approaching new HWM ($180.66 vs $180.24); buf 9.20%; earnings Oct 30 ✓
+- **Oil thesis:** INTACT — US-Iran tension, inventories bullish, Brent $110
+
+### Trade Ideas
+1. **HOLD CVX** — oil $99 WTI; Goldman PT $241; buf 10.40% ✓
+2. **HOLD HON** — post-earnings muted reaction; buf 9.15% > 5% ✓
+3. **HOLD XOM** — oil thesis intact; approaching new HWM; buf 9.20% ✓
+4. **LMT (watch Oct 29+ only)** — blocked by FOMC gate Oct 26–28; Q3 results out today — verify EPS/beat before Oct 29 entry; $230B backlog, defense cycle catalyst; target entry $520–540; stop ~$483; target $580 (2.2:1 R:R)
+5. **Tech recovery (post Oct 28)** — NVDA/MSFT as potential entries after FOMC gate; sector-#2 on pullback if tech stabilizes; hold-only mode on high-P/E names while yield ≥4.5%
+
+### Risk Factors
+1. **Tech earnings contagion** — Nasdaq-100 −1.8% futures; risk-off could pressure all sectors
+2. **HON post-earnings drift** — buf 9.15% adequate; no action needed unless price breaks below $204.76 (5% buf)
+3. **LMT Q3 potential miss** — confirm results before committing to Oct 29 entry thesis
+4. **FOMC gate Oct 26–28** — no new entries; 3 sessions (Oct 22–25) remain before gate opens
+5. **Energy concentration** — CVX+XOM ~41.6% equity; no new energy entries
+6. **Under-deployed 58.1%** — below 75–85% target; constrained by FOMC gate; address Oct 29+
+
+### Decision: **HOLD**
+- All 3 positions above cut thresholds; no stop tightening triggered
+- HON post-earnings holding at $214.10 with 9.15% buffer — no action
+- No new trades: FOMC gate Oct 26–28; LMT earliest entry Oct 29
+- GTC stops active on all positions
+
+_Sources: Alpaca API (live positions/orders), WebSearch (5paisa/Mitrade WTI/Brent, Benzinga/CNBC SPX futures/earnings, MarketBeat LMT estimates, Yahoo Finance HON/LMT results, Tapeboard sector performance, macrotrends WTI YTD)_
