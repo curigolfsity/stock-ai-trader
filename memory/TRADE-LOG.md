@@ -6224,3 +6224,15 @@ _Midday Oct 21: No action. CVX +8.03% (buf 9.67%, stop $204.552). HON +0.885%, e
 - LMT: Q3 strong beat confirms Oct 29 entry watch
 
 _Midday Oct 22: No action. CVX +7.15% (HWM $229.04, stop $206.136, buf 8.23%). HON +1.84%, post-earnings EPS beat + guidance raise, buf 9.88% ✓. XOM +1.69% (HWM $180.31, stop $162.279, buf 7.87%). Phase P&L ~−$1,168 (−1.17%). Weekly trades 0/3._
+
+---
+
+### Oct 22 — EOD Snapshot (Day 125, Thursday)
+**Portfolio:** $99,215.88 | **Cash:** $41,702.62 (42.0%) | **Day P&L:** −$98.73 (−0.10%) | **Phase P&L:** −$784.12 (−0.78%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $226.60 | −0.08% | +$1,697.20 (+8.10%) | 10% GTC f5c51b1f (HWM $229.04, stop $206.136, buf 9.03%) |
+| HON | 79 | $211.95 | $215.94 | +0.56% | +$315.21 (+1.88%) | 10% GTC 8303e452 (HWM $217.45, stop $195.706, buf 9.35%) |
+| XOM | 100 | $173.219 | $177.94 | −0.08% | +$472.10 (+2.73%) | 10% GTC 7467f25a (HWM $180.31, stop $162.279, buf 8.80%) |
+
+**Notes:** Day 125 (Thursday) finishes slightly red (−$98.73, −0.10%) — energy sector gave back modest intraday gains (CVX −0.08%, XOM −0.08%) as oil pulled off session highs. HON was the day's standout: post-earnings continued strength (+0.56%) drove a new intraday HWM of $217.45, auto-advancing the trailing stop to $195.706 (buffer 9.35%). All three positions held well above cut thresholds and stop buffers comfortable. No trades executed; 0 this week (3 slots remain). 58.0% deployed vs 75–85% target — under-deployed pending FOMC gate (Oct 26–28); LMT earliest entry Oct 29. Phase P&L deteriorated slightly to −$784.12 (−0.78%) from −$685.39 prior day.
