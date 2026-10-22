@@ -10145,3 +10145,12 @@ _Sources: Alpaca API (live positions/orders), WebSearch (FinanceFeeds/OilPriceAP
 - GTC stops active on all positions
 
 _Sources: Alpaca API (live positions/orders), WebSearch (5paisa/Mitrade WTI/Brent, Benzinga/CNBC SPX futures/earnings, MarketBeat LMT estimates, Yahoo Finance HON/LMT results, Tapeboard sector performance, macrotrends WTI YTD)_
+
+### Afternoon Addendum — Midday Oct 22
+- **HON post-earnings (confirmed):** Adj. EPS $2.27 BEAT (est. $2.16–2.19; +34% YoY); Rev $4.99B slight miss (est. $5.01B); FY2026 guidance raised $8.40–$8.45; stock +0.52% intraday at midday — sell-the-news dip recovered; thesis INTACT; buffer 9.88% ✓
+- **WTI:** ~$99 (+1.4–2.3%); Brent ~$110; Hormuz/Iran tensions + US inventory draws; energy thesis INTACT
+- **CVX/XOM:** Mild intraday pullback (−0.95%/−1.09%) despite oil up — profit-taking/sector rotation; no thesis break; GTC stops auto-advanced (CVX HWM $229.04, XOM HWM $180.31)
+- **LMT Q3 (pre-mkt today):** EPS $7.97 BEAT (est. $7.43–$7.52); Rev $20.7B BEAT; record backlog $292B (up from $230B prior); Oct 29 entry thesis strengthened
+- **Actions:** NO trades. All 3 theses intact. FOMC gate Oct 26–28 still active. LMT earliest entry Oct 29.
+
+_Sources: SEC 8-K HON Q3 2026, SEC 8-K LMT Q3 2026, Mitrade WTI Oct 22, Alpaca live positions/orders_

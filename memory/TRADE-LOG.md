@@ -6178,3 +6178,49 @@ _Midday Oct 21: No action. CVX +8.03% (buf 9.67%, stop $204.552). HON +0.885%, e
 | XOM | 100 | $173.219 | $178.86 | +0.56% | +$564.10 (+3.26%) | 10% GTC 7467f25a (HWM $180.24, stop $162.216, buf 9.31%) |
 
 **Notes:** Day 124 (Wednesday) finished green (+$402.71, +0.41%) with all three positions advancing. CVX led the day (+1.11%) as WTI firmed; HWM auto-advanced to $228.33 with stop moving up to $205.497 (buffer 9.95%). HON closed +0.32% with buffer 9.11% at EOD — well above the 5% pre-earnings hold threshold ($202.75) — HOLD into Q3 earnings Oct 22 pre-market. XOM added +0.56% on continued energy strength with buffer 9.31%. No trades executed (0 this week, 3 slots remain). Phase P&L improved to −$685.39 (−0.69%) from −$1,088 yesterday. Deployed 58.0% vs. 75–85% target — under-deployed pending FOMC gate (Oct 26–28); LMT earliest entry Oct 29.
+
+---
+
+### Midday Scan — 2026-10-22 (Day 125, Thursday)
+
+- **Account:** Equity ~$98,832 | Cash $41,702.62 (42.2%) | Deployed $57,129 (57.8%) | Weekly trades: 0/3
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $224.62 | +$1,499.20 (+7.15%) | −0.95% | 10% GTC f5c51b1f (HWM $229.04, stop $206.136, buf 8.23%) | HOLD ✓ |
+| HON | 79 | $211.95 | $215.85 | +$308.10 (+1.84%) | +0.52% | 10% GTC 8303e452 (HWM $216.13, stop $194.517, buf 9.88%) | HOLD ✓ post-earnings |
+| XOM | 100 | $173.219 | $176.15 | +$293.10 (+1.69%) | −1.09% | 10% GTC 7467f25a (HWM $180.31, stop $162.279, buf 7.87%) | HOLD ✓ |
+
+#### STEP 3 — Cut Check
+- CVX +7.15%: No trigger ✓
+- HON +1.84%: No trigger ✓
+- XOM +1.69%: No trigger ✓
+
+#### STEP 4 — Stop Tighten Check
+- CVX +7.15%: +15% at $241.07 — not reached ✓
+- HON +1.84%: Not a winner — no action ✓
+- XOM +1.69%: +15% at $199.20 — not reached ✓
+
+#### GTC Stops — Auto-Advanced Since Oct 21 EOD
+- CVX: HWM $229.04 (advanced from $228.33); stop $206.136 (buf 8.23%) ✓
+- XOM: HWM $180.31 (advanced from $180.24); stop $162.279 (buf 7.87%) ✓
+- HON: HWM $216.13 unchanged; stop $194.517 unchanged ✓
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — +7.15% unrealized; WTI ~$99 +1.4–2.3% today (Hormuz tensions, inventory draws); intraday −0.95% profit-taking despite bullish oil; HWM $229.04; earnings Oct 30 ✓
+- **HON:** INTACT (post-earnings) — Adj. EPS $2.27 BEAT (+34% YoY; est. $2.16–2.19); Rev $4.99B slight miss (est. $5.01B); FY2026 guidance raised $8.40–$8.45; stock recovered to +0.52% intraday at midday after initial sell-the-news dip; buffer 9.88% well above 5% cut threshold ($204.76) ✓
+- **XOM:** INTACT — +1.69% unrealized; oil thesis intact; intraday −1.09% sector rotation; HWM $180.31; earnings Oct 30 ✓
+
+#### STEP 6 — Intraday Research
+- **LMT Q3 2026 (pre-mkt today):** EPS $7.97 vs $7.43–$7.52 est. BEAT; Rev $20.7B vs $20.42B BEAT; record backlog $292B → LMT Oct 29 entry thesis strengthened
+- **Energy sector:** WTI ~$99 (+1.4–2.3%), Brent ~$110; Hormuz/Iran tensions + US inventory draws; CVX/XOM mild pullback = profit-taking, not thesis break
+- **FOMC gate Oct 26–28:** still active; no new entries; LMT earliest entry Oct 29
+
+#### Actions
+- **NO TRADES EXECUTED.** No cuts triggered. No stop tightening needed.
+- GTC stops active; CVX HWM advanced to $229.04 (stop $206.136); XOM HWM advanced to $180.31 (stop $162.279)
+- HON: post-earnings thesis intact; buffer 9.88% ✓
+- LMT: Q3 strong beat confirms Oct 29 entry watch
+
+_Midday Oct 22: No action. CVX +7.15% (HWM $229.04, stop $206.136, buf 8.23%). HON +1.84%, post-earnings EPS beat + guidance raise, buf 9.88% ✓. XOM +1.69% (HWM $180.31, stop $162.279, buf 7.87%). Phase P&L ~−$1,168 (−1.17%). Weekly trades 0/3._
