@@ -1315,3 +1315,62 @@ Rule adherence C (BAC finally closed per Rule 10 via GTC stop execution; JPM cut
 Rule adherence A (Columbus Day hold; LMT hot-CPI block; T+0 stop on XOM; no gate violations; all stops active and verified daily; XOM earnings date resolved same session), risk management A (all stop buffers ≥7.95% at close; CVX HWM auto-advanced daily; no cut triggers reached; consecutive binary event protocols clearly documented for next week), relative performance B+ (bot +2.18% vs S&P est ~+0.8% = ~+1.38% outperformance; best relative week since Jun 26 +2.10%; energy sector concentrated exposure was the correct bet this week; phase P&L recovered from −3.33% to −1.22% in one week — largest single-week improvement of the phase).
 
 ---
+
+## Week ending 2026-10-23
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,778.60 (Fri Oct 16 EOD) |
+| Ending portfolio | $100,839.66 (Fri Oct 23 EOD) |
+| Week return | +$2,061.06 (+2.09%) |
+| S&P 500 week | ~−3.2% (~7,875 Oct 16 → ~7,624 Oct 23; tech/AI selloff week — TSLA −5%, META/Nasdaq led drop) |
+| Bot vs S&P | ~+5.29% |
+| Trades | 0 (W:0 / L:0 / open:3) |
+| Win rate | N/A (no closed trades) |
+| Best trade | CVX +11.13% unrealized |
+| Worst trade | XOM +5.54% unrealized (all positions positive) |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CVX | $209.628 (Oct 7) | $232.955 | +$2,332.70 (+11.13%) | 10% GTC f5c51b1f (HWM $233.53, stop $210.177, buf 9.78%) |
+| HON | $211.95 (Sep 24) | $222.29 | +$816.86 (+4.88%) | 10% GTC 8303e452 (HWM $222.49, stop $200.241, buf 9.92%) |
+| XOM | $173.219 (Oct 13) | $182.82 | +$960.10 (+5.54%) | 10% GTC 7467f25a (HWM $183.75, stop $165.375, buf 9.54%) |
+
+### What Worked
+- Energy/industrial concentration paid off against tech-led index decline — CVX +11.13%, XOM +5.54%, HON +4.88% while tech/Nasdaq shed -2.6% on Oct 22 alone; sector selection was correct for the macro environment
+- All 3 GTC trailing stops auto-advanced to new all-time HWMs every single session this week; automation functioning perfectly without manual intervention
+- HON post-earnings thesis validated — Oct 22 Q3 beat ($2.27 EPS vs $2.16 est.; guidance raised to $8.40–$8.45); stock continued grinding higher through week end, confirming hold-through-earnings decision was correct
+- WTI ~$99 / Brent ~$113 sustained by Iran/Houthi tensions all week — oil thesis underpinning CVX/XOM fully intact; Goldman Sachs PT $241 on CVX not yet reached
+- Phase P&L crossed into positive territory (+$839.66 / +0.84%) for the first time in 24 weeks — a milestone; all prior phase losses have been recovered through concentrated position gains in CVX/XOM/HON
+
+### What Didn't Work
+- 58.6% deployed — below 75–85% target for what amounts to the entire phase; FOMC gate (Oct 26–28) + HON earnings binary (Oct 22) correctly constrained new entries but leaves meaningful alpha on the table
+- 0/3 weekly trade capacity unused for the 3rd consecutive week — LMT deferred again (now Oct 29 earliest after FOMC); structural under-deployment persists despite excellent position-level returns
+- CVX tighten trigger ($241.07, +15%) was approached but not crossed — CVX HWM reached $233.53; $7.54 / 3.2% short; a single strong session post-FOMC could trigger it next week
+- Energy concentration (CVX + XOM ~40% equity) cuts both ways — this week it was a tailwind; CVX earnings Oct 30 + XOM earnings Oct 30 (both same day) creates a simultaneous binary event for ~40% of the book
+
+### Key Lessons
+- Sector rotation out of tech/AI into Energy + Industrials produced the best relative performance week of the challenge (+5.29% vs S&P) — NOT because of superior stock-picking within a sector, but because the sector allocation (forced by entry discipline: energy thesis clear, tech/high-PE blocked by yield gate) was correctly positioned for the week's macro driver
+- FOMC gate + pre-earnings buffer discipline is correct even when it costs opportunity — no new entries week into a binary-dense cluster (HON earnings, FOMC, consecutive tech earnings) preserved capital that was already well-deployed; the discipline's value is asymmetric
+- Phase P&L turning positive after 24 weeks demonstrates that concentrated winning positions (CVX +11%, XOM +5.5%, HON +4.9%) can recover losses faster than a diversified book, but the same concentration that accelerated the recovery could reverse it; protect with stops
+
+### Adjustments for Next Week
+- **Monday Oct 27 first action:** Verify all 3 stops ACTIVE at open (f5c51b1f CVX, 8303e452 HON, 7467f25a XOM); CVX buffer check vs $210.177 — if CVX near $241+ at open, execute tighten to 7% trail immediately; XOM/HON earnings both Oct 30
+- **FOMC Oct 28 hard block:** No new entries Oct 26–28; earliest new entry Oct 29; do not force LMT into the gate window
+- **Oct 29 (post-FOMC) — LMT entry watch:** Q3 EPS $7.97 beat (est. $7.43–$7.52); record backlog $292B; entry $520–540 if VIX <17 + FOMC tone neutral/dovish; stop 10% GTC T+0; size ~20sh (~$10.5k, ~10% equity); 2:1 R:R target ~$580–595
+- **CVX tighten trigger ($241.07 = +15%):** $7.54 gap from HWM; if post-FOMC relief rally lifts CVX → cancel f5c51b1f, place 7% GTC immediately; do not wait for midday scan
+- **XOM/CVX both earnings Oct 30:** Pre-earnings buffer protocol — if either buffer <7% at Oct 29 close, execute pre-earnings cut at Oct 30 open; no holding a thin buffer through an earnings binary
+- **HON tighten trigger:** +15% = $243.74; far above current; no action needed; monitor HWM auto-advance
+
+### Overall Grade: A−
+Rule adherence A (FOMC gate enforced; HON earnings binary handled by buffer check protocol; all 3 stops active and auto-advancing daily; no violations), risk management A (all stop buffers 9.54%–9.92% at week end; CVX/XOM/HON all advanced HWMs this week; no cut triggers reached; energy thesis validated by oil prices), relative performance A (bot +2.09% vs S&P ~−3.2% = ~+5.29% outperformance — best relative week of the entire challenge; phase P&L turned positive for the first time in 24 weeks; +$839.66 / +0.84% above starting capital).
+
+---
