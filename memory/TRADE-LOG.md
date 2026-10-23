@@ -6285,3 +6285,15 @@ _Midday Oct 22: No action. CVX +7.15% (HWM $229.04, stop $206.136, buf 8.23%). H
 - XOM HWM $183.75 (stop $165.375, buf 9.69%)
 
 _Midday Oct 23: No action. CVX +11.13% (HWM $233.53, stop $210.177, buf 9.77%). HON +3.38% (HWM $219.84, stop $197.856, buf 9.70%). XOM +5.71% (HWM $183.75, stop $165.375, buf 9.69%). Phase P&L ~+$618 (+0.62%). Weekly trades 0/3. FOMC gate Oct 26–28; LMT earliest entry Oct 29._
+
+---
+
+### Oct 23 — EOD Snapshot (Day 126, Friday)
+**Portfolio:** $100,839.66 | **Cash:** $41,702.62 (41.4%) | **Day P&L:** +$1,399.55 (+1.41%) | **Phase P&L:** +$839.66 (+0.84%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $232.955 | +2.77% | +$2,332.70 (+11.13%) | 10% GTC f5c51b1f (HWM $233.53, stop $210.177, buf 9.78%) |
+| HON | 79 | $211.95 | $222.29 | +1.82% | +$816.86 (+4.88%) | 10% GTC 8303e452 (HWM $222.49, stop $200.241, buf 9.92%) |
+| XOM | 100 | $173.219 | $182.82 | +2.58% | +$960.10 (+5.54%) | 10% GTC 7467f25a (HWM $183.75, stop $165.375, buf 9.54%) |
+
+**Notes:** Day 126 (Friday) ends strong — best day of the week with all three energy/industrial positions advancing sharply. CVX +2.77%, XOM +2.58% on sustained WTI/Brent oil strength (Iran/Houthi geopolitical tensions + US inventory draws). HON +1.82% continuing post-earnings grind. Account crosses $100K for the first time, putting Phase P&L positive at +$839.66 (+0.84%). All GTC trailing stops auto-advanced to new HWMs; HON stop tightened to $200.241 (HWM $222.49, buf 9.92%). No trades executed; 0/3 this week (3 slots remain). 58.6% deployed — under target 75–85% with FOMC gate Oct 26–28 keeping us sidelined; LMT earliest entry Oct 29.
