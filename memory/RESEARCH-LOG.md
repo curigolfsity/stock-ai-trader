@@ -10154,3 +10154,59 @@ _Sources: Alpaca API (live positions/orders), WebSearch (5paisa/Mitrade WTI/Bren
 - **Actions:** NO trades. All 3 theses intact. FOMC gate Oct 26–28 still active. LMT earliest entry Oct 29.
 
 _Sources: SEC 8-K HON Q3 2026, SEC 8-K LMT Q3 2026, Mitrade WTI Oct 22, Alpaca live positions/orders_
+
+---
+
+## 2026-10-23 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $99,570.11 | **Cash:** $41,702.62 (42.0%) | **Deployed:** $57,867.49 (58.1%)
+- **Day P&L:** +$416.82 (+0.42% vs prior close $99,153.29) | **Phase P&L:** −$429.89 (−0.43%)
+- **Daytrade count:** 0 (0 trades this week, 3 slots remain)
+- **Positions:** CVX, HON, XOM (3 of max 6)
+
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|---------|----------------|------|--------|
+| CVX | 100 | $209.628 | $227.49 | +$1,786.20 (+8.52%) | 10% GTC f5c51b1f (HWM $229.04, stop $206.136) | 9.39% |
+| HON | 79 | $211.95 | $218.31 | +$502.44 (+3.00%) | 10% GTC 8303e452 (HWM $218.55, stop $196.695) | 9.90% |
+| XOM | 100 | $173.219 | $178.72 | +$550.10 (+3.18%) | 10% GTC 7467f25a (HWM $180.31, stop $162.279) | 9.20% |
+
+### Market Context
+- **WTI:** ~$99.24 | **Brent:** ~$112.94 — Iran/Houthi attack on Saudi targets sustaining oil premium; US inventory draws bullish
+- **S&P 500:** Closed Oct 22 at 7,663.43 (−1.21%, worst session since July); SPX futures Friday pre-mkt −0.18%
+- **Nasdaq:** Closed Oct 22 at 26,008.86 (−2.60%, worst since June) — AI-spending doubts, TSLA −5%, META plummeted
+- **Dow:** Closed Oct 22 at 52,867.98 (+0.02%) — defensive rotation
+- **VIX:** Elevated ~19–21 (was ~17 pre-sell-off); exact Oct 23 unavailable
+- **10yr Yield:** ~4.5% (hold-only mode active for high-multiple growth P/E >40)
+- **Sector YTD:** Energy #1 (+49.5%), Technology #2 (~+38%); S&P 500 +11.7%
+
+### Today's Key Catalysts (Oct 23)
+- **No major US economic releases today** (GDP Q3 advance + PCE: Oct 29; FOMC: Oct 28)
+- **FOMC gate starts Monday Oct 26** through Oct 28 — no new entries; earliest entry Oct 29
+- **Earnings watch (pre-mkt BMO candidates):** No confirmed major BMO reports today (heavy week was Oct 22); some afterhours possible
+- **Oil geopolitics:** Iran/Houthi attacks ongoing — supports Brent $113+ and CVX/XOM thesis
+- **Tech sentiment:** AI-capex scrutiny post-TSLA/META earnings continues; Nasdaq futures mixed to slightly down
+
+### Trade Ideas
+1. **HOLD CVX** — WTI $99, Brent $113; Goldman PT $241; earnings Oct 30; buf 9.39% ✓; thesis intact
+2. **HOLD XOM** — Oil thesis intact; buf 9.20% ✓; earnings Oct 30; no binary event this week
+3. **HOLD HON** — Post-Q3-earnings stable; EPS beat ($2.27 vs $2.16 est.); guidance raised; buf 9.90% ✓
+4. **LMT (entry watch Oct 29+ ONLY)** — Q3 EPS $7.97 beat (est. $7.43–$7.52); Rev $20.7B beat; backlog $292B record; defense thesis strong; price ~$590+ area (Aug high $610); entry after FOMC clarity Oct 29; need fresh price + R:R calc at open. Stop ~−10%, target 2:1 R:R.
+
+### Risk Factors
+1. **Tech selloff contagion** — S&P −1.21% Thursday, Nasdaq −2.60%; Friday follow-through possible; defensive/energy rotation partially offsetting
+2. **FOMC gate Oct 26–28** — no new entries starting Monday; entering LMT today risks holding through FOMC uncertainty with no safety valve
+3. **Oil volatility** — Iran/Houthi situation: sharp de-escalation would pressure CVX/XOM; WTI $99 a headline risk if ceasefire news breaks
+4. **Energy concentration** — CVX + XOM ~40.5% of equity; no new energy entries
+5. **Under-deployed 58.1%** — below 75–85% target; deliberate gap pending FOMC Oct 28 resolution; address Oct 29+
+6. **Q3 GDP (Oct 29) + PCE (Oct 29)** — could move markets the same day as earliest LMT entry; sequence matters
+
+### Decision: **HOLD**
+- No new trades today — last day before FOMC gate; tech-driven risk-off + FOMC uncertainty not worth entering new position that can't be exited quickly
+- All 3 positions intact; no cuts or stop-tightens triggered
+- No stop adjustments needed (all buffers 9–10%; no position at +15%)
+- Post-FOMC plan (Oct 29): LMT primary target; assess 4th position to push toward 75–85% deployment
+- GTC stops active: CVX $206.136 (HWM $229.04), HON $196.695 (HWM $218.55), XOM $162.279 (HWM $180.31)
+
+_Sources: Alpaca API (live positions/orders/account), OilPrice.com/Fortune (WTI/Brent Oct 22-23), Yahoo Finance/CNBC/CoinPaper (S&P/Nasdaq Oct 22 close), Fedratecalc.com (FOMC/GDP Oct calendar), MEXC/InvestSmart (LMT price range Aug 2026), WebSearch (Houthi/Iran oil catalyst)_
+
