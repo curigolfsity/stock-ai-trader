@@ -10210,3 +10210,11 @@ _Sources: SEC 8-K HON Q3 2026, SEC 8-K LMT Q3 2026, Mitrade WTI Oct 22, Alpaca l
 
 _Sources: Alpaca API (live positions/orders/account), OilPrice.com/Fortune (WTI/Brent Oct 22-23), Yahoo Finance/CNBC/CoinPaper (S&P/Nasdaq Oct 22 close), Fedratecalc.com (FOMC/GDP Oct calendar), MEXC/InvestSmart (LMT price range Aug 2026), WebSearch (Houthi/Iran oil catalyst)_
 
+### Afternoon Addendum (Midday Scan ~12:00–13:00 ET)
+- **Energy surge:** CVX +2.77% intraday ($232.95), XOM +2.74% intraday ($183.11) — Iran/Houthi geopolitical tension sustaining WTI $99+ / Brent $112-113 premium; consistent with pre-market thesis
+- **HON:** +0.37% intraday ($219.115) — post-earnings steady grind; no new catalysts
+- **All 3 HWMs advanced to new highs today:** CVX $233.53, HON $219.84, XOM $183.75 — stops auto-tightened by broker
+- **Phase P&L:** ~+$618 (+0.62%) — turned positive from −$784 yesterday
+- **No action taken:** No cuts, no manual stop tightening (all positions < +15% threshold)
+- **FOMC gate starts Monday Oct 26** — today confirmed as final no-trade day; plan intact for LMT entry Oct 29+
+
