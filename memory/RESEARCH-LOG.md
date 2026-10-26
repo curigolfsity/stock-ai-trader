@@ -10218,3 +10218,58 @@ _Sources: Alpaca API (live positions/orders/account), OilPrice.com/Fortune (WTI/
 - **No action taken:** No cuts, no manual stop tightening (all positions < +15% threshold)
 - **FOMC gate starts Monday Oct 26** — today confirmed as final no-trade day; plan intact for LMT entry Oct 29+
 
+
+---
+
+## 2026-10-26 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $100,442.56 | **Cash:** $41,702.62 (41.5%) | **Deployed:** $58,739.94 (58.5%)
+- **Day P&L:** −$372.91 (−0.37% vs prior close $100,815.47) | **Phase P&L:** +$442.56 (+0.44%)
+- **Daytrade count:** 0 (0 trades this week, 3 slots remain)
+- **Positions:** CVX, HON, XOM (3 of max 6)
+
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|---------|----------------|------|--------|
+| CVX | 100 | $209.628 | $230.92 | +$2,129.20 (+10.15%) | 10% GTC f5c51b1f (HWM $233.74, stop $210.366) | ~8.86% |
+| HON | 79 | $211.95 | $221.86 | +$782.89 (+4.68%) | 10% GTC 8303e452 (HWM $223.43, stop $201.087) | ~9.36% |
+| XOM | 100 | $173.219 | $181.21 | +$799.10 (+4.61%) | 10% GTC 7467f25a (HWM $183.75, stop $165.375) | ~8.74% |
+
+### Market Context
+- **WTI:** ~$101.63/bbl | **Brent:** ~$112–115/bbl — Iran/Houthi geopolitical tensions sustaining oil above $100; elevated 77% YTD
+- **S&P 500 futures:** +0.26% (SPX ~7,643–7,646); Dow futures +0.31%; Nasdaq futures +0.21% — modest recovery after last week's tech selloff (Mag 7 rollover: META −9.4%)
+- **VIX:** ~17–19 (elevated; no confirmed live reading; last confirmed July 31 close 16.0; elevated since tech selloff)
+- **10yr Yield:** ~4.5% — hold-only mode active for high-multiple growth names (P/E >40)
+- **Energy sector YTD:** #1 at +46–55% (source-dependent); Technology #2 ~+30–32%; S&P 500 ~+12–13%
+- **FOMC:** Gate Day 1 of 3 (Oct 26–28) — decision Oct 28; no new entries
+
+### Today's Key Catalysts (Oct 26, Monday)
+- **FOMC gate begins** — Day 1 of 3; no new entries; earliest entry Oct 29
+- **Trump ruled out Iran strike (weekend)** — SPX futures slightly positive; risk-off easing; may mildly weaken oil geopolitical premium ($2–5 downside risk WTI)
+- **Earnings BMO today:** Verizon (VZ) ~12 companies; not directly relevant to positions
+- **This week earnings:** KO/BA/FCX Tuesday; MSFT/GOOGL Wednesday AMC (same day as FOMC); AMZN/INTC Thursday; CVX/XOM Friday (Oct 30 confirmed/expected)
+- **Economic releases this week:** FOMC Oct 28 (key); Consumer Confidence/New Home Sales Oct 27; GDP Q3 advance + PCE Oct 29 — ALL after today
+- **Mag 7 overhang:** Tech selloff (-2.1% Nasdaq last week) continuing; defensive rotation slightly supportive for energy
+
+### Trade Ideas
+1. **HOLD CVX** — WTI ~$101; HWM $233.74; stop $210.366 (buf ~8.86%); earnings Oct 30 (binary event — hold with stop protection); thesis intact
+2. **HOLD XOM** — Oil thesis intact; HWM $183.75; stop $165.375 (buf ~8.74%); earnings Oct 30; no action
+3. **HOLD HON** — Post-Q3 stable +4.68%; HWM $223.43; stop $201.087 (buf ~9.36%); no catalyst today
+4. **LMT watch (Oct 29 earliest)** — Q3 EPS $7.97 beat, Rev $20.7B beat, backlog $292B record; defense momentum intact; entry post-FOMC only; need fresh price + R:R calc on Oct 29
+
+### Risk Factors
+1. **FOMC gate (Oct 26–28)** — no new entries; rate surprise Oct 28 could roil markets; hold-through risk
+2. **CVX/XOM earnings Oct 30** — binary event; positions now in FOMC gate + pre-earnings window simultaneously; stops protect downside
+3. **Oil geopolitical premium risk** — Trump ruling out Iran strike → WTI could ease $2–5; still above $99 floor would be benign
+4. **Tech selloff contagion** — Nasdaq still weak; SPX futures mildly positive but Mag 7 rollover risk
+5. **Energy concentration** — CVX + XOM ≈ 40.8% of equity; no new energy entries
+6. **FOMC + earnings combo (Oct 28–30)** — elevated event-risk window; all 3 positions face catalysts this week
+
+### Decision: **HOLD**
+- FOMC gate Day 1: zero new entries
+- All 3 positions above cut thresholds; no stop tightening triggered (CVX +10.15% < +15%); GTC stops active
+- Oil thesis intact at WTI ~$101 despite Trump/Iran headline
+- LMT entry on watch for Oct 29+ post-FOMC clarity
+- Post-FOMC plan: LMT primary target; assess deployment gap (58.5% vs 75–85% target)
+
+_Sources: Alpaca API (live positions/orders/account), convextrade.com/sundayguardianlive (WTI Oct 26 $101.63), oilprice.com (Middle East supply threats), benzinga.com (SPX futures Oct 26 +0.26%, FOMC gate), money365.market (CVX earnings Oct 30 confirmed), tipranks.com/earningswhispers (earnings calendar week), guggenheiminvestments.com (FOMC Oct 28), investing.com (energy sector +46% YTD), chartrow.com (sector performance 2026)_
