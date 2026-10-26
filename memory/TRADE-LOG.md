@@ -6339,3 +6339,15 @@ _Midday Oct 23: No action. CVX +11.13% (HWM $233.53, stop $210.177, buf 9.77%). 
 - Next entry window: Oct 29 post-FOMC (LMT primary watch)
 
 _Midday Oct 26: No action. FOMC gate Day 1. CVX +10.81% (HWM $234.08, stop $210.672, buf 9.30%). HON +3.70% (HWM $223.81, stop $201.429, buf 8.35%). XOM +6.11% (HWM $184.37, stop $165.933, buf 9.73%). Day P&L −$138.65 (−0.14%). Phase P&L +$676.82 (+0.68%). Weekly trades 0/3. LMT earliest entry Oct 29._
+
+---
+
+### Oct 26 — EOD Snapshot (Day 127, Monday)
+**Portfolio:** $100,740.00 | **Cash:** $41,702.62 (41.4%) | **Day P&L:** −$75.47 (−0.07%) | **Phase P&L:** +$740.00 (+0.74%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $232.51 | −0.30% | +$2,288.20 (+10.92%) | 10% GTC f5c51b1f (HWM $234.08, stop $210.672, buf 9.30%) |
+| HON | 79 | $211.95 | $219.625 | −0.69% | +$606.33 (+3.62%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429, buf 8.35%) |
+| XOM | 100 | $173.219 | $184.36 | +0.63% | +$1,114.10 (+6.43%) | 10% GTC 7467f25a (HWM $184.50, stop $166.05, buf 9.84%) |
+
+**Notes:** Day 127 (Monday) closes quietly as FOMC gate Day 1 keeps us sidelined. CVX and HON pulled back modestly (−0.30%, −0.69%) giving back a slice of Friday's rally, while XOM extended slightly (+0.63%, new HWM $184.50). Net Day P&L −$75.47 (−0.07%) — essentially flat. Portfolio holds above $100K phase start at +$740 (+0.74%) with 58.6% deployed. All three GTC trailing stops remain active and advanced to latest HWMs; no cut or tighten thresholds breached. Zero trades executed; 0/3 this week. FOMC gate runs through Wednesday Oct 28 — earliest new entry is Oct 29. LMT remains primary watchlist candidate post-gate.
