@@ -6351,3 +6351,15 @@ _Midday Oct 26: No action. FOMC gate Day 1. CVX +10.81% (HWM $234.08, stop $210.
 | XOM | 100 | $173.219 | $184.36 | +0.63% | +$1,114.10 (+6.43%) | 10% GTC 7467f25a (HWM $184.50, stop $166.05, buf 9.84%) |
 
 **Notes:** Day 127 (Monday) closes quietly as FOMC gate Day 1 keeps us sidelined. CVX and HON pulled back modestly (−0.30%, −0.69%) giving back a slice of Friday's rally, while XOM extended slightly (+0.63%, new HWM $184.50). Net Day P&L −$75.47 (−0.07%) — essentially flat. Portfolio holds above $100K phase start at +$740 (+0.74%) with 58.6% deployed. All three GTC trailing stops remain active and advanced to latest HWMs; no cut or tighten thresholds breached. Zero trades executed; 0/3 this week. FOMC gate runs through Wednesday Oct 28 — earliest new entry is Oct 29. LMT remains primary watchlist candidate post-gate.
+
+---
+
+### Oct 27 — EOD Snapshot (Day 128, Tuesday)
+**Portfolio:** $99,747.98 | **Cash:** $41,702.62 (41.8%) | **Day P&L:** −$932.76 (−0.93%) | **Phase P&L:** −$252.02 (−0.25%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $228.47 | −1.53% | +$1,884.20 (+8.99%) | 10% GTC f5c51b1f (HWM $234.08, stop $210.672, buf 7.79%) |
+| HON | 79 | $211.95 | $217.495 | −0.81% | +$438.055 (+2.62%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429, buf 7.39%) |
+| XOM | 100 | $173.219 | $180.1625 | −2.37% | +$694.35 (+4.01%) | 10% GTC 7467f25a (HWM $184.88, stop $166.392, buf 7.65%) |
+
+**Notes:** Day 128 (Tuesday) broad risk-off selling; all three positions declined. CVX −1.53%, HON −0.81%, XOM −2.37% — energy hard as oil retreats from recent highs. Portfolio dips below $100K phase baseline: Phase P&L −$252.02 (−0.25%). XOM made intraday HWM $184.88 (stop auto-advanced to $166.392) before reversing; all GTC stops active and holding. No cut/tighten thresholds breached — all unrealized P&Ls positive (+2.6% to +9.0%). FOMC gate Day 2 of 3 (Oct 26–28); zero trades, 0/3 this week. LMT earliest entry Oct 29 post-FOMC.
