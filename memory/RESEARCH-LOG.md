@@ -10273,3 +10273,58 @@ _Sources: Alpaca API (live positions/orders/account), OilPrice.com/Fortune (WTI/
 - Post-FOMC plan: LMT primary target; assess deployment gap (58.5% vs 75–85% target)
 
 _Sources: Alpaca API (live positions/orders/account), convextrade.com/sundayguardianlive (WTI Oct 26 $101.63), oilprice.com (Middle East supply threats), benzinga.com (SPX futures Oct 26 +0.26%, FOMC gate), money365.market (CVX earnings Oct 30 confirmed), tipranks.com/earningswhispers (earnings calendar week), guggenheiminvestments.com (FOMC Oct 28), investing.com (energy sector +46% YTD), chartrow.com (sector performance 2026)_
+
+---
+
+## 2026-10-27 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $100,715.74 | **Cash:** $41,702.62 (41.4%) | **Deployed:** $59,013.12 (58.6%)
+- **Day P&L:** +$35.00 (+0.03% vs prior close $100,680.74) | **Phase P&L:** +$715.74 (+0.72%)
+- **Daytrade count:** 0 (0 trades this week, 3 slots remain)
+- **Positions:** CVX, HON, XOM (3 of max 6)
+
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|---------|----------------|------|--------|
+| CVX | 100 | $209.628 | $232.06 | +$2,243.20 (+10.70%) | 10% GTC f5c51b1f (HWM $234.08, stop $210.672) | ~9.64% |
+| HON | 79 | $211.95 | $219.28 | +$579.07 (+3.46%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429) | ~8.13% |
+| XOM | 100 | $173.219 | $184.84 | +$1,162.10 (+6.71%) | 10% GTC 7467f25a (HWM $184.59, stop $166.131) | ~10.12% |
+
+### Market Context
+- **WTI:** ~$103/bbl | **Brent:** ~$116/bbl — sustained by ongoing Middle East/Iran-Houthi geopolitical tensions; Brent at highest close since late April
+- **S&P 500:** Yesterday (Oct 26) closed +0.7% (7,659–7,700 range); Nasdaq +0.8%, Dow +0.3%; tech outperforming on Anthropic IPO enthusiasm
+- **VIX:** Near 6-week low heading into FOMC; calm positioning pre-decision
+- **10yr Yield:** ~4.5% — hold-only mode active for high-multiple growth names (P/E >40)
+- **Energy sector YTD:** +49% (XLE), leading all S&P sectors; Technology +30–38% YTD; S&P 500 +12–13% YTD
+- **FOMC:** Gate Day 2 of 3 — meeting Oct 27–28; decision Oct 28 at 2PM ET; 86% probability hold at 3.75–4.00%; hawkish tone (Chair Warsh) expected; December hike odds ~81%
+
+### Today's Key Catalysts (Oct 27, Tuesday)
+- **Earnings BMO today:** Boeing (BA), Coca-Cola (KO), Freeport-McMoRan (FCX), Corning, American Tower, Centene, Ecolab — none directly impact CVX/HON/XOM thesis
+- **Celestica (CLS) +10% pre-mkt** — AI demand beat, lifted 2027 outlook; bullish for tech/AI adjacent names; not relevant to energy holdings
+- **FOMC gate Day 2** — no new entries; markets pricing in hold with hawkish press conference
+- **New Home Sales + Consumer Confidence** — scheduled for today; macro data ahead of tomorrow's FOMC
+- **CVX/XOM earnings Oct 30 (Friday)** — binary event approaching; stop buffers 9–10% provide protection
+- **Anthropic IPO excitement** — driving Nasdaq outperformance; not relevant to energy/industrial positions
+
+### Trade Ideas
+1. **HOLD CVX** — WTI ~$103 sustains energy thesis; HWM $234.08; stop $210.672 (buf 9.64%); earnings Oct 30 binary; thesis intact
+2. **HOLD XOM** — Strongest position (+6.71%); new HWM territory; stop $166.131 (buf 10.12%); earnings Oct 30; oil thesis intact
+3. **HOLD HON** — +3.46%; post-earnings grind stable; stop buf 8.13% (watch — approaching lower end); no new catalyst today
+4. **LMT watch (Oct 29 earliest)** — Q3 EPS $7.97 beat, Rev $20.7B beat, backlog $292B record; defense momentum intact; assess post-FOMC price + R:R; ~$600–620 target entry range; ~$560 stop (-7%)
+
+### Risk Factors
+1. **FOMC Day 2 gate** — no new entries; hawkish surprise tomorrow could spike yields and pressure growth names; energy relatively insulated
+2. **CVX/XOM earnings Oct 30** — both report Friday; positions now in FOMC+pre-earnings window; stop buffers 9–10% protect downside
+3. **HON stop buffer 8.13%** — nearing lower end of comfort; no new catalyst; monitor for thesis drift
+4. **Oil geopolitical premium** — WTI ~$103 holds on Middle East tensions; any de-escalation headline = $3–5 downside risk for WTI and energy positions
+5. **Deployment gap** — 58.6% deployed vs 75–85% target; 1–2 new positions needed post-FOMC (LMT primary; need 2nd candidate research)
+6. **Tech/Anthropic IPO enthusiasm** — Nasdaq outperformance could rotate capital away from energy if sustained
+
+### Decision: **HOLD**
+- FOMC gate Day 2: zero new entries — hard rule
+- All 3 positions above cut thresholds; no stop tightening triggered (CVX +10.70% < +15%; XOM +6.71% < +15%; HON +3.46% < +15%)
+- GTC stops active; XOM approaching new HWM territory; all buffers ≥8%
+- Post-FOMC plan (Oct 29): LMT primary entry; research 2nd candidate to close deployment gap
+- Friday: CVX + XOM earnings — hold through with stop protection; no pre-earnings adds
+
+_Sources: Alpaca API (live positions/orders/account), baolaocai.vn (Brent ~$116/WTI ~$103 Oct 24-27), kiplinger.com (earnings calendar week Oct 26-30), stockopedia.com (Oct 27 market report), cityindex.com (VIX near 6-week low ahead of FOMC), tapeboard.com (sector performance mid-Oct 2026), octagonai.co/raillynews.com (FOMC Oct 28 hold 86%), kiplinger.com (Anthropic IPO tech catalyst)_
