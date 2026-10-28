@@ -10328,3 +10328,63 @@ _Sources: Alpaca API (live positions/orders/account), convextrade.com/sundayguar
 - Friday: CVX + XOM earnings — hold through with stop protection; no pre-earnings adds
 
 _Sources: Alpaca API (live positions/orders/account), baolaocai.vn (Brent ~$116/WTI ~$103 Oct 24-27), kiplinger.com (earnings calendar week Oct 26-30), stockopedia.com (Oct 27 market report), cityindex.com (VIX near 6-week low ahead of FOMC), tapeboard.com (sector performance mid-Oct 2026), octagonai.co/raillynews.com (FOMC Oct 28 hold 86%), kiplinger.com (Anthropic IPO tech catalyst)_
+
+---
+
+## 2026-10-28 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $99,930.61 | **Cash:** $41,702.62 (41.7%) | **Deployed:** $58,227.99 (58.3%)
+- **Day P&L:** +$128.00 (+0.13% vs prior close $99,802.61) | **Phase P&L:** −$69.39 (−0.07%)
+- **Daytrade count:** 0 (0 trades this week, 3 slots remain)
+- **Positions:** CVX, HON, XOM (3 of max 6)
+
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|---------|----------------|------|--------|
+| CVX | 100 | $209.628 | $228.97 | +$1,934.20 (+9.23%) | 10% GTC f5c51b1f (HWM $234.08, stop $210.672) | ~8.00% |
+| HON | 79 | $211.95 | $218.81 | +$541.94 (+3.24%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429) | ~7.94% |
+| XOM | 100 | $173.219 | $180.45 | +$723.10 (+4.17%) | 10% GTC 7467f25a (HWM $184.88, stop $166.392) | ~7.79% |
+
+### Market Context
+- **WTI:** ~$101/bbl | **Brent:** ~$114/bbl — Oil Price API at 00:51 UTC Oct 28: WTI $100.38, Brent $114.47; intraday prints $101–102 per oilprice.com (+1.3% day). Middle East/Iran-Houthi tensions persist; Strait of Hormuz diplomacy in progress — any de-escalation headline = oil downside risk
+- **S&P 500 pre-market:** Mixed — Dow futures down, Nasdaq/S&P up; prior close SPX 7,722 (+0.6%), Nasdaq 26,477 (+1.2%), Dow 52,377 (+0.03%)
+- **VIX:** Estimated ~14–16 (near 6-week low heading into FOMC week; likely stable pre-decision)
+- **10-yr Yield:** ~5.0–5.3% — elevated; hold-only mode active for high-multiple growth names (P/E >40)
+- **FOMC:** DECISION TODAY at 2:00 PM ET — HOLD at 3.75–4.00% expected (90–92% probability per CME FedWatch); Chair Warsh press conference ~2:30 PM ET; hawkish tone expected; December hike probability ~80%
+- **Energy sector YTD:** ~+49% (XLE) — still #1 S&P sector
+- **Big Tech earnings tonight (AMC):** MSFT + GOOGL after close — not BMO; market in wait-and-see mode pre-FOMC
+
+### Today's Key Catalysts (Oct 28, Wednesday)
+- **FOMC decision 2PM ET** — biggest catalyst; HOLD expected but hawkish Warsh press conference could spike yields → pressure on high-multiple names; energy/industrials relatively insulated
+- **MSFT/GOOGL earnings AMC** — will inform tech sector sentiment; MSFT P/E likely >40 (hold-only mode); any tech blowout could rotate capital from energy tomorrow
+- **CVX/XOM earnings Friday Oct 30** — 2 days away; both report Q3; XOM expected EPS $3.40 vs $1.88 YoY; CVX expected $4.32 vs $1.85 YoY; earnings beat expected given WTI ~$100+ in Q3
+- **Iran/Strait of Hormuz diplomacy** — WTI at $101; any positive ceasefire headline = $3–5 downside for oil and energy positions
+- **FOMC gate ends today** — last day of 3; earliest new entry = Oct 29 (tomorrow's session)
+
+### Cut / Tighten Check
+- CVX +9.23%: Cut −7%? No ✓ | Tighten at +15% ($240.87)? No ✓
+- HON +3.24%: Cut −7%? No ✓ | Tighten at +15% ($243.74)? No ✓
+- XOM +4.17%: Cut −7%? No ✓ | Tighten at +15% ($199.20)? No ✓
+
+### Trade Ideas
+1. **LMT (entry Oct 29 earliest)** — Primary post-FOMC target; Q3 EPS $7.97 beat, Rev $20.7B, backlog $292B record; defense sector in momentum; proposed FY2027 military budget $1.5T; entry range ~$600–620; stop ~$560 (−7%); target $680+ (R:R ≥2:1); 10-yr yield elevated but defense not high-multiple growth → does not trigger hold-only
+2. **NOC or RTX (secondary candidate — research needed)** — Defense sector breadth play if LMT entry justified; need formal catalyst + R:R research before entry; do not enter without full pre-trade checklist
+3. **Hold all three current positions** — CVX/XOM thesis intact (oil $101, earnings beat expected Fri); HON thesis intact but buffer 7.94% approaching lower comfort zone — monitor
+
+### Risk Factors
+1. **FOMC hawkish surprise** — if Warsh signals accelerated rate path → yields spike to 5.5%+ → broad equity selloff; energy less correlated but not immune
+2. **CVX/XOM earnings Oct 30** — binary event; stop buffers 7.8–8.0% provide ~$1,800 downside protection per name; oil-supported earnings beat expected but guidance matters
+3. **HON/XOM stop buffers tightening (7.79–7.94%)** — below 10% HWM; no immediate action but if prices drift lower without new HWM the stops will not auto-advance further; monitor intraday
+4. **Oil de-escalation risk** — Iran/Houthi Strait of Hormuz diplomacy could cause WTI $3–5 pullback; would pressure CVX (+9.23%) and XOM (+4.17%) thesis
+5. **10-yr yield at ~5%+** — already holds growth names in check; post-FOMC hawkish tone + December hike priced → yield may push 5.3%+ again (Oct 8 reading); no direct impact on CVX/HON/XOM but dampens broad market expansion
+6. **Deployment gap** — 58.3% deployed vs 75–85% target; LMT entry tomorrow (Oct 29) would bring to ~64%; need second candidate to close gap fully
+7. **Tech earnings impact (AMC)** — MSFT/GOOGL beat could pull risk appetite toward tech from energy; HON may lag if industrials rotation stalls
+
+### Decision: **HOLD**
+- FOMC gate Day 3 (final): hard rule — zero new entries today
+- All three positions above cut thresholds; no tighten triggered
+- GTC stops active: CVX $210.672 (HWM $234.08), HON $201.429 (HWM $223.81), XOM $166.392 (HWM $184.88)
+- Post-FOMC plan: LMT primary entry Oct 29 — reassess price, R:R, and oil context post-decision; research NOC/RTX as secondary candidate
+- Friday: CVX + XOM earnings — hold through with stop protection; expect beats given WTI $101+ in Q3
+
+_Sources: Alpaca API (live account/positions/orders), oilpriceapi.com (WTI $100.38 Oct 28 00:51 UTC, Brent $114.47), oilprice.com (WTI ~$101.2 intraday), finance.yahoo.com (SPX 7,722/Oct 27 close; SPX/Nasdaq futures up, Dow down premarket; Iran/Hormuz diplomacy), kiplinger.com (FOMC Oct 28 live blog, hold expected), benzinga.com (S&P futures mixed FOMC day), financecalendar.com (FOMC hold 90–92% CME FedWatch), coincentral.com (Nasdaq climbs pre-FOMC, MSFT/GOOGL earnings AMC), fool.com (Dec hike ~80%, hold today), tradingeconomics.com (10-yr yield ~5.0–5.3%), investor.exxonmobil.com (XOM Q3 earnings call Oct 30), benzinga.com (CVX Q3 Oct 30 expected $4.32 EPS)_
