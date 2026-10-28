@@ -6363,3 +6363,41 @@ _Midday Oct 26: No action. FOMC gate Day 1. CVX +10.81% (HWM $234.08, stop $210.
 | XOM | 100 | $173.219 | $180.1625 | −2.37% | +$694.35 (+4.01%) | 10% GTC 7467f25a (HWM $184.88, stop $166.392, buf 7.65%) |
 
 **Notes:** Day 128 (Tuesday) broad risk-off selling; all three positions declined. CVX −1.53%, HON −0.81%, XOM −2.37% — energy hard as oil retreats from recent highs. Portfolio dips below $100K phase baseline: Phase P&L −$252.02 (−0.25%). XOM made intraday HWM $184.88 (stop auto-advanced to $166.392) before reversing; all GTC stops active and holding. No cut/tighten thresholds breached — all unrealized P&Ls positive (+2.6% to +9.0%). FOMC gate Day 2 of 3 (Oct 26–28); zero trades, 0/3 this week. LMT earliest entry Oct 29 post-FOMC.
+
+---
+
+### Midday Scan — 2026-10-28 (Day 129, Wednesday)
+
+- **Account:** Equity $100,459.05 | Cash $41,702.62 (41.5%) | Deployed $58,756.43 (58.5%) | Weekly trades: 0/3
+- **Day P&L:** +$656.44 (+0.66%) | **Phase P&L:** +$459.05 (+0.46%)
+- **FOMC gate:** Day 3 of 3 (final) — decision 2PM ET today; no new entries
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $231.10 | +$2,147.20 (+10.24%) | +1.26% | 10% GTC f5c51b1f (HWM $234.08, stop $210.672, buf 8.84%) | HOLD ✓ |
+| HON | 79 | $211.95 | $219.14 | +$568.01 (+3.39%) | +0.15% | 10% GTC 8303e452 (HWM $223.81, stop $201.429, buf 8.08%) | HOLD ✓ |
+| XOM | 100 | $173.219 | $183.355 | +$1,013.60 (+5.85%) | +1.92% | 10% GTC 7467f25a (HWM $184.88, stop $166.392, buf 9.25%) | HOLD ✓ |
+
+#### STEP 3 — Cut Check (−7%)
+- CVX +10.24%: No trigger ✓
+- HON +3.39%: No trigger ✓
+- XOM +5.85%: No trigger ✓
+
+#### STEP 4 — Stop Tighten Check
+- CVX +10.24%: +15% threshold $241.07 — not reached ✓
+- HON +3.39%: +15% threshold $243.74 — not reached ✓
+- XOM +5.85%: +15% threshold $199.20 — not reached ✓
+- No new HWMs (CVX $234.08, HON $223.81, XOM $184.88 unchanged); stops not advanced
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — +10.24%; pre-FOMC recovery +1.26%; oil ~$101 thesis intact; earnings Oct 30 ✓
+- **HON:** INTACT — +3.39%; steady grind; buf 8.08% — low end but no thesis break ✓
+- **XOM:** INTACT — +5.85%; strongest intraday (+1.92%); oil thesis intact; earnings Oct 30 ✓
+
+#### Actions
+- **NO TRADES EXECUTED.** No cuts. No stop tightening. FOMC gate Day 3.
+- All GTC stops active; no new HWMs today
+- Post-FOMC (2PM ET): assess LMT entry for Oct 29
+
+_Midday Oct 28: No action. FOMC gate Day 3 (final). CVX +10.24% (stop $210.672, buf 8.84%). HON +3.39% (stop $201.429, buf 8.08%). XOM +5.85% (stop $166.392, buf 9.25%). Day P&L +$656.44 (+0.66%). Phase P&L +$459.05 (+0.46%). Weekly trades 0/3. LMT earliest entry Oct 29._

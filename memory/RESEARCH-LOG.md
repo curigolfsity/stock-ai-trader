@@ -10388,3 +10388,17 @@ _Sources: Alpaca API (live positions/orders/account), baolaocai.vn (Brent ~$116/
 - Friday: CVX + XOM earnings — hold through with stop protection; expect beats given WTI $101+ in Q3
 
 _Sources: Alpaca API (live account/positions/orders), oilpriceapi.com (WTI $100.38 Oct 28 00:51 UTC, Brent $114.47), oilprice.com (WTI ~$101.2 intraday), finance.yahoo.com (SPX 7,722/Oct 27 close; SPX/Nasdaq futures up, Dow down premarket; Iran/Hormuz diplomacy), kiplinger.com (FOMC Oct 28 live blog, hold expected), benzinga.com (S&P futures mixed FOMC day), financecalendar.com (FOMC hold 90–92% CME FedWatch), coincentral.com (Nasdaq climbs pre-FOMC, MSFT/GOOGL earnings AMC), fool.com (Dec hike ~80%, hold today), tradingeconomics.com (10-yr yield ~5.0–5.3%), investor.exxonmobil.com (XOM Q3 earnings call Oct 30), benzinga.com (CVX Q3 Oct 30 expected $4.32 EPS)_
+
+### Midday Addendum — 2026-10-28 (~12:20 PM ET)
+
+- **Positions recovering** from Tuesday's broad sell-off: CVX +1.26%, XOM +1.92%, HON +0.15% intraday
+- **No sharp unexplained moves** — moves consistent with pre-FOMC stabilization and oil holding ~$101
+- **FOMC decision 2PM ET** — still pending; no surprise pre-announcement signals; market pricing ~90-92% hold at 3.75–4.00%; hawkish Warsh press conference expected
+- **Web search returned no reliable Oct 28 2026 intraday data** — no external thesis-breaking headlines found
+- **No action warranted** — all three theses intact, no -7% triggers, no +15% tighten triggers
+
+#### Afternoon Watch
+- FOMC 2PM ET: HOLD expected; watch for hawkish tone or December hike language → may soften equities but energy insulated
+- CVX/XOM earnings Friday Oct 30 — 2 days out; WTI ~$101 supports beat scenario
+- LMT entry Oct 29 (tomorrow) — primary post-FOMC target; reassess price/R:R at open
+- HON buf 8.08% — lowest of the three; watch for any dip toward $201 stop level
