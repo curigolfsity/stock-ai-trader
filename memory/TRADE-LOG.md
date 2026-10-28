@@ -6401,3 +6401,15 @@ _Midday Oct 26: No action. FOMC gate Day 1. CVX +10.81% (HWM $234.08, stop $210.
 - Post-FOMC (2PM ET): assess LMT entry for Oct 29
 
 _Midday Oct 28: No action. FOMC gate Day 3 (final). CVX +10.24% (stop $210.672, buf 8.84%). HON +3.39% (stop $201.429, buf 8.08%). XOM +5.85% (stop $166.392, buf 9.25%). Day P&L +$656.44 (+0.66%). Phase P&L +$459.05 (+0.46%). Weekly trades 0/3. LMT earliest entry Oct 29._
+
+---
+
+### Oct 28 — EOD Snapshot (Day 129, Wednesday)
+**Portfolio:** $100,203.97 | **Cash:** $41,702.62 (41.6%) | **Day P&L:** +$455.99 (+0.46%) | **Phase P&L:** +$203.97 (+0.20%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $230.05 | +0.80% | +$2,042.20 (+9.74%) | 10% GTC f5c51b1f (HWM $234.08, stop $210.672, buf 8.42%) |
+| HON | 79 | $211.95 | $218.65 | −0.07% | +$529.30 (+3.16%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429, buf 7.88%) |
+| XOM | 100 | $173.219 | $182.245 | +1.30% | +$902.60 (+5.21%) | 10% GTC 7467f25a (HWM $184.88, stop $166.392, buf 8.70%) |
+
+**Notes:** Day 129 (Wednesday, FOMC decision day) closes with a partial recovery from Tuesday's selloff. CVX +0.80%, HON essentially flat (−0.07%), XOM +1.30% as oil steadied. Day P&L +$455.99 (+0.46%) recovers roughly half of yesterday's −$932.76. Phase P&L edges back into the black at +$203.97 (+0.20%). No new HWMs today — CVX held below $234.08, XOM held below $184.88; all GTC trailing stops active and unchanged. No cut/tighten thresholds breached; all unrealized P&Ls positive (+3.2% to +9.7%). FOMC gate now lifted — earliest new entry is Oct 29 (tomorrow). LMT remains primary candidate; 0 trades executed, 0/3 this week, full 3-trade budget available for the rest of the week.
