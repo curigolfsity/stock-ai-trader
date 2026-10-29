@@ -10473,3 +10473,21 @@ _Sources: Alpaca API (live account/positions/orders), oilpriceapi.com (WTI $100.
 - Primary risk today: CVX/XOM earnings tomorrow — stops active and adequate
 
 _Sources: Alpaca API (live account/positions/orders), OilPriceAPI (WTI $102.23, Brent $114.81 Oct 29 01:55 UTC), business-standard.com (Brent $117 peak, +12% Oct), yahoo.com/finance (GOOGL selloff, MSFT beat; LMT +5.16% Oct 26, HON Q3 beat), CNBC (Nasdaq futures −1.2% Oct 29; LMT MS upgrade PT $835), stl.news (Fed held 3.75%–4.00% Oct 28), barchart.com (XLE #1 YTD sector), etfcentral.com (H1 scorecard: XLE ~+39% YTD Aug), yahoo.com (Q3 GDP +3.2% exp, jobless claims today)_
+
+### Market-Open Addendum — 2026-10-29 (~13:30 UTC / 9:30 AM ET)
+
+**LMT entry attempt: CANCELED — price condition failed**
+- LMT opened at **$643.81** (above $640 threshold; research condition: enter only ≤$635)
+- Market order (31 shares, day TIF, order 7f35bab5) placed at 12:37 UTC, canceled at 13:30 UTC before any fill
+- Condition from pre-market: "If LMT opens above $640 or broad market dumps on GOOGL: HOLD and reassess at midday"
+- Action: order canceled, no fill, no stop placed, TRADE-LOG unchanged
+- **Weekly trades: 0/3** — full budget still available
+
+**Live positions at open:**
+| Ticker | Shares | Current | Unrealized P&L |
+|--------|--------|---------|----------------|
+| CVX | 100 | $232.41 | ~+10.9% |
+| HON | 79 | $221.98 | ~+4.7% |
+| XOM | 100 | $183.90 | ~+6.2% |
+
+**Next action:** Reassess LMT at midday. If LMT pulls back to ≤$635 intraday, consider entry then. If it stays elevated, skip and research NOC/RTX as defense alternative.
