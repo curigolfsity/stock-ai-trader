@@ -6413,3 +6413,15 @@ _Midday Oct 28: No action. FOMC gate Day 3 (final). CVX +10.24% (stop $210.672, 
 | XOM | 100 | $173.219 | $182.245 | +1.30% | +$902.60 (+5.21%) | 10% GTC 7467f25a (HWM $184.88, stop $166.392, buf 8.70%) |
 
 **Notes:** Day 129 (Wednesday, FOMC decision day) closes with a partial recovery from Tuesday's selloff. CVX +0.80%, HON essentially flat (−0.07%), XOM +1.30% as oil steadied. Day P&L +$455.99 (+0.46%) recovers roughly half of yesterday's −$932.76. Phase P&L edges back into the black at +$203.97 (+0.20%). No new HWMs today — CVX held below $234.08, XOM held below $184.88; all GTC trailing stops active and unchanged. No cut/tighten thresholds breached; all unrealized P&Ls positive (+3.2% to +9.7%). FOMC gate now lifted — earliest new entry is Oct 29 (tomorrow). LMT remains primary candidate; 0 trades executed, 0/3 this week, full 3-trade budget available for the rest of the week.
+
+---
+
+### Oct 29 — EOD Snapshot (Day 130, Thursday)
+**Portfolio:** $100,621.70 | **Cash:** $41,702.62 (41.4%) | **Day P&L:** +$475.54 (+0.47%) | **Phase P&L:** +$621.70 (+0.62%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $230.925 | +0.75% | +$2,129.70 (+10.16%) | 10% GTC f5c51b1f (HWM $234.08, stop $210.672, buf 8.77%) |
+| HON | 79 | $211.95 | $222.425 | +1.44% | +$827.525 (+4.94%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429, buf 9.44%) |
+| XOM | 100 | $173.219 | $182.55 | +0.29% | +$933.10 (+5.39%) | 10% GTC 7467f25a (HWM $184.88, stop $166.392, buf 8.85%) |
+
+**Notes:** Day 130 (Thursday) — first post-FOMC session, FOMC gate lifted. All three positions advanced modestly: HON led (+1.44%), CVX +0.75%, XOM +0.29%. No new HWMs established — CVX remains below $234.08, HON below $223.81, XOM below $184.88; all GTC trailing stops active and unchanged. No cut/tighten thresholds breached; all unrealized P&Ls positive (+4.9% to +10.2%). Day P&L +$475.54 (+0.47%) pushes Phase P&L to +$621.70 (+0.62%). Zero trades executed; 0/3 this week (LMT entry opportunity available but not executed). CVX and XOM earnings Oct 30 — monitoring closely for stop-advance/exit signals.
