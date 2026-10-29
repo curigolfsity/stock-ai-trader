@@ -10402,3 +10402,74 @@ _Sources: Alpaca API (live account/positions/orders), oilpriceapi.com (WTI $100.
 - CVX/XOM earnings Friday Oct 30 — 2 days out; WTI ~$101 supports beat scenario
 - LMT entry Oct 29 (tomorrow) — primary post-FOMC target; reassess price/R:R at open
 - HON buf 8.08% — lowest of the three; watch for any dip toward $201 stop level
+
+---
+
+## Pre-Market Research — 2026-10-29 (Day 130, Thursday)
+
+### Account Snapshot
+- **Equity:** $100,765.84 | **Cash:** $41,702.62 (41.4%) | **Deployed:** $59,063.22 (58.6%)
+- **Day P&L (pre-open):** +$619.68 (+0.62%) | **Phase P&L:** +$765.84 (+0.77%)
+- **Weekly trades:** 0/3 | **DayTrade count:** 0
+- **Positions:** 3/6 max
+
+| Ticker | Shares | Entry | Pre-Open | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|----------|----------------|------|--------|
+| CVX | 100 | $209.628 | $231.77 | +$2,214.20 (+10.56%) | 10% GTC f5c51b1f (HWM $234.08, stop $210.672) | 9.10% |
+| HON | 79 | $211.95 | $221.18 | +$729.17 (+4.36%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429) | 8.93% |
+| XOM | 100 | $173.219 | $184.13 | +$1,091.10 (+6.30%) | 10% GTC 7467f25a (HWM $184.88, stop $166.392) | 9.63% |
+
+### Market Context
+- **WTI:** ~$102/bbl | **Brent:** ~$115/bbl — Houthi ballistic missile strike on Saudi Ras Tanura refinery sustaining geopolitical premium; Brent briefly hit $117 last week, +12% in October
+- **S&P 500 pre-market:** Nasdaq futures −1.2%; S&P mixed/flat; Dow slight gain — Alphabet (GOOGL) sold off AMC on weak FCF and AI ROI concerns; Microsoft beat
+- **VIX:** ~17.0–17.5 (up from ~16 post-FOMC low yesterday)
+- **FOMC:** Held 3.75%–4.00% on Oct 28; 10-2 vote (2 dissenters wanted hike); hawkish tone; December hike ~80% probability; gate now LIFTED — Oct 29 is first eligible entry day
+- **10-yr yield:** ~5.0–5.3% elevated; hold-only mode active for high-multiple growth (P/E >40); LMT P/E ~21x — NOT blocked
+- **Energy sector YTD:** ~+39–49% (XLE #1 S&P sector as of Aug data); XLK #2 ~+28–32%; XLI #3 ~+16–21%
+- **Today's catalysts (Oct 29):** Q3 GDP estimate (+3.2% exp vs +2.2% prior), Jobless claims; Amazon earnings AMC; LLY, MA, INTC, CAT BMO/intraday earnings
+- **CVX/XOM earnings:** Tomorrow Oct 30 — WTI ~$102 throughout Q3 supports significant beats; XOM exp EPS $3.40 vs $1.88 YoY, CVX exp EPS $4.32 vs $1.85 YoY
+
+### News on Held Tickers
+- **CVX:** +1.12% pre-open; earnings Oct 30 BMO; recent Hess Midstream / DJ Basin divestiture; no new negative catalyst
+- **XOM:** +1.17% pre-open; hit 52-week high recently; earnings Oct 30 BMO; WTI support intact
+- **HON:** Q3 beat on Oct 22 with raised FY2026 EPS growth guidance 25–29%; mild recovery today; earnings cycle finished — thesis: industrial automation strength, multi-year backlog
+- **LMT:** Oct 26 +5.16% on Morgan Stanley upgrade to Overweight PT $835 (from Neutral); closed ~$635; F-35 10-yr framework Pentagon deal; Q3 EPS $7.97 beat; raised 2026 EPS guide $30.35–$30.75; $694M ARRW Air-Launched Rapid Response contract; USAF hypersonic missile contract Oct 27; JP Morgan raised PT $620→$665 Neutral; 13 Buy/OW, 12 Hold among 26 analysts covering
+
+### Trade Ideas
+
+1. **LMT — PRIMARY ENTRY (CONDITIONAL)** | Catalyst: strongest in weeks
+   - Morgan Stanley OW upgrade PT $835 (Oct 26); F-35 10-yr framework deal; Q3 beat + raised guide; ARRW + hypersonic contracts Oct 27
+   - Entry range: $615–$635 (wait for open; watch Nasdaq drag — if LMT opens > $640, reassess)
+   - Stop: −7% from entry → ~$572–$590 as initial hard stop; immediately replace with 10% GTC trailing stop
+   - Target: $720+ (MS $835 bull case, disciplined exit ~$720 = ~2:1 R:R at $635 entry)
+   - Position size: ~$20K (~32 shares at $625) = ~19.8% equity ✓ (≤20%)
+   - 10-yr yield check: LMT P/E ~21x — does NOT trigger hold-only rule ✓
+   - Defense sector: XLI #3 YTD — momentum intact; 2 failed trades in sector? No prior LMT/defense trade → no sector ban
+   - All buy-side gates: positions 3→4 ✓; trades 0→1 ✓; cost ≤20% ✓; cash available ✓; daytrade 0 ✓
+   - **CONDITION:** Only enter if LMT opens ≤$635 and broad market not in accelerating Nasdaq dump (>−2% SPX)
+
+2. **NOC or RTX — Secondary defense candidate (no entry today)**
+   - Defense breadth play; need full catalyst + R:R research before entry
+   - Do not enter without pre-trade checklist; target for next pre-market research if LMT enters
+
+3. **Hold CVX/HON/XOM**
+   - CVX/XOM: HOLD through Oct 30 earnings; WTI $102 supports beat; stops at 9.10% and 9.63% ✓
+   - HON: HOLD; thesis intact post Q3 beat; buf 8.93% fine
+
+### Risk Factors
+1. **GOOGL/Nasdaq drag** — GOOGL missed FCF/AI ROI → Nasdaq futures −1.2%; could pull LMT lower on open; wait for tape to settle before entering
+2. **CVX/XOM earnings Oct 30** — binary tomorrow; stops at ~9% protect ~$1,900/position; beat expected on WTI $102+ Q3 but guidance cautious if oil narrative shifts
+3. **10-yr yield elevated ~5%+** — hawkish FOMC tone + Dec hike ~80% → yield pressure on equity multiples; defense/energy insulated but broad sentiment matters
+4. **Oil de-escalation risk** — Ras Tanura strike keeps premium; any ceasefire → WTI $3–5 pullback; CVX/XOM buffer adequate but watch
+5. **GDP print** — +3.2% exp; miss = risk-off; beat = broadly supportive; release today pre-open
+6. **Deployment gap** — 58.6% vs 75–85% target; LMT entry → ~64%; need second name to close gap further
+
+### Decision: **CONDITIONAL TRADE (LMT)**
+- FOMC gate LIFTED — Oct 29 is first eligible entry day
+- LMT catalyst is among the strongest seen this challenge: MS upgrade, F-35 deal, earnings beat, defense budget tailwinds
+- Condition: enter if LMT opens $615–$635 and S&P futures not accelerating lower (>−2% SPX)
+- If LMT opens above $640 or broad market dumps on GOOGL: **HOLD** and reassess at midday
+- All three held positions above cut thresholds; no tighten triggers breached
+- Primary risk today: CVX/XOM earnings tomorrow — stops active and adequate
+
+_Sources: Alpaca API (live account/positions/orders), OilPriceAPI (WTI $102.23, Brent $114.81 Oct 29 01:55 UTC), business-standard.com (Brent $117 peak, +12% Oct), yahoo.com/finance (GOOGL selloff, MSFT beat; LMT +5.16% Oct 26, HON Q3 beat), CNBC (Nasdaq futures −1.2% Oct 29; LMT MS upgrade PT $835), stl.news (Fed held 3.75%–4.00% Oct 28), barchart.com (XLE #1 YTD sector), etfcentral.com (H1 scorecard: XLE ~+39% YTD Aug), yahoo.com (Q3 GDP +3.2% exp, jobless claims today)_
