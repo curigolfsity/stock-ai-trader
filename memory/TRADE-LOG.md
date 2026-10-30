@@ -6465,3 +6465,15 @@ _Midday Oct 28: No action. FOMC gate Day 3 (final). CVX +10.24% (stop $210.672, 
 - Weekly trades: 0/3 — full budget available for next week
 
 _Midday Oct 30: No action. CVX +12.30% (HWM $236.48, stop $212.832, buf 9.59%). HON +4.24% (stop $201.429, buf 8.83%). XOM +7.61% (HWM $188.50, stop $169.65, buf 8.99%). Day P&L +$610.91 (+0.61%). Phase P&L +$1,337.59 (+1.34%). Weekly trades 0/3. CVX approaching +15% tighten threshold $241.07._
+
+---
+
+### Oct 30 — EOD Snapshot (Day 131, Friday — CVX+XOM Earnings Day)
+**Portfolio:** $101,189.47 | **Cash:** $41,702.62 (41.2%) | **Day P&L:** +$567.77 (+0.56%) | **Phase P&L:** +$1,189.47 (+1.19%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $235.25 | +1.64% | +$2,562.20 (+12.22%) | 10% GTC f5c51b1f (HWM $236.48, stop $212.832, buf 9.53%) |
+| HON | 79 | $211.95 | $219.15 | −1.35% | +$568.80 (+3.40%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429, buf 8.09%) |
+| XOM | 100 | $173.219 | $186.485 | +1.74% | +$1,326.60 (+7.66%) | 10% GTC 7467f25a (HWM $188.50, stop $169.65, buf 9.03%) |
+
+**Notes:** Day 131 (Friday, CVX+XOM earnings day) closes the week with a solid EOD. CVX and XOM extended earnings-day gains (+1.64% and +1.74% respectively) as defensive energy outperformed amid a Nasdaq tech selloff (AMZN/INTC). HON gave back Thursday's gains (−1.35%) on no HON-specific catalyst; industrial thesis intact. Day P&L +$567.77 (+0.56%) brings Phase P&L to +$1,189.47 (+1.19%). No HWMs advanced at close — CVX below $236.48, XOM below $188.50, HON below $223.81; all GTC stops active and unchanged. All overnight stop buffers healthy (9.53%, 8.09%, 9.03%) — no manual cuts needed Monday. CVX remains ~2.4% below the +15% tighten trigger ($241.07) — first priority Monday morning. Zero trades executed this week (0/3); LMT entry deferred to next week. Weekly P&L: +$567.77 (this session's contribution to the week's final day).
