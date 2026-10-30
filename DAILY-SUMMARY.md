@@ -298,3 +298,11 @@ Decision: HOLD
 Ideas: LMT post-FOMC (Oct 29+ earliest, core CPI 2.6%>2.5% gate), Energy watch (CVX+XOM 40% limit)
 Market: SPX futures -0.3%, VIX 16.87, Oil WTI $94-95
 Risks: Triple data 8:30 ET (PPI+RetailSales+Claims); HON earnings date uncertain; XOM earnings Oct 23
+
+---
+## 2026-10-30 10:17 UTC (fallback — no notification service configured)
+Pre-market 2026-10-30
+Decision: HOLD
+Ideas: CVX HOLD (earnings beat +12.5%, approaching +15% tighten @$241), XOM HOLD (earnings beat +8%, new HWM), LMT DEFER (Nasdaq -2% fails entry condition, reassess Monday)
+Market: SPX futures -0.9%, Nasdaq -2.0%, VIX est ~18-20, Oil WTI $103-104
+Risks: AMZN/INTC tech selloff contagion; CVX near +15% tighten trigger; oil de-escalation; Friday risk-off
