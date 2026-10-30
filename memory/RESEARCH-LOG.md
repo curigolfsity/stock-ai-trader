@@ -10555,3 +10555,12 @@ _Sources: Alpaca API (live account/positions/orders), OilPriceAPI (WTI $102.23, 
 - **GTC stop advance note:** CVX new HWM $235.86 → auto-stop $212.274; XOM new HWM $187.02 → auto-stop $168.318; Alpaca trailing stop engine handles in real time
 
 _Sources: Alpaca API (live account/positions/orders), oilpriceapi.com (WTI $103.42, Brent $116.54 Oct 30 06:21 UTC), oilprice.com (WTI $104.40 +2% intraday), investing.com (S&P futures −0.9%, INTC crash on Q4 guide), CNBC/cnbc.com (Nasdaq-100 futures −2%, AMZN −7% / INTC −25% pre-market), benzinga.com (CVX/XOM earnings BMO, stock market today Oct 30), 247wallst.com (CVX Q3 consensus ~$4.89 EPS, 150% YoY jump), alphastreet.com (XOM Q3 preview $4.03 EPS Oct 30), marketbeat.com (XOM earnings date/estimates), hartenergy.com (Exxon/Chevron Q3 beat estimates output), worldoilmonitor.com (WTI prior close $102.20), oilprice.com (Brent ~$27 geopolitical risk premium, ANZ $105/UBS $110 forecasts)_
+
+### Midday Addendum — 2026-10-30 (~12:50 PM ET)
+
+- **CVX/XOM earnings beats confirmed intraday** — both up ~+1.7%; Alpaca GTC trailing stops auto-advancing to new HWMs (CVX $236.48, XOM $188.50)
+- **HON −0.54% intraday** — consistent with tech-adjacent selling from AMZN/INTC drag; no HON-specific thesis break
+- **CVX approaching +15% tighten trigger** — current $235.415 vs threshold $241.07 (~2.4% gap); if closes >$241.07 → tighten trail to 7% at next session
+- **LMT not entered** — Nasdaq −2% (AMZN/INTC) fails broad market condition; defer to Monday pre-market; expect price reset lower from $643 Oct 29 open
+- **No external thesis-breaking headlines** found for CVX, HON, or XOM
+- **Decision: HOLD** — all theses intact; no action warranted; full 3-trade budget available next week

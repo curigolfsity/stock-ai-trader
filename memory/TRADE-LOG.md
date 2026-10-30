@@ -6425,3 +6425,43 @@ _Midday Oct 28: No action. FOMC gate Day 3 (final). CVX +10.24% (stop $210.672, 
 | XOM | 100 | $173.219 | $182.55 | +0.29% | +$933.10 (+5.39%) | 10% GTC 7467f25a (HWM $184.88, stop $166.392, buf 8.85%) |
 
 **Notes:** Day 130 (Thursday) — first post-FOMC session, FOMC gate lifted. All three positions advanced modestly: HON led (+1.44%), CVX +0.75%, XOM +0.29%. No new HWMs established — CVX remains below $234.08, HON below $223.81, XOM below $184.88; all GTC trailing stops active and unchanged. No cut/tighten thresholds breached; all unrealized P&Ls positive (+4.9% to +10.2%). Day P&L +$475.54 (+0.47%) pushes Phase P&L to +$621.70 (+0.62%). Zero trades executed; 0/3 this week (LMT entry opportunity available but not executed). CVX and XOM earnings Oct 30 — monitoring closely for stop-advance/exit signals.
+
+---
+
+### Midday Scan — 2026-10-30 (Day 131, Friday — CVX+XOM Earnings Day)
+
+- **Account:** Equity ~$101,338 | Cash $41,702.62 (41.2%) | Deployed $59,635 (58.8%) | Weekly trades: 0/3
+- **Day P&L:** +$610.91 (+0.61%) | **Phase P&L:** +$1,337.59 (+1.34%)
+- **Context:** CVX/XOM earnings BMO both beat; Nasdaq tech selloff (AMZN/INTC) driving defensive rotation into energy
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | Stop | Status |
+|--------|--------|-------|---------|----------------|----------|------|--------|
+| CVX | 100 | $209.628 | $235.415 | +$2,578.70 (+12.30%) | +1.71% | 10% GTC f5c51b1f (HWM $236.48, stop $212.832, buf 9.59%) | HOLD ✓ |
+| HON | 79 | $211.95 | $220.93 | +$709.42 (+4.24%) | −0.54% | 10% GTC 8303e452 (HWM $223.81, stop $201.429, buf 8.83%) | HOLD ✓ |
+| XOM | 100 | $173.219 | $186.40 | +$1,318.10 (+7.61%) | +1.70% | 10% GTC 7467f25a (HWM $188.50, stop $169.65, buf 8.99%) | HOLD ✓ |
+
+#### STEP 3 — Cut Check (−7%)
+- CVX +12.30%: No trigger ✓
+- HON +4.24%: No trigger ✓
+- XOM +7.61%: No trigger ✓
+
+#### STEP 4 — Stop Tighten Check
+- CVX +12.30%: +15% threshold $241.07 — not reached ✓ (approaching; ~2.4% gap)
+- HON +4.24%: +15% threshold $243.74 — not reached ✓
+- XOM +7.61%: +15% threshold $199.20 — not reached ✓
+- Alpaca engine auto-advanced CVX HWM → $236.48 (stop $212.832) and XOM HWM → $188.50 (stop $169.65)
+
+#### STEP 5 — Thesis Check
+- **CVX:** INTACT — +12.30%; Q3 earnings beat BMO confirmed by +1.71% intraday; WTI $103+ thesis intact; HWM auto-advancing ✓
+- **HON:** INTACT — +4.24%; −0.54% intraday on broad tech selloff (no HON-specific catalyst); industrial thesis intact; stop buf 8.83% ✓
+- **XOM:** INTACT — +7.61%; Q3 earnings beat BMO confirmed by +1.70% intraday; refining margins strong; HWM auto-advancing ✓
+
+#### Actions
+- **NO TRADES EXECUTED.** No cuts. No stop tightening.
+- GTC stops auto-advanced by Alpaca engine: CVX HWM $236.48 (stop $212.832); XOM HWM $188.50 (stop $169.65); HON unchanged HWM $223.81
+- CVX approaching +15% tighten trigger ($241.07) — monitor close today; tighten Monday if above threshold
+- LMT deferred to Monday (Nasdaq −2% fails broad market condition; price discovery needed post-AMZN/INTC)
+- Weekly trades: 0/3 — full budget available for next week
+
+_Midday Oct 30: No action. CVX +12.30% (HWM $236.48, stop $212.832, buf 9.59%). HON +4.24% (stop $201.429, buf 8.83%). XOM +7.61% (HWM $188.50, stop $169.65, buf 8.99%). Day P&L +$610.91 (+0.61%). Phase P&L +$1,337.59 (+1.34%). Weekly trades 0/3. CVX approaching +15% tighten threshold $241.07._
