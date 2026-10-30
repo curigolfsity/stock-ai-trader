@@ -10491,3 +10491,67 @@ _Sources: Alpaca API (live account/positions/orders), OilPriceAPI (WTI $102.23, 
 | XOM | 100 | $183.90 | ~+6.2% |
 
 **Next action:** Reassess LMT at midday. If LMT pulls back to ≤$635 intraday, consider entry then. If it stays elevated, skip and research NOC/RTX as defense alternative.
+
+---
+
+## Pre-Market Research — 2026-10-30 (Day 131, Friday — CVX+XOM Earnings Day)
+
+### Account Snapshot
+- **Equity:** $101,607.62 | **Cash:** $41,702.62 (41.0%) | **Deployed:** $59,905.00 (58.9%)
+- **Day P&L (pre-open):** +$880.94 (+0.87% vs prior close $100,726.68) | **Phase P&L:** +$1,607.62 (+1.61%)
+- **Weekly trades:** 0/3 | **DayTrade count:** 0
+- **Positions:** 3/6 max
+
+| Ticker | Shares | Entry | Pre-Open | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|----------|----------------|------|--------|
+| CVX | 100 | $209.628 | $235.86 | +$2,623.20 (+12.51%) | 10% GTC f5c51b1f (HWM $234.08→**$235.86**, stop $210.672→**$212.274**) | ~10.0% |
+| HON | 79 | $211.95 | $223.00 | +$872.95 (+5.21%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429) | 9.67% |
+| XOM | 100 | $173.219 | $187.02 | +$1,380.10 (+7.97%) | 10% GTC 7467f25a (HWM $184.88→**$187.02**, stop $166.392→**$168.318**) | ~10.0% |
+
+*CVX and XOM both above old HWMs at open — GTC trailing stop engine should auto-advance stops to new HWMs.*
+
+### Market Context
+- **WTI:** ~$103–104/bbl | **Brent:** ~$116–117/bbl — oil up ~2% on the day; Middle East/Iran-Houthi geopolitical premium intact; ANZ target Brent $105 year-end, UBS $110; ~$27/bbl risk premium estimated
+- **S&P 500 pre-market:** S&P 500 futures −0.9%; Nasdaq-100 futures −2.0%; Dow futures down modestly — Amazon missed Q3 top and bottom line (-7% pre-mkt), Intel Q4 guide badly missed expectations (-25% pre-mkt); tech-driven risk-off rotation into defensives/healthcare/utilities
+- **VIX:** Elevated — estimated ~18–20 (up from ~17 post-FOMC; no exact reading available; tech selloff suggests expansion)
+- **10-yr Yield:** ~5.0–5.3% — elevated; hold-only mode active for high-multiple growth (P/E >40); does not affect CVX/HON/XOM (value/industrial names)
+- **Energy sector YTD:** ~+49% (XLE #1 S&P sector); Technology under pressure today with AMZN+INTC after earnings
+- **Previous session:** S&P 500 −0.30%, Nasdaq −1.38%, Dow −0.25%; rotation underway from growth/AI into value/energy/defense
+
+### Today's Key Catalysts (Oct 30, Friday)
+- **CVX earnings BMO** — Q3 2026 report before market; consensus ~$4.86 EPS vs $1.85 YoY; revenue ~$61.33B; prior Q2 beat at $6.06 vs $5.55 est; WTI $100+ through Q3 supports strong beat; pre-market reaction +1.90% indicates beat confirmed
+- **XOM earnings BMO** — Q3 2026 report before market; consensus ~$4.03–4.12 EPS; prelim: $4.5B boost from refining margins; pre-market +2.04% confirms beat
+- **AMZN −7% / INTC −25% pre-market** — AI capex concerns; AMZN 2nd consecutive quarter of negative FCF; INTC Q4 guide $15–16B vs $17B est; tech sector rotation continues from Oct 29 GOOGL miss
+- **Defensive rotation** — healthcare, utilities, energy outperforming on broad tech selloff
+- **LMT watch** — primary entry candidate; street estimate $588 in some reports but likely pulled back from Oct 29 open of $643.81; DO NOT enter today (Nasdaq −2% violates broad market condition for entry; patience)
+- **GDP / weekly data already digested** — Q3 GDP +3.2% beat released Oct 29; supportive macro backdrop despite tech weakness
+
+### Cut / Tighten Check
+- CVX +12.51%: Cut −7%? No ✓ | Tighten at +15% (entry $209.628 × 1.15 = $241.07)? Not yet — $235.86 < $241.07 ✓ — **APPROACHING**; watch intraday
+- HON +5.21%: Cut −7%? No ✓ | Tighten at +15% ($243.74)? No ✓
+- XOM +7.97%: Cut −7%? No ✓ | Tighten at +15% ($199.20)? No ✓
+
+### Trade Ideas
+1. **HOLD CVX** — Earnings beat confirmed (price up 1.90% pre-open); WTI $103+ sustains thesis; new HWM $235.86; approaching +15% tighten threshold ($241.07); monitor intraday
+2. **HOLD XOM** — Earnings beat confirmed (price up 2.04% pre-open); oil thesis intact; new HWM $187.02; strong refining margin prelim ($4.5B boost); all good
+3. **HOLD HON** — No earnings today; industrial thesis intact; buf 9.67%; stable
+4. **LMT — DEFER** — Primary candidate but DO NOT enter today: (a) Nasdaq −2% fails broad market condition, (b) Friday risk-off day, (c) need LMT price discovery after multi-day selloff before sizing entry; reassess Monday pre-market at new price level
+5. **NOC/RTX (secondary defense) — research Monday** — if LMT continues to run away or is structurally impaired by defense budget shift, need backup; defer to next session
+
+### Risk Factors
+1. **Tech contagion broadening** — AMZN+INTC follow GOOGL; 3 of Mag-7 now missed or guided down; if Apple/Microsoft disappoint next earnings cycle, risk-off rotation could deepen and pressure HON (industrial/tech crossover name)
+2. **CVX approaching +15% tighten trigger** — $235.86 vs $241.07 threshold; if earnings excitement pushes intraday to $241+, must tighten trail to 7% immediately (stop would advance to HWM × 0.93)
+3. **Earnings day volatility** — CVX/XOM report today; guidance commentary on 2027 capex, buyback pace, and oil price assumptions matters; stop buffers ~10% protect downside
+4. **Oil de-escalation** — WTI ~$103–104 on geopolitical premium; any Iran/Houthi ceasefire signal = $3–5 WTI pullback; would pressure energy thesis but stops at ~10% provide protection
+5. **Deployment gap persists** — 58.9% deployed vs 75–85% target; today is not a day to add; Monday LMT/defense entry remains primary path to close gap
+6. **Friday + risk-off** — Any new entry today violates patience rule; do not chase; let existing positions work
+
+### Decision: **HOLD**
+- CVX/XOM earnings beats confirmed via pre-market price action; theses INTACT; GTC stops auto-advancing
+- Nasdaq −2% on AMZN/INTC: broad market condition fails for new entries
+- HON: no new catalyst; thesis intact; hold
+- LMT: defer to Monday — price must reset from Oct 29 open of $643.81 to ≤$635 range; do not chase into tech-selloff day
+- Weekly trades: 0/3 — full budget intact for next week
+- **GTC stop advance note:** CVX new HWM $235.86 → auto-stop $212.274; XOM new HWM $187.02 → auto-stop $168.318; Alpaca trailing stop engine handles in real time
+
+_Sources: Alpaca API (live account/positions/orders), oilpriceapi.com (WTI $103.42, Brent $116.54 Oct 30 06:21 UTC), oilprice.com (WTI $104.40 +2% intraday), investing.com (S&P futures −0.9%, INTC crash on Q4 guide), CNBC/cnbc.com (Nasdaq-100 futures −2%, AMZN −7% / INTC −25% pre-market), benzinga.com (CVX/XOM earnings BMO, stock market today Oct 30), 247wallst.com (CVX Q3 consensus ~$4.89 EPS, 150% YoY jump), alphastreet.com (XOM Q3 preview $4.03 EPS Oct 30), marketbeat.com (XOM earnings date/estimates), hartenergy.com (Exxon/Chevron Q3 beat estimates output), worldoilmonitor.com (WTI prior close $102.20), oilprice.com (Brent ~$27 geopolitical risk premium, ANZ $105/UBS $110 forecasts)_
