@@ -1374,3 +1374,65 @@ Rule adherence A (Columbus Day hold; LMT hot-CPI block; T+0 stop on XOM; no gate
 Rule adherence A (FOMC gate enforced; HON earnings binary handled by buffer check protocol; all 3 stops active and auto-advancing daily; no violations), risk management A (all stop buffers 9.54%–9.92% at week end; CVX/XOM/HON all advanced HWMs this week; no cut triggers reached; energy thesis validated by oil prices), relative performance A (bot +2.09% vs S&P ~−3.2% = ~+5.29% outperformance — best relative week of the entire challenge; phase P&L turned positive for the first time in 24 weeks; +$839.66 / +0.84% above starting capital).
 
 ---
+
+## Week ending 2026-10-30
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,839.66 (Mon Oct 27 open — CVX/HON/XOM open, FOMC gate Day 1) |
+| Ending portfolio | $101,189.47 (Fri Oct 30 EOD — CVX+XOM earnings day) |
+| Week return | +$349.81 (+0.35%) |
+| S&P 500 week | ~−0.3% est. (tech selloff AMZN/INTC dominant; FOMC hold Oct 28 partially supportive; official SPX close not indexed at time of review; Nasdaq −2% Fri Oct 30) |
+| Bot vs S&P | ~+0.65% |
+| Trades | 0 (W:0 / L:0 / open:3) |
+| Win rate | N/A (no closed trades) |
+| Best trade | CVX +12.22% unrealized |
+| Worst trade | HON +3.40% unrealized (all positions positive) |
+| Profit factor | N/A |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades closed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CVX | $209.628 (Oct 7) | $235.25 | +$2,562.20 (+12.22%) | 10% GTC f5c51b1f (HWM $236.48, stop $212.832, buf 9.53%) — tighten trigger $241.07 (+15%) ~2.4% away |
+| HON | $211.95 (Sep 24) | $219.15 | +$568.80 (+3.40%) | 10% GTC 8303e452 (HWM $223.81, stop $201.429, buf 8.09%) |
+| XOM | $173.219 (Oct 13) | $186.485 | +$1,326.60 (+7.66%) | 10% GTC 7467f25a (HWM $188.50, stop $169.65, buf 9.03%) |
+
+### What Worked
+- CVX Q3 earnings beat (Oct 30 BMO) confirmed — WTI ~$103 throughout Q3 supported a strong beat; stock +1.64% on the day; HWM auto-advanced to $236.48; energy thesis validated at the highest conviction point since entry Oct 7
+- XOM Q3 earnings beat (Oct 30 BMO) confirmed — refining margins strong; stock +1.74% on earnings day; HWM auto-advanced to $188.50; all XOM thesis pillars intact
+- FOMC gate enforced Days 1-3 (Oct 26-28) without leakage — hold decision (3.75–4.00%; 10-2 vote) and hawkish December hike language (~80% probability) validated the block; no entries forced into a known binary
+- LMT condition-gate cancel executed correctly — entry condition was ≤$635 open; LMT opened $643.81; order placed and canceled before any fill; prevented chasing a position at a price with inverted R:R
+- All 3 GTC trailing stops active and intact every session; automation functioning without gaps; no manual intervention needed
+- Phase P&L +1.19% at week end — positive for second consecutive week; energy/industrial book maintained alpha through a tech-selloff macro week
+
+### What Didn't Work
+- 58.6% deployed — below 75–85% minimum target for what is now 4+ consecutive weeks; FOMC gate + CVX/XOM earnings proximity blocked all additional entries; LMT condition failed on open price
+- 0/3 weekly trade capacity unused — 5th straight week without executing a new trade; full capacity carries into Week 26
+- HON −1.35% on CVX/XOM earnings day — only position that retreated; no HON-specific catalyst; sympathy to Nasdaq tech selloff; unrealized gain compressed from +4.88% to +3.40% on the day
+- Portfolio dipped below $100K baseline on Oct 27 (Phase P&L −$252.02 intraday peak) — broadest risk-off selling of this 3-position book; recovered fully by Thursday
+- LMT gap above $640 post-Morgan Stanley upgrade + defense contracts — best entry opportunity this week opened above the entry ceiling; correct to cancel, but opportunity cost remains unresolved
+- S&P 500 exact close not confirmed — AMZN/INTC disappointments drove Nasdaq −2% on Oct 30; tech sector dominating index on Friday while energy outperformed; relative comparison is approximate
+
+### Key Lessons
+- **Simultaneous earnings in correlated positions (CVX + XOM, Oct 30) amplify both upside and downside:** this week both beats — next time a miss in either creates a compounding stop-buffer risk for ~40% of the book; the surviving position should be evaluated for trim if the other triggers; do not hold identical-thesis Energy pairs passively through both earnings simultaneously
+- **Condition-gated entries are the right tool for preventing gap-up chases:** the LMT order placed at $625–635, automatically canceled when $643.81 open was confirmed, is the correct process — not monitoring and deciding manually, but pre-defining the condition before placing the order; this is now a validated practice
+- **FOMC gate + earnings proximity compress deployment windows meaningfully in October:** the 3-week stretch from Oct 13 (XOM entry) to Oct 30 had FOMC gate, HON earnings, XOM earnings, and CVX earnings as consecutive blocks; the next stretch (Nov) should be planned around these concentration windows, not treated as blockers to be eliminated
+
+### Adjustments for Next Week
+- **Monday Nov 3 first action:** verify all 3 stops ACTIVE at open (f5c51b1f CVX, 8303e452 HON, 7467f25a XOM); CVX tighten trigger ($241.07, +15%) is ~$5.82 / ~2.4% above Friday close — watch for any gap-up; if $241.07 crossed → cancel f5c51b1f, place 7% GTC immediately; do NOT wait for midday
+- **LMT — research and reassess pre-market Mon Nov 3:** Q3 beat intact; MS upgrade PT $835; F-35/hypersonic contracts documented; entry zone $615–$635; if pullback to zone + VIX <17 + broad market not declining → enter with T+0 stop; if still above $640 → defer and research NOC/RTX as second defense candidate
+- **Deployment priority (structural):** 58.6% deployed vs 75–85% target; LMT entry → ~68%; need 1–2 more positions to reach target; NOC/RTX + one additional non-correlated name are the candidates; Energy sector Rule 10 caveat: CVX + XOM = 2 open Energy positions; if either closes as a loss, Energy rule proximity increases — prefer non-Energy for 4th position
+- **CVX tighten ($241.07 = +15%):** if crossed, cancel f5c51b1f, place 7% GTC (new stop ≈ $224.20 minimum at $241.07 entry, or $241.07 × 0.93 = $224.20); do not wait for midday scan
+- **XOM tighten (+15% = $199.20):** ~$12.72 / ~6.8% above Friday close; less imminent; monitor daily; threshold within reach on a strong oil session
+- **November calendar:** NFP Nov 5 (no entries on or directly before), CPI ~Nov 12, FOMC Dec 2–3 (future hard block); next macro-binary risk is NFP — plan entries Mon Nov 3 to avoid Nov 5 open exposure
+
+### Overall Grade: B
+Rule adherence A (FOMC gate enforced; LMT condition-cancel clean; T+0 stop habit maintained; all 3 stops active and verified daily; no violations), risk management A (all stop buffers 8–10% at week end; CVX/XOM earnings beats validated; no cut triggers reached; simultaneous earnings binary navigated successfully), relative performance B (bot +0.35% vs S&P est. ~−0.3% = ~+0.65% outperformance; positive relative for 2nd consecutive week; energy sector defensive rotation vs Nasdaq tech selloff was the mechanism; structural deployment gap at 58.6% is the only material unresolved constraint). Phase P&L: +$1,189.47 (+1.19%) after 25 weeks; second consecutive positive week.
+
+---
