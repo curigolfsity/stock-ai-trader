@@ -10564,3 +10564,70 @@ _Sources: Alpaca API (live account/positions/orders), oilpriceapi.com (WTI $103.
 - **LMT not entered** — Nasdaq −2% (AMZN/INTC) fails broad market condition; defer to Monday pre-market; expect price reset lower from $643 Oct 29 open
 - **No external thesis-breaking headlines** found for CVX, HON, or XOM
 - **Decision: HOLD** — all theses intact; no action warranted; full 3-trade budget available next week
+
+---
+
+## Pre-Market Research — 2026-11-02 (Day 132, Monday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $100,734.69 |
+| Cash | $41,702.62 (41.4%) |
+| Deployed | $59,032.07 (58.6%) |
+| Day P&L | −$493.00 (pre-open vs Oct 30 close) |
+| Phase P&L | +$734.69 (+0.73%) |
+| Weekly trades | 0/3 (new week) |
+| Daytrade count | 0 |
+
+### Positions (pre-open)
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | Stop | Buf |
+|--------|--------|-------|---------|----------------|------|-----|
+| CVX | 100 | $209.628 | $232.40 | +$2,277.20 (+10.86%) | $212.832 (HWM $236.48) | 8.42% |
+| HON | 79 | $211.95 | $218.33 | +$504.02 (+3.01%) | $201.429 (HWM $223.81) | 7.74% |
+| XOM | 100 | $173.219 | $185.44 | +$1,222.10 (+7.06%) | $169.65 (HWM $188.50) | 8.52% |
+
+### Market Context
+- **WTI:** ~$101/bbl (−3% from ~$104 on Oct 30 — Iran/Houthi peace-talk headlines over the weekend)
+- **Brent:** ~$110/bbl (−2.9% from ~$113)
+- **S&P 500 futures:** +0.47% (bounce after Friday −1.8%; driven by Iran de-escalation + Apple earnings optimism)
+- **VIX:** ~19.4 (elevated; up from ~17 post-FOMC; reflects lingering tech uncertainty)
+- **10-yr Yield:** ~5.0–5.3% (elevated; growth hold-only mode active for P/E >40 names)
+- **Sector YTD (as of Aug 2026 snapshot):** Energy +39% (#1), Technology +32%, Industrials +21% — energy still leads
+- **Key catalysts today:**
+  - AAPL Q4 earnings AMC (major mover; market watching for Mag-7 reversal vs continued tech rot)
+  - PLTR earnings AMC
+  - MAR earnings BMO (already released)
+  - ISM Manufacturing Index ~10am ET
+  - US Midterm elections Tuesday Nov 3 (defense sentiment key)
+  - Nonfarm Payrolls Friday Nov 6 at 8:30am ET
+  - CPI Oct → Nov 10 | PPI Oct → Nov 13
+
+### Cut / Tighten Check
+- CVX $232.40: −7% cut = $194.95 → NO ✓ | +15% tighten = $241.07 → NO (−3.7% gap) ✓
+- HON $218.33: −7% cut = $197.11 → NO ✓ | +15% tighten = $243.74 → NO ✓
+- XOM $185.44: −7% cut = $161.09 → NO ✓ | +15% tighten = $199.20 → NO ✓
+- All overnight stop buffers (8.42%, 7.74%, 8.52%) above 3% threshold → no manual cuts
+
+### Trade Ideas
+1. **HOLD CVX** — Oil −3% on Iran peace-talk headline; direct thesis pressure; stop buf 8.42% protects; thesis intact unless sustained oil de-escalation; monitor for HWM advance if recovers
+2. **HOLD XOM** — Same oil softness; strong Q3 beat already priced; refining margins sticky even at $101 WTI; buf 8.52% ✓
+3. **HOLD HON** — No new negative catalyst; Q3 beat Oct 22 already priced; ex-div Nov 13 ($0.70); thesis intact; flat premarket
+4. **LMT entry — defer to post-midterms** — Defense budget (+50% to $1.5T proposal) thesis remains intact; midterm elections Tuesday create uncertainty (defense spending vote implications); wait for Tuesday result + price confirmation; target entry ≤$635 range; sizing 20% of equity (~$20,000, ~30–32 shares)
+5. **NOC/RTX secondary defense** — if LMT remains elevated post-midterms, evaluate as alternative; defer research to Tuesday post-election session
+
+### Risk Factors
+1. **Oil de-escalation** — Iran peace talks could push WTI toward $95 from $101; would pressure CVX/XOM thesis further; stops at 10% provide protection but 2 down days could stress them
+2. **AAPL AMC** — if misses, continued tech rot and risk-off could spill into industrials (HON); if beats, rotation back into tech reduces defensive energy flows
+3. **Midterm elections Tuesday** — outcome uncertain; defense budget proposals at stake; LMT entry window depends on result
+4. **Deployment gap** — 58.6% deployed vs 75–85% target; 16+ point gap; must close with LMT or equivalent post-midterms
+5. **CVX/XOM tighten targets still out of reach** — need CVX $241.07 (+3.7%) and XOM $199.20 (+7.4%) but oil headwinds today
+
+### Decision: **HOLD**
+- Oil −3% on Iran talks → energy thesis under pressure; do NOT add energy exposure today
+- AAPL AMC → market direction uncertain until after close; do not enter before print
+- Midterm elections tomorrow → LMT timing gated on result; patience
+- All existing positions: stops healthy, no cuts triggered, theses intact
+- Week 0/3 trades → full budget preserved for post-midterm entries (LMT candidate)
+
+_Sources: Alpaca API (live account/positions/orders), hdfcsky.com (WTI $101 / Brent $110.2 Nov 2), investing.com (VIX 19.42), tradingkey.com (AAPL/PLTR AMC, midterms/payrolls week), tickerdaily.com (Nov 2–6 earnings calendar), barchart.com (energy sector YTD), gurufocus.com/cnbc.com (CVX/XOM Q3 earnings), quantisnow.com (HON ex-div Nov 13)_
