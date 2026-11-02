@@ -10631,3 +10631,16 @@ _Sources: Alpaca API (live account/positions/orders), oilpriceapi.com (WTI $103.
 - Week 0/3 trades → full budget preserved for post-midterm entries (LMT candidate)
 
 _Sources: Alpaca API (live account/positions/orders), hdfcsky.com (WTI $101 / Brent $110.2 Nov 2), investing.com (VIX 19.42), tradingkey.com (AAPL/PLTR AMC, midterms/payrolls week), tickerdaily.com (Nov 2–6 earnings calendar), barchart.com (energy sector YTD), gurufocus.com/cnbc.com (CVX/XOM Q3 earnings), quantisnow.com (HON ex-div Nov 13)_
+
+### Afternoon Addendum — 2026-11-02 Midday Scan (~16:30 UTC)
+
+**Account:** Equity ~$100,660.70 | Cash $41,702.62 | Day P&L −$566.99 (−0.56%) | Phase P&L +$660.70 (+0.66%)
+
+**Market Update:**
+- CVX $230.375 (−2.19% intraday): WTI ~$101 Iran/Houthi peace-talk pressure continues; stop buf 7.61% ✓
+- HON $225.02 (+3.06% intraday): New intraday HWM $225.10; Alpaca stop auto-advanced to $202.59; no single catalyst confirmed; industrial rotation + 7-day uptick streak; buf 9.97% ✓
+- XOM $181.44 (−3.10% intraday): Oil softness same driver as CVX; refining thesis intact; buf 6.50% ✓
+
+**Cut/Tighten:** No triggers breached. No trades executed.
+
+**Forward:** Midterm elections tomorrow Nov 3 — LMT entry remains gated on result. AAPL earnings AMC today — market direction uncertain. All three theses intact; all stops healthy. Monitor XOM buf at 6.50% if oil continues sliding.
