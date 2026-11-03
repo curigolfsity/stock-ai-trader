@@ -6568,3 +6568,15 @@ _Midday Nov 2: No action. CVX +9.90% (HWM $236.48, stop $212.832, buf 7.61%). HO
 - LMT entry continues deferred — awaiting midterm election results tonight; evaluate Wednesday open with price confirmation
 
 _Midday Nov 3: No action. CVX +7.84% (HWM $236.48, stop $212.832, buf 5.85%). HON +6.23% (HWM $225.65, stop $203.085, buf 9.80%). XOM +2.62% (HWM $188.50, stop $169.65, buf 4.56% ⚠️). Day P&L ~−$183. Phase P&L ~+$164 (+0.16%). Weekly trades 0/3. XOM buf narrowing — watch EOD. LMT deferred pending election results._
+
+---
+
+### Nov 03 — EOD Snapshot (Day 133, Tuesday — Election Day)
+**Portfolio:** $99,842.85 | **Cash:** $41,702.62 (41.8%) | **Day P&L:** −$281.60 (−0.28%) | **Phase P&L:** −$157.15 (−0.16%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CVX | 100 | $209.628 | $226.00 | −0.78% | +$1,637.20 (+7.81%) | 10% GTC f5c51b1f (HWM $236.48, stop $212.832, buf 5.83%) |
+| HON | 79 | $211.95 | $224.76 | +0.44% | +$1,011.99 (+6.04%) | 10% GTC 8303e452 (HWM $225.65, stop $203.085, buf 9.64%) |
+| XOM | 100 | $173.219 | $177.82 | −1.03% | +$460.10 (+2.66%) | 10% GTC 7467f25a (HWM $188.50, stop $169.65, buf 4.59% ⚠️) |
+
+**Notes:** Day 133 (Tuesday, Election Day) — oil continued softening, WTI ~$96 weighing on energy names. CVX fell −0.78% and XOM −1.03% on continued Iran/Houthi peace-talk narrative + midterm uncertainty; HON bucked the trend at +0.44% with Alpaca engine auto-advancing HWM to $225.65 (stop $203.085) today. Day P&L −$281.60 (−0.28%) pulls Phase P&L into negative territory at −$157.15 (−0.16%). No trades executed; 0/3 this week. XOM stop buffer compressed to 4.59% from 6.16% (Nov 2 EOD) — still above 3% floor but tightest of the three and must be monitored closely. CVX buffer 5.83% stable. HON buffer 9.64% comfortable. LMT entry continues deferred — election results expected overnight; evaluate Wednesday open with price confirmation once results known.
