@@ -10644,3 +10644,83 @@ _Sources: Alpaca API (live account/positions/orders), hdfcsky.com (WTI $101 / Br
 **Cut/Tighten:** No triggers breached. No trades executed.
 
 **Forward:** Midterm elections tomorrow Nov 3 — LMT entry remains gated on result. AAPL earnings AMC today — market direction uncertain. All three theses intact; all stops healthy. Monitor XOM buf at 6.50% if oil continues sliding.
+
+---
+
+## 2026-11-03 — Pre-Market Research (Day 133, Tuesday — Election Day)
+
+### Account Snapshot
+- **Equity:** $100,415.69 | **Cash:** $41,702.62 (41.6%) | **Deployed:** $58,713.07 (58.5%)
+- **Phase P&L:** +$415.69 (+0.42%) | **Premarket Day P&L:** +$291.24 vs yesterday close
+- **Weekly trades:** 0/3 | **Daytrade count:** 0
+- **Positions:** 3/6 | **Deployment gap:** 16.5–26.5pp below 75–85% target
+
+| Ticker | Shares | Entry | Current | Unrealized | Stop | Buf |
+|--------|--------|-------|---------|------------|------|-----|
+| CVX | 100 | $209.628 | $228.71 | +$1,908.20 (+9.10%) | 10% GTC f5c51b1f (HWM $236.48, stop $212.832) | 6.94% |
+| HON | 79 | $211.95 | $224.33 | +$978.02 (+5.84%) | 10% GTC 8303e452 (HWM $225.55, stop $202.995) | 9.52% |
+| XOM | 100 | $173.219 | $181.20 | +$798.10 (+4.61%) | 10% GTC 7467f25a (HWM $188.50, stop $169.65) | 6.37% |
+
+### Market Context
+- **WTI:** ~$96–97/bbl (down sharply from $104 last week — ~7–8% drop on Iran/Houthi peace-talk narrative + profit-taking; partial bounce after US strikes on Iran's Qeshm Island reported)
+- **Brent:** ~$104–105/bbl
+- **S&P 500 futures:** Mixed premarket; AAPL -2% AH after missed margin guidance + iPad miss weighing on tech; Dow futures slightly lower, Nasdaq-100 slightly higher
+- **VIX:** ~21 (elevated; up from ~19 yesterday; election uncertainty + AAPL miss adding vol)
+- **10-yr yield:** ~5.0–5.3% (elevated; growth hold-only mode active for P/E >40 names)
+- **Sector YTD:** Energy #1 (+39%), Technology +32%, Industrials +21%
+
+### Today's Catalysts (Nov 3)
+- **US Midterm Elections** — polls close tonight; outcome drives defense/clean energy/energy sector sentiment
+- **JOLTS job openings Sep** — forecast 7.164M vs prior 7.079M (~10am ET)
+- **Factory orders Sep** — forecast +1.2% vs prior +0.1%
+- **Earnings BMO today:** SHOP, PFE, ETN (Eaton), FISV, MPC
+- **AAPL & PLTR AH yesterday:** AAPL beat revenue but missed iPad + margins → -2% AH; PLTR beat EPS → -2% AH (sell-the-news)
+- **Next key:** NFP Fri Nov 6 (est. +50K, low bar), CPI Nov 10
+
+### Held-Ticker News
+- **CVX:** Down -2.90% Monday; up +0.41% premarket; profit-taking after record highs post-Q3 beat; 24/7 Wall St. carry sell ($189.50 target) but Zacks #1 strong buy; oil pressure at $97 compressing upside
+- **XOM:** Down -3.45% Monday; up +0.85% premarket; same dynamic — strong Q3 but oil down $7–8 from highs; stop buf 6.37% (lowest of three — watch closely)
+- **HON:** Up +0.25% premarket; no negative catalysts; ex-div Nov 13 ($0.70) approaching; industrial thesis intact; buf 9.52% best of three
+
+### Cut Check
+- CVX $228.71: -7% trigger = $194.95 → NO ✓ | +15% tighten = $241.07 → NO (−5.4% gap) ✓
+- HON $224.33: -7% trigger = $197.11 → NO ✓ | +15% tighten = $243.74 → NO ✓
+- XOM $181.20: -7% trigger = $161.09 → NO ✓ | +15% tighten = $199.20 → NO (−9.4% gap) ✓
+- All overnight buffers above 3% floor ✓ — no manual cuts at open
+
+### Trade Ideas
+
+1. **LMT — post-election defense entry (DEFERRED to Wednesday)**
+   - Catalyst: record backlog + potential Republican or mixed Congress driving defense budget expansion to $1.5T; LMT +26% Oct on strong Q3; midterm results tonight
+   - Entry: ≤$635 (price confirmation Wednesday post-result)
+   - Stop: 10% trail (~$572)
+   - Target: $730+ (15% from entry) for minimum 1.5:1 R:R
+   - Size: ~20% equity (~$20,000; ~31 shares)
+   - Gate: (a) election results must be clear by open Wednesday, (b) price reaction confirms defense sentiment, (c) weekly trades 0/3 still open, (d) yield >4.5% → LMT P/E <40, so no yield gate applies (defense industrial, not growth name)
+
+2. **MPC (Marathon Petroleum) — oil refiner watch**
+   - Catalyst: reporting BMO today; refining margins sticky even at $97 WTI; crack spreads still elevated; downstream-heavy unlike E&P CVX/XOM
+   - Entry: only if strong beat + refining margin guidance holds; defer to tomorrow if thesis confirmed today
+   - Watch: if MPC beats big today and guides positively on refining spreads, adds a portfolio hedge vs upstream CVX/XOM pressure
+   - Gate: check earnings reaction at open, don't chase if >3% gap-up
+
+3. **HON stop tighten trigger monitor**
+   - HON at $224.33 — +15% tighten at $243.74 still ~8.7% away; no action today
+   - Ex-div Nov 13 ($0.70) approaching — hold through; don't sell ahead of dividend
+
+### Risk Factors
+1. **Oil further decline** — WTI $97 → if Iran peace-talks formalize and/or inventory builds, $90 is conceivable; would cut CVX/XOM unrealized further and pressure stop buffers (XOM buf 6.37% is watch)
+2. **Election uncertainty** — midterms could produce divided results or delayed calls; market volatility spikes possible if outcome is contested
+3. **AAPL contagion** — missed iPad + margin guidance could rotate flows out of tech into defensives or cash; mixed impact on HON (industrial)
+4. **Deployment gap** — 58.5% deployed vs 75–85% target; LMT is primary closer; must not deploy speculatively before election clarity
+5. **JOLTS + NFP week** — labor market softness (NFP est. +50K) could signal economic slowdown; energy demand bearish
+
+### Decision: **HOLD**
+- Oil -7-8% from highs → energy thesis under pressure; CVX/XOM stops healthy but buffers have narrowed; no new energy exposure
+- Election Day → LMT entry gated on tonight's result; patience is the trade
+- AAPL margin miss → risk-off potential; not a day to add risk
+- All three theses intact; all stops healthy above 3% floor
+- **Action at open:** Verify XOM stop buf stays above 3%; HON is fine; CVX monitor
+- **Wednesday plan:** If election results favorable for defense → evaluate LMT entry at confirmed price ≤$635
+
+_Sources: Alpaca API (live account/positions/orders), oilpriceapi.com/onevalor.com (WTI ~$96-97, Brent ~$104), Yahoo Finance (VIX ~21, SPX futures mixed), Benzinga/CNBC (SHOP/PFE/ETN BMO, AAPL -2% AH), kaohooninternational.com/kiplinger.com (JOLTS/factory orders Nov 3, NFP Nov 6, CPI Nov 10), tradingkey.com/247wallst.com (CVX/XOM Nov 2 moves), benzinga.com/simianx.ai (LMT/defense midterm outlook)_
