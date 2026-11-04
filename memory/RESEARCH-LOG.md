@@ -10799,3 +10799,12 @@ _Sources: Alpaca API (live account/positions/orders), oilpriceapi.com/onevalor.c
 
 _Sources: Alpaca API (live positions/account), Yahoo/CNN/CBS/CNBC (2026 midterm results), Benzinga/Bloomberg/Trefis/tradersunion (LMT/defense post-election analysis), ChartRow/FTPortfolios (sector YTD through Aug 2026), oilpriceapi.com undated WTI ~$72-73, search results for VIX/S&P futures (no confirmed Nov 4 data — extrapolated from trend)_
 
+
+### Midday Addendum — 2026-11-04
+
+- **Action taken:** XOM closed @ $171.13 — thesis broken (oil collapse + Democratic Congress headwind)
+- **Oil thesis update:** WTI trajectory $104 → $97 → ~$72–73 confirmed bearish; original XOM/CVX bull thesis required $100+ WTI; XOM thesis now invalidated; CVX "intact but under incremental pressure"
+- **CVX monitor:** Buffer compressed from premarket 5.02% → 2.41% midday; trailing stop $212.832 live; hold — no thesis break; stop provides exit if decline accelerates ⚠️
+- **HON:** Outperforming; HWM auto-advanced to $229.37; buffer 9.03%; industrial rotation intact ✓
+- **Deployment post-XOM exit:** 40.3% (CVX + HON only) — below 75-85% target; no new entries today; wait for clean energy FSLR/NEE confirmation Thu/Fri once election volatility settles
+- **LMT:** Remains cancelled — Democratic Congress confirmed; defense thesis invalid
