@@ -10724,3 +10724,78 @@ _Sources: Alpaca API (live account/positions/orders), hdfcsky.com (WTI $101 / Br
 - **Wednesday plan:** If election results favorable for defense → evaluate LMT entry at confirmed price ≤$635
 
 _Sources: Alpaca API (live account/positions/orders), oilpriceapi.com/onevalor.com (WTI ~$96-97, Brent ~$104), Yahoo Finance (VIX ~21, SPX futures mixed), Benzinga/CNBC (SHOP/PFE/ETN BMO, AAPL -2% AH), kaohooninternational.com/kiplinger.com (JOLTS/factory orders Nov 3, NFP Nov 6, CPI Nov 10), tradingkey.com/247wallst.com (CVX/XOM Nov 2 moves), benzinga.com/simianx.ai (LMT/defense midterm outlook)_
+
+---
+
+## Pre-Market Research — 2026-11-04 (Day 134, Wednesday — Post-Midterm Election)
+
+### Account Snapshot
+- **Equity:** $99,350.57 | **Cash:** $41,702.62 (42.0%) | **Deployed:** $57,647.95 (58.0%)
+- **Day P&L (premarket):** −$325.00 (−0.33%) | **Phase P&L:** −$482.15 (−0.48%)
+- **Weekly trades:** 0/3
+
+### Live Positions
+| Ticker | Shares | Entry | Price | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|-------|----------------|----------|-----|------|--------|
+| CVX | 100 | $209.628 | $224.08 | +$1,445.20 (+6.89%) | −0.53% | $236.48 | $212.832 (10% GTC f5c51b1f) | 5.02% |
+| HON | 79 | $211.95 | $224.05 | +$955.90 (+5.71%) | flat | $225.65 | $203.085 (10% GTC 8303e452) | 9.36% |
+| XOM | 100 | $173.219 | $175.40 | +$218.10 (+1.26%) | −1.16% | $188.50 | $169.65 (10% GTC 7467f25a) | 3.28% ⚠️ CRITICAL |
+
+**XOM 3%-floor threshold: $174.90 — currently $0.50 above emergency manual-cut level.**
+
+### Market Context
+- **WTI oil:** ~$72–73 (undated quote from search; trajectory: $104 → $101 → $97 → ~$73? uncertain — continuing Iran peace-talk downtrend)
+- **Brent:** ~$77 (undated; confirming continued decline)
+- **S&P 500 futures:** No Nov 4 specific data found; election-night uncertainty likely causes mixed open
+- **VIX:** ~19–22 (elevated; Nov futures contract ~19; election uncertainty + post-result volatility)
+- **10-yr yield:** ~5.0–5.3% (elevated; growth hold-only mode active for P/E >40 names)
+- **Sector YTD (through Aug 2026):** Energy #1 (+39%), Technology #2 (+32%), Industrials +21%
+
+### Election Results (Nov 3 → Nov 4 overnight)
+- **Democrats won both House and Senate** — decisive rebuke of Trump (CNN, Yahoo, CBS, CNBC)
+- House: Democrats crossed 218-seat threshold
+- Senate: flips in TX, KS, OH, IA, NC, SC, ME
+- Context: Democratic Congress will check Trump's final 2 years; budget fights, potential shutdowns ahead
+
+### Sector Implications of Democratic Congress Win
+- **Defense (LMT, RTX, NOC):** ⚠️ BEARISH — Democratic Congress = less discretionary defense spending; Trefis "Defense Stocks' $350 Billion Problem If Democrats Win"; LMT fell on Democratic-win bets into election
+- **Energy (CVX, XOM):** SLIGHTLY BEARISH — stricter regulation potential; Iran deal more likely under Democratic pressure → less Iran hawk policy → oil prices further suppressed
+- **Clean Energy (FSLR, NEE, ENPH):** BULLISH — IRA spending protected; green subsidies at risk under Republican control now secured
+- **Healthcare:** Mixed — potential drug pricing pressure
+- **Tech:** Mixed/positive — tariff agenda stalled; potential antitrust relief
+
+### Catalyst Check for Held Positions
+- **CVX:** Thesis INTACT but incremental headwind — energy regulation risk; WTI continuing multi-week decline; stop buf 5.02% above floor. Monitor.
+- **HON:** Thesis INTACT — industrials less directly affected by election; ex-div Nov 13 ($0.70) approaching; buf 9.36% comfortable. HOLD.
+- **XOM:** Thesis THREATENED — 3.28% buffer ⚠️; WTI declining further; Democratic Congress adds regulatory overhang; buffer $0.50 above emergency cut level ($174.90). **MANUAL CUT RULE: if XOM opens below $174.90, cut immediately.**
+
+### Trade Ideas
+1. ~~**LMT entry (CANCELLED)**~~ — Democratic win = defense spending thesis broken. LMT has been down on Democratic-win bets. Do NOT enter. Remove from watchlist until thesis reset (new defense catalyst needed).
+2. **Clean energy (FSLR / NEE) — WATCH, do not enter today**
+   - Catalyst: Democratic Congress confirms IRA funding; clean energy buildout momentum
+   - FSLR P/E ~15x (not growth gate); NEE P/E ~22x (yield gate n/a)
+   - Entry: Wait for post-election price confirmation; gap-up today likely → do not chase >3% gap
+   - Gate: (a) price settles post-open (wait 30–60 min), (b) confirm no chase rule applies, (c) weekly trades 0/3 available, (d) deployment at 58% → one more position possible
+   - Target entry: FSLR ≤$290 (avoid chasing gap), NEE ≤$80
+3. **MPC (Marathon Petroleum) — DEFERRED**
+   - Reported BMO Nov 3; check earnings reaction and refining margin guidance before considering
+   - If thesis confirmed and WTI stabilizes, could be a near-term hedge vs E&P pressure in portfolio
+
+### Risk Factors
+1. **XOM stop buf 3.28%** — $0.50 above emergency cut level; any weakness opens the position to manual cut or stop triggering; highest priority at open
+2. **Oil continued decline** — if Iran peace talks formalize, WTI could break below $70; CVX/XOM theses could break
+3. **Post-election volatility** — markets pricing Democrat win may gap up (relief of uncertainty) then fade; don't confuse election relief with fundamental change
+4. **Deployment gap** — 58% deployed vs 75–85% target; LMT removed so gap widens; clean energy is best thesis but wait for confirmation
+5. **NFP Friday Nov 6** — est. +50K (low bar); weak labor = economic slowdown → energy demand bearish
+6. **CPI Nov 10** — elevated yields threaten growth stocks; hold-only mode active above 4.5% yield
+
+### Decision: **HOLD (with active XOM monitor)**
+- LMT entry CANCELLED — Democratic win breaks defense thesis entirely
+- XOM buffer dangerously thin at 3.28%; manual cut rule: execute if opens below $174.90
+- CVX/HON theses intact; no stop tighten triggers hit
+- Clean energy (FSLR/NEE) is emerging thesis post-election; watch today, do not enter on gap
+- Patience > activity. 0/3 trades this week — preserve flexibility for clean energy entry once dust settles (Thursday or later)
+- **Action at open:** Monitor XOM closely (threshold $174.90); avoid all new entries today; watch FSLR/NEE for confirmation
+
+_Sources: Alpaca API (live positions/account), Yahoo/CNN/CBS/CNBC (2026 midterm results), Benzinga/Bloomberg/Trefis/tradersunion (LMT/defense post-election analysis), ChartRow/FTPortfolios (sector YTD through Aug 2026), oilpriceapi.com undated WTI ~$72-73, search results for VIX/S&P futures (no confirmed Nov 4 data — extrapolated from trend)_
+
