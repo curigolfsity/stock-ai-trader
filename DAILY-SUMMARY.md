@@ -306,3 +306,11 @@ Decision: HOLD
 Ideas: CVX HOLD (earnings beat +12.5%, approaching +15% tighten @$241), XOM HOLD (earnings beat +8%, new HWM), LMT DEFER (Nasdaq -2% fails entry condition, reassess Monday)
 Market: SPX futures -0.9%, Nasdaq -2.0%, VIX est ~18-20, Oil WTI $103-104
 Risks: AMZN/INTC tech selloff contagion; CVX near +15% tighten trigger; oil de-escalation; Friday risk-off
+
+---
+## 2026-11-04 10:11 UTC (fallback — no notification service configured)
+Pre-market 2026-11-04
+Decision: HOLD (XOM buf critical 3.28%)
+Ideas: LMT CANCELLED (Dems won), FSLR/NEE watch (clean energy IRA), MPC deferred
+Market: SPX futures mixed post-election, VIX ~20, Oil WTI ~2-73
+Risks: XOM buf $0.50 above cut trigger $174.90; oil further decline; LMT thesis dead
