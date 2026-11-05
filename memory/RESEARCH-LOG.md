@@ -10808,3 +10808,76 @@ _Sources: Alpaca API (live positions/account), Yahoo/CNN/CBS/CNBC (2026 midterm 
 - **HON:** Outperforming; HWM auto-advanced to $229.37; buffer 9.03%; industrial rotation intact ✓
 - **Deployment post-XOM exit:** 40.3% (CVX + HON only) — below 75-85% target; no new entries today; wait for clean energy FSLR/NEE confirmation Thu/Fri once election volatility settles
 - **LMT:** Remains cancelled — Democratic Congress confirmed; defense thesis invalid
+
+---
+
+## 2026-11-05 — Pre-Market Research (Day 135, Thursday)
+
+### Account Snapshot
+- **Equity:** $98,628.21 | **Cash:** $58,815.25 | **Long MV:** $39,812.96
+- **Deployment:** 40.4% (severely below 75-85% target)
+- **Phase P&L:** −$1,371.79 (−1.39%) | **Weekly trades:** 1/3 (XOM cut Nov 4); CVX cut today = 2/3
+
+### Positions (Pre-Market)
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop | Buffer | Status |
+|--------|--------|-------|-----------|----------------|------|--------|--------|
+| CVX | 100 | $209.628 | $217.82 | +$819.20 (+3.91%) | 10% GTC f5c51b1f (HWM $236.48, stop $212.832) | **2.29%** | 🔴 CUT AT OPEN |
+| HON | 79 | $211.95 | $228.24 | +$1,286.91 (+7.69%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322) | 8.29% | HOLD ✓ |
+
+### CVX Cut (Mandatory — Overnight Buffer Rule)
+- EOD Nov 4 buffer was 1.66% (< 3% floor); premarket 2.29% — still below threshold
+- Rule: "Overnight stop buffer < 3%: execute manual cut at the open"
+- **ACTION: Cancel trailing stop f5c51b1f → sell 100 CVX at market at open**
+- Post-cut: cash ~$80,597, deployment drops to ~18.3% (HON only)
+
+### Market Context
+- **Oil (WTI/Brent):** Data conflicting; trend clearly bearish ($104 → $97 → ~$68–72 est.); Democratic Congress = Iran deal risk + regulatory overhang — energy thesis remains under pressure
+- **SPX futures:** ~−0.25% premarket (mild post-election softness)
+- **VIX:** ~16.6 (normalizing from election spike)
+- **10-yr yield:** ~5.0–5.3% — elevated; growth hold-only mode active (P/E >40 names deferred)
+- **FOMC:** No meeting this week; next decision Dec 9. No blackout applies.
+- **Today's releases (Nov 5):** Initial jobless claims (Oct 31 week), Challenger job cuts (Oct), PMI finals, Treasury refunding
+- **Tomorrow (Nov 6):** Nonfarm Payrolls — est. +50K; major volatility risk
+- **Earnings today:** 493 reporters; notable AMC: QCOM, NET, ABNB, TEAM, APP
+
+### Sector Momentum (YTD through Aug 2026 — latest available)
+- Energy #1 (+39%) — headwinds now from Democratic Congress + oil decline
+- Technology #2 (+32%)
+- Industrials #3 (+21%) — HON supported
+
+### Catalyst Check on Held Positions
+- **CVX:** Cut at open — overnight buffer rule (non-negotiable)
+- **HON:** INTACT — industrial thesis solid; buffer 8.29%; ex-div Nov 13 ($0.70) approaching; HOLD
+
+### Trade Ideas
+1. **FSLR (First Solar) — WATCH; target Monday entry**
+   - Catalyst: Democratic Congress → IRA funding confirmed; clean energy buildout secular tailwind
+   - Valuation: P/E ~12-15x — passes yield gate (<40); less volatile than ENPH
+   - Entry: ~$275-285 (do not chase >3% gap from prior close)
+   - Stop: 10% trailing; Target: $310+ (20%+ move possible on IRA re-rating)
+   - Deferred to Monday: 1 trade left this week + NFP Friday uncertainty
+
+2. **NEE (NextEra Energy) — WATCH; target Monday entry**
+   - Catalyst: IRA subsidies protected; clean energy utility with regulated income; diversifies away from Industrials
+   - Valuation: P/E ~27.5x — passes yield gate
+   - Entry: ~$80-87; Stop: 10% trailing
+   - Deferred to Monday for same reasons
+
+3. **ENPH (Enphase Energy) — SECONDARY WATCH**
+   - Catalyst: Same IRA angle; residential solar; higher beta than FSLR
+   - Check valuation before entry; pass if P/E >40
+
+### Risk Factors
+1. **NFP tomorrow (Nov 6)** — high volatility; don't add new positions the day before
+2. **CVX cut execution** — cancel stop f5c51b1f + sell 100 shares at open; confirms 2/3 weekly trades
+3. **Deployment gap** — 18.3% after CVX cut (HON only) vs 75-85% target; must restore by next week
+4. **Oil trajectory** — WTI continued decline; if breaks below $60 broader market concern
+5. **Post-election volatility** — markets still adjusting; clean energy gap-up risk; don't chase
+
+### Decision: **HOLD** (mandatory CVX cut only; no new entries today)
+- CVX: Cut at open per overnight buffer rule
+- HON: Hold — thesis intact, buffer healthy
+- No new entries: 1/3 weekly trade remaining + NFP Friday tomorrow
+- Plan: Monday Nov 9 — enter FSLR + 1 other (NEE or ENPH) with fresh 3/3 weekly budget and post-NFP clarity
+
+_Sources: Alpaca API (live account/positions/orders), web search (sector YTD Aug 2026 ChartRow/FTPortfolios, FOMC calendar Fed.gov/therighttrader, earnings EarningsWhispers/KuCoin, economic calendar TradingEconomics, oil OilPriceAPI/newsair, FSLR/NEE walnutinvest/portfolioslab/MarketBeat)_
