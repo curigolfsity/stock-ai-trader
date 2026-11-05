@@ -6630,3 +6630,36 @@ _Midday Nov 4: XOM cut (thesis broken, −$208.90, −1.21%). CVX +4.03% (HWM $2
 **🚨 ACTION REQUIRED THURSDAY OPEN: CUT CVX** — overnight stop buffer 1.66% is below 3% floor. Rule: "Overnight stop buffer < 3%: execute manual cut at the open — do not monitor intraday." Cancel trailing stop f5c51b1f and sell 100 CVX at market on Nov 5 open.
 
 **Notes:** Day 134 (Wednesday, post-midterm election) — Democratic Congress outcome drove continued oil collapse (WTI ~$68–70), intensifying regulatory headwinds and Iran deal supply risk. XOM cut at midday (−$208.90, −1.21%) as thesis broken. CVX followed XOM down −3.93% intraday; trailing stop HWM locked at $236.48 from earlier high, stop $212.832 — with current price $216.42, overnight buffer compressed to 1.66%, well below the 3% floor. Per overnight rule, CVX must be manually cut at tomorrow's open (Nov 5) — no intraday monitoring, just execute at open. HON bucked the trend with +2.48% (Alpaca HWM auto-advanced to $232.58, stop $209.322, 8.84% buffer) — industrial thesis remains intact ex-div Nov 13 approaching. Day P&L −$1,078.76 (−1.08%). Phase P&L −$1,403.19 (−1.40%). Deployed only 40.3% — well below 75-85% target; after CVX cut tomorrow only HON remains, requiring 2 new quality entries to restore deployment. Trades this week: 1/3 (XOM cut). No new entries today.
+
+---
+
+### Market Open — 2026-11-05 (Day 135, Thursday)
+
+**Account (pre-market):** Equity $98,736.21 | Cash $58,815.25 (59.6%) | Deployed 40.4% | Weekly trades: 1/3
+
+#### Mandatory Cut: CVX (Overnight Buffer Rule — Non-Negotiable)
+- EOD Nov 4 buffer: **1.66%** (< 3% floor → rule: manual cut at open, no intraday monitoring)
+- Pre-market buffer: 2.29% (premarket price $217.82); live at order time: 2.77% ($219.45) — still below 3%
+- **Action:** Cancelled trailing stop f5c51b1f (stop $212.832, HWM $236.48) → Placed market sell 100 CVX (order 92b41328, day TIF, pre-market queue for 9:30 AM ET fill)
+- **Estimated fill:** ~$219.45 (pending market open — fill price to be confirmed at 9:30 AM ET)
+- **Estimated Realized P&L:** ~+$982.20 (+4.69%) | Entry $209.628 → Exit ~$219.45
+- **Reason:** Overnight stop buffer rule (< 3% floor requires manual cut regardless of P&L)
+
+#### Post-Cut Position Summary (after expected fill)
+| Ticker | Shares | Entry | Cut/Exit | Realized P&L | Stop | Status |
+|--------|--------|-------|----------|--------------|------|--------|
+| ~~CVX~~ | ~~100~~ | ~~$209.628~~ | ~~$219.45 est~~ | ~~+$982.20 est (+4.69%)~~ | ~~f5c51b1f (cancelled)~~ | **CUT AT OPEN — overnight buffer rule** |
+| HON | 79 | $211.95 | — | +$1,286.91 (+7.69%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 8.29%) | HOLD ✓ |
+
+#### Actions
+- **CVX:** Stop f5c51b1f cancelled → market sell order 92b41328 placed; fill expected at 9:30 AM ET open (~$219.45)
+- **HON:** Hold — thesis intact, buffer 8.29%, ex-div Nov 13 ($0.70) approaching; no action
+- **No new entries:** 1/3 weekly trades remaining; NFP tomorrow (Nov 6) warrants patience; FSLR/NEE watchlist for Monday entry
+
+#### Trade Count (Week of Nov 3)
+- Nov 4: XOM cut (thesis broken) = 1/3
+- Nov 5: CVX cut (overnight buffer rule) = **2/3**
+- **Remaining this week: 1/3** (not deploying ahead of NFP Friday)
+
+_Market Open Nov 5: CVX cut executed (stop cancelled, market sell order placed ~$219.45 est). HON hold. No new entries. Weekly trades 2/3. Post-cut deployment drops to ~18.3% (HON only); requires 2 quality entries Mon Nov 9 (FSLR/NEE). Phase P&L after cut: ~−$421 est (−0.42%)._
+
