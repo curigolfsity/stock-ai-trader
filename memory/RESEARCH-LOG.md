@@ -10881,3 +10881,11 @@ _Sources: Alpaca API (live positions/account), Yahoo/CNN/CBS/CNBC (2026 midterm 
 - Plan: Monday Nov 9 — enter FSLR + 1 other (NEE or ENPH) with fresh 3/3 weekly budget and post-NFP clarity
 
 _Sources: Alpaca API (live account/positions/orders), web search (sector YTD Aug 2026 ChartRow/FTPortfolios, FOMC calendar Fed.gov/therighttrader, earnings EarningsWhispers/KuCoin, economic calendar TradingEconomics, oil OilPriceAPI/newsair, FSLR/NEE walnutinvest/portfolioslab/MarketBeat)_
+
+### Midday Addendum — 2026-11-05
+
+- **HON −3.71% intraday (from $228.47 → $219.985):** No specific catalyst identified via WebSearch. No company news, earnings miss, or guidance cut found. Likely post-election/NFP-eve sector rotation — broad market softness with no HON-specific event. Thesis intact.
+- **Buffer check:** HON 4.84% above 3% floor — no overnight rule triggered. Trailing stop $209.322 (HWM $232.58) live and providing downside protection.
+- **CVX confirmed fill:** 100 shares @ $219.39 (actual); Realized P&L +$976.20 (+4.66%). Overnight buffer rule correctly enforced.
+- **Deployment:** 17.7% (HON only) — severely below 75-85% target. No new entries today; 1/3 weekly trade remaining + NFP Friday tomorrow.
+- **Plan:** Monday Nov 9 — enter FSLR + 1 other (NEE or ENPH) with fresh 3/3 weekly budget and post-NFP clarity.
