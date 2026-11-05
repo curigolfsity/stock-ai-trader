@@ -6694,3 +6694,16 @@ _Market Open Nov 5: CVX cut executed (stop cancelled, market sell order placed ~
 - None. CVX fill confirmed. HON thesis intact. No stops to tighten. No cuts triggered.
 
 _Midday Nov 5: No action. CVX fill confirmed $219.39 (+$976.20, +4.66%). HON +3.79% (HWM $232.58, stop $209.322, buf 4.84%). Day P&L −$425.39 (−0.43%). Phase P&L −$1,865.01 (−1.87%). Weekly trades 2/3. Deployment 17.7% — FSLR/NEE targets Monday._
+
+---
+
+### Nov 05 — EOD Snapshot (Day 135, Thursday)
+**Portfolio:** $97,818.59 | **Cash:** $80,754.59 (82.6%) | **Day P&L:** −$741.79 (−0.75%) | **Phase P&L:** −$2,181.41 (−2.18%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $216.00 | −5.46% | +$319.95 (+1.91%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf **3.09%** ⚠️) |
+| ~~CVX~~ | ~~100~~ | ~~$209.628~~ | ~~$219.39~~ | — | ~~+$976.20 (+4.66%)~~ | **CUT AT OPEN** — overnight buffer rule |
+
+**⚠️ MONITOR HON AT OPEN NOV 6:** Buffer 3.09% — just above 3% floor. If HON opens below ~$215.59, overnight rule triggers: cancel stop 8303e452 and cut at market.
+
+**Notes:** Day 135 (Thursday, Nov 5) — CVX cut at open per overnight buffer rule (EOD Nov 4 buffer 1.66% < 3% floor). Confirmed fill $219.39, realized +$976.20 (+4.66%). HON pulled back sharply −5.46% intraday ($228.47 → $216.00); no specific catalyst found — broad post-election sector rotation and market weakness. HON buffer compressed to 3.09%, just above the 3% floor; trailing stop $209.322 (HWM $232.58) remains live. No new entries — 1/3 weekly budget remaining but NFP tomorrow (Nov 6) warrants patience; FSLR/NEE watchlist for Monday Nov 9 when weekly budget resets. Day P&L −$741.79 (−0.75%) driven by HON afternoon decline. Phase P&L −$2,181.41 (−2.18%). Deployed only 17.4% (HON only) — well below 75-85% target; requires 2 quality entries Monday. Weekly trades 2/3.
