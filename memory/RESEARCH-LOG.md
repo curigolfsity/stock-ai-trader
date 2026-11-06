@@ -10973,3 +10973,10 @@ _Sources: Alpaca API (live account/positions/orders), web search (sector YTD Aug
 - **Plan:** Monday Nov 9 — reassess FSLR/NEE/HON entries with fresh 3/3 budget, post-NFP clarity, VIX normalization
 
 _Sources: Alpaca API (live account/positions/orders), WebSearch (Yahoo Finance Nov 6 premarket coverage, riotimesonline.com Nov 6 market brief, noctaaa.substack.com Nov 6 daily brief, vantagemarkets.com Nov 6 S&P analysis, ftportfolios.com Oct 2026 sector data, kiplinger.com Oct NFP preview, fxstreet.com NFP expectations, itiger.com HON news, stockanalysis.com HON data)_
+
+### Midday Addendum — 2026-11-06
+
+- **HON +1.34% intraday ($218.67):** Morning cut blocked by bot (buffer was 2.71% at open). Since open, HON has recovered; buffer rebuilt to 4.27% — above 3% floor. NFP at 8:30 AM ET now absorbed. Trailing stop $209.322 (HWM $232.58) live. No thesis-breaking news found.
+- **NFP impact:** Market appears to be absorbing NFP data; HON recovering from Thursday's −5.46% drop. No sharp unexplained moves warranting further research.
+- **No position changes:** No cuts triggered, no stops to tighten, thesis intact. Weekly trades remain 2/3.
+- **Plan unchanged:** Monday Nov 9 — reassess FSLR/NEE/HON entries with fresh 3/3 budget, post-NFP clarity, and VIX normalization.
