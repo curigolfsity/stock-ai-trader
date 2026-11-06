@@ -10889,3 +10889,87 @@ _Sources: Alpaca API (live account/positions/orders), web search (sector YTD Aug
 - **CVX confirmed fill:** 100 shares @ $219.39 (actual); Realized P&L +$976.20 (+4.66%). Overnight buffer rule correctly enforced.
 - **Deployment:** 17.7% (HON only) — severely below 75-85% target. No new entries today; 1/3 weekly trade remaining + NFP Friday tomorrow.
 - **Plan:** Monday Nov 9 — enter FSLR + 1 other (NEE or ENPH) with fresh 3/3 weekly budget and post-NFP clarity.
+
+---
+
+## Pre-Market Research — 2026-11-06 (Day 136, NFP Friday)
+
+### Account Snapshot
+- **Equity:** $97,751.74 | **Cash:** $80,754.12 (82.6%) | **Deployed:** $16,997.62 (17.4%)
+- **Weekly trades:** 2/3 (1 remaining — will use on mandatory HON cut today → 3/3)
+- **Daytrade count:** N/A (no same-day entries)
+
+### Live Positions
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|-----------|----------------|------|--------|
+| HON | 79 | $211.95 | $215.16 | +$253.57 (+1.51%) | $209.322 (GTC 8303e452, HWM $232.58) | **2.71% ⚠️ BELOW 3% FLOOR** |
+
+### 🚨 ACTION REQUIRED AT OPEN — CUT HON (Overnight Buffer Rule)
+- EOD Nov 5 buffer: 3.09% (just above floor)
+- Pre-market Nov 6 buffer: **2.71%** ($215.16 − $209.322) / $215.16 — below 3% floor
+- Rule triggered: "Overnight stop buffer < 3%: execute manual cut at open — do not monitor intraday"
+- **Action:** Cancel trailing stop 8303e452 → sell 79 HON at market at 9:30 AM ET open
+- **Est. fill:** ~$215.16 | **Est. realized P&L:** ~+$253 (+1.51%) | Entry $211.95 → Exit ~$215
+- **Trade count after:** 3/3 weekly budget exhausted
+
+### Market Context
+- **Oil:** WTI ~$63-64/bbl | Brent ~$67-68/bbl — continued slide (Democratic Congress + Iran deal risk; down from ~$72 Mon)
+- **SPX futures:** Wobbling pre-market after Thursday's brutal selloff; "futures wobble after brutal sell-off with key jobs report on deck" (Yahoo Finance)
+- **S&P 500 Thursday:** −4.36% to 7,354 — worst session since April 2025
+- **Nasdaq Thursday:** −5.52% — correction territory (>10% below recent highs)
+- **VIX:** ~28.18 — jumped 69.66% Thursday; highest since March 31; elevated fear
+- **10-yr yield:** ~4.835% — above 4.5% → hold-only mode for growth names (P/E >40) remains active
+- **Thursday driver:** Democratic Congress + Texas governor-elect pledging to block new data-center approvals → AI buildout fears; chip stocks −12.25% (PHLX Semi Index); QCOM weak smartphone forecast
+
+### Today's Key Release
+- **8:30 AM ET: October Nonfarm Payrolls** — consensus +55-65K, prior +29K, ADP +86K
+  - Unemployment rate: est. 4.2%
+  - High volatility event; market direction uncertain until release
+
+### Earnings (pre-market today)
+- Moderna (expected loss ~$1.10/sh on $890M rev)
+- Vistra (electricity demand / profitability focus)
+
+### HON News
+- Q3 earnings beat (Oct 22): "Automation Strength, Outlook Raised" — thesis was intact
+- Aerospace spin-off on track: HON Aerospace to become independent company (second half 2026)
+- Ex-div Nov 13 ($0.70/sh) — won't capture given mandatory cut today
+
+### Sector Momentum (YTD through Oct 2026)
+- **#1 Energy** (~+37-39%) — now under bearish pressure (oil slide, Democratic Congress headwinds)
+- **#2 Technology** (~+32-37%) — hammered Thursday on AI buildout fears
+- **#3 Industrials** (~+21%) — HON thesis intact; no sector ban applies (cut is rule-based, not thesis-broken)
+
+### Trade Ideas
+1. **FSLR (First Solar) — DEFERRED to Monday Nov 9**
+   - Catalyst: Democratic Congress = IRA funding protected; clean energy secular tailwind
+   - P/E ~12-15x — passes yield gate (<40)
+   - Risk: Jefferies downgraded to Hold (PT $260); recent price ~$195 (downtrend flagged)
+   - Entry: ~$190-205 (re-assess Mon); Stop: 10% trailing; Target: $220+
+   - Wait for post-NFP stability and fresh 3/3 budget
+
+2. **NEE (NextEra Energy) — DEFERRED to Monday Nov 9**
+   - Catalyst: IRA subsidies protected, regulated utility income diversifies away from Industrials
+   - P/E ~27.5x — passes yield gate
+   - Entry: ~$80-87; Stop: 10% trailing
+   - Same deferral as FSLR; verify price action Mon
+
+3. **HON Re-entry — WATCH for Monday**
+   - Cut today is rule-based (buffer), NOT thesis-broken; Industrials sector has 0 failed trades → re-entry allowed
+   - Aerospace spin-off catalyst; Q3 beat supports thesis
+   - Only viable if HON stabilizes post-NFP; buffer rebuilt above 5%
+
+### Risk Factors
+1. **HON mandatory cut** (overnight buffer 2.71% < 3% floor — non-negotiable)
+2. **NFP at 8:30 AM ET** — high volatility; direction uncertain; miss could spike VIX further
+3. **Market in correction/fear mode** — VIX 28.18, S&P −4.36% Thursday; risk-off persists
+4. **Weekly trades exhausted** (3/3) after HON cut — no new entries this week regardless
+5. **FSLR downtrend** — Jefferies downgrade; price ~$195 vs prior $275-285 estimate; re-evaluate range
+6. **AI/data-center overhang** — Democratic Congress + Texas restrictions; tech names may stay under pressure
+
+### Decision: **HOLD** (mandatory HON cut only; no new entries today)
+- **HON:** Cut at open (overnight buffer rule — 2.71% < 3% floor; no discretion)
+- **No new entries:** Weekly budget exhausted (3/3 after cut); NFP day; VIX 28.18 — patience
+- **Plan:** Monday Nov 9 — reassess FSLR/NEE/HON entries with fresh 3/3 budget, post-NFP clarity, VIX normalization
+
+_Sources: Alpaca API (live account/positions/orders), WebSearch (Yahoo Finance Nov 6 premarket coverage, riotimesonline.com Nov 6 market brief, noctaaa.substack.com Nov 6 daily brief, vantagemarkets.com Nov 6 S&P analysis, ftportfolios.com Oct 2026 sector data, kiplinger.com Oct NFP preview, fxstreet.com NFP expectations, itiger.com HON news, stockanalysis.com HON data)_
