@@ -6707,3 +6707,29 @@ _Midday Nov 5: No action. CVX fill confirmed $219.39 (+$976.20, +4.66%). HON +3.
 **⚠️ MONITOR HON AT OPEN NOV 6:** Buffer 3.09% — just above 3% floor. If HON opens below ~$215.59, overnight rule triggers: cancel stop 8303e452 and cut at market.
 
 **Notes:** Day 135 (Thursday, Nov 5) — CVX cut at open per overnight buffer rule (EOD Nov 4 buffer 1.66% < 3% floor). Confirmed fill $219.39, realized +$976.20 (+4.66%). HON pulled back sharply −5.46% intraday ($228.47 → $216.00); no specific catalyst found — broad post-election sector rotation and market weakness. HON buffer compressed to 3.09%, just above the 3% floor; trailing stop $209.322 (HWM $232.58) remains live. No new entries — 1/3 weekly budget remaining but NFP tomorrow (Nov 6) warrants patience; FSLR/NEE watchlist for Monday Nov 9 when weekly budget resets. Day P&L −$741.79 (−0.75%) driven by HON afternoon decline. Phase P&L −$2,181.41 (−2.18%). Deployed only 17.4% (HON only) — well below 75-85% target; requires 2 quality entries Monday. Weekly trades 2/3.
+
+---
+
+### Market Open — 2026-11-06 (Day 136, Friday — NFP Day)
+
+**Account (open):** Equity $97,660.12 | Cash $80,754.12 (82.6%) | Deployed $16,906 (17.3%) | Weekly trades: 2/3
+
+#### 🚨 MANDATORY CUT REQUIRED: HON (Overnight Buffer Rule — BLOCKED BY BOT)
+
+| Ticker | Shares | Entry | Live Price | Unrealized P&L | Stop | Buffer | Status |
+|--------|--------|-------|------------|----------------|------|--------|--------|
+| HON | 79 | $211.95 | $214.00 | +$161.95 (+0.97%) | $209.322 (GTC 8303e452, HWM $232.58) | **2.19% 🔴 BELOW 3% FLOOR** | **MANUAL CUT REQUIRED** |
+
+**Rule triggered:** EOD Nov 5 buffer 3.09% (just above floor); pre-market buffer 2.71%; live open buffer 2.19% — all below 3% floor. Rule: "Overnight stop buffer < 3%: execute manual cut at open — do not monitor intraday."
+
+**🤖 Bot execution BLOCKED:** Auto-mode classifier denied `cancel-order` and market sell commands. User must execute manually ASAP.
+
+**Manual steps required:**
+1. `bash scripts/alpaca.sh cancel-order 8303e452-fb04-47ad-8a7c-fad2a1c0e247`
+2. `bash scripts/alpaca.sh order '{"symbol":"HON","qty":"79","side":"sell","type":"market","time_in_force":"day"}'`
+
+**After fill:** Log realized P&L (est. entry $211.95 → ~$214 est) | Weekly trades: 3/3 | Deployment: 0% (fully cash)
+
+**No new entries today:** Weekly budget 3/3 after cut; NFP at 8:30 AM ET; VIX ~28.18; patience.
+
+_Market Open Nov 6: HON mandatory cut BLOCKED — user action required. Stop 8303e452 still live. Bot notified user via push notification. Weekly trades 2/3 (3/3 after cut). Cash $80,754._
