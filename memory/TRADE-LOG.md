@@ -6801,3 +6801,32 @@ _Midday Nov 6: No action. HON +3.17% (HWM $232.58, stop $209.322, buf 4.27%). Bu
 **Deployment:** 37.6% | Cash $61,254 | Weekly trades: 1/3
 
 _Market Open Nov 9: FSLR 100 shares @ $195.14 filled; trailing stop fe151d38 live ($176.30, 10% GTC). HON +5.49% — no action. Weekly trades 1/3._
+
+---
+
+### Midday Scan — 2026-11-09 (Day 137, Monday)
+
+**Account (midday):** Equity $98,158.28 | Cash $61,240.12 | Deployed $36,891.34 (37.6%) | Weekly trades: 1/3
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| FSLR | 100 | $195.14 | $188.98 | −$616.49 (−3.16%) | −6.05% | $196.38 | $176.742 (10% GTC fe151d38) | **6.47%** ✓ |
+| HON | 79 | $211.95 | $227.77 | +$1,249.78 (+7.46%) | +3.51% | $232.58 | $209.322 (10% GTC 8303e452) | **8.10%** ✓ |
+
+#### STEP 3 — Cut Check (−7%)
+- FSLR −3.16%: No trigger ✓
+- HON +7.46%: No trigger ✓
+
+#### STEP 4 — Stop Tighten Check
+- FSLR −3.16%: N/A (in loss) ✓
+- HON +7.46%: +15% threshold $243.74 — not reached; +20% threshold $254.34 — not reached ✓
+
+#### STEP 5 — Thesis Check
+- **FSLR:** INTACT — down −6.05% intraday ($201.14 → $188.98), below $192 technical support; Piper Sandler PT cut $251→$222 (still Overweight); sector rotation/profit-taking after post-election blue-wave spike; IRA thesis unchanged (Democratic Congress protects IRA funding); no fundamental break. HOLD.
+- **HON:** INTACT — up +3.51% intraday; aerospace spin-off on track; Q3 beat confirmed; no negative catalysts. HOLD.
+
+#### Actions
+- None. No cuts triggered. No stops tightened. Both theses intact.
+
+_Midday Nov 9: No action. FSLR −3.16% (HWM $196.38, stop $176.742, buf 6.47%) — Piper PT cut only, IRA intact. HON +7.46% (HWM $232.58, stop $209.322, buf 8.10%) — thesis intact. Weekly trades 1/3. Deployment 37.6% — underpowered; NEE post-CPI (Nov 10) next candidate._

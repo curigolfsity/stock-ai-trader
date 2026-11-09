@@ -11098,3 +11098,14 @@ _Sources: Alpaca API (live account/positions/orders), WebSearch (Yahoo Finance N
 
 _Sources: Alpaca API (live account/positions/orders), WebSearch (5paisa Oct crude oil data, regardsofwallstreet.com Nov 2 week preview, dailyforex.com Nov 2026 SPX forecast, forex.com SPX support analysis, simianx.ai Nov economic calendar, itiger.com HON news, marketchameleon.com FSLR data, rallies.ai FSLR news, barchart.com FSLR analyst data, zacks.com NEE Q3, trefis.com NEE Oct data, tradingtreff.de NEE Democratic Congress analysis)_
 
+
+### Midday Addendum — 2026-11-09 (~16:17 UTC)
+
+**FSLR −6.05% intraday ($201.14 → $188.98):**
+- Piper Sandler PT cut $251→$222 today (still Overweight — not a downgrade)
+- Sector rotation/profit-taking after post-election blue-wave solar spike
+- Broader energy sector selling (oil pressure)
+- IRA thesis unchanged — Democratic Congress protection intact
+- HOLD: thesis not broken; −3.16% unrealized, well above −7% cut rule; stop $176.742 live
+
+**No other movers requiring research today.**
