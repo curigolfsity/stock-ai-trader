@@ -6830,3 +6830,14 @@ _Market Open Nov 9: FSLR 100 shares @ $195.14 filled; trailing stop fe151d38 liv
 - None. No cuts triggered. No stops tightened. Both theses intact.
 
 _Midday Nov 9: No action. FSLR −3.16% (HWM $196.38, stop $176.742, buf 6.47%) — Piper PT cut only, IRA intact. HON +7.46% (HWM $232.58, stop $209.322, buf 8.10%) — thesis intact. Weekly trades 1/3. Deployment 37.6% — underpowered; NEE post-CPI (Nov 10) next candidate._
+
+---
+
+### Nov 09 — EOD Snapshot (Day 137, Monday)
+**Portfolio:** $98,507.88 | **Cash:** $61,240.12 (62.2%) | **Day P&L:** +$376.13 (+0.38%) | **Phase P&L:** −$1,492.12 (−1.49%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| FSLR | 100 | $195.14 | $191.42 | −4.83% | −$372.00 (−1.91%) | 10% GTC fe151d38 (HWM $196.38, stop $176.742, buf **7.67%** ✓) |
+| HON | 79 | $211.95 | $229.44 | +4.27% | +$1,381.71 (+8.25%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf **8.77%** ✓) |
+
+**Notes:** Day 137 (Monday, Nov 9) — FSLR initiated at market open (100 shares @ $195.14, 10% trailing stop fe151d38 live). FSLR pulled back −4.83% intraday closing at $191.42; midday scan confirmed thesis intact (IRA funding protected under Democratic Congress, Piper Sandler maintained Overweight with PT cut $251→$222, prior-week momentum still strong). FSLR unrealized −$372.00 (−1.91%), HWM $196.38, stop $176.742, buffer 7.67% — well above 3% floor, no overnight action. HON strong day +4.27% closing at $229.44; unrealized +$1,381.71 (+8.25%); HWM $232.58 unchanged (close below HWM); stop $209.322, buffer 8.77% — safe. Portfolio deployed 37.8% — still well below 75-85% target; NEE post-CPI (Nov 10) next candidate with 2 trades remaining this week. Weekly trades 1/3. Day P&L +$376.13 (+0.38%). Phase P&L −$1,492.12 (−1.49%).
