@@ -10980,3 +10980,121 @@ _Sources: Alpaca API (live account/positions/orders), WebSearch (Yahoo Finance N
 - **NFP impact:** Market appears to be absorbing NFP data; HON recovering from Thursday's −5.46% drop. No sharp unexplained moves warranting further research.
 - **No position changes:** No cuts triggered, no stops to tighten, thesis intact. Weekly trades remain 2/3.
 - **Plan unchanged:** Monday Nov 9 — reassess FSLR/NEE/HON entries with fresh 3/3 budget, post-NFP clarity, and VIX normalization.
+
+---
+
+## Pre-Market Research — 2026-11-09 (Day 137, Monday)
+
+### Account Snapshot
+- **Equity:** $97,890.80 | **Cash:** $80,754.12 (82.5%) | **Deployed:** $17,136.68 (17.5%)
+- **Day P&L:** −$247.27 (−0.14% intraday) | **Phase P&L:** −$2,109.20 (−2.11%)
+- **Weekly trades:** 0/3 (fresh reset) | **Daytrade count:** 0
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|---------|----------------|------|--------|
+| HON | 79 | $211.95 | $216.92 | +$392.63 (+2.35%) | $209.322 (GTC 8303e452, HWM $232.58) | **3.50%** ✓ |
+
+**HON overnight check:** EOD Nov 6 buffer was 4.84%; current 3.50% — ABOVE 3% floor. No cut triggered. Trailing stop live.
+
+#### Open Orders
+- 8303e452: HON 79-share trailing stop (10%, GTC) — LIVE
+
+---
+
+### Market Context
+
+#### Oil
+- WTI: ~$101–102/bbl (est. — most recent confirmed data late Oct 2026; exact Nov 9 figure unavailable)
+- Brent: ~$115/bbl (est. — same caveat)
+- Energy sector pressure: oil off highs, Democratic Congress headwinds on fossil fuels
+
+#### Indices / Futures
+- S&P 500: closed ~7,580 (Fri Nov 6, −1.82% that week); monthly forecast range 7,100–7,890
+- S&P 500 futures premarket: ~7,692 flat (live-ish, unconfirmed date — treat as approximate)
+- Technical: below support 7,620–7,632; path of least resistance = sideways/down until tech recovers
+- 10-year Treasury yield: ~4.93% — ELEVATED (> 4.5% → hold-only for P/E > 40 growth names)
+- Fed funds: 3.75–4.00%
+
+#### VIX
+- Last confirmed: 28.18 (Nov 6 morning); undated source suggests ~16.88 — uncertainty high
+- Using conservative estimate: elevated, ~20–28 range; market remains risk-off from prior week
+
+#### Economic Calendar (Week of Nov 9–13)
+| Date | Event | Notes |
+|------|-------|-------|
+| **Tue Nov 10** | **CPI (Oct) 8:30 AM ET** | High-impact — key rate driver this week |
+| **Tue Nov 10** | 10-yr Treasury auction 1:00 PM ET | Demand signals; watch yield reaction |
+| **Wed Nov 11** | Veterans Day | Stock markets OPEN; bond markets CLOSED |
+| Nov 9 today | No major pre-market earnings confirmed | Quiet open anticipated |
+
+#### Earnings Pre-Market Today (Nov 9)
+- None confirmed from available sources.
+
+#### Sector Momentum (YTD through Oct 2026)
+- **#1 Energy** (~+37–39%) — under bearish pressure (oil pullback, Democratic Congress policy)
+- **#2 Technology** (~+32–37%) — hammered on AI buildout fears; in technical correction
+- **#3 Industrials** (~+21%) — HON thesis intact; sector has 0 failed trades (re-entry allowed)
+
+---
+
+### News on Held Tickers
+
+#### HON (Honeywell — held)
+- Current: $216.92 (−1.42% intraday today)
+- Aerospace spin-off (ticker HONA): board set June 15 2026 record date; spin-off in second half 2026 — ongoing
+- Q3 beat (Oct 22) confirmed; "automation strength, outlook raised" — thesis intact
+- No new negative catalysts found for Nov 9
+- Structural thesis intact: aerospace spin-off + Q3 beat
+
+---
+
+### Trade Ideas
+
+**1. FSLR (First Solar) — BUY TODAY (conditional)**
+- **Catalyst:** IRA funding protected under Democratic Congress; strong momentum (+16.9% vs SPY −3.2% over prior 2 weeks); analyst consensus Strong Buy, mean PT $268.51
+- **Fundamentals:** Q3 net sales $1.2B; P/E ~12–15x (passes yield gate <40); cautious guidance on policy/trade uncertainty but stock rerating higher
+- **Entry zone:** ~$200–205 (last confirmed close ~$201 on Nov 6)
+- **Stop:** 10% trailing GTC from fill
+- **Target:** $260+ (3:1+ R:R vs analyst PT $268)
+- **Position size:** ~$19,500 (~20% equity)
+- **Risk:** Mixed Q3 guidance; CPI tomorrow could affect risk sentiment; prior Jefferies Hold downgrade
+- **Gate check:** HON+FSLR = 2 positions (≤6 ✓); 1/3 weekly trades; 37.5% deployed (within 75–85% goal after two more entries)
+
+**2. NEE (NextEra Energy) — WATCHLIST, enter post-CPI**
+- **Catalyst:** IRA subsidy protection; Dominion Energy merger (all-stock deal announced May 18, 2026); Virginia regulatory hearing mid-Nov = potential approval catalyst; Q3 beat
+- **Risk:** 10-yr yield 4.93% compresses utility multiples; merger uncertainty; reaffirmed outlook below estimates; Dominion regulatory review pending
+- **Entry zone:** ~$80–85 (last data ~$81.90 Oct 21); verify current price at open
+- **Stop:** 10% trailing GTC
+- **Target:** $95+ if merger clears (>2:1 R:R)
+- **Gate:** Defer until post-CPI (Tue Nov 10 8:30 AM ET) — hot CPI hurts utilities disproportionately
+- **P/E:** ~27.5x (passes yield gate <40 ✓)
+
+**3. HON Re-entry (additional shares) — LOW PRIORITY**
+- Existing 79 shares; could add up to ~100 more for full 20% position
+- Only if HON recovers above $218 with tight buffer rebuild; current 3.50% buffer thin
+- Aerospace spin-off remains live catalyst
+- Defer until HON stabilizes; NEE/FSLR take priority for deployment
+
+---
+
+### Risk Factors
+1. **CPI Tuesday Nov 10** — hot print → yields spike → growth + utility sell-off; hold NEE until after
+2. **Yield 4.93% elevated** — compresses multiples; hold-only for P/E>40 (FSLR/NEE pass, but macro headwind)
+3. **VIX uncertainty** — was 28 last week; if still elevated, market in fear mode → tighten entry criteria
+4. **HON buffer thin at 3.50%** — any sharp intraday drop could approach 3% floor; monitor
+5. **FSLR mixed guidance** — policy/trade uncertainty flagged in Q3 call; cautious backdrop
+6. **S&P 500 technical weakness** — below support 7,620–7,632; hold-only bias until confirmed recovery
+
+---
+
+### Decision: **TRADE** (FSLR today, NEE post-CPI)
+
+- **HON:** HOLD — buffer 3.50% above floor, thesis intact, no action needed
+- **FSLR:** BUY at open if HON stable and market not in extreme fear (VIX < 25); 20% allocation (~$19,500); 10% trailing stop
+- **NEE:** WATCHLIST — defer entry until post-CPI (Wednesday Nov 12 earliest); verify price at open
+- **HON add:** Skip for now — buffer too thin; prioritize new diversified entries
+- **Weekly budget:** 1/3 after FSLR; 2/3 after NEE add; 1 trade left in reserve for high-conviction opportunity
+
+_Sources: Alpaca API (live account/positions/orders), WebSearch (5paisa Oct crude oil data, regardsofwallstreet.com Nov 2 week preview, dailyforex.com Nov 2026 SPX forecast, forex.com SPX support analysis, simianx.ai Nov economic calendar, itiger.com HON news, marketchameleon.com FSLR data, rallies.ai FSLR news, barchart.com FSLR analyst data, zacks.com NEE Q3, trefis.com NEE Oct data, tradingtreff.de NEE Democratic Congress analysis)_
+
