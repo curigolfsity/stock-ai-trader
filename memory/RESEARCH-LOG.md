@@ -11109,3 +11109,74 @@ _Sources: Alpaca API (live account/positions/orders), WebSearch (5paisa Oct crud
 - HOLD: thesis not broken; −3.16% unrealized, well above −7% cut rule; stop $176.742 live
 
 **No other movers requiring research today.**
+
+
+---
+
+## Pre-Market Research — 2026-11-10 (Day 138, Tuesday — CPI Day)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $98,408.70 |
+| Cash | $61,240.11 (62.3%) |
+| Deployed | $37,168.59 (37.8%) |
+| Daytrade count | N/A (not checked; <3 assumed) |
+| Weekly trades | 1/3 (FSLR buy Mon Nov 9) |
+
+### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Buffer |
+|--------|--------|-------|---------|----------------|------|--------|
+| FSLR | 100 | $195.14 | $190.61 | −$453 (−2.32%) | 10% GTC fe151d38 (HWM $196.38, stop $176.742) | 7.27% ✓ |
+| HON | 79 | $211.95 | $229.21 | +$1,364 (+8.14%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322) | 8.70% ✓ |
+
+### Market Context
+- **WTI crude:** ~$90 (Nov 8 data; recent decline from $107+ on Iran tensions easing)
+- **Brent crude:** ~$91–92 (Saxo headline: "Brent slides below USD 92" on Nov 10); sharp -16% drop since early Nov
+- **S&P 500:** Closed Mon Nov 9 at ~7,550 (+2.35%); broad recovery day after prior week sell-off (VIX was ~25.56)
+- **SPX futures premarket:** Mixed/slightly positive heading into CPI at 8:30 AM ET
+- **VIX:** ~19.92 (Mon Nov 9 close, −22% from prior week peak ~25.56); returning to normal-ish volatility
+- **10-yr yield:** 4.89–4.93% heading in; risk of spike if CPI hot
+- **CPI (Oct 2026, 8:30 AM ET today):** Consensus +0.3% MoM headline, +0.2% core. Cleveland Fed nowcast: +0.24% headline, +0.21% core. No YoY figure (2025 shutdown gap). Early signals hint at possible hot print (FXEmpire: "Hot CPI puts long-term yields back in control"); unconfirmed at research time.
+- **Key risk:** If CPI hot → 10-yr yield >4.5% sustained → yield gate activates → hold-only on high-multiple growth; NEE (~P/E 27.5x) borderline OK but utility multiples compress
+- **Earnings today:** ~120 reports; 5 before open (names TBD — no high-profile names for our sectors visible)
+- **HON thesis update:** Honeywell Aerospace spin-off completed June 2026. HON now trades as Honeywell Technologies (pure-play automation). Spin catalyst priced in. Automation/industrial thesis still valid; evaluate if further upside remains or take profits.
+
+### Trade Ideas
+
+**1. NEE (NextEra Energy) — WATCHLIST / Conditional Entry**
+- **Catalyst:** Dominion Energy merger pending; Virginia regulatory hearing mid-Nov (conditions filed Nov 3); EEI Conference Nov 6–10 — management meeting investors this week
+- **Gate:** CPI result + 10-yr yield. HOLD-ONLY if yield sustains >4.5%. Enter only if CPI in-line/cool and yield <4.5% confirmed post-report
+- **Entry zone:** ~$80–85 (verify current price at open)
+- **Stop:** 10% trailing GTC
+- **Target:** $95+ on merger clearance (>2:1 R:R)
+- **P/E:** ~27.5x (passes yield gate <40 ✓, but utility compresses fast)
+- **Risk:** Hot CPI → yield spike kills utilities; merger uncertainty
+
+**2. FSLR Add — LOW PRIORITY**
+- Existing 100 shares; consider adding 50–100 if reclaims $192 support with volume
+- IRA thesis intact (Democratic Congress protects IRA). Piper Sandler Overweight, PT $222. Analyst mean PT $268.
+- Only if $192 reclaimed and daily close confirms. Do not chase.
+
+**3. Energy sector caution**
+- Oil fell ~16% in one week (from $107 → ~$91) — energy sector momentum may be breaking
+- Do not enter new Energy positions until oil stabilizes; monitor XLE
+- Sector momentum rule: Energy was #1 YTD as of Aug (+39.4%); after this week's sell-off, re-verify before any entry
+
+### Risk Factors
+1. **CPI hot print** — yields spike → utility/growth sell-off → defer NEE, monitor FSLR support
+2. **Oil crash −16% this week** — energy sector rotation risk; HON not impacted (automation/industrial)
+3. **HON post-spin thesis** — Aerospace spin complete; re-evaluate: is automation HON a hold at $229 (+8% unrealized) or take partial profits?
+4. **FSLR below $192** — technical support level; needs reclaim to confirm thesis intact
+5. **Low deployment 37.8%** — target is 75–85%; NEE would add ~20%; still need 2–3 more entries
+6. **10-yr yield gate** — 4.89% heading in; a hot CPI could push above 5% → triggers hold-only on growth names (FSLR P/E ~12–15x still OK; NEE marginal)
+
+### Decision: **HOLD (conditional on CPI)**
+- **HON:** HOLD — +8.14% unrealized, buffer 8.70% safe. Post-spin automation thesis intact. No action needed; evaluate take-partial-profits if reaches +15% threshold (~$243.74)
+- **FSLR:** HOLD — −2.32% unrealized, buffer 7.27% safe, IRA thesis intact. Watch $192 reclaim.
+- **NEE:** WATCHLIST — CPI result gates entry. If CPI in-line and 10-yr yield doesn't spike >4.5%, enter this week at $80–85 range. If hot CPI → defer to next week.
+- **New entries:** 2 trades remaining this week; hold for high-conviction setups
+- **Deployment plan:** One NEE entry (~$18k, ~18%) would bring to ~56%. Still below 75–85% target — a 3rd entry needed before week end.
+
+_Sources: Alpaca API (live account/positions/orders), WebSearch (Saxo Morning Brew/Market Quick Take Nov 10 2026 — Brent <$92/Wall St rebounds; riotimesonline.com Nov 9 close: SPX +2.35%, VIX 19.92; cnbc.com Nov 9 live blog; fxstreet.com Nov 10 CPI preview; investinglive.com CPI preview; forexfundamentals.com CPI calendar; streetinsider.com HON spinoff June 2026; breakingdefense.com HON aerospace June 2026; placera.se NEE EEI conference; quantisnow.com NEE SEC filings Nov 2026; fxempire.com hot CPI yields signal; oilpriceapi.com WTI $90.34 Nov 8; 5paisa.com Brent Oct 28 $115→slide; spglobal.com Aug 2026 sector data XLE +39.4%)_
+
