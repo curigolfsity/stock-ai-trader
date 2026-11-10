@@ -11180,3 +11180,13 @@ _Sources: Alpaca API (live account/positions/orders), WebSearch (5paisa Oct crud
 
 _Sources: Alpaca API (live account/positions/orders), WebSearch (Saxo Morning Brew/Market Quick Take Nov 10 2026 — Brent <$92/Wall St rebounds; riotimesonline.com Nov 9 close: SPX +2.35%, VIX 19.92; cnbc.com Nov 9 live blog; fxstreet.com Nov 10 CPI preview; investinglive.com CPI preview; forexfundamentals.com CPI calendar; streetinsider.com HON spinoff June 2026; breakingdefense.com HON aerospace June 2026; placera.se NEE EEI conference; quantisnow.com NEE SEC filings Nov 2026; fxempire.com hot CPI yields signal; oilpriceapi.com WTI $90.34 Nov 8; 5paisa.com Brent Oct 28 $115→slide; spglobal.com Aug 2026 sector data XLE +39.4%)_
 
+### Afternoon Addendum — 2026-11-10 Midday (~16:17 UTC)
+**FSLR Sharp Drop — Exit Research**
+- FSLR down ~−5.5% intraday ($191.42 → ~$180.97): $192 technical support definitively failed
+- **CEO tariff warning:** First Solar CEO publicly warned of "significant economic headwind" from tariffs; analysts downgraded (RBC, SeekingAlpha sources)
+- **Section 232:** Polysilicon derivative tariffs effective Dec 4 → near-term margin uncertainty
+- **CPI/yield impact:** October CPI released this morning; potential hot print spiking 10-yr yield above 4.5% adds macro pressure to solar sector
+- **Thesis broken:** Support failure + CEO headwind warning + analyst downgrades = IRA thesis no longer intact
+- **Action taken:** CUT 100 shares FSLR @ ~$180.55 | Realized −$1,459 (−7.48%)
+- **Post-exit:** 1 position remaining (HON). Deployment 18.5% — severely underpowered. Priority: identify 3–4 new high-conviction setups for remainder of week (1 trade remaining this week) and next week.
+
