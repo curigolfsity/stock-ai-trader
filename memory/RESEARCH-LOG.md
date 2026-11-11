@@ -11190,3 +11190,75 @@ _Sources: Alpaca API (live account/positions/orders), WebSearch (Saxo Morning Br
 - **Action taken:** CUT 100 shares FSLR @ ~$180.55 | Realized −$1,459 (−7.48%)
 - **Post-exit:** 1 position remaining (HON). Deployment 18.5% — severely underpowered. Priority: identify 3–4 new high-conviction setups for remainder of week (1 trade remaining this week) and next week.
 
+
+---
+
+### Pre-Market Research — 2026-11-11 (Day 139, Wednesday — Veterans Day)
+
+**Account Snapshot**
+- Equity: $97,323.29 | Cash: $79,294.70 | Deployed: $18,028.59 (18.5%)
+- Buying power: $176,617.99 (Reg-T) | Phase P&L: −$2,676.71 (−2.68%)
+- Weekly trades: 2/3 (1 remaining this week)
+- Daytrade count: n/a (no PDT trigger)
+
+**Positions**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $228.21 | +$1,284.54 (+7.67%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 8.11%) ✓ |
+
+**HON Alert: Ex-Dividend Nov 13**
+- Quarterly dividend $0.70/share ex-div date Nov 13 (Thu) — stock typically drops ~$0.70 on ex-div day
+- Not actionable: dividend captured if held through Nov 12 close; buffer 8.11% absorbs the $0.70 drop (0.31%)
+- HON thesis (automation/industrial pure-play post-spin) remains intact; hold
+
+**Market Context**
+- **Day:** Veterans Day — equities OPEN (NYSE/Nasdaq normal hours); bond market CLOSED; light volume expected
+- **WTI crude:** ~$90 (Nov 8 last confirmed); recent sharp decline from $107+ (Oct 28) → ~$90 — ~16% drop in 2 weeks
+- **Brent crude:** ~$91–92 (Nov 10 Saxo data)
+- **S&P 500:** ~7,692 (undated live page; closed Nov 9 ~7,550, up 2.35% that day)
+- **VIX:** ~16–17 (undated; confirmed 19.92 on Nov 9; trending down from 25.56 peak)
+- **10-yr yield:** Bond market closed today (Veterans Day); no fresh auction. CPI hot print (Nov 10) likely pushed yields to 4.9–5.0%+ range; held-only gate (>4.5%) still active for high-multiple growth (P/E >40)
+- **Economic calendar today:** No major releases. Light calendar — no CPI, PPI, FOMC, jobs data. First major release next: PPI Thursday Nov 12
+- **Earnings today:** No major pre-open reporters; light day. Applied Materials (AMAT) and Cisco (CSCO) report Thursday after close
+- **Sector momentum (Aug 2026 latest available):** Energy (XLE) +39.4% YTD | Tech (XLK) +32.1% | Industrials (XLI) +20.6% | Note: Energy lagging intraday recently (Nov 4) and oil −16% from Oct peak — caution on new Energy entries
+
+**Trade Ideas**
+
+**1. AMAT (Applied Materials) — WATCHLIST ahead of earnings Thu Nov 12 AH**
+- **Catalyst:** Earnings Thursday 11/12 after close; AI semiconductor equipment supercycle; wafer fab spend recovering; TSMC/Intel/Samsung capex expanding
+- **Setup:** Enter pre-earnings for catalyst momentum OR wait for post-earnings gap if beats
+- **Entry zone:** ~$185–195 (verify at open); stop 10% trailing GTC
+- **Target:** $215–220 (>2:1 R:R from $190 entry)
+- **P/E:** ~25x — passes yield gate (>4.5% yield gate only blocks P/E >40) ✓
+- **Risk:** Earnings miss → gap down; tariff risk on semiconductor equipment exports to China
+- **Decision:** WATCHLIST — do not enter before earnings; monitor post-AH reaction Thursday and enter Friday if gap-and-hold bullish
+
+**2. NVDA (Nvidia) — WATCHLIST / Next Week**
+- **Catalyst:** AI infrastructure demand continues; next earnings cycle not until ~late Nov; momentum play
+- **Sector:** Technology #2 YTD (+32.1%); AI theme dominant
+- **Entry zone:** ~$140–150 (verify); 10% trailing stop; target $170+
+- **P/E:** ~35x — below 40 threshold; passes yield gate ✓
+- **Risk:** Yield spike above 5% could weigh on growth multiples; crowded trade
+- **Decision:** WATCHLIST — best entry next week when deployment urgency grows; monitor for pullback to entry zone
+
+**3. MSFT (Microsoft) — WATCHLIST / Next Week**
+- **Catalyst:** Azure AI growth; stable cash flow; defensive large-cap tech in volatile macro
+- **P/E:** ~32x — below 40 threshold ✓
+- **Entry zone:** ~$435–445; 10% stop; target $490+
+- **Decision:** WATCHLIST — backup to NVDA if tech pulls back harder
+
+**Risk Factors Today**
+1. **Light volume Veterans Day** — bond market closed; spreads wider; moves can be exaggerated
+2. **10-yr yield gate** — CPI hot print (Nov 10) likely pushed yield >4.5%; growth names (P/E >40) remain on hold-only; AMAT/NVDA/MSFT all pass (<40 P/E)
+3. **HON ex-div Nov 13** — $0.70 drop baked in; not a thesis break
+4. **HONA lawsuit** — Honeywell Aerospace spin-off (HONA) has securities fraud class action (Aug 2026 23% drop, guidance cut); HON (Honeywell Technologies, automation) is a separate entity — does NOT affect HON thesis
+5. **Oil −16% from Oct peak** — Energy sector caution; no new Energy entries until oil stabilizes above $95
+6. **Deployment 18.5%** — severely below 75–85% target; urgent to add 3–4 positions; best week to act is this week (1 trade) + next week (3 trades)
+
+**Decision: HOLD today — WATCHLIST active**
+- **HON:** HOLD — +7.67% unrealized, buffer 8.11%, thesis intact, ex-div Nov 13 minor noise
+- **Today:** No new entries — Veterans Day light volume, bond market closed, no fresh macro data; risk/reward of entering on light volume poor
+- **This week (1 trade remaining):** Reserve for AMAT post-earnings reaction Friday 11/13 IF Thursday AH print is strong (beat + raise guidance)
+- **Next week:** Prioritize NVDA + 1–2 more. Target 75–85% deployment within 2 weeks.
+
+_Sources: Alpaca API (live), WebSearch (Regards of Wall Street premarket; stockhub.kr Nov 9–13 economic calendar; Saxo Morning Brew; oilpriceapi.com; spglobal.com Aug 2026 sector dashboard; heygotrade.com HON Nov 5 close; quantisnow.com HON ex-div Nov 13; morningstar/prnewswire HONA lawsuit; webull.com Veterans Day market hours)_
