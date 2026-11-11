@@ -6906,3 +6906,12 @@ _Midday Nov 10: FSLR cut at −7.26% (realized ~−$1,459). Thesis also broken: 
 - None. No cuts triggered. No stops tightened. Thesis intact.
 
 _Midday Nov 11: No action. HON +7.25% (HWM $232.58, stop $209.322, buf 7.91%) — Veterans Day light volume, thesis intact. Weekly trades 2/3. Deployment 18.4% — severely underpowered; AMAT post-earnings Friday if Thu AH print is strong._
+
+---
+
+### Nov 11 — EOD Snapshot (Day 139, Wednesday — Veterans Day)
+**Portfolio:** $97,281.42 | **Cash:** $79,294.70 (81.5%) | **Day P&L:** −$9.88 (−0.01%) | **Phase P&L:** −$2,718.58 (−2.72%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $227.68 | −0.24% | +$1,242.67 (+7.42%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf **8.07%** ✓) |
+**Notes:** Day 139 (Wednesday, Nov 11 — Veterans Day) — quiet session with bond market closed and light volume. HON pulled back a marginal −0.24% ($228.22 → $227.68); unrealized P&L +$1,242.67 (+7.42%); trailing stop at $209.322 (HWM $232.58, buffer 8.07%) — well above 3% floor, no action. No trades today; weekly trades 2/3, one new entry slot remains through Friday. Portfolio severely underpowered at 18.5% deployment ($17,987 invested vs. 75–85% target). AMAT reports Thursday AH — strong print could open an entry Friday. Phase P&L −$2,718.58 (−2.72%) vs. $100,000 starting equity.
