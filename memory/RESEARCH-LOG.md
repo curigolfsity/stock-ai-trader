@@ -11262,3 +11262,93 @@ _Sources: Alpaca API (live account/positions/orders), WebSearch (Saxo Morning Br
 - **Next week:** Prioritize NVDA + 1–2 more. Target 75–85% deployment within 2 weeks.
 
 _Sources: Alpaca API (live), WebSearch (Regards of Wall Street premarket; stockhub.kr Nov 9–13 economic calendar; Saxo Morning Brew; oilpriceapi.com; spglobal.com Aug 2026 sector dashboard; heygotrade.com HON Nov 5 close; quantisnow.com HON ex-div Nov 13; morningstar/prnewswire HONA lawsuit; webull.com Veterans Day market hours)_
+
+---
+
+## 2026-11-12 — Pre-Market Research (Day 140, Thursday — Q4 Week 7)
+
+### Account Snapshot
+- **Equity:** $97,276.68 | **Cash:** $79,294.70 (81.5%) | **Deployed:** $17,981.98 (18.5%)
+- **Buying Power:** $176,571.38 (Reg-T) | **Phase P&L:** −$2,723 (−2.72%)
+- **Daytrade count:** 0 (PDT limit 3) | **Weekly trades:** 2/3 (1 remaining)
+
+### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Status |
+|--------|--------|-------|---------|----------------|------|--------|
+| HON | 79 | $211.95 | $227.62 | +$1,237.93 (+7.39%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 8.07%) | HOLD ✓ — ex-div TOMORROW Nov 13 |
+
+### GTC Orders Confirmed Active
+- HON: 10% trail 8303e452 | HWM $232.58 | stop $209.322 | expires 2026-12-23 ✓
+
+### Market Context
+- **WTI crude:** ~$86–90 (oil dropped from $107 Oct 28 → ~$90–91 Nov 10; continued drift lower; undated ~$86 commodity.com)
+- **Brent crude:** ~$91–95 (Nov 4: $104.16; similar decline trajectory)
+- **S&P 500:** ~7,692 prior close; futures directionally mixed; no clean Nov 12 premarket print retrieved
+- **VIX:** ~17–19 est. (confirmed 19.92 on Nov 9; trend lower; ~17–18 est. today)
+- **10-yr yield:** >4.5% — CPI hot print Nov 10 likely pushed to 4.9–5.0%+; hold-only gate on P/E >40 names remains in force
+
+### Economic Calendar / Events Today
+- **No major U.S. releases today** (Nov 12) — market fully open, normal hours
+- **AMAT Q4 FY2026 earnings: TONIGHT after close** — KEY catalyst being watched
+  - Consensus: ~$10.3B revenue (+51% YoY), ~$4.00–4.06 EPS
+  - Company guidance midpoint: ~$10.25B rev, ~$4.02 EPS (issued Aug 2026)
+  - Q3 2026 record: $9.12B revenue, up 25% YoY; stock has pulled back from $547 high to ~$330–340 range
+- **PPI Oct 2026: TOMORROW 8:30am ET (Nov 13)** — major inflation read; market-moving for yields/tech
+- **HON ex-dividend: TOMORROW (Nov 13)** — $0.70/share; record date Nov 13; payable Dec 4
+- **HON RBC Capital Markets Conference: Nov 17** (next Tuesday; potential small catalyst)
+- Sep PPI (Sep 2026): +6.3% YoY — elevated; Oct reading tomorrow is key
+
+### Sector Momentum (Aug 2026, most recent available)
+1. Energy (XLE): +39.4% YTD — caution: oil −16% from Oct peak; no new Energy entries
+2. Technology (XLK): +32.1% YTD — AMAT/semiconductor AI supercycle; yield gate blocks P/E >40
+3. Industrials (XLI): +20.6% YTD — HON proxy
+4. Services/Consumer: Leading intraday Nov 4–10 rotation
+5. Financials: ~+6% YTD (weakest; no positions)
+
+### Trade Ideas
+
+**1. AMAT (Applied Materials) — CONDITIONAL BUY FRIDAY 11/13 [USE LAST WEEKLY TRADE]**
+- **Catalyst:** Q4 FY2026 earnings tonight; AI semiconductor equipment supercycle; wafer fab capex (TSMC/Intel/Samsung) expanding; consensus $10.3B rev / $4.02 EPS
+- **Gate 1:** AMAT beats AND raises FY2027 guidance tonight (AH)
+- **Gate 2:** PPI tomorrow 8:30am must be in-line or cool — hot print → yield spike → defer
+- **P/E:** ~25x — passes yield gate (>4.5% yield only blocks P/E >40) ✓
+- **Entry zone:** ~$330–350 (best dated: $332.71 on Nov 6; verify Friday pre-open)
+- **Size:** 20% of $97,277 = $19,455 / ~$340 ≈ **57 shares**
+- **Stop:** 10% trailing GTC | **Cut:** −7% (~$308–325) | **Target:** $400+ (>2:1 R:R)
+- **Risk:** Earnings miss; PPI hot print; China export control risk on semiconductor equipment; crowded AI trade
+- **Conviction:** HIGH — IF both gates pass
+
+**2. NVDA (Nvidia) — WATCHLIST / Next Week**
+- P/E ~35x ✓; AI infra demand; next earnings ~late Nov
+- Entry ~$140–150; 10% stop; target $170+; wait for fresh 3-trade week (Mon Nov 16)
+
+**3. MSFT (Microsoft) — WATCHLIST / Next Week**
+- P/E ~32x ✓; Azure AI; defensive large-cap
+- Entry ~$435–445; 10% stop; target $490+; backup to NVDA
+
+### HON Notes
+- **HOLD:** +7.39% unrealized; buffer 8.07% safe; GTC stop active
+- **Ex-div tomorrow (Nov 13):** $0.70/share ($55.30 dividend income); mechanical ~$0.70 open drop (0.31% — buffer absorbs easily)
+- **Thesis:** Automation/industrial pure-play post-spin; AI platform rollout; no negative catalysts
+- **Watch:** RBC conference Nov 17 (potential minor positive catalyst)
+- **Q3 note:** Missed revenue consensus; operating CF declined; full-year guidance raised; hold pending further clarity
+
+### Risk Factors
+1. **PPI tomorrow 8:30am (HIGH):** Hot print → yield spike → defer AMAT entry; in-line or cool → positive
+2. **AMAT earnings miss tonight (HIGH):** Miss + light FY2027 guidance → skip AMAT; seek next candidate next week
+3. **Deployment 18.5% (URGENT):** Severely below 75–85% target; AMAT is this week's last viable entry
+4. **10-yr yield >4.5% (PERSISTENT):** Blocks P/E >40; AMAT/NVDA/MSFT all pass (<40)
+5. **HON ex-div tomorrow (LOW):** $0.70 drop baked in; buffer 8.07% absorbs; not a thesis break
+6. **Oil continued drift (MEDIUM):** WTI ~$86–90, below $92 stabilization threshold; no new Energy entries
+7. **China export controls (MEDIUM):** Tariff/semiconductor equipment risk for AMAT (Section 232 dynamics)
+
+### Decision: **HOLD today — CONDITIONAL BUY AMAT FRIDAY**
+- **Today:** No new entries — no pre-market catalyst; AMAT earnings are tonight AH; hold fire
+- **Tonight (AH):** Monitor AMAT earnings: beat + raise → trigger for Friday entry
+- **Friday (IF both gates pass):** BUY ~57 shares AMAT at market open; place 10% trailing GTC immediately after fill
+- **Friday (IF PPI hot OR AMAT miss):** HOLD; defer AMAT; pivot to NVDA/MSFT next week
+- **HON:** HOLD — thesis intact, ex-div tomorrow minor, buffer safe
+- **Deployment plan:** AMAT entry (~$19,455) would bring to ~38% — still below target; need 2–3 more entries next week (NVDA + 1–2 others) to reach 75–85%
+- **Weekly trade budget:** 1 remaining (use for AMAT Friday only if both gates pass)
+
+_Sources: Alpaca API (live account/positions/orders); WebSearch (5paisa.com Nov 4 oil $104.16 Brent/$96.28 WTI; commodity.com undated ~$86–92; hudson-labs.com AMAT Q4 2026 earnings preview; rttnews.com AMAT Q4 beats; barchart.com AMAT Q3 record $9.12B; bls.gov PPI Nov 13 schedule; therighttrader.com PPI calendar; financialcontent.com HON $0.70 div record Nov 13; webull.com HON AI platform; quantisnow.com HON RBC conference Nov 17; spglobal.com Aug 2026 sector dashboard; dividendchannel.com Nov 4 sector intraday; marketbeat.com AMAT Nov 6 $332.71)_
