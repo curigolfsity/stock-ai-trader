@@ -6940,3 +6940,12 @@ _Midday Nov 11: No action. HON +7.25% (HWM $232.58, stop $209.322, buf 7.91%) �
 - None. No cuts triggered. No stops tightened. Thesis intact.
 
 _Midday Nov 12: No action. HON +6.87% (HWM $232.58, stop $209.322, buf 7.59%) — ex-div tomorrow, thesis intact. Weekly trades 2/3. Deployment 18.4% — severely underpowered. AMAT earnings 4:30pm ET tonight — Morningstar pre-print bullish ("Momentum Continues as AI Equipment Demand Keeps Accelerating"). Gate 1: beat + raise. Gate 2: PPI tomorrow 8:30am in-line or cool._
+
+---
+
+### Nov 12 — EOD Snapshot (Day 140, Thursday)
+**Portfolio:** $96,998.27 | **Cash:** $79,294.70 (81.7%) | **Day P&L:** −$279.99 (−0.29%) | **Phase P&L:** −$3,001.73 (−3.00%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $224.10 | −1.56% | +$959.52 (+5.73%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 6.59%) |
+**Notes:** Day 140 (Thursday, Nov 12) — HON declined −1.56% to $224.10 ahead of ex-dividend date tomorrow (Nov 13, $0.70/share, ~0.31% mechanical drop baked in). Unrealized P&L +$959.52 (+5.73%); trailing stop at $209.322 (HWM $232.58, buffer 6.59%) — above 3% floor, no action needed. No new trades today; weekly trades 2/3, one new entry slot through Friday. Portfolio severely underpowered at 18.2% deployment ($17,704 vs. 75–85% target). AMAT earnings tonight (4:30pm ET) — pending gate: beat + raise opens entry Friday morning if PPI is in-line or cool at 8:30am ET. Phase P&L −$3,001.73 (−3.00%) vs. $100,000 starting equity.
