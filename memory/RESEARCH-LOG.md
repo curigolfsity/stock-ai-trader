@@ -11352,3 +11352,21 @@ _Sources: Alpaca API (live), WebSearch (Regards of Wall Street premarket; stockh
 - **Weekly trade budget:** 1 remaining (use for AMAT Friday only if both gates pass)
 
 _Sources: Alpaca API (live account/positions/orders); WebSearch (5paisa.com Nov 4 oil $104.16 Brent/$96.28 WTI; commodity.com undated ~$86–92; hudson-labs.com AMAT Q4 2026 earnings preview; rttnews.com AMAT Q4 beats; barchart.com AMAT Q3 record $9.12B; bls.gov PPI Nov 13 schedule; therighttrader.com PPI calendar; financialcontent.com HON $0.70 div record Nov 13; webull.com HON AI platform; quantisnow.com HON RBC conference Nov 17; spglobal.com Aug 2026 sector dashboard; dividendchannel.com Nov 4 sector intraday; marketbeat.com AMAT Nov 6 $332.71)_
+
+### 2026-11-12 — Midday Addendum
+
+**Account (midday):** Equity $97,177.93 | Day P&L: −$100.33 (−0.10%) | HON: $226.505 (−0.50% intraday)
+
+#### HON Check
+- No fresh Nov 12 news; minor −0.50% intraday pullback; ex-div tomorrow ($0.70) on track
+- Thesis: INTACT. HOLD.
+
+#### AMAT Pre-Earnings
+- Earnings call tonight 4:30pm ET
+- Consensus: EPS $4.06, Rev $10.30B
+- Morningstar headline: "Momentum Continues as AI Equipment Demand Keeps Accelerating" — bullish framing
+- Both gates still required for Friday entry:
+  - Gate 1: Beat + raise FY2027 guidance (AH tonight)
+  - Gate 2: PPI tomorrow 8:30am in-line or cool
+
+_Sources: Alpaca API (live); WebSearch (Morningstar AMAT earnings preview; IR Applied Materials Q4 earnings call; quantisnow.com HON)_
