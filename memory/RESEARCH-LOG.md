@@ -11475,4 +11475,20 @@ _Sources: Alpaca API (live); WebSearch (Morningstar AMAT earnings preview; IR Ap
 - **Weekly trade budget:** 1 remaining (use for AMAT only)
 - **Deployment plan:** AMAT entry (~$19,401) → ~38% deployed; still below 75–85% but progress; need 2–3 more entries next week
 
+### Afternoon Addendum — 2026-11-13 Midday Scan (~11:33am ET)
+
+**Account:** Equity $95,903.12 | Cash $61,132.88 | Deployed $34,775.71 (36.3%) | Phase P&L −$4,096.88 (−4.10%)
+
+**AMAT Selloff Research:** Down −5.42% intraday ($380.95 → $360.29) post Q4 FY2026 beat+raise.
+- Cause: "Sell the news" consolidation typical after high-expectation earnings gap-open; broader semicap sector pressure from ongoing China export control headwinds (MATCH Act bill, Hua Hong shipment halt, $600M rev hit disclosed — Bernstein: ~2% of FY2026 consensus, "modest")
+- NVDA CEO exit continues to weigh on AI sector sentiment
+- **Conclusion: No new thesis-breaking information. Structural AI equipment demand unchanged. HOLD. Stop $341.13 provides protection (buf 5.32%).**
+
+**HON:** −0.97% intraday ($223.45 → $221.29). Ex-div $0.70 absorbed as expected. Thesis intact.
+
+**No actions taken this scan.**
+
+**Next week watchlist:** NVDA (CEO exit uncertainty subsides?), MSFT (Azure AI, defensive large-cap). Need 2–3 entries to close deployment gap to 75–85% target.
+
+
 _Sources: Alpaca API (live); Yahoo Finance (SPX futures, PPI, HON); Bloomberg (Nov 13 market update); CNBC (Nvidia CEO exit); Tickmill (Nov 13 market outlook); WTOP/SiliconAngle/Benzinga (AMAT Q4 results); MarketBeat (HON 200-DMA alert); FedRateCalc (PPI calendar); FT Portfolios/ChartRow (sector YTD); HDFC Sky (oil prices); World Oil Monitor (WTI/Brent settlement)_

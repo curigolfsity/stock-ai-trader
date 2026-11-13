@@ -6970,4 +6970,34 @@ _Midday Nov 12: No action. HON +6.87% (HWM $232.58, stop $209.322, buf 7.59%) �
 | PPI Gate | 6.5% YoY ≤ 6.6% threshold — CLEARED ✓ |
 | Stop Order | a163343e, trail 10%, HWM $378.53, stop $340.68, GTC |
 
+---
+
+### Midday Scan — 2026-11-13 (Day 141, Friday)
+
+**Account (midday):** Equity $95,903.12 | Cash $61,132.88 | Deployed $34,775.71 (36.3%) | Weekly trades: 3/3
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| AMAT | 48 | $378.37 | $360.29 | −$868.02 (−4.78%) | −5.42% | $379.03 | $341.13 (10% GTC a163343e) | **5.32%** ✓ |
+| HON | 79 | $211.95 | $221.29 | +$737.86 (+4.41%) | −0.97% | $232.58 | $209.322 (10% GTC 8303e452) | **5.41%** ✓ |
+
+#### STEP 3 — Cut Check (−7%)
+- AMAT −4.78%: cut level $351.88; current $360.29 — NOT triggered ✓
+- HON +4.41%: NOT triggered ✓
+
+#### STEP 4 — Stop Tighten Check
+- AMAT −4.78%: +15% threshold $434.93 — not reached; +20% threshold $454.04 — not reached ✓
+- HON +4.41%: +15% threshold $243.74 — not reached; +20% threshold $254.34 — not reached ✓
+
+#### STEP 5 — Thesis Check
+- **AMAT:** INTACT — down −5.42% intraday ($380.95 → $360.29); "sell the news" post Q4 FY2026 beat+raise typical consolidation; China export control sector pressure ongoing/known risk (disclosed during earnings: ~$600M headwind, ~2% of FY2026 rev per Bernstein — not new); AI chip equipment demand structural thesis unchanged; HWM $379.03, stop $341.13, buffer 5.32% (above 3% floor); no thesis break. HOLD.
+- **HON:** INTACT — down −0.97% intraday ($223.45 → $221.29); ex-div $0.70 today absorbed (expected); industrial automation thesis unchanged; stop buffer 5.41% ✓. HOLD.
+
+#### Actions
+- None. No cuts triggered. No stops tightened. No thesis breaks.
+
+_Midday Nov 13: No action. AMAT −4.78% (HWM $379.03, stop $341.13, buf 5.32%) — post-earnings sell-the-news + sector semicap pressure, thesis intact. HON +4.41% (HWM $232.58, stop $209.322, buf 5.41%) — ex-div $0.70 absorbed. Weekly trades 3/3. Deployment 36.3% — below 75–85% target; 2–3 more entries needed Mon Nov 16 (NVDA, MSFT candidates)._
+
+
 **Notes:** Day 141 (Friday, Nov 13) — AMAT entered at market open after Q4 FY2026 beat+raise (AH Nov 12) and PPI Oct gate cleared (6.5% vs 6.6% threshold, prior 6.3%). Market order filled at $378.37 avg (gapped up from pre-market ~$357; bid/ask $360/$396 at 9:39am ET). 10% trailing stop GTC placed immediately (a163343e, HWM $378.53, stop $340.68, buffer 10.0%). Weekly trades 3/3 — no new entries until Mon Nov 16. Portfolio deployment: HON $17,619 + AMAT $18,163 = $35,782 (36.9% of ~$97k equity) — improved from 18.2% but still below 75–85% target; need 2–3 more entries next week (NVDA, MSFT candidates). HON ex-div $0.70 today (mechanical drop absorbed). Phase P&L −$3,001.73 (pre-trade basis).
