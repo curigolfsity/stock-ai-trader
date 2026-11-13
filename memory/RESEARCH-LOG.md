@@ -11370,3 +11370,109 @@ _Sources: Alpaca API (live account/positions/orders); WebSearch (5paisa.com Nov 
   - Gate 2: PPI tomorrow 8:30am in-line or cool
 
 _Sources: Alpaca API (live); WebSearch (Morningstar AMAT earnings preview; IR Applied Materials Q4 earnings call; quantisnow.com HON)_
+
+---
+
+## 2026-11-13 — Pre-Market Research (Day 141, Friday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $97,007.59 |
+| Cash | $79,294.70 |
+| Long MV | $17,712.89 |
+| Deployed | **18.2%** (severely below 75–85% target) |
+| Day P&L | $60.34 (pre-market, +0.06%) |
+| Phase P&L | −$2,992.41 (−2.99%) vs. $100k start |
+| Daytrade count | 0/3 |
+| Weekly trades | 2/3 (1 slot remaining) |
+
+### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|-----|------|--------|
+| HON | 79 | $211.95 | $224.21 | +$968.84 (+5.79%) | $232.58 | $209.322 (GTC 8303e452) | **6.59%** ✓ |
+
+**HON Ex-Div Note:** Ex-dividend today Nov 13 ($0.70/share → $55.30 dividend income). Mechanical ~$0.70 open drop baked in. Post-ex-div buffer remains safe.
+
+**HON Alert:** MarketBeat Nov 13 alert — "Share Price Breaks Below 200-Day Moving Average, Stock Down ~1.8%." 200-DMA breach is a technical concern. Fundamental thesis (automation/industrial/AI platform/HONA spin-off) remains intact per Q3 raised guidance ($8.40–$8.45 EPS). Monitoring closely.
+
+### Open Orders
+- **8303e452:** HON 79-share 10% trailing stop GTC (HWM $232.58, stop $209.322) — ACTIVE ✓
+
+### Market Context
+
+**Oil:**
+- WTI: ~$88.26/barrel (−0.5% today, heading for 2nd weekly decline)
+- Brent: ~$95.52/barrel (−0.3% today)
+- EIA: crude inventories +4.7M barrels to 414.4M (week ended Nov 6) — bearish
+- Trump Iran comments bullish for oil near-term; no new Energy entries warranted
+
+**Indices (Pre-market ~5:10am ET):**
+- SPX futures: roughly flat (−0.02% to −0.40% range; sources vary)
+- 55% market probability of higher open (Yahoo prediction market)
+- NVDA CEO Jensen Huang resigned — AI sector headwind; Chinese AI stocks tumbling; U.S. lawmakers accelerating chip export restrictions to China
+
+**VIX:** ~18–19 (elevated; 2026 avg ~18.2)
+
+**Key Event Today — PPI 8:30am ET (GATE 2 for AMAT):**
+- October PPI due at 8:30am ET
+- Consensus: +6.6% YoY (prior: +6.3% — accelerating)
+- CPI already released Nov 10: headline +0.4% MoM, core +0.3% MoM
+- **IN-LINE or COOL → AMAT entry allowed | HOT (>6.6%) → defer AMAT**
+
+**Earnings (this morning — no major BMO movers):**
+- Lightweight roster: BFRI, MIST, PAVM, Richemont (H1 results) — no portfolio impact
+
+**Sector Momentum (last confirmed data: mid-Aug 2026):**
+1. Energy (XLE) +39.4% YTD
+2. Technology (XLK) +32.1% YTD
+3. Industrials (XLI) +20.6% YTD
+4. Communication Services (XLC) −3.8% YTD (laggard)
+
+### AMAT (Applied Materials) — Q4 FY2026 Earnings Review (AH Nov 12)
+**Gate 1 CHECK: BEAT + RAISE ✓ CLEARED**
+- Revenue: $10.41B (+53% YoY) vs. est. $10.30B — **BEAT by $110M**
+- Adj EPS: $4.16 vs. est. $4.06–$4.13 — **BEAT**
+- Full-year revenue: $34.45B (record)
+- **Q1 FY2027 guidance:** Revenue $11.10B ±$500M, adj EPS $4.35 ±$0.20 — **RAISED**
+- China: 25% of rev (down from 29%) but still $2.64B (+35% YoY) — tariff risk contained
+- Stock: entered earnings after −21% slide; up 48% YTD; AH reaction mixed (initial −1%, then reports of +2.5%)
+
+**Trade Setup (CONDITIONAL on Gate 2 — PPI 8:30am ET):**
+- **Entry zone:** ~$330–355 (verify pre-open; last confirmed $332.71 Nov 6)
+- **Size:** 20% of $97,007 = $19,401 / ~$340 ≈ **57 shares**
+- **Stop:** 10% trailing GTC immediately after fill
+- **Cut level:** −7% (~$308–325 depending on fill)
+- **Target:** $400+ (>2:1 R:R)
+- **P/E:** ~25x — passes 10-yr yield >4.5% gate (only blocks P/E >40) ✓
+- **Catalyst:** Beat + raise; AI equipment demand; record annual results; fiscal Q1 2027 guidance raise
+- **Risk:** NVDA CEO exit creating AI sector drag; China export controls; PPI hot print yields spike; mixed AH reaction suggests uncertainty; 21% drawdown before earnings (crowded position already sold off)
+
+### HON — Thesis & Stop Check
+- **Fundamental thesis:** INTACT (AI platform/EBI One launch; raised EPS guide; HONA spin-off on track; RBC conference Nov 17 minor positive)
+- **200-DMA breach:** Technical concern — not a fundamental thesis break per rules
+- **Ex-div:** $0.70 today → mechanical drop absorbed; buffer 6.59% ✓ (above 3% floor)
+- **Action:** HOLD — no manual cut required; monitor intraday closely; if close below key support with fundamental deterioration → reassess
+
+### Trade Ideas
+1. **AMAT** — BUY ~57 shares at market open IF PPI ≤ 6.6% (in-line or cool). Gate 1 ✓, Gate 2 pending 8:30am. Strong beat + raise; AI chip equipment demand structural. Entry ~$330–355, stop 10% GTC, target $400+.
+2. **NVDA** — WATCHLIST next week. CEO exit creates near-term uncertainty and elevated volatility — too much noise today; fresh 3-trade week starts Mon Nov 16.
+3. **MSFT** — WATCHLIST next week. Azure AI; defensive large-cap; backup to NVDA after Nov 16.
+
+### Risk Factors
+1. **PPI 8:30am ET (HIGH — gate for AMAT):** Hot print >6.6% → yield spike → defer AMAT; yields already elevated post-CPI
+2. **NVDA CEO exit (HIGH):** AI sector headwind; Chinese AI stocks down; potential contagion to semis/semiconductor equipment including AMAT
+3. **HON 200-DMA breach (MEDIUM):** Technical sell signal; not a fundamental thesis break but adds downside risk; watch for support
+4. **Deployment 18.2% (URGENT):** AMAT entry is essential this week — only 1 trade slot left; failure to enter means 3rd straight week at ~18% deployment
+5. **10-yr yield >4.5% (PERSISTENT):** Blocks P/E >40 names; AMAT/NVDA/MSFT all pass (<40 P/E)
+6. **Oil drift (LOW):** WTI $88 — below $92 stabilization threshold; no Energy entries
+
+### Decision: **CONDITIONAL BUY AMAT at open | HOLD HON**
+- **8:30am ET:** Monitor PPI release
+  - PPI ≤ 6.6%: BUY 57 shares AMAT at market open; place 10% trailing GTC immediately
+  - PPI > 6.6%: HOLD all; defer AMAT to next week; seek NVDA/MSFT on Mon Nov 16
+- **HON:** HOLD — ex-div $0.70 today; 200-DMA breach technical only; fundamental thesis intact; stop buffer 6.59% above 3% floor; monitor intraday
+- **Weekly trade budget:** 1 remaining (use for AMAT only)
+- **Deployment plan:** AMAT entry (~$19,401) → ~38% deployed; still below 75–85% but progress; need 2–3 more entries next week
+
+_Sources: Alpaca API (live); Yahoo Finance (SPX futures, PPI, HON); Bloomberg (Nov 13 market update); CNBC (Nvidia CEO exit); Tickmill (Nov 13 market outlook); WTOP/SiliconAngle/Benzinga (AMAT Q4 results); MarketBeat (HON 200-DMA alert); FedRateCalc (PPI calendar); FT Portfolios/ChartRow (sector YTD); HDFC Sky (oil prices); World Oil Monitor (WTI/Brent settlement)_
