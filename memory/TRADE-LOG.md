@@ -6949,3 +6949,25 @@ _Midday Nov 12: No action. HON +6.87% (HWM $232.58, stop $209.322, buf 7.59%) �
 |--------|--------|-------|-------|---------|----------------|------|
 | HON | 79 | $211.95 | $224.10 | −1.56% | +$959.52 (+5.73%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 6.59%) |
 **Notes:** Day 140 (Thursday, Nov 12) — HON declined −1.56% to $224.10 ahead of ex-dividend date tomorrow (Nov 13, $0.70/share, ~0.31% mechanical drop baked in). Unrealized P&L +$959.52 (+5.73%); trailing stop at $209.322 (HWM $232.58, buffer 6.59%) — above 3% floor, no action needed. No new trades today; weekly trades 2/3, one new entry slot through Friday. Portfolio severely underpowered at 18.2% deployment ($17,704 vs. 75–85% target). AMAT earnings tonight (4:30pm ET) — pending gate: beat + raise opens entry Friday morning if PPI is in-line or cool at 8:30am ET. Phase P&L −$3,001.73 (−3.00%) vs. $100,000 starting equity.
+
+---
+
+### Market-Open Buy — 2026-11-13 (Day 141, Friday)
+**Portfolio (pre-trade):** ~$96,924 | **Cash:** $79,294.70 | **Action:** BUY AMAT
+
+| Field | Value |
+|-------|-------|
+| Ticker | AMAT (Applied Materials) |
+| Side | BUY |
+| Shares | 48 |
+| Entry Price | $378.37 |
+| Position Cost | $18,162 (18.7% of equity) |
+| Stop Level | $340.68 (10% trailing GTC a163343e, HWM $378.53, buf 10.0%) |
+| Thesis | Q4 FY2026 beat+raise: rev $10.41B (+53% YoY) vs est $10.30B; EPS $4.16 vs est $4.06; Q1 FY2027 guided $11.1B ±$500M; full-year $34.45B record; AI chip equipment demand structural |
+| Target | $454 (+20%) |
+| R:R | 2.0:1 (risk $37.69/sh, reward $75.63/sh) |
+| Weekly Trades | 3/3 (slot used — final entry this week) |
+| PPI Gate | 6.5% YoY ≤ 6.6% threshold — CLEARED ✓ |
+| Stop Order | a163343e, trail 10%, HWM $378.53, stop $340.68, GTC |
+
+**Notes:** Day 141 (Friday, Nov 13) — AMAT entered at market open after Q4 FY2026 beat+raise (AH Nov 12) and PPI Oct gate cleared (6.5% vs 6.6% threshold, prior 6.3%). Market order filled at $378.37 avg (gapped up from pre-market ~$357; bid/ask $360/$396 at 9:39am ET). 10% trailing stop GTC placed immediately (a163343e, HWM $378.53, stop $340.68, buffer 10.0%). Weekly trades 3/3 — no new entries until Mon Nov 16. Portfolio deployment: HON $17,619 + AMAT $18,163 = $35,782 (36.9% of ~$97k equity) — improved from 18.2% but still below 75–85% target; need 2–3 more entries next week (NVDA, MSFT candidates). HON ex-div $0.70 today (mechanical drop absorbed). Phase P&L −$3,001.73 (pre-trade basis).
