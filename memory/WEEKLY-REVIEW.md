@@ -1494,3 +1494,63 @@ Rule adherence A (FOMC gate enforced; LMT condition-cancel clean; T+0 stop habit
 Rule adherence C+ (XOM thesis-break and CVX buffer-rule exits mechanically correct; HON mandatory cut BLOCKED — fortuitous recovery saved it but the process failure is a critical gap), risk management C (oil concentration was correct thesis prior to election but too concentrated; two correlated oil bets amplified the loss; HON bot-block is an unsolved infrastructure gap), relative performance D (bot −3.02% vs. S&P ~−0.5% = ~−2.52% gap; phase P&L collapsed from phase high +1.19% to −1.87% in one week — worst single-week P&L reversal of the challenge). Both exits were disciplined; the structural error was oil-thesis concentration entering a known political binary event.
 
 ---
+
+## Week ending 2026-11-13
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,138.07 (Fri Nov 6 close — HON only, 17.7% deployed) |
+| Ending portfolio | $96,466.47 (Fri Nov 13 live) |
+| Week return | −$1,671.60 (−1.70%) |
+| S&P 500 week | ~+2.0% (election-selloff recovery; NVDA/tech rebound Mon–Thu; Fri weakness on NVDA CEO departure) |
+| Bot vs S&P | ~−3.70% |
+| Trades | 2 (W:0 / L:1 / open:1) |
+| Win rate | 0% (0/1 closed trades) |
+| Best trade | N/A |
+| Worst trade | FSLR −7.48% (−$1,459.00) |
+| Profit factor | 0.00 |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| FSLR | $195.14 (Nov 9) | $180.55 (Nov 10) | −$1,459.00 (−7.48%) | Mandatory −7% cut + thesis break — $192 support failure; CEO warned Section 232 tariffs "significant economic headwind" (Dec 4 effective); Piper/Jefferies downgrades; held 2 trading days |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AMAT | $378.37 (Nov 13) | $369.56 | −$422.94 (−2.33%) | 10% GTC a163343e (HWM $379.03, stop $341.13) — buffer 7.69% ✓ |
+| HON | $211.95 (Sep 24) | $222.815 | +$858.34 (+5.13%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322) — buffer 6.06% ✓ |
+
+### What Worked
+- FSLR dual-rule exit executed Day 2 (Nov 10) — −7% threshold + thesis break (CEO Section 232 warning + $192 support failure + analyst downgrades); cut immediately at midday; correct response
+- AMAT entry met all gates post Q4 FY2026 beat+raise (AH Nov 12); PPI Oct gate cleared (6.5% < 6.6% threshold); T+0 stop placed at fill (a163343e) — no stop-delay recurrence; sixth consecutive entry with immediate stop placement
+- HON held through election volatility and ex-div (Nov 13 $0.70/sh absorbed); automation maintained stop at $209.322 (HWM $232.58); buffer 6.06% ✓; +5.13% unrealized intact
+- 3/3 weekly trade budget fully utilized — FSLR BUY, FSLR CUT (rule-triggered), AMAT BUY
+- VIX relaxed gate (<20) applied for FSLR Nov 9 post-political-binary aftermath was structurally sound; discipline on the FSLR exit was the corrective action when thesis broke the next day
+
+### What Didn't Work
+- FSLR −7.48% in 2 trading days — fastest realized loss of the phase; Section 232 tariff effective Dec 4 (22 days from entry) was a known hard regulatory binary that was not screened; entry checklist passed on price/VIX/sector gates but regulatory calendar was not checked
+- AMAT entered at peak of earnings gap-up ($378.37 vs pre-market ~$357; +6.1% gap); closed day 1 at $366.45 (−3.15% sell-the-news); same ASML Jul 16 pattern — semicap stocks at earnings gap-ups systematically underperform the first session
+- Bot −1.70% vs S&P ~+2.0% = ~−3.70% gap — worst weekly relative performance since Week 23; 26th consecutive week of negative relative performance
+- Portfolio entered week at 17.7% deployed; ended at 36.3% — improved but still below 75–85% target; being 17.7% deployed during a +2% market recovery week amplified the relative gap disproportionately
+- S&P recovered sharply from election selloff (NVDA/tech rebound Mon–Thu) while bot held only HON for the first 4 days; cash drag was the dominant return driver again
+
+### Key Lessons
+- **Known hard regulatory binary within 30 days = no-entry gate:** Section 232 solar tariff effective Dec 4 (22 days from FSLR entry) was publicly announced; CEO warning the next day confirmed the exposure; this class of risk (tariff effective date, FDA decision, regulatory implementation) requires the same no-entry treatment as a FOMC window — added to TRADING-STRATEGY.md
+- **Post-earnings gap-up entries in semicap stocks systematically underperform:** ASML Jul 16 (gap-up entry, immediate selloff); AMAT Nov 13 (gap-up +6.1%, day-1 −3.15%); require either staged entry at/below pre-market price or 2-session post-earnings consolidation before entering a semicap name that has gapped 5%+
+- **Recovery weeks after political selloffs punish underpowered portfolios disproportionately:** when the index recovers 2–3% in a week and the bot is 17.7% deployed, the absolute gap becomes 3.5%+ even with correct individual decisions; deploying after a political selloff requires higher urgency and broader application of relaxed VIX gate (<20)
+
+### Adjustments for Next Week
+- **Monday Nov 16 first action:** Verify both stops ACTIVE at open — AMAT (a163343e, stop $341.13) + HON (8303e452, stop $209.322); check buffers; if either <3% → manual cut at open per protocol
+- **New regulatory binary gate:** No new entries in stocks with hard regulatory/tariff binary within 30 days (tariff effective date, major FDA decision, regulatory implementation); now in TRADING-STRATEGY.md
+- **Deployment priority (URGENT):** 36.3% deployed vs 75–85% target; fresh 3/3 weekly budget; candidates — LMT/NOC/RTX (defense; P/E ~15–20×; yield-gate OK; bipartisan spending floor under Democratic Congress; no clean-energy tariff exposure); ABBV/MRK (defensive pharma; non-Healthcare-failure class); NVDA/MSFT only if 10-yr yield sustains <4.5% for 2 sessions
+- **AMAT:** Hold; stop buffer 7.69% ✓; thesis intact (AI equipment demand accelerating per NVDA capex); tighten trigger +15% = $435.13 → 7% trail; +20% = $454.05 → 5% trail; monitor sell-the-news recovery above HWM $379.03
+- **HON:** Hold; buffer 6.06% ✓; ex-div $0.70 absorbed; monitor HWM advance above $232.58; tighten trigger +15% = $243.74 → 7% trail
+- **FSLR/clean energy sector:** 1st confirmed failure; if next clean energy trade (NEE/ENPH) also fails = 2 consecutive clean energy failures → Rule 10 sector exit; prefer defense/pharma for next 1–2 entries
+- **NVDA CEO departure (Nov 13):** Watch for stabilization Monday — if stock recovers with VIX <17 sustained + 10-yr <4.5% → NVDA is a viable 3rd position (AI chip demand thesis directly confirmed by AMAT); do not enter on gap-down Monday open
+
+### Overall Grade: D
+Rule adherence B (FSLR dual-rule exit immediately correct; AMAT T+0 stop placed; Section 232 tariff binary not screened at entry = entry process gap, not execution gap), risk management B− (FSLR 2-day loss fastest of the phase; AMAT entered at earnings gap-up peak with sell-the-news exposure day 1; both remaining stops above 3% mandate ✓), relative performance F (bot −1.70% vs S&P ~+2.0% = ~−3.70% gap; 26th consecutive week of negative relative performance; driven by 17.7% deployment during a +2% recovery week). Phase P&L: −$3,533.53 (−3.53%) after 26 weeks.
+
+---
