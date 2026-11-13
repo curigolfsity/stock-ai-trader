@@ -7001,3 +7001,13 @@ _Midday Nov 13: No action. AMAT −4.78% (HWM $379.03, stop $341.13, buf 5.32%) 
 
 
 **Notes:** Day 141 (Friday, Nov 13) — AMAT entered at market open after Q4 FY2026 beat+raise (AH Nov 12) and PPI Oct gate cleared (6.5% vs 6.6% threshold, prior 6.3%). Market order filled at $378.37 avg (gapped up from pre-market ~$357; bid/ask $360/$396 at 9:39am ET). 10% trailing stop GTC placed immediately (a163343e, HWM $378.53, stop $340.68, buffer 10.0%). Weekly trades 3/3 — no new entries until Mon Nov 16. Portfolio deployment: HON $17,619 + AMAT $18,163 = $35,782 (36.9% of ~$97k equity) — improved from 18.2% but still below 75–85% target; need 2–3 more entries next week (NVDA, MSFT candidates). HON ex-div $0.70 today (mechanical drop absorbed). Phase P&L −$3,001.73 (pre-trade basis).
+
+---
+
+### Nov 13 — EOD Snapshot (Day 141, Friday)
+**Portfolio:** $96,320.28 | **Cash:** $61,132.88 (63.5%) | **Day P&L:** −$626.97 (−0.65%) | **Phase P&L:** −$3,679.72 (−3.68%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMAT | 48 | $378.37 | $366.45 | −3.81% | −$572.46 (−3.15%) | 10% GTC a163343e (HWM $379.03, stop $341.13, buf 6.91%) |
+| HON | 79 | $211.95 | $222.76 | −0.31% | +$853.99 (+5.10%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 6.03%) |
+**Notes:** Day 141 (Friday, Nov 13) — AMAT entered at open ($378.37) post Q4 FY2026 beat+raise declined further −3.81% to $366.45 (sell-the-news + semicap sector pressure); unrealized P&L −$572.46 (−3.15%), stop $341.13 (buffer 6.91%) — above 3% floor, no cut triggered. HON down −0.31% to $222.76 with ex-div $0.70 absorbed; +5.10% from entry, stop buffer 6.03% ✓. No new trades (3/3 weekly cap reached). Portfolio deployment 36.5% ($35,187 / $96,320) — below 75–85% target; 2–3 entries needed Mon Nov 16 (NVDA, MSFT candidates). Day P&L −$626.97 (−0.65%) driven by AMAT post-earnings decline. Phase P&L −$3,679.72 (−3.68%) vs. $100,000 starting equity.
