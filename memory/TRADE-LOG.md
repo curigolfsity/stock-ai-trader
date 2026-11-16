@@ -7073,3 +7073,12 @@ _Midday Nov 13: No action. AMAT −4.78% (HWM $379.03, stop $341.13, buf 5.32%) 
 - AMAT close confirmed: filled $346.09 × 48 = $16,612.32; realized P&L −$1,549.44 (−8.53%); semis 1/2 failed trades ⚠
 
 _Midday Nov 16: No action. AMAT closed at open $346.09 (−8.53%, −$1,549). HON +4.19% (HWM $232.58, stop $209.322, buf 5.21%) — thesis intact. Weekly trades 0/3. Deployment 18.3% — urgently underpowered; need 2–3 entries this week (NVDA post-earnings Thu/Fri; MSFT; other candidates)._
+
+---
+
+### Nov 16 — EOD Snapshot (Day 142, Monday)
+**Portfolio:** $95,068.37 | **Cash:** $77,745.25 (81.8%) | **Day P&L:** −$1,422.84 (−1.48%) | **Phase P&L:** −$4,931.63 (−4.93%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $219.28 | −1.43% | +$579.07 (+3.46%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 4.54%) |
+**Notes:** Day 142 (Monday, Nov 16) — AMAT closed at market open ($346.09 × 48 = $16,612.32; realized P&L −$1,549.44, −8.53%); thesis broken pre-market by institutional downgrades (BofA, Bernstein, MS) and stop buffer dropping below 3% floor. HON closed −1.43% to $219.28; unrealized P&L +$579.07 (+3.46%), trailing stop intact (HWM $232.58, stop $209.322, buffer 4.54% — above 3% floor). No new entries; 0/3 weekly trades used. Portfolio deployment 18.2% ($17,323 / $95,068) — urgently underpowered vs 75–85% target; 2–3 entries needed this week (NVDA post-earnings Thu candidate, MSFT, other high-momentum names). Semis sector: 1/2 failed trades — one more failure triggers sector ban. Day P&L −$1,422.84 driven entirely by AMAT realized loss.
