@@ -7035,15 +7035,41 @@ _Midday Nov 13: No action. AMAT −4.78% (HWM $379.03, stop $341.13, buf 5.32%) 
 | Side | SELL (close) |
 | Shares | 48 |
 | Entry Price | $378.37 |
-| Exit Price | Pending market open 9:30am ET (order ee6e43f5; type market; day TIF) |
+| Exit Price | $346.09 (order ee6e43f5; filled 2026-11-16 09:33am ET) |
 | Estimated Fill | ~$352 (pre-market price as of 7:35am ET) |
-| Est. Realized P&L | ~−$1,245 (−6.86%) |
+| Realized P&L | −$1,549.44 (−8.53%) |
 | Rules Triggered | (1) Thesis BROKEN: Summit Insights→Hold, BofA PT $650→$520, Bernstein $700→$600, MS $538→$507; institutional selling accelerating; (2) Overnight stop buffer ~1.4% < 3% floor (pre-market ~$346, stop $341.13) |
 | Prior trailing stop | a163343e — CANCELED pre-market to free shares |
 | Semis sector | 1 of 2 consecutive failed trades. One more failure → sector ban. |
 
-**Post-close (after fill):**
-- HON: 79 sh × $222.46 = ~$17,574 deployed
-- Cash: ~$78,750 (after ~$16,896 proceeds at ~$352)
-- Deployment: ~18.4% — urgently underpowered; need 2–3 entries this week
+**Post-close (actual):**
+- HON: 79 sh × $220.835 = $17,445.97 deployed
+- Cash: $77,745.25 (proceeds $346.09 × 48 = $16,612.32)
+- Equity: $95,191.22 | Deployment: 18.3% — urgently underpowered; need 2–3 entries this week
 - HON trailing stop 8303e452 (HWM $232.58, stop $209.322) remains active ✓
+
+---
+
+### Midday Scan — 2026-11-16 (Day 142, Monday)
+
+**Account (midday):** Equity $95,191.22 | Cash $77,745.25 | Deployed $17,445.97 (18.3%) | Weekly trades: 0/3
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $220.84 | +$701.92 (+4.19%) | −0.73% | $232.58 | $209.322 (10% GTC 8303e452) | **5.21%** ✓ |
+
+#### STEP 3 — Cut Check (−7%)
+- HON +4.19%: NOT triggered ✓
+
+#### STEP 4 — Stop Tighten Check
+- HON +4.19%: +15% threshold $243.74 — not reached; +20% threshold $254.34 — not reached ✓
+
+#### STEP 5 — Thesis Check
+- **HON:** INTACT — down −0.73% intraday ($222.46 → $220.84); industrial automation + HONA spin-off thesis unchanged; stop buffer 5.21% (above 3% floor). HOLD.
+
+#### Actions
+- None. No cuts triggered. No stops tightened. No thesis breaks.
+- AMAT close confirmed: filled $346.09 × 48 = $16,612.32; realized P&L −$1,549.44 (−8.53%); semis 1/2 failed trades ⚠
+
+_Midday Nov 16: No action. AMAT closed at open $346.09 (−8.53%, −$1,549). HON +4.19% (HWM $232.58, stop $209.322, buf 5.21%) — thesis intact. Weekly trades 0/3. Deployment 18.3% — urgently underpowered; need 2–3 entries this week (NVDA post-earnings Thu/Fri; MSFT; other candidates)._

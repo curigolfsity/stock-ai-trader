@@ -11571,3 +11571,30 @@ _Sources: Alpaca API (live); Yahoo Finance (SPX futures, PPI, HON); Bloomberg (N
 - **Deployment plan after AMAT cut + 2 entries:** HON + MSFT + NVDA/GEV ≈ 55-60% → partial recovery toward 75–85%
 
 _Sources: Alpaca API (live); Yahoo Finance (AMAT pre-market, SPX futures, VIX); TradingKey (AMAT analyst downgrades, Nov 13-16); 24/7 Wall St (AMAT earnings context); chartrow.com (sector YTD Aug 2026); FedRateCalc (economic calendar Nov 2026); oilpriceapi.com (WTI Nov 8 est.); Investopedia/QuantisNow (HON data)_
+
+---
+
+### Midday Addendum — 2026-11-16 (Day 142, Monday)
+
+**Midday account:** Equity $95,191.22 | Cash $77,745.25 | Deployed 18.3% (HON only) | Phase P&L −$4,808.78 (−4.81%)
+
+#### AMAT Close — Confirmed
+- Filled: $346.09 × 48 = $16,612.32 (order ee6e43f5, 9:33am ET)
+- Realized P&L: −$1,549.44 (−8.53% from $378.37 entry)
+- Semis sector: 1/2 failed trades ⚠ (one more = sector ban)
+
+#### HON — Midday Check
+- Price: $220.84 | Intraday: −0.73% (from $222.46 close)
+- Unrealized P&L: +$701.92 (+4.19%)
+- Stop: $209.322 (HWM $232.58, buffer 5.21%) ✓
+- Thesis: INTACT — no fresh negative catalysts found; HONA spin-off on track
+- Action: HOLD
+
+#### Market Context (inferred from positions data; no live market feed available)
+- Broad market appears flat to slightly lower (HON −0.73%)
+- NVDA earnings continue as this week's key binary; no entry until post-print
+- Next valid entry window: Tue Nov 17 (after NVDA print tonight; Retail Sales 8:30am gate)
+- Priority entries: MSFT (~$19k, ~20% position); NVDA if beat+raise and P/E ≤40; GEV as alt
+
+#### No Actions This Scan
+- No cuts, no stop tightening, no thesis breaks
