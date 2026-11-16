@@ -7011,3 +7011,39 @@ _Midday Nov 13: No action. AMAT −4.78% (HWM $379.03, stop $341.13, buf 5.32%) 
 | AMAT | 48 | $378.37 | $366.45 | −3.81% | −$572.46 (−3.15%) | 10% GTC a163343e (HWM $379.03, stop $341.13, buf 6.91%) |
 | HON | 79 | $211.95 | $222.76 | −0.31% | +$853.99 (+5.10%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 6.03%) |
 **Notes:** Day 141 (Friday, Nov 13) — AMAT entered at open ($378.37) post Q4 FY2026 beat+raise declined further −3.81% to $366.45 (sell-the-news + semicap sector pressure); unrealized P&L −$572.46 (−3.15%), stop $341.13 (buffer 6.91%) — above 3% floor, no cut triggered. HON down −0.31% to $222.76 with ex-div $0.70 absorbed; +5.10% from entry, stop buffer 6.03% ✓. No new trades (3/3 weekly cap reached). Portfolio deployment 36.5% ($35,187 / $96,320) — below 75–85% target; 2–3 entries needed Mon Nov 16 (NVDA, MSFT candidates). Day P&L −$626.97 (−0.65%) driven by AMAT post-earnings decline. Phase P&L −$3,679.72 (−3.68%) vs. $100,000 starting equity.
+
+---
+
+## Week of 2026-11-16
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-09-24 | HON | LONG | 79 | $211.95 | HELD | 10% GTC (order 8303e452; HWM $232.58; stop $209.322) | Automation/AI platform; HONA spin-off on track; raised EPS guide | ~$254 (+20%) | 2:1 |
+
+**Weekly Trades (new entries):** 0/3
+
+---
+
+### Market-Open Sell — 2026-11-16 (Day 142, Monday)
+**Action: CLOSE AMAT — Thesis broken + overnight stop buffer rule triggered**
+
+| Field | Value |
+|-------|-------|
+| Ticker | AMAT (Applied Materials) |
+| Side | SELL (close) |
+| Shares | 48 |
+| Entry Price | $378.37 |
+| Exit Price | Pending market open 9:30am ET (order ee6e43f5; type market; day TIF) |
+| Estimated Fill | ~$352 (pre-market price as of 7:35am ET) |
+| Est. Realized P&L | ~−$1,245 (−6.86%) |
+| Rules Triggered | (1) Thesis BROKEN: Summit Insights→Hold, BofA PT $650→$520, Bernstein $700→$600, MS $538→$507; institutional selling accelerating; (2) Overnight stop buffer ~1.4% < 3% floor (pre-market ~$346, stop $341.13) |
+| Prior trailing stop | a163343e — CANCELED pre-market to free shares |
+| Semis sector | 1 of 2 consecutive failed trades. One more failure → sector ban. |
+
+**Post-close (after fill):**
+- HON: 79 sh × $222.46 = ~$17,574 deployed
+- Cash: ~$78,750 (after ~$16,896 proceeds at ~$352)
+- Deployment: ~18.4% — urgently underpowered; need 2–3 entries this week
+- HON trailing stop 8303e452 (HWM $232.58, stop $209.322) remains active ✓
