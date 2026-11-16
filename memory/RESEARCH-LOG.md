@@ -11492,3 +11492,82 @@ _Sources: Alpaca API (live); WebSearch (Morningstar AMAT earnings preview; IR Ap
 
 
 _Sources: Alpaca API (live); Yahoo Finance (SPX futures, PPI, HON); Bloomberg (Nov 13 market update); CNBC (Nvidia CEO exit); Tickmill (Nov 13 market outlook); WTOP/SiliconAngle/Benzinga (AMAT Q4 results); MarketBeat (HON 200-DMA alert); FedRateCalc (PPI calendar); FT Portfolios/ChartRow (sector YTD); HDFC Sky (oil prices); World Oil Monitor (WTI/Brent settlement)_
+
+---
+
+## Pre-Market Research — 2026-11-16 (Day 142, Monday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $95,747.21 |
+| Cash | $61,132.87 |
+| Long MV | $34,614.34 |
+| Deployed | 36.1% |
+| Phase P&L | −$4,252.79 (−4.25% vs $100k) |
+| Daytrade Count | 0 (new rolling window) |
+| Weekly Trades | 0/3 (new week) |
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | HWM | Stop | Buffer | Status |
+|--------|--------|-------|---------|------------|-----|------|--------|--------|
+| AMAT | 48 | $378.37 | ~$346 | ~−8.55% | $379.03 | $341.13 | ~1.4% | **⚠ CUT AT OPEN** |
+| HON | 79 | $211.95 | ~$222 | +4.7% | $232.58 | $209.32 | ~5.9% | HOLD |
+
+### ⚠ CRITICAL: AMAT MANDATORY CUT AT MARKET OPEN
+- Pre-market: ~$346 (−2.53% from $355 close)
+- Unrealized P&L: (~$346 − $378.37) / $378.37 = **−8.55%** — BELOW −7% cut threshold
+- Cut level was $351.88 ($378.37 × 0.93)
+- Overnight stop buffer: ($346 − $341.13) / $346 = **~1.41%** — BELOW 3% floor
+- **BOTH rules triggered: cut immediately at market open (9:30am ET)**
+- Estimated exit: ~$346 × 48 = $16,608; realized loss ~−$1,554 (−8.55%)
+- After cut: cash ~$78,173; deployed ~18.3% (HON only) — urgently underpowered
+
+### Market Context
+- **SPX futures:** −0.2% to −0.4% (~7,556–7,575); Dow flat; Nasdaq futures −0.3%
+- **VIX:** ~19.3–20.1 (elevated, +3–4%); approaching 20 = rising risk-aversion
+- **Oil:** WTI ~$90–92 (Nov 8 data); Brent ~$97 (est.); below Energy entry threshold
+- **Economic releases today (Nov 16):** Nothing major pre-market
+- **Tomorrow (Nov 17):** Retail Sales Oct 8:30am ET (prior +0.8%); key market catalyst
+- **This week:** NVDA first post-Jensen Huang earnings (pivotal for AI sector); Anthropic IPO (ANTH.PVT)
+- **Semis sector:** Weak; China export controls ongoing headwind; NVDA earnings binary risk
+
+### AMAT Thesis Status — BROKEN
+- Summit Insights downgraded to Hold (post-earnings); BofA cut target $650→$520; Bernstein $700→$600; Morgan Stanley $538→$507 EW
+- Stock down ~52% from June high of $723; structural AI demand thesis still valid but institutional selling accelerating
+- -2.53% pre-market confirms continuation of post-earnings sell-the-news
+- **Conclusion: Thesis WEAKENED + rules triggered → mandatory cut, no override**
+
+### HON Thesis Status — INTACT
+- No fresh news; HONA spin-off on track; industrial automation thesis unchanged
+- Pre-market ~flat; ex-div $0.70 absorbed; RBC conference catalyst later this week
+- Stop buffer ~5.9% (above 3% floor); no action required. HOLD.
+
+### Sector Momentum (Mid-Aug 2026 YTD data, best available)
+- Energy (XLE): +39.4% YTD — #1
+- Technology (XLK): +32.1% YTD — #2 (semis weighing down vs June highs)
+- Industrials (XLI): +20.6% YTD — #3
+- Communication Services: weakest (−3.8%)
+
+### Trade Ideas for This Week
+1. **MSFT (Microsoft)** — Azure AI demand acceleration; P/E ~27x (passes >4.5% yield gate); $450–460 entry zone; 10% trailing stop; target ~$550 (+20%). Catalyst: AI platform execution, Copilot monetization. Wait until NVDA earnings clarity (enter Tue/Wed). R:R ~2:1.
+2. **NVDA (Nvidia)** — WATCHLIST ONLY today; first post-Jensen earnings tonight = binary event. If beat+raise: candidate for Tue/Wed entry; P/E ~40x (borderline yield gate — verify before entry). Too binary pre-earnings to enter.
+3. **GEV (GE Vernova)** — Energy infrastructure/grid; benefits from AI data center power demand; XLE/XLI intersection; P/E ~35x; watch for consolidation entry. Catalyst: AI electrification mega-trend.
+
+### Risk Factors
+1. **AMAT cut (IMMEDIATE):** Locks in −$1,554 realized loss; deployment drops to ~18% — need 2–3 entries urgently
+2. **NVDA earnings binary (HIGH):** First post-Jensen quarter — elevated uncertainty; could drag/lift semis sector
+3. **VIX ~20 (MEDIUM):** Rising to 20 = market hedging up; caution on new entries until stabilizes
+4. **Retail Sales Nov 17 (MEDIUM):** Hot print → yield spike → defer growth entries that session
+5. **10-yr yield >4.5% (PERSISTENT):** Blocks P/E >40 names; MSFT passes, NVDA borderline
+6. **Semi sector (1 of 2 failed trades):** AMAT cut = 1st failed semi trade; 1 more failure = sector ban
+
+### Decision
+- **AMAT: CUT AT MARKET OPEN (9:30am ET) — mandatory, both rules triggered**
+- **HON: HOLD — thesis intact, stop buffer 5.9%**
+- **New entries this week: WATCHLIST ONLY today; earliest new entry Tue/Wed after NVDA earnings**
+  - Tuesday priority: MSFT (~20% position, $19,150)
+  - Conditional: NVDA post-earnings if beat+raise and P/E ≤40 passes
+- **Deployment plan after AMAT cut + 2 entries:** HON + MSFT + NVDA/GEV ≈ 55-60% → partial recovery toward 75–85%
+
+_Sources: Alpaca API (live); Yahoo Finance (AMAT pre-market, SPX futures, VIX); TradingKey (AMAT analyst downgrades, Nov 13-16); 24/7 Wall St (AMAT earnings context); chartrow.com (sector YTD Aug 2026); FedRateCalc (economic calendar Nov 2026); oilpriceapi.com (WTI Nov 8 est.); Investopedia/QuantisNow (HON data)_
