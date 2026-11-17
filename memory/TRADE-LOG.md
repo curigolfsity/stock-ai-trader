@@ -7112,3 +7112,12 @@ _Midday Nov 16: No action. AMAT closed at open $346.09 (−8.53%, −$1,549). HO
 - None. No cuts triggered. No stops tightened. No thesis breaks.
 
 _Midday Nov 17: No action. HON +3.21% (HWM $232.58, stop $209.322, buf 4.31%) — RBC conf today, thesis intact. Weekly trades 0/3. Deployment 18.2% — urgently underpowered. NVDA earnings tonight; MSFT + GEV/NVDA entries planned Nov 18 if print absorbed cleanly._
+
+---
+
+### Nov 17 — EOD Snapshot (Day 143, Tuesday)
+**Portfolio:** $95,145.43 | **Cash:** $77,744.89 (81.7%) | **Day P&L:** +$182.49 (+0.19%) | **Phase P&L:** −$4,854.57 (−4.85%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $220.26 | +1.06% | +$656.49 (+3.92%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 4.97%) |
+**Notes:** Day 143 (Tuesday, Nov 17) — No new entries or exits. HON closed +1.06% to $220.26; unrealized P&L +$656.49 (+3.92%), trailing stop intact (HWM $232.58, stop $209.322, buffer 4.97% — above 3% floor). NVDA reports earnings after close tonight — NVDA/GEV entries gated until Nov 18 after print absorbed. MSFT entry also deferred to Nov 18. Weekly trades 0/3. Deployment 18.3% ($17,401 / $95,145) — urgently underpowered vs 75–85% target. Day P&L +$182.49 driven entirely by HON appreciation.
