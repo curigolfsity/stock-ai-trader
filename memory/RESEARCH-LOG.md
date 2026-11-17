@@ -11598,3 +11598,115 @@ _Sources: Alpaca API (live); Yahoo Finance (AMAT pre-market, SPX futures, VIX); 
 
 #### No Actions This Scan
 - No cuts, no stop tightening, no thesis breaks
+
+---
+
+## Pre-Market Research — 2026-11-17 (Day 143, Tuesday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $94,952.67 |
+| Cash | $77,744.89 (81.9%) |
+| Deployed | $17,207.78 (18.1%) — urgently underpowered vs 75–85% target |
+| Phase P&L | −$5,047.33 (−5.05%) vs $100,000 start |
+| Weekly trades | 0/3 used |
+| Day trade count | 0 |
+
+**Open Positions:**
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $217.82 | +$463.73 (+2.77%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf ~4.1%) |
+
+**Open Orders:**
+- HON trailing stop 8303e452 — ACTIVE (HWM $232.58, stop $209.322, 10% trail, GTC) ✓
+
+---
+
+### Market Context
+
+| Metric | Level | Note |
+|--------|-------|------|
+| WTI crude | ~$84.81/bbl | Sliding; supply surplus pressure |
+| Brent crude | ~$91.36/bbl | ~$6.5 Brent premium; trending lower |
+| SPX futures | −0.05% | Essentially flat pre-open; slight softness |
+| VIX | ~20–23 | Elevated; spiked to ~23.6 on Nov 16 on SPX −1.9%; uncertainty rising |
+| 10-yr yield | >4.5% | Persistent; hold-only on P/E >40 growth names |
+
+**Today's Catalysts & Economic Releases (Nov 17):**
+1. **HON RBC Capital Markets Global Industrials Conference — 8:00am ET** (Honeywell; HON catalyst today)
+2. **US Retail Sales (Oct Census advance) — 8:30am ET** (consensus +0.2% MoM; private NRF data +0.15%; hot print → yield spike → defer growth entries)
+3. **NVDA Q3 FY2027 Earnings after close** (MASSIVE binary; first report without Jensen Huang; consensus $108B rev / $2.47 EPS; options pricing ±6.7–7.8% move; stock down ~12.5% last week; fell after 3 of last 4 reports)
+
+**Earnings today before open:** None confirmed significant.
+
+**Sector Momentum (updated ~Nov 6, 2026):**
+| Sector | ETF | YTD |
+|--------|-----|-----|
+| Energy | XLE | +40.6% — #1 ✓ |
+| Technology | XLK | +14.8% — faded from +32% (Aug) |
+| Industrials | XLI | +5.7% — faded from +21% (Aug) |
+| Comm Services | XLC | weakest (negative) |
+
+**XLK rotation warning:** Tech sector faded significantly from Aug highs (+32% → +15%); increased risk.
+
+---
+
+### HON Thesis Check
+- **RBC conference 8:00am ET today** — CEO/CFO presentation; potential catalyst
+- Q3 FY2026: $5.0B sales (+1% reported, +7% organic); missed revenue consensus slightly
+- HONA (Aerospace) spin-off completed; dividend $0.70 payable Dec 4 (record Nov 13) ✓
+- AI platform rollout ongoing; industrial automation thesis intact
+- Current price $217.82 | Stop $209.322 (buffer ~4.1% above 3% floor) ✓
+- **Action: HOLD** — thesis intact; RBC conference is neutral-to-upside catalyst
+
+---
+
+### Trade Ideas
+
+**1. MSFT (Microsoft) — Highest conviction; plan entry Nov 18 (Wed)**
+- Catalyst: Azure cloud +27-30% YoY growth; Copilot enterprise adoption; AI agent platform
+- Avg analyst target $633 vs ~$523 current = +21% upside; Citi Buy $680, Mizuho Buy $640, UBS Buy $650
+- P/E ~27x → passes 10-yr yield >4.5% gate ✓
+- Entry zone: $520–530 | Stop: 10% trail (~$470) | Target: ~$630 (+20%) | R:R ~2.3:1
+- **Gate:** Wait for NVDA print tonight; enter Nov 18 if tech sector absorbs NVDA results without major selloff
+- Sector: XLK faded to +14.8% — reduce position confidence (20% of equity = ~$19k, ~36 shares at $525)
+
+**2. GEV (GE Vernova) — Secondary candidate; XLE/XLI intersection**
+- Catalyst: AI data center power demand mega-trend; grid infrastructure buildout
+- Sector: XLE #1 YTD (+40.6%) — primary momentum sector ✓
+- Requires catalyst refresh and price/valuation check before entry
+- Entry target: ~$350-360 zone (need live price); 10% stop; R:R 2:1 target
+- Lower binary risk vs MSFT given NVDA tonight
+
+**3. NVDA — WATCHLIST ONLY today**
+- Earnings tonight after close; DO NOT enter today (binary event rule)
+- If beat+raise tonight: evaluate entry Nov 18 (verify P/E ≤40 against 10-yr yield gate)
+- P/E ~40x borderline; needs confirmation before entry
+- Semis sector: 1 of 2 failed trades (AMAT was 1st); NVDA position would be semis re-entry — HIGH SCRUTINY
+
+---
+
+### Risk Factors
+1. **NVDA binary tonight (CRITICAL):** Options pricing ±7% move; could roil entire tech/semis sector; affects MSFT too. Wait.
+2. **VIX ~20-23 (HIGH):** Elevated and rising; suggests institutional hedging; caution on new entries today
+3. **Retail Sales 8:30am (MEDIUM):** Hot print → 10-yr yield spike → defer all P/E >40 names; MSFT (P/E 27) safer but still rate-sensitive
+4. **NVDA CEO succession risk (MEDIUM):** First report without Jensen Huang; execution risk around guidance delivery
+5. **XLK sector fade (MEDIUM):** Tech dropped from +32% → +15% YTD; momentum fading; scrutinize tech entries
+6. **HON stop buffer 4.1% (LOW):** Near 3% floor; monitor intraday; if stock drops below $217 → buffer narrows further
+7. **Deployment 18.1% (ONGOING):** Urgently underpowered; need 2–3 entries this week to approach 75–85% target
+
+---
+
+### Decision: **HOLD**
+
+- **HON: HOLD** — thesis intact; RBC conference 8am potential positive catalyst; stop buffer 4.1% above floor
+- **MSFT: DEFERRED to Nov 18** — NVDA binary tonight creates tech sector event risk; deploy only after NVDA print absorbed
+- **GEV: WATCHLIST** — energy sector #1 YTD; research further; possible entry alongside MSFT Wed/Thu
+- **NVDA: WATCHLIST** — earnings tonight; evaluate Nov 18 entry if beat+raise (verify P/E gate first)
+- **New trades today: NONE** — patience > activity; NVDA print is tonight's gate
+
+**Deployment plan (target by week-end):**
+- After NVDA + Retail Sales absorbed: MSFT (~$19k) + GEV or NVDA (~$19k) = ~$55k deployed (~58%) — partial recovery toward 75–85%
+
+_Sources: Alpaca API (live); WebSearch / Reuters (SPX futures, Nov 16-17); CBOE/Substack (VIX ~23.6 Nov 16); oilpriceapi.com / Forbes (WTI ~$84.81, Brent ~$91.36 Nov 17); Census Bureau / NRF/Circana (Retail Sales); SEC/earningswhispers/roboforex/heygotrade (NVDA earnings preview Nov 17 after close); quantisnow/webull/finviz (HON news); beinsure/Yahoo Finance/Trefis/insidermonkey (MSFT news); totalrealreturns.com/chartrow (sector YTD)_
