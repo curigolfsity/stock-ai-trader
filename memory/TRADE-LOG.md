@@ -7082,3 +7082,33 @@ _Midday Nov 16: No action. AMAT closed at open $346.09 (−8.53%, −$1,549). HO
 |--------|--------|-------|-------|---------|----------------|------|
 | HON | 79 | $211.95 | $219.28 | −1.43% | +$579.07 (+3.46%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 4.54%) |
 **Notes:** Day 142 (Monday, Nov 16) — AMAT closed at market open ($346.09 × 48 = $16,612.32; realized P&L −$1,549.44, −8.53%); thesis broken pre-market by institutional downgrades (BofA, Bernstein, MS) and stop buffer dropping below 3% floor. HON closed −1.43% to $219.28; unrealized P&L +$579.07 (+3.46%), trailing stop intact (HWM $232.58, stop $209.322, buffer 4.54% — above 3% floor). No new entries; 0/3 weekly trades used. Portfolio deployment 18.2% ($17,323 / $95,068) — urgently underpowered vs 75–85% target; 2–3 entries needed this week (NVDA post-earnings Thu candidate, MSFT, other high-momentum names). Semis sector: 1/2 failed trades — one more failure triggers sector ban. Day P&L −$1,422.84 driven entirely by AMAT realized loss.
+
+---
+
+### Midday Scan — 2026-11-17 (Day 143, Tuesday)
+
+**Account (midday):** Equity ~$95,026.50 | Cash $77,745.25 | Deployed $17,281.25 (18.2%) | Weekly trades: 0/3
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $218.75 | +$537.20 (+3.21%) | +0.37% | $232.58 | $209.322 (10% GTC 8303e452) | **4.31%** ✓ |
+
+#### STEP 3 — Cut Check (−7%)
+- HON +3.21%: NOT triggered ✓
+
+#### STEP 4 — Stop Tighten Check
+- HON +3.21%: +15% threshold $243.74 — not reached; +20% threshold $254.34 — not reached ✓
+
+#### STEP 5 — Thesis Check
+- **HON:** INTACT — up +0.37% intraday ($217.95 → $218.75); RBC Capital Markets conference today (potential minor positive catalyst); industrial automation + HONA spin-off thesis unchanged; stop buffer 4.31% (above 3% floor). HOLD.
+
+#### STEP 6 — Intraday Research
+- Nothing sharply moving with unknown cause in portfolio.
+- NVDA earnings tonight after close — no new entries today per pre-market gate rule.
+- Retail Sales Oct printed; market absorbing; MSFT entry still deferred to Nov 18 after NVDA print absorbed.
+
+#### Actions
+- None. No cuts triggered. No stops tightened. No thesis breaks.
+
+_Midday Nov 17: No action. HON +3.21% (HWM $232.58, stop $209.322, buf 4.31%) — RBC conf today, thesis intact. Weekly trades 0/3. Deployment 18.2% — urgently underpowered. NVDA earnings tonight; MSFT + GEV/NVDA entries planned Nov 18 if print absorbed cleanly._
