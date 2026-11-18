@@ -11710,3 +11710,77 @@ _Sources: Alpaca API (live); Yahoo Finance (AMAT pre-market, SPX futures, VIX); 
 - After NVDA + Retail Sales absorbed: MSFT (~$19k) + GEV or NVDA (~$19k) = ~$55k deployed (~58%) — partial recovery toward 75–85%
 
 _Sources: Alpaca API (live); WebSearch / Reuters (SPX futures, Nov 16-17); CBOE/Substack (VIX ~23.6 Nov 16); oilpriceapi.com / Forbes (WTI ~$84.81, Brent ~$91.36 Nov 17); Census Bureau / NRF/Circana (Retail Sales); SEC/earningswhispers/roboforex/heygotrade (NVDA earnings preview Nov 17 after close); quantisnow/webull/finviz (HON news); beinsure/Yahoo Finance/Trefis/insidermonkey (MSFT news); totalrealreturns.com/chartrow (sector YTD)_
+
+---
+
+## 2026-11-18 — Pre-market Research
+
+### Account
+- Equity: $94,966.89
+- Cash: $77,744.89
+- Buying power: $172,711.78 (reg-T)
+- Deployment: $17,222 / $94,967 = 18.1% — urgently underpowered (target 75–85%)
+- Daytrade count: 0 | Weekly trades: 0/3
+
+### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|-----|------|--------|
+| HON | 79 | $211.95 | $218.00 | +$477.95 (+2.85%) | $232.58 | $209.322 (10% GTC 8303e452) | 3.98% ✓ |
+
+### Market Context
+- **WTI:** ~$90 (est., last confirmed ~$90.34 Nov 8; trending down from Oct highs ~$101)
+- **Brent:** ~$97 (est., last confirmed Nov 8)
+- **S&P 500 futures:** +0.5% | Nasdaq-100: +0.9% | Dow: +0.3%
+- **VIX:** ~20–24 (est.; was 28.18 on Nov 5; futures rally suggests modest compression)
+- **NVDA post-earnings catalyst (PRIMARY):** Beat massively — Q3 FY2027 revenue $115.8B (+103% YoY, est. $109B); adj. EPS $2.68 vs $2.48 est; gross margin 74.9% (est. 74%); $150B buyback; Q4 guidance above consensus. NVDA +2.81% premarket. Jensen Huang NOT reinstated; Colette Kress remains interim CEO. Lifted AI sector broadly (CRWV, AMD also higher).
+- **Earnings before open:** None significant today.
+- **Economic calendar:** Housing Starts Oct (8:30am ET); Pending Home Sales Oct. No CPI/PPI/FOMC.
+- **HON news:** No major Nov 18 catalyst found. Reverse stock split (1-for-2) rumored/planned — monitor impact on position sizing. Analyst consensus Buy, avg target $253.91 (24 analysts).
+- **Sector momentum (last updated ~Nov 6):** XLE Energy +40.6% #1 ✓ | XLK Tech +14.8% (faded from +32%) | XLI Industrials +5.7%
+
+### HON Thesis Check
+- **INTACT** — no adverse news; stop buffer 3.98% (above 3% floor); analyst avg target $253.91
+- Reverse stock split watch: if 1-for-2 executes, share count → ~39-40 shares at ~$436; trailing stop order must be re-placed at correct qty
+- **Action: HOLD**
+
+### Trade Ideas
+
+**1. MSFT (Microsoft) — HIGH CONVICTION; execute today**
+- Catalyst: NVDA beat absorbed cleanly (+2.81% PM); Azure AI +27-30% YoY growth; Copilot enterprise adoption; AI agent platform; Nasdaq +0.9% PM
+- P/E ~27× — passes 10-yr yield >4.5% gate (not high-multiple growth) ✓
+- Entry zone: $520–530 (verify live price) | Target: ~$630 (+20%) | Stop: 10% trail from entry
+- Size: ~20% equity = ~$19,000 → ~36 shares @ $525
+- Semis gate: N/A (Tech/cloud, not semis) ✓
+- R:R: ~2.3:1
+
+**2. GEV (GE Vernova) — SECONDARY; watchlist → evaluate entry today or Thu**
+- Catalyst: AI data-center power demand mega-trend; grid infrastructure; XLE Energy #1 YTD (+40.6%) ✓
+- Last known price: ~$900 (premarket reference); need live confirmation
+- Size: ~20% equity = ~$19,000 → ~21 shares @ $900
+- Entry zone: $890–920 | 10% trail stop | Target: ~$1,080 (+20%) | R:R ~2:1
+- Risk: If MSFT entered today, GEV is 3rd position (would bring to 3 total incl. HON) — within 5–6 max ✓
+
+**3. NVDA — WATCHLIST / HIGH SCRUTINY; defer**
+- Beat was massive (+103% rev) but: Colette Kress interim CEO (execution risk); semis sector 1/2 failed trades (AMAT was 1st failure); 2nd failure = sector ban
+- P/E ~40× borderline vs 10-yr yield gate; not entering unless yield confirmed <4.5%
+- **Decision: HOLD/DEFER** — too much risk of triggering semis sector ban
+
+### Risk Factors
+1. **HON reverse stock split (MEDIUM):** 1-for-2 split could affect trailing stop order qty — monitor; re-place stop at correct qty if executed
+2. **NVDA CEO succession risk (MEDIUM):** Colette Kress interim; market initially absorbed positively but long-term execution risk
+3. **XLK sector fade (MEDIUM):** Tech dropped +32%→+15% YTD; MSFT entry relies on AI-specific catalyst vs sector momentum — acceptable given P/E 27× and conviction
+4. **HON stop buffer 3.98% (LOW):** Near 3% floor; if HON drops below $213, buffer narrows to <2% — monitor
+5. **Oil declining (MEDIUM):** WTI trending from $101 → ~$90 since Oct; XLE energy thesis intact for GEV but watch for continued softness
+6. **Housing data 8:30am (LOW):** Weak housing ≠ direct portfolio impact; watch for rate expectations shift
+7. **Deployment 18.1% (ONGOING):** 2 entries needed today (MSFT + GEV) to approach 55–60% deployed; full 75–85% requires 3rd position
+
+### Decision: **TRADE**
+- **HON: HOLD** — thesis intact; stop buffer 3.98%; watch reverse split news
+- **MSFT: BUY today** — NVDA gate passed; Azure AI conviction; P/E 27× passes yield gate; ~36 shares ~$525 (~$19k)
+- **GEV: BUY today or Thu** — XLE #1 momentum; AI power demand; ~21 shares ~$900 (~$19k); verify live price first
+- **NVDA: WATCHLIST** — semis ban risk; CEO succession; defer until semis sector confidence restored
+- **Weekly trades after fills:** MSFT = 1/3, GEV = 2/3 — ample capacity
+
+**Deployment target after MSFT + GEV:** ~$17,222 + $19,000 + $19,000 = ~$55,222 / ~$95,000 ≈ 58% — partial recovery; acceptable progress toward 75–85%.
+
+_Sources: Alpaca API (live); Yahoo Finance / Benzinga (NVDA earnings + premarket Nov 18); SEC 8-K (NVDA Q3 FY2027); Finance Calendar / NAR (econ calendar Nov 18); WebSearch (oil, VIX, sector YTD); StockAnalysis / QuantisNow (HON)_
