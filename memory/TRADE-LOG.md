@@ -7184,3 +7184,13 @@ _Midday Nov 17: No action. HON +3.21% (HWM $232.58, stop $209.322, buf 4.31%) �
 
 _Midday Nov 18: MSFT trailing stop placed (da992520, 10%, stop $453.71, HWM $504.12). HON +3.51% (buf 4.59%) — HOLD. MSFT −0.68% (buf 10.09%) — thesis intact, HOLD. Weekly trades 1/3. Deployment 36.8% — still underpowered; GEV re-queued for Nov 19 (needs fresh research at $730–790). No cuts, no tightenings._
 
+---
+
+### Nov 18 — EOD Snapshot (Day 144, Wednesday)
+**Portfolio:** $95,439.77 | **Cash:** $59,961.74 (62.8%) | **Day P&L:** +$294.34 (+0.31%) | **Phase P&L:** −$4,560.23 (−4.56%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $223.37 | +2.01% | +$902.18 (+5.39%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 6.30%) |
+| MSFT | 35 | $508.09 | $509.36 | +0.25% | +$44.28 (+0.25%) | 10% GTC da992520 (HWM $510.44, stop $459.40, buf 9.81%) |
+**Notes:** Day 144 (Wednesday, Nov 18) — MSFT 35sh filled at market open @ $508.09 (better than $525 estimate; weekly trade 1/3), funded by NVDA's Q3 FY2027 blowout (revenue +103% vs est; Azure AI +27–30% YoY; Copilot enterprise adoption cited). MSFT 10% trailing stop GTC placed at midday (order da992520; HWM auto-advanced to $510.44 intraday; stop $459.40). HON surged +2.01% to $223.37 on broad industrial strength — unrealized P&L +5.39% (+$902); trailing stop 8303e452 intact (HWM $232.58, stop $209.322, buf 6.30%). GEV skipped again: research price ~$900 vs. live $730–790 — entry zone invalidated; needs fresh research before Nov 19. Portfolio equity $95,439.77; deployment 37.2% across 2 positions — still urgently underpowered vs. 75–85% target. No tightenings triggered (HON +5.39% vs. $243.74 / +15% threshold; MSFT +0.25% ineligible). No cuts. Weekly trades 1/3. Phase P&L −$4,560.23 (−4.56%) vs. $100,000 starting equity. Next: Nov 19 — evaluate GEV at live price ($730–790 zone; needs fresh research); evaluate NVDA if momentum holds; target 2–3 more entries this week to close the deployment gap.
+
