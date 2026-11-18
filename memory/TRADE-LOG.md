@@ -7121,3 +7121,35 @@ _Midday Nov 17: No action. HON +3.21% (HWM $232.58, stop $209.322, buf 4.31%) �
 |--------|--------|-------|-------|---------|----------------|------|
 | HON | 79 | $211.95 | $220.26 | +1.06% | +$656.49 (+3.92%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 4.97%) |
 **Notes:** Day 143 (Tuesday, Nov 17) — No new entries or exits. HON closed +1.06% to $220.26; unrealized P&L +$656.49 (+3.92%), trailing stop intact (HWM $232.58, stop $209.322, buffer 4.97% — above 3% floor). NVDA reports earnings after close tonight — NVDA/GEV entries gated until Nov 18 after print absorbed. MSFT entry also deferred to Nov 18. Weekly trades 0/3. Deployment 18.3% ($17,401 / $95,145) — urgently underpowered vs 75–85% target. Day P&L +$182.49 driven entirely by HON appreciation.
+
+---
+
+### Market-Open Execution — 2026-11-18 (Day 144, Wednesday)
+
+**Pre-open (7:36 AM ET) — Orders Submitted**
+
+#### Gate Check — MSFT
+- Positions after fill: 2 (HON + MSFT) ≤ 6 ✓
+- Weekly trades: 1/3 ✓
+- Position cost: 35 × ~$531 = ~$18,585 (19.6% of $95,030) ✓
+- Catalyst: NVDA +103% rev beat (Q3 FY2027), Azure AI +27-30% YoY, Copilot enterprise; NVDA beat absorbed cleanly pre-mkt ✓
+- Daytrade: BUY and hold, not a day trade ✓
+- P/E ~27× passes 10-yr yield >4.5% gate (not high-multiple) ✓
+- Semis sector: N/A (Tech/cloud) ✓
+
+#### Orders Placed
+| Order ID | Ticker | Side | Qty | Type | TIF | Status |
+|----------|--------|------|-----|------|-----|--------|
+| e95d8898 | MSFT | BUY | 35 | MARKET | DAY | PENDING (queued for 9:30 AM ET open) |
+
+#### GEV — SKIPPED
+- Research estimated price ~$900; Alpaca after-hours bid $734.30; last confirmed price $790 (Nov 13)
+- Price ~$150 below researched entry zone ($890–920) — entry zone invalidated
+- Needs fresh research at current $730-790 price level; re-queue for 2026-11-19
+
+#### Trailing Stop — PENDING
+- MSFT stop (10% trail GTC) cannot be placed until fill confirmed at market open (9:30 AM ET)
+- **ACTION REQUIRED at open/midday:** Place trailing stop for MSFT after fill confirms
+  - `bash scripts/alpaca.sh order '{"symbol":"MSFT","qty":"35","side":"sell","type":"trailing_stop","trail_percent":"10","time_in_force":"gtc"}'`
+
+#### Weekly Trade Count: 1/3 (MSFT pending fill)
