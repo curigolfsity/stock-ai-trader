@@ -7153,3 +7153,34 @@ _Midday Nov 17: No action. HON +3.21% (HWM $232.58, stop $209.322, buf 4.31%) �
   - `bash scripts/alpaca.sh order '{"symbol":"MSFT","qty":"35","side":"sell","type":"trailing_stop","trail_percent":"10","time_in_force":"gtc"}'`
 
 #### Weekly Trade Count: 1/3 (MSFT pending fill)
+
+---
+
+### Midday Scan — 2026-11-18 (Day 144, Wednesday)
+
+**Account (midday):** Equity $94,925.11 | Cash $59,961.74 | Deployed $34,963.37 (36.8%) | Weekly trades: 1/3
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $219.39 | +$587.76 (+3.51%) | +0.20% | $232.58 | $209.322 (10% GTC 8303e452) | **4.59%** ✓ |
+| MSFT | 35 | $508.09 | $504.63 | −$121.03 (−0.68%) | −0.32% | $504.12 | $453.708 (10% GTC da992520) | **10.09%** ✓ |
+
+#### STEP 3 — Cut Check (−7%)
+- HON +3.51%: NOT triggered ✓
+- MSFT −0.68%: NOT triggered ✓
+
+#### STEP 4 — Stop Tighten Check
+- HON +3.51%: +15% threshold $243.74 — not reached; +20% threshold $254.34 — not reached ✓
+- MSFT −0.68%: Ineligible (below entry) ✓
+
+#### STEP 5 — Thesis Check
+- **HON:** INTACT — industrial automation + HONA spin-off; intraday +0.20%; stop buffer 4.59% (above 3% floor). HOLD.
+- **MSFT:** INTACT — NVDA beat confirms Azure AI mega-trend; filled $508.09 (better than $525 estimate); −0.68% intraday = normal noise; NVDA catalyst unchanged; stop buffer 10.09%. HOLD.
+
+#### Actions Taken
+- **MSFT trailing stop placed:** 10% GTC | ID: da992520 | HWM: $504.12 | Stop: $453.708 (pending from market-open)
+- No cuts triggered. No stops tightened. No thesis breaks.
+
+_Midday Nov 18: MSFT trailing stop placed (da992520, 10%, stop $453.71, HWM $504.12). HON +3.51% (buf 4.59%) — HOLD. MSFT −0.68% (buf 10.09%) — thesis intact, HOLD. Weekly trades 1/3. Deployment 36.8% — still underpowered; GEV re-queued for Nov 19 (needs fresh research at $730–790). No cuts, no tightenings._
+

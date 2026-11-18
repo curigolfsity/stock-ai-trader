@@ -11784,3 +11784,23 @@ _Sources: Alpaca API (live); WebSearch / Reuters (SPX futures, Nov 16-17); CBOE/
 **Deployment target after MSFT + GEV:** ~$17,222 + $19,000 + $19,000 = ~$55,222 / ~$95,000 ≈ 58% — partial recovery; acceptable progress toward 75–85%.
 
 _Sources: Alpaca API (live); Yahoo Finance / Benzinga (NVDA earnings + premarket Nov 18); SEC 8-K (NVDA Q3 FY2027); Finance Calendar / NAR (econ calendar Nov 18); WebSearch (oil, VIX, sector YTD); StockAnalysis / QuantisNow (HON)_
+
+### Afternoon Addendum — 2026-11-18 Midday Scan
+
+**Midday action:** MSFT trailing stop placed (da992520, 10% GTC, HWM $504.12, stop $453.708). Stop was pending from market-open execution.
+
+**Portfolio as of midday:**
+| Ticker | Current | Unrealized | Buffer | Action |
+|--------|---------|------------|--------|--------|
+| HON | $219.39 | +3.51% | 4.59% | HOLD |
+| MSFT | $504.63 | −0.68% | 10.09% | HOLD (stop now live) |
+
+**Intraday observations:**
+- MSFT −0.32% intraday: normal post-open drift; Azure AI thesis intact; NVDA +103% beat fully intact catalyst
+- HON +0.20%: calm; industrial/HONA thesis unchanged
+- No sharp unexplained moves in portfolio names
+
+**GEV status:** Still deferred — price $730–790 zone vs expected $900; needs fresh research Nov 19 before entry
+
+**Deployment: 36.8%** — urgently below 75–85% target; GEV entry Nov 19 would bring to ~55%; need 1 more position for target range
+
