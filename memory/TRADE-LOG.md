@@ -7194,3 +7194,38 @@ _Midday Nov 18: MSFT trailing stop placed (da992520, 10%, stop $453.71, HWM $504
 | MSFT | 35 | $508.09 | $509.36 | +0.25% | +$44.28 (+0.25%) | 10% GTC da992520 (HWM $510.44, stop $459.40, buf 9.81%) |
 **Notes:** Day 144 (Wednesday, Nov 18) — MSFT 35sh filled at market open @ $508.09 (better than $525 estimate; weekly trade 1/3), funded by NVDA's Q3 FY2027 blowout (revenue +103% vs est; Azure AI +27–30% YoY; Copilot enterprise adoption cited). MSFT 10% trailing stop GTC placed at midday (order da992520; HWM auto-advanced to $510.44 intraday; stop $459.40). HON surged +2.01% to $223.37 on broad industrial strength — unrealized P&L +5.39% (+$902); trailing stop 8303e452 intact (HWM $232.58, stop $209.322, buf 6.30%). GEV skipped again: research price ~$900 vs. live $730–790 — entry zone invalidated; needs fresh research before Nov 19. Portfolio equity $95,439.77; deployment 37.2% across 2 positions — still urgently underpowered vs. 75–85% target. No tightenings triggered (HON +5.39% vs. $243.74 / +15% threshold; MSFT +0.25% ineligible). No cuts. Weekly trades 1/3. Phase P&L −$4,560.23 (−4.56%) vs. $100,000 starting equity. Next: Nov 19 — evaluate GEV at live price ($730–790 zone; needs fresh research); evaluate NVDA if momentum holds; target 2–3 more entries this week to close the deployment gap.
 
+---
+
+### Midday Scan — 2026-11-19 (Day 145, Thursday)
+
+**Account (midday):** Equity $95,267.63 | Cash $59,961.73 | Deployed $35,305.90 (37.1%) | Weekly trades: 1/3
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $218.905 | +$549.45 (+3.28%) | −1.70% | $232.58 | $209.322 (10% GTC 8303e452) | **4.38%** ✓ |
+| MSFT | 35 | $508.09 | $514.59 | +$227.50 (+1.28%) | +1.24% | $526.49 | $473.841 (10% GTC da992520) | **7.92%** ✓ |
+
+#### STEP 3 — Cut Check (−7%)
+- HON +3.28%: NOT triggered ✓
+- MSFT +1.28%: NOT triggered ✓
+
+#### STEP 4 — Stop Tighten Check
+- HON +3.28%: +15% threshold $243.74 — not reached ✓
+- MSFT +1.28%: +15% threshold $584.30 — not reached ✓
+- Note: MSFT HWM auto-advanced from $510.44 → $526.49 (Alpaca trailing correctly); stop auto-tailed to $473.841
+
+#### STEP 5 — Thesis Check
+- **HON:** INTACT — industrial automation; intraday −1.70% = normal pullback (no news found); stop buffer 4.38% (above 3% floor). HOLD.
+- **MSFT:** INTACT — Azure AI mega-trend; Ignite (Nov 17–20) ongoing; MSFT+NVDA+Anthropic partnership (Nov 18) in force; intraday +1.24%; stop buffer 7.92%. HOLD.
+
+#### STEP 6 — Intraday Research
+- 10-yr yield: ~5.15% (elevated; above 4.5% threshold, same as prior sessions)
+- GEV: last known ~$790–$803 (Nov 13); NOT entered — 10-yr yield >4.5% AND GEV P/E ~44–50× (>40×) → yield gate BLOCKS entry again today. Status: watchlist, await yield break below 4.5% for 2+ sessions.
+- No sharp unexplained moves in portfolio names.
+
+#### Actions
+- None. No cuts. No stop tightenings. No thesis breaks.
+
+_Midday Nov 19: No action. HON +3.28% (HWM $232.58, stop $209.322, buf 4.38%) — thesis intact, HOLD. MSFT +1.28% (HWM $526.49, stop $473.841, buf 7.92%) — Ignite ongoing, HOLD. GEV blocked again (yield ~5.15% + P/E >40×). Weekly trades 1/3. Deployment 37.1% — urgently underpowered; yield gate is structural blocker._
+
