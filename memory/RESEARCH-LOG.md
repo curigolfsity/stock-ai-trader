@@ -11804,3 +11804,87 @@ _Sources: Alpaca API (live); Yahoo Finance / Benzinga (NVDA earnings + premarket
 
 **Deployment: 36.8%** — urgently below 75–85% target; GEV entry Nov 19 would bring to ~55%; need 1 more position for target range
 
+
+---
+
+## Pre-Market Research — 2026-11-19 (Day 145, Thursday)
+
+### Account Snapshot
+| Metric | Value |
+|--------|-------|
+| Equity | $95,529.63 |
+| Cash | $59,961.73 |
+| Deployed | $35,567.90 (37.2%) — critically underpowered vs 75–85% target |
+| Buying Power (non-margin) | $77,745.68 |
+| Phase P&L | ~−$4,470 (−4.47% vs $100k start) |
+| Weekly Trades | 1/3 (MSFT, Nov 18) |
+| Daytrade Count | 0 (est.) |
+
+### Live Positions
+| Ticker | Shares | Entry | Pre-mkt | Unrealized | HWM | Stop | Buffer |
+|--------|--------|-------|---------|------------|-----|------|--------|
+| HON | 79 | $211.95 | $222.70 | +$849.25 (+5.07%) | $232.58 | $209.322 (10% GTC 8303e452) | 6.0% ✓ |
+| MSFT | 35 | $508.09 | $513.56 | +$191.45 (+1.08%) | $510.44 | $459.395 (10% GTC da992520) | 10.5% ✓ |
+
+### Market Context
+- **SPX futures:** ~7,692, −0.02% (undated live feed; market roughly flat pre-market)
+- **VIX:** ~16.88 (normal volatility — no fear signal)
+- **WTI crude:** ~$86–90/bbl (most recent dated: $90.34 on Nov 8; trending down from Oct highs ~$101)
+- **Brent crude:** ~$92–98/bbl (most recent dated: $97.75 on Nov 8)
+- **FOMC:** No meeting today; next Dec 8–9 → no FOMC gate applies
+- **Earnings today:** No major pre-market earnings per available calendar
+- **Economic releases:** No CPI/PPI/jobs today (PPI scheduled Nov 25)
+- **Microsoft Ignite:** Nov 17–20 2026 — Azure/Copilot/AI product announcements ongoing (potential MSFT catalyst)
+- **MSFT catalyst (Nov 18):** Microsoft + NVIDIA + Anthropic strategic partnership announced — Claude AI scaled on Azure
+
+### Sector YTD (through Nov 13 2026)
+| Sector | ETF | YTD | Rank |
+|--------|-----|-----|------|
+| Energy | XLE | +48.17% | #1 ✓ |
+| Industrials | XLI | ~+20% (est.) | #2-3 |
+| Technology | XLK | +18.70% | #2-3 |
+| Financials | XLF | +8.45% | #4 |
+
+### Ticker News
+- **HON:** Reverse 1-for-2 split and aerospace (HONA) spin-off complete; trades as pure-play Honeywell Technologies automation company (Nasdaq: HON). Current $222.70, stop intact (8303e452, HWM $232.58, buf 6.0%). No new negative catalysts.
+- **MSFT:** $513.56 pre-mkt. Ignite (Nov 17–20) bringing Azure/AI annoucements. MSFT+NVDA+Anthropic partnership (Nov 18). Stock pulled back ~6% from Nov 4 record high ($555.80); analyst targets $680 (Citi). Azure hit $100B annual revenue; spending concerns ($50B+ capex next quarter) weigh. Thesis intact; Nov 12 Microsoft 365 outage (resolved).
+- **GEV:** Alpaca pre-mkt ask $812.64 / bid $742.90. Q3 beat: EPS $4.81 vs $4.03 est; revenue $12.64B vs $12.10B est. Raised guidance 3rd consecutive quarter. AI infrastructure sell-off and Trench acquisition debt ($4.5B) drove 15% pullback from highs. Analyst targets: Jefferies $1,100, TD Cowen $1,125, Citi/JPM trimmed but still >$1,000. Next earnings: Jan 27, 2027.
+
+### Trade Ideas
+
+**1. GEV — CONDITIONAL BUY (priority entry today)**
+- Catalyst: XLE #1 sector (+48% YTD), AI grid/data-center power demand, Q3 earnings beat with raised guidance, analyst targets $1,100–$1,125
+- Entry zone: $770–815 (pre-mkt range $742–$813; target $780 at open)
+- Size: ~24 shares × $780 = ~$18,720 (~19.6% equity) — passes 20% gate
+- Stop: 10% trail GTC from fill
+- Target: $1,100 (analyst consensus) | R:R: ($1,100 − $780) / ($780 − $702) ≈ 4.1:1 ✓✓
+- **Gate:** Verify 10-yr yield <4.5% OR confirm GEV P/E <40× before entry (FY2026 EPS ~$16–18 est → P/E ~43–49× at $780 — BORDERLINE; yield gate may block if >4.5%)
+- Weekly trade count after fill: 2/3 ✓; positions: 3/6 ✓
+
+**2. NVDA — WATCHLIST / DEFER**
+- Semis sector: 1 failed trade (AMAT). One more failure = sector ban for 1 month.
+- CEO succession: Colette Kress interim — execution risk
+- P/E >40× with 10-yr yield >4.5% → hold-only gate applies to new entry
+- **Decision: DEFER** until semis sector confidence restored and CEO clarity
+
+**3. Additional 3rd+ position needed** (after GEV, still at ~55% deployed)
+- Must identify 1–2 more positions to reach 75–85% target
+- Candidates: industrial/energy names in XLE/XLI momentum sectors
+- Research needed for next session
+
+### Risk Factors
+1. **10-yr yield gate (HIGH):** If yield >4.5% AND GEV P/E >40×, strategy blocks new entry; deployment stays underpowered
+2. **GEV Trench acquisition ($4.5B debt, MEDIUM):** Integration risk; debt burden; could pressure margins
+3. **MSFT capex concerns (MEDIUM):** $50B+ quarterly capex weighs on stock; Ignite could cut both ways
+4. **HON stop buffer 6.0% (LOW-MEDIUM):** Above 3% floor but monitor; next tighten at $243.74 (+15%)
+5. **Deployment 37.2% (ONGOING):** 2–3 more entries still needed to hit 75–85%; each week at 37% deployment is a structural drag on returns
+6. **Oil declining trend (MEDIUM):** WTI down from Oct highs (~$101→$86–90); monitors XLE sector momentum for GEV thesis
+
+### Decision: **TRADE (conditional)**
+- **HON: HOLD** — thesis intact (pure-play automation), stop buffer 6.0% ✓, no cut needed
+- **MSFT: HOLD** — Ignite ongoing, NVDA partnership, thesis intact; monitor for tighten if reaches $585 (+15%)
+- **GEV: EVALUATE ENTRY at open** — verify 10-yr yield/P/E gate; if passes, buy ~24 shares ~$780; if gated, add to watchlist for next session
+- **NVDA: DEFER** — semis sector risk; CEO succession; yield gate
+- **Weekly trades after GEV fill:** 2/3 ✓ — capacity for 1 more trade this week
+
+_Sources: Alpaca API (live), WebSearch (sector YTD Nov 13 via totalrealreturns.com; GEV via Benzinga/Motley Fool; MSFT via roic.ai/tipranks/nasdaq.com; HON via Zacks/Nasdaq; oil via 5paisa; SPX/VIX via regardsofwallstreet.com undated)_
