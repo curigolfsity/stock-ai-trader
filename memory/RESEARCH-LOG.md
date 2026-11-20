@@ -11958,3 +11958,9 @@ _Sources: Alpaca API (live), WebSearch (sector YTD Nov 13 via totalrealreturns.c
 - **New research action (next session):** CVX/XOM energy thesis — could deploy 30–40% equity without hitting yield gate and close deployment gap.
 
 _Sources: Alpaca API (live); WebSearch (MarketBeat MSFT Nov 20; Benzinga MSFT ByteDance; QuantisNow HON undated; GEV Q3 earnings Oct 28 release; 5paisa oil Oct–Nov; TradingEconomics 10-yr Nov 17; VIX via StockWireX/FRED Nov 5–13; Regardsofwallstreet SPX futures undated; Briefing.com/Investrade earnings calendar)_
+
+#### Afternoon Addendum — 2026-11-20 Midday
+- **10-yr yield:** ~5.03–5.10% est. — gate still active; GEV/NVDA blocked
+- **MSFT ByteDance:** No regulatory escalation today; deal scrutiny (Moolenaar letter) ongoing; Ignite concluded; thesis intact
+- **HON:** No new news; intraday +0.19%; stop buffer 4.10%
+- **Action:** No trades. Hold both positions.

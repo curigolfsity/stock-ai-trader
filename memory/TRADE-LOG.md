@@ -7239,3 +7239,37 @@ _Midday Nov 19: No action. HON +3.28% (HWM $232.58, stop $209.322, buf 4.38%) �
 | HON | 79 | $211.95 | $218.70 | −1.80% | +$532.86 (+3.18%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 4.29%) |
 | MSFT | 35 | $508.09 | $503.43 | −0.96% | −$163.10 (−0.92%) | 10% GTC da992520 (HWM $526.49, stop $473.841, buf 5.88%) |
 **Notes:** Day 145 (Thursday, Nov 19) — Market retreated: HON −1.80% to $218.70 (unrealized P&L +3.18%; stop buffer 4.29% above 3% floor); MSFT −0.96% to $503.43, flipping unrealized P&L negative (−0.92%); stop buffer 5.88% — approaching caution zone, monitor closely. Both trailing stops GTC intact (HON: 8303e452, HWM $232.58, stop $209.322; MSFT: da992520, HWM $526.49, stop $473.841). No trades executed today. Weekly trades 1/3. Portfolio equity $94,858.69; deployment 36.8% — urgently underpowered vs. 75–85% target. GEV blocked again (yield ~5.15% + P/E >40×). Phase P&L −$5,141.31 (−5.14%) vs. $100,000 starting equity. Next: await yield break below 4.5% to unlock new growth entries; MSFT stop buffer 5.88% — close to caution zone; both positions HOLD.
+
+---
+
+### Midday Scan — 2026-11-20 (Day 146, Friday)
+
+**Account (midday):** Equity ~$94,525 est. | Cash $59,961.73 | Deployed ~$34,525 (36.5%) | Weekly trades: 1/3
+
+#### Live Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $218.26 | +$498.49 (+2.98%) | +0.19% | $232.58 | $209.322 (10% GTC 8303e452) | **4.10%** ✓ |
+| MSFT | 35 | $508.09 | $493.795 | −$500.33 (−2.81%) | −0.90% | $526.49 | $473.841 (10% GTC da992520) | **4.04%** ✓ |
+
+#### STEP 3 — Cut Check (−7%)
+- HON +2.98%: NOT triggered ✓
+- MSFT −2.81%: NOT triggered ✓
+
+#### STEP 4 — Stop Tighten Check
+- HON +2.98%: +15% threshold $243.74 — not reached ✓
+- MSFT −2.81%: Below entry — ineligible ✓
+
+#### STEP 5 — Thesis Check
+- **HON:** INTACT — industrial automation thesis; intraday +0.19%; stop buffer 4.10%. HOLD.
+- **MSFT:** INTACT (monitor) — ByteDance $500M Azure deal under national-security scrutiny (Moolenaar letter); no regulatory action confirmed today; Ignite concluded; Guggenheim Buy reiterated; buffer 4.04% (above 3% floor). HOLD. If regulatory action escalates → thesis break → close regardless of P&L.
+
+#### STEP 6 — Intraday Research
+- 10-yr yield: ~5.03–5.10% est. (most recent data Oct 22: 5.03%; prior sessions ~5.10–5.15%) — **ABOVE 4.5% gate → blocks P/E >40× entries (GEV, NVDA)**
+- MSFT ByteDance: No regulatory escalation confirmed; deal scrutiny ongoing, thesis intact.
+- No sharp unexplained moves in portfolio names.
+
+#### Actions Taken
+- **None.** No cuts. No stop tightenings. No thesis breaks. No new trades.
+
+_Midday Nov 20: No action. HON +2.98% (buf 4.10%) — HOLD. MSFT −2.81% (buf 4.04%) — ByteDance scrutiny ongoing, thesis intact, HOLD. Yield ~5.0–5.1% — gate active, GEV/NVDA blocked. Weekly trades 1/3. Deployment ~36.5% — urgently underpowered. Next session: CVX/XOM energy thesis research to close deployment gap without yield gate._
