@@ -7273,3 +7273,13 @@ _Midday Nov 19: No action. HON +3.28% (HWM $232.58, stop $209.322, buf 4.38%) �
 - **None.** No cuts. No stop tightenings. No thesis breaks. No new trades.
 
 _Midday Nov 20: No action. HON +2.98% (buf 4.10%) — HOLD. MSFT −2.81% (buf 4.04%) — ByteDance scrutiny ongoing, thesis intact, HOLD. Yield ~5.0–5.1% — gate active, GEV/NVDA blocked. Weekly trades 1/3. Deployment ~36.5% — urgently underpowered. Next session: CVX/XOM energy thesis research to close deployment gap without yield gate._
+
+---
+
+### Nov 20 — EOD Snapshot (Day 146, Friday)
+**Portfolio:** $94,216.96 | **Cash:** $59,961.73 (63.6%) | **Day P&L:** −$394.63 (−0.42%) | **Phase P&L:** −$5,783.04 (−5.78%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $216.40 | −0.66% | +$351.55 (+2.10%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 3.27%) |
+| MSFT | 35 | $508.09 | $490.30 | −1.61% | −$622.65 (−3.50%) | 10% GTC da992520 (HWM $526.49, stop $473.841, buf 3.36%) |
+**Notes:** Day 146 (Friday, Nov 20) — Market continued Friday selloff: HON −0.66% to $216.40, unrealized +2.10%; stop buffer 3.27% — just above 3% floor, tightening. MSFT −1.61% to $490.30, unrealized −3.50%; ByteDance/$500M Azure national-security scrutiny ongoing (Moolenaar letter); stop buffer 3.36% — critically close to 3% floor. No trades today, no stops triggered. Weekly trades 1/3 (week closes). Portfolio equity $94,216.96; deployment 36.3% — severely underpowered vs. 75–85% target. GEV blocked (yield ~5.0–5.1% gate + P/E >40×). Phase P&L −$5,783.04 (−5.78%) vs. $100,000 starting equity. Next week: CVX/XOM energy thesis to close deployment gap; MSFT stop buffer critically thin — monitor ByteDance regulatory escalation; HON buffer approaching 3% floor.
