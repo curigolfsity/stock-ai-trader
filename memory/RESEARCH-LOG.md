@@ -11888,3 +11888,73 @@ _Sources: Alpaca API (live); Yahoo Finance / Benzinga (NVDA earnings + premarket
 - **Weekly trades after GEV fill:** 2/3 ✓ — capacity for 1 more trade this week
 
 _Sources: Alpaca API (live), WebSearch (sector YTD Nov 13 via totalrealreturns.com; GEV via Benzinga/Motley Fool; MSFT via roic.ai/tipranks/nasdaq.com; HON via Zacks/Nasdaq; oil via 5paisa; SPX/VIX via regardsofwallstreet.com undated)_
+
+---
+
+## 2026-11-20 — Pre-Market Research (Day 146, Friday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $94,335.56 |
+| Cash | $59,961.73 |
+| Long MV | $34,373.83 |
+| Deployment | 36.4% (target 75–85% — urgently underpowered) |
+| Day P&L (vs yesterday close $94,611.59) | −$275.03 (−0.29%) |
+| Phase P&L | −$5,664.44 (−5.66%) vs $100,000 start |
+| PDT count | 0/3 |
+| Weekly trades | 1/3 (MSFT Nov 18) |
+
+#### Live Positions
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|-----|------|--------|
+| HON | 79 | $211.95 | $217.27 | +$420.28 (+2.51%) | $232.58 | $209.322 (10% GTC 8303e452) | **3.66% ⚠️** |
+| MSFT | 35 | $508.09 | $491.70 | −$573.65 (−3.23%) | $526.49 | $473.841 (10% GTC da992520) | **3.63% ⚠️** |
+
+**⚠️ CAUTION: Both stop buffers 3.6% — just above 3% floor. No manual cut required, but monitor at open.**
+
+### Market Context
+- **SPX futures:** ~7,692 (Regards of Wall Street, undated live page; Nov 19 market was soft −0.51% session)
+- **VIX:** ~19–21 est. (Nov 13 close: 19.30; spike to 28.18 on Nov 5 selloff; rebounded ~19 by Nov 10–13)
+- **10-yr yield:** ~5.10% (Nov 17 reading) — **ABOVE 4.5% gate → blocks new P/E >40× growth entries**
+- **WTI crude:** ~$86–90/bbl est. (last confirmed $90.34 on Nov 8; trending down from Oct high $101.65)
+- **Brent crude:** ~$97–102/bbl est. (last confirmed $97.75 on Nov 8; down from Oct high $115.11)
+- **FOMC:** Next meeting Dec 8–9 — FOMC window (2 sessions before = Dec 4–5): no entries those days
+- **Earnings today (pre-mkt):** BJ, BKE, BSP, FRO, RLX, WRD — no major mkt-movers
+- **Economic releases today:** None (PPI scheduled Nov 25)
+- **Microsoft Ignite:** Concluded Nov 20 (final day) — Guggenheim reiterates Buy, $595–$630 target; JPM Overweight $625 target; ByteDance deal controversy (national security questions from Rep. Moolenaar on $500M AI deal) — NEW RISK
+
+### Portfolio Ticker News
+- **HON:** No major news today. Q3 2026: sales $5.0B (+1%). Analysts: 24 Buy, $253.91 avg target. QuantisNow shows undated price $223.24 −5.12% (unconfirmed if today). Thesis intact (pure-play automation post-spin). Buffer 3.66% → above 3% floor; no forced cut.
+- **MSFT:** ByteDance national-security controversy (Moolenaar letter re $500M AI deal) = new overhang. ~60,000 employees on voluntary exit offer (deadline early Dec). Ignite concludes today — Guggenheim Buy reiterated. Pre-mkt range ~$491–$499. Thesis intact but new headline risk. Buffer 3.63% → no forced cut, but monitor closely.
+- **GEV:** No news today. Q3 (Oct 28): EPS $4.81 vs $4.03 est; revenue $12.64B; raised guidance. Doubled dividend. Prolec GE acquisition. Price ~$790–$813 (pre-mkt range from last research). Still gated: yield ~5.10% >4.5% AND P/E ~44–49× >40× → **DOUBLE GATE — NO ENTRY**.
+
+### Sector Momentum (YTD through Nov 13)
+| Sector | ETF | YTD | Status |
+|--------|-----|-----|--------|
+| Energy | XLE | +48.17% | #1 ✓ — HON adjacent, GEV thesis |
+| Industrials | XLI | ~+20% est. | #2–3 ✓ — HON core |
+| Technology | XLK | +18.70% | #2–3 ✓ — MSFT core |
+| Financials | XLF | +8.45% | #4 |
+
+### Trade Ideas
+1. **HON — HOLD** | Automation thesis intact; buffer 3.66%; next tighten at $243.74 (+15%). No action unless stop triggers.
+2. **MSFT — HOLD (monitor ByteDance)** | Buffer 3.63% dangerously tight; ByteDance controversy is new headline risk. If regulatory action on the deal materializes → thesis break → close regardless of P&L. Weekly trade available (1/3 used).
+3. **CVX / XOM (watchlist — energy, next week)** | XLE #1 YTD (+48%); no P/E gate issue (value sector); yield-resistant; could deploy 15–20% equity each. Need full research session before entry. Potential to close deployment gap without hitting yield gate.
+4. **GEV — DEFER** | Double-gated (yield + P/E). Re-evaluate when 10-yr breaks below 4.5% for 2+ sessions.
+
+### Risk Factors
+1. **Stop buffers (HIGH):** HON 3.66% / MSFT 3.63% — both dangerously close to 3% floor; gap-down at open could trigger stops
+2. **MSFT ByteDance controversy (MEDIUM-HIGH):** $500M AI deal under national-security scrutiny; regulatory action = thesis break
+3. **10-yr yield >4.5% (ONGOING):** Blocks GEV, NVDA, any P/E >40× name; deployment stuck at 36%
+4. **Deployment 36.4% (ONGOING):** Structural drag; CVX/XOM could fix without yield gate; research needed
+5. **HON undated QuantisNow −5.12% (MEDIUM):** Unconfirmed; if real today, stop may trigger near open — watch $209.32
+6. **End-of-week Friday liquidity (LOW):** Wider spreads possible; prefer limit orders on any new entry
+
+### Decision: **HOLD**
+- HON: HOLD. Thesis intact. Buffer 3.66% — above floor. Monitor open.
+- MSFT: HOLD. Buffer 3.63% — monitor ByteDance headlines; if regulatory escalation → close.
+- GEV: DEFER. Double yield+P/E gate. No entry.
+- **New research action (next session):** CVX/XOM energy thesis — could deploy 30–40% equity without hitting yield gate and close deployment gap.
+
+_Sources: Alpaca API (live); WebSearch (MarketBeat MSFT Nov 20; Benzinga MSFT ByteDance; QuantisNow HON undated; GEV Q3 earnings Oct 28 release; 5paisa oil Oct–Nov; TradingEconomics 10-yr Nov 17; VIX via StockWireX/FRED Nov 5–13; Regardsofwallstreet SPX futures undated; Briefing.com/Investrade earnings calendar)_
