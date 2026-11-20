@@ -1554,3 +1554,62 @@ Rule adherence C+ (XOM thesis-break and CVX buffer-rule exits mechanically corre
 Rule adherence B (FSLR dual-rule exit immediately correct; AMAT T+0 stop placed; Section 232 tariff binary not screened at entry = entry process gap, not execution gap), risk management B− (FSLR 2-day loss fastest of the phase; AMAT entered at earnings gap-up peak with sell-the-news exposure day 1; both remaining stops above 3% mandate ✓), relative performance F (bot −1.70% vs S&P ~+2.0% = ~−3.70% gap; 26th consecutive week of negative relative performance; driven by 17.7% deployment during a +2% recovery week). Phase P&L: −$3,533.53 (−3.53%) after 26 weeks.
 
 ---
+
+## Week ending 2026-11-20
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $96,466.47 (Mon Nov 16 open — AMAT+HON, 36.5% deployed) |
+| Ending portfolio | $93,876.28 (Fri Nov 20 live) |
+| Week return | −$2,590.19 (−2.68%) |
+| S&P 500 week | ~−7.2% (7,561.67 Nov 13 → ~7,016 Nov 20; worst week since April 2025 tariff crash — Anthropic IPO/AI selloff rout, S&P entered correction) |
+| Bot vs S&P | ~+4.52% |
+| Trades | 2 (W:0 / L:1 / open:2) |
+| Win rate | 0% (0/1 closed trades) |
+| Best trade | N/A |
+| Worst trade | AMAT −8.53% (−$1,549.44) |
+| Profit factor | 0.00 |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| AMAT | $378.37 (Nov 13) | $346.09 (Nov 16) | −$1,549.44 (−8.53%) | Dual-rule exit at open: thesis broken (BofA $650→$520, Bernstein $700→$600, MS $538→$507; institutional selloff) + overnight buffer 1.4% < 3% floor; held 2 trading days; semis sector now 2/2 consecutive failures → Rule 10 sector ban active |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| HON | $211.95 (Sep 24) | $213.80 | +$146.15 (+0.87%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322) — buffer **2.09% ⚠️ BELOW 3% MANDATE — MUST CUT MONDAY OPEN** |
+| MSFT | $508.09 (Nov 18) | $486.41 | −$758.80 (−4.27%) | 10% GTC da992520 (HWM $526.49, stop $473.841) — buffer **2.58% ⚠️ BELOW 3% MANDATE — MUST CUT MONDAY OPEN** |
+
+### What Worked
+- 63.6% cash position acted as a structural buffer during S&P's worst week in 7 months (−7.2%); bot's −2.68% vs index −7.2% = +4.52% outperformance — largest positive relative gap since Week 25 (+5.29%)
+- AMAT dual-rule exit at Monday open (Nov 16) was validated — AMAT continued falling all week well below $346.09 exit; avoided further losses in a deepening selloff
+- Both GTC trailing stops confirmed ACTIVE at week end (8303e452 HON, da992520 MSFT); automation intact
+- MSFT T+0 stop placement on fill (Nov 18) maintained — sixth consecutive entry with no stop-delay recurrence
+- GEV yield gate blocked correctly all week (10-yr ~5.0–5.1% > 4.5% + P/E ~44–49× > 40×); would have entered a falling AI/tech market
+
+### What Didn't Work
+- Both positions close week below 3% mandatory buffer: HON 2.09% ⚠, MSFT 2.58% ⚠ — dual forced manual cuts required at Monday Nov 23 open; bot enters next week in an identical forced-exit scenario to prior critical weeks
+- MSFT entered Nov 18 — 2 trading days before the Anthropic IPO/AI selloff detonated; Azure/AI thesis intact but sector risk fully materialized; −4.27% unrealized in 2 days; ByteDance $500M deal under national-security scrutiny adds thesis-break risk
+- Semis sector Rule 10 triggered: ASML Jul 31 + AMAT Nov 16 = 2 consecutive failures; no new semicap entries for ≥1 month (until Dec 16 earliest); re-entry requires semis #1 or #2 YTD + fresh catalyst
+- S&P correction (−7.2%) absorbed most of the week's potential; broad macro de-risking hit all sectors; deployment opportunity cost minimal given market direction
+- Phase P&L −$6,123.72 (−6.12%) after 27 weeks — worst phase reading; prior high +1.19% (Oct 30) now −7.31% gap from peak
+
+### Key Lessons
+- **Post-election political uncertainty compounded by an Anthropic IPO catalyst → tech sector rout:** entering MSFT 2 days before a catalyst that is structurally negative for existing AI platform stocks (Anthropic as competing cloud AI) was preventable with a 48-hour news-scan gate on major IPO events in the same AI space; treat major AI-company IPO filings as a "sector binary" gate for existing AI-platform positions
+- **Dual below-3% buffers at week end is the riskiest close configuration the phase has seen (Nov 20):** both positions independently triggered the protocol; with Monday's pre-market unknown and broader macro rout in force, the standard "cut if still <3% at open" may execute both; plan to exit HON and MSFT at market on Monday open and move to 100% cash before researching fresh entries
+- **63% cash cushion is both a structural weakness and an accidental defense:** the ongoing deployment failure that generated D-grades for 10+ weeks this week produced the best relative performance in months; this confirms the outperformance was luck, not process — a fully-deployed portfolio in a −7% week would have been catastrophic
+
+### Adjustments for Next Week
+- **Monday Nov 23 open — PRIORITY ACTION:** Verify HON (8303e452) + MSFT (da992520) buffers at open; both closed below 3% mandate; execute BOTH manual cuts at open unless price gap has RESTORED buffers above 3% by the time the order hits; do NOT wait intraday for GTC stops to trigger
+- **MSFT additional thesis check:** if ByteDance national-security regulatory action is announced pre-market Nov 23, treat as thesis break + close regardless of buffer; dual-rule exit (thesis break + buffer rule) confirms the cut regardless of price
+- **Post-cut deployment plan:** After HON/MSFT exits, bot will be ~100% cash; fresh 0/3 weekly capacity; evaluate LMT/NOC/RTX (defense; non-AI correlated; P/E 15–20×; bipartisan spending floor) as first re-deployment candidates if VIX declines from correction levels
+- **Semis sector ban active:** AMAT + prior ASML = 2 consecutive failures; no semicap entries until Dec 16 earliest (≥1 month from AMAT exit Nov 16) AND semis re-ranks #1 or #2 YTD + fresh catalyst documented
+- **Yield gate blocking growth names:** 10-yr ~5.0–5.1%; GEV/NVDA blocked; defense/value names are the near-term deployment path; no P/E >40 entries until yield breaks <4.5% for 2+ sessions
+- **December calendar:** FOMC Dec 8–9 (hard block Dec 4–5); plan all new entries in Nov 23 – Dec 3 window; defense thesis has no FOMC gate exposure given P/E <40
+
+### Overall Grade: C+
+Rule adherence A (AMAT dual-rule exit clean; MSFT T+0 stop placed; GEV yield gate enforced; stops verified daily; no process failures), risk management C (MSFT entry timing poor — entered 2 days before major AI selloff catalyst; both positions below 3% buffer at week close, requiring dual forced exits Monday; ByteDance thesis risk unresolved), relative performance A (bot −2.68% vs S&P ~−7.2% = ~+4.52% outperformance — largest positive relative gap since Week 25; driven by 63% cash buffer during correction, not position alpha). Phase P&L: −$6,123.72 (−6.12%) after 27 weeks.
+
+---
