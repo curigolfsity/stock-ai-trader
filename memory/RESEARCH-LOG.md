@@ -11964,3 +11964,73 @@ _Sources: Alpaca API (live); WebSearch (MarketBeat MSFT Nov 20; Benzinga MSFT By
 - **MSFT ByteDance:** No regulatory escalation today; deal scrutiny (Moolenaar letter) ongoing; Ignite concluded; thesis intact
 - **HON:** No new news; intraday +0.19%; stop buffer 4.10%
 - **Action:** No trades. Hold both positions.
+
+---
+
+### Pre-Market Research — 2026-11-23 (Day 147, Monday)
+
+**Account Snapshot**
+- Equity: $94,566.68 | Cash: $59,961.73 (63.4%) | Deployed: $34,604.95 (36.6%)
+- Day P&L vs last close: +$848.19 (+0.91%) — Monday bounce
+- Daytrade count: 0/3 (new week)
+- Buying power: $77,264.20
+
+**Live Positions**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $216.70 | +$375.25 (+2.24%) | +1.91% | $232.58 | $209.322 (10% GTC 8303e452) | **3.40% ⚠️** |
+| MSFT | 35 | $508.09 | $499.59 | -$297.50 (-1.67%) | +3.11% | $526.49 | $473.841 (10% GTC da992520) | **5.15% ✓** |
+
+**Market Context**
+- SPX futures (premarket): +2.1-2.6% — sharp rebound after last week's correction
+- NDX futures: +3.0% — chip stocks (MU, LRCX, MRVL) +7%+ premarket
+- SPX last week: -3.7% Friday (7th straight loss), entered correction; Nasdaq -5.3% Friday, went negative YTD
+- VIX: ~35.89 close Friday (spiked to 40 intraday) — highest since Apr 2025; premarket reading ~26 (declining)
+- WTI crude: ~$84/bbl | Brent: ~$90-93/bbl — elevated, Gulf shipping attack risk
+- 10-yr yield: ~5.10% — above 4.5% gate → blocks P/E >40x growth entries (GEV, NVDA)
+- Gold: >$3,600
+
+**This Week's Economic Calendar**
+- Wed Nov 25: PCE (Oct data, 8:30am ET) + GDP Q3 2nd estimate — KEY before Thanksgiving close
+- Thu Nov 27: Thanksgiving — markets closed
+- Dec 9: FOMC rate decision (rate hike expected per market consensus)
+- FOMC window: Dec 4-5 = no new entries those days
+
+**Earnings today (pre-market):** No major market-movers confirmed
+
+**Portfolio Ticker News**
+- HON: Q3 EPS $2.27 (+34% YoY, beat $2.17 est.); raised 2026 EPS guide to $8.40-$8.45. Analyst avg target $253.91 (24 Buy). Aerospace spinoff (HONA) clean. Buffer 3.40% — barely above 3% floor but intraday bounce improving. Thesis intact.
+- MSFT: BofA reiterates Buy, $630 PT. ByteDance $500M Azure national-security scrutiny ongoing — no escalation found today. Outlook attachment bug disclosed (minor). Buffer 5.15% — meaningfully improved from Friday 3.36%. In 15/18 similar pullbacks, MSFT rose over next 12 months. Thesis intact.
+- GEV: Double-gated — yield ~5.10% >4.5% AND P/E ~44-49x >40x. DEFER.
+
+**Sector Momentum (mid-year 2026, latest available)**
+| Sector | H1 2026 | Status |
+|--------|---------|--------|
+| Technology (XLK) | +27.28% | #1 H1 — heavy selling last week |
+| Energy (XLE) | +20.90% | #2 H1 (was #1 at Q1 +31.9%) |
+| Industrials | ~+9-11% | #3 est. |
+| Financials | +0.64% | laggard |
+
+**Trade Ideas**
+1. HON — HOLD | Automation post-spinoff thesis intact; buffer 3.40% (above floor). Next tighten at $243.74 (+15%).
+2. MSFT — HOLD | Buffer improved to 5.15%; ByteDance no escalation; Dec rate hike risk present but thesis intact.
+3. CVX/XOM (watchlist — DEFER) | Energy thesis still attractive. BUT: VIX ~35, correction, PCE Wednesday = binary risk. Wait for VIX <25 and post-PCE clarity before initiating. No yield gate issue.
+
+**Risk Factors**
+1. PCE Wednesday (HIGH): Hot print → confirms Dec rate hike → growth selloff resumes
+2. VIX spike to 40/correction (HIGH): Market structurally risk-off; new positions = catching a falling knife
+3. Dec Fed rate hike expected (HIGH): Elevated yields suppress P/E expansion
+4. HON buffer 3.40% (MEDIUM): Near 3% floor; gap-down before PCE could trigger stop
+5. MSFT ByteDance (MEDIUM): Ongoing; regulatory action = thesis break = close
+6. NVIDIA SEC probe (MEDIUM): AI sector contagion risk; could drag MSFT if AI valuation narrative breaks
+7. Deployment 36.6% (ONGOING): Severely underpowered — correction demands patience, not forced deployment
+
+**Decision: HOLD**
+- Both stops intact; both positions bouncing with market today
+- Not the environment to add new positions: VIX ~35, correction, PCE binary Wednesday, Dec hike expected
+- HON: HOLD. Watch buffer — let GTC stop run if triggered (do not interfere)
+- MSFT: HOLD. Monitor ByteDance. Buffer 5.15% comfortable
+- CVX/XOM: Deferred until post-PCE Wednesday + VIX stabilizes <25
+- GEV: Still double-gated
+
+_Sources: Alpaca API (live); WebSearch fallback (PERPLEXITY_API_KEY not set) — CNBC Nov 22 live blog; Fortune Nov 22; FXEmpire Nov 22; NordFX Nov 23 market pulse; FinanceCalendar PCE Nov 25; Yahoo Finance HON/MSFT; TheStreet BofA MSFT; JournalArta MSFT pullback_
