@@ -12033,4 +12033,10 @@ _Sources: Alpaca API (live); WebSearch (MarketBeat MSFT Nov 20; Benzinga MSFT By
 - CVX/XOM: Deferred until post-PCE Wednesday + VIX stabilizes <25
 - GEV: Still double-gated
 
+**Midday Addendum — 2026-11-23**
+- HON: $220.76 (+4.16% intraday). Buffer improved to 5.18% from Friday's 3.27%. HWM $232.58 unchanged. Thesis intact.
+- MSFT: $498.905 (+2.97% intraday). Buffer improved to 5.02% from Friday's 3.36%. HWM $526.49 unchanged. ByteDance — no escalation found. Thesis intact.
+- Yield ~5.10% — gate still active. VIX ~26 (down from ~35 Friday). PCE Wednesday remains key binary.
+- No cuts, no tightenings, no new entries. Both GTC stops live and intact.
+
 _Sources: Alpaca API (live); WebSearch fallback (PERPLEXITY_API_KEY not set) — CNBC Nov 22 live blog; Fortune Nov 22; FXEmpire Nov 22; NordFX Nov 23 market pulse; FinanceCalendar PCE Nov 25; Yahoo Finance HON/MSFT; TheStreet BofA MSFT; JournalArta MSFT pullback_
