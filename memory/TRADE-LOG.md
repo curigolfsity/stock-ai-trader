@@ -7320,3 +7320,13 @@ _Midday Nov 20: No action. HON +2.98% (buf 4.10%) — HOLD. MSFT −2.81% (buf 4
 
 _Midday Nov 23: No action. HON +4.16% (buf 5.18%) — HOLD. MSFT −1.81% (buf 5.02%) — ByteDance no escalation, thesis intact, HOLD. Yield ~5.10% — gate active, GEV/NVDA blocked. VIX ~26, PCE Wednesday = no new entries. Weekly trades 0/3. Deployment 36.8% — underpowered but environment not conducive to new entries._
 **Notes:** Day 146 (Friday, Nov 20) — Market continued Friday selloff: HON −0.66% to $216.40, unrealized +2.10%; stop buffer 3.27% — just above 3% floor, tightening. MSFT −1.61% to $490.30, unrealized −3.50%; ByteDance/$500M Azure national-security scrutiny ongoing (Moolenaar letter); stop buffer 3.36% — critically close to 3% floor. No trades today, no stops triggered. Weekly trades 1/3 (week closes). Portfolio equity $94,216.96; deployment 36.3% — severely underpowered vs. 75–85% target. GEV blocked (yield ~5.0–5.1% gate + P/E >40×). Phase P&L −$5,783.04 (−5.78%) vs. $100,000 starting equity. Next week: CVX/XOM energy thesis to close deployment gap; MSFT stop buffer critically thin — monitor ByteDance regulatory escalation; HON buffer approaching 3% floor.
+
+---
+
+### Nov 23 — EOD Snapshot (Day 147, Monday)
+**Portfolio:** $94,888.05 | **Cash:** $59,961.73 (63.2%) | **Day P&L:** +$1,169.56 (+1.25%) | **Phase P&L:** −$5,111.95 (−5.11%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $221.88 | +4.35% | +$784.47 (+4.69%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 5.66%) |
+| MSFT | 35 | $508.09 | $497.08 | +2.59% | −$385.35 (−2.17%) | 10% GTC da992520 (HWM $526.49, stop $473.841, buf 4.68%) |
+**Notes:** Day 147 (Monday, Nov 23) — Strong broad-market bounce: HON surged +4.35% to $221.88, unrealized now +4.69%; stop buffer 5.66% — well above 3% floor. MSFT recovered +2.59% to $497.08, still underwater at −2.17% unrealized; ByteDance $500M Azure deal scrutiny ongoing, no regulatory escalation confirmed; buffer 4.68%. Portfolio equity improved +$1,169.56 to $94,888.05. No trades today (weekly 0/3). PCE report Wednesday 8:30am = no new entries until post-PCE; VIX ~26 (above 25 threshold). Yield ~5.10% — P/E >40 gate still active, GEV/NVDA blocked. Deployment 36.8% — severely underpowered but macro environment bars new entries. Phase P&L −$5,111.95 (−5.11%). CVX/XOM energy thesis deferred to post-PCE.
