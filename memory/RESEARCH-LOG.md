@@ -12040,3 +12040,156 @@ _Sources: Alpaca API (live); WebSearch (MarketBeat MSFT Nov 20; Benzinga MSFT By
 - No cuts, no tightenings, no new entries. Both GTC stops live and intact.
 
 _Sources: Alpaca API (live); WebSearch fallback (PERPLEXITY_API_KEY not set) — CNBC Nov 22 live blog; Fortune Nov 22; FXEmpire Nov 22; NordFX Nov 23 market pulse; FinanceCalendar PCE Nov 25; Yahoo Finance HON/MSFT; TheStreet BofA MSFT; JournalArta MSFT pullback_
+
+---
+
+## 2026-11-24 — Pre-Market Research (Day 148, Tuesday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $94,828.68 |
+| Cash | $59,961.73 (63.3%) |
+| Deployed | $34,866.95 (36.7%) |
+| Day P&L (vs prior close) | +$93.82 (+0.10%) |
+| Phase P&L | −$5,171.32 (−5.17%) |
+| Weekly trades | 0/3 |
+| Daytrade count | 0 |
+
+**Live Positions (premarket)**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $222.64 | +$844.37 (+5.04%) | +0.30% | $232.58 | $209.322 (10% GTC 8303e452) | **5.98%** ✓ |
+| MSFT | 35 | $508.09 | $493.67 | −$504.62 (−2.84%) | +0.24% | $526.49 | $473.841 (10% GTC da992520) | **4.02%** ✓ |
+
+**GTC Orders Intact:** MSFT da992520 (trail 10%, HWM $526.49, stop $473.841) | HON 8303e452 (trail 10%, HWM $232.58, stop $209.322)
+
+---
+
+### Market Context
+
+**Yesterday's Rally (Nov 23 close):** SPX +4.73% → ~7,237 | Nasdaq +6.51% → 24,089 | Nvidia +31.48% → $165.05 (Jensen Huang reinstated as CEO by board). Largest single-day rally since April 2025. Nasdaq fully recovered from its prior-week drawdown.
+
+**Indices today:**
+- SPX futures: Modestly positive after yesterday's +4.73% surge; digestion/consolidation expected
+- NDX: Chip stocks (MU, LRCX, MRVL) had been +7%+ in prior premarket
+- Market context: SPX still ~12% below recent highs; this is a sharp bounce within a correction, not a confirmed recovery
+
+**Volatility:**
+- VIX: Was ~26 at Monday midday → after a +4.73% SPX close, likely ~20-22 estimated (needs confirmation below 25 for new entries)
+- If VIX <25 confirmed today: CVX/XOM entry window opens (pending PCE binary tomorrow)
+
+**Oil:**
+- WTI: ~$84–87/bbl estimated (Brent cited at "below $90" by Tickmill for Nov 24)
+- Brent: ~$88–92/bbl estimated; Tickmill notes Brent stability below $90 on radar today
+- Energy sector #2 YTD (XLE +20.9% H1 2026)
+
+**Yields:**
+- 10-yr yield: ~5.10% estimated (above 4.5% gate → blocks P/E >40× entries — GEV, NVDA remain blocked)
+
+**Gold:** >$3,600 (defensive bid)
+
+---
+
+### Economic Calendar Today (Tue Nov 24)
+| Time ET | Release | Forecast | Prior |
+|---------|---------|----------|-------|
+| 8:15 AM | ADP Employment | — | — |
+| 9:00 AM | FHFA Housing Price Index | — | — |
+| 9:00 AM | S&P Case-Shiller Home Price Index | — | — |
+| 10:00 AM | Conference Board Consumer Confidence | 92.5 | 91.7 |
+| 10:00 AM | Richmond Fed Manufacturing Index | — | — |
+
+**Tomorrow (Wed Nov 25 — SHORT DAY, closes 1pm ET):**
+- 8:30 AM: **PCE Oct (KEY BINARY)** + Q3 GDP 2nd estimate (advance: +3.4% annualized)
+- Market odds of Dec rate hike: ~84.5%
+
+**Thursday Nov 26:** Thanksgiving — CLOSED
+**Friday Nov 27:** Early close / closed
+
+**FOMC window:** Dec 4–5 (no new entries)
+
+---
+
+### Earnings Today
+- **ADI** (Analog Devices) — semiconductor, before open
+- **ADSK** (Autodesk) — software, after close
+- **BBY** (Best Buy) — consumer electronics, before open
+- **BURL** (Burlington) — retail, before open
+- **DELL** (Dell Technologies) — AI/PC refresh, before open
+
+No direct portfolio exposure.
+
+---
+
+### Portfolio Ticker News
+
+**HON ($222.64 | +5.04% unrealized):**
+- Aerospace spinoff (HONA) proceeding; Jim Currier named CEO of Honeywell Aerospace division
+- Q3 EPS $2.27 (+34% YoY, beat $2.17 est.); 2026 EPS guide $8.40–$8.45
+- Buffer 5.98% — well above 3% floor; +15% tighten threshold $243.74 — not reached
+- **Thesis: INTACT. HOLD.**
+
+**MSFT ($493.67 | −2.84% unrealized):**
+- MSFT notably LAGGED yesterday's rally (+1.6% vs Nasdaq +6.5%) — Microsoft and Apple underperformed
+- ByteDance $500M Azure national-security scrutiny ongoing — no new escalation found
+- BofA Buy reiterated, $630 PT; Azure AI mega-trend intact
+- Buffer 4.02% — above 3% floor
+- Risk: MSFT underperformance vs peers during AI rally warrants monitoring. If ByteDance escalates = thesis break = close immediately.
+- **Thesis: INTACT. HOLD (monitor ByteDance + relative performance).**
+
+---
+
+### Trade Ideas
+
+**1. CVX (Chevron) — WATCHLIST / DEFER pending PCE**
+- Catalyst: Energy sector #2 YTD; oil prices stable $84–90; CVX strong FCF and buybacks
+- Entry target: ~$155–160 on breakout
+- Stop: 10% below entry (~$139–144)
+- Target: $180+ (12–15% upside, 2:1+ R:R)
+- Gate blockers: PCE binary tomorrow (8:30am), yield gate does NOT apply (energy, non-growth)
+- **Action: DEFER until post-PCE Wednesday afternoon / next session**
+
+**2. XOM (ExxonMobil) — WATCHLIST / DEFER pending PCE**
+- Catalyst: Same energy thesis; Permian Basin / Guyana production growth
+- Entry target: ~$120–125
+- Stop: 10% below entry
+- Gate blockers: PCE binary tomorrow
+- **Action: DEFER until post-PCE**
+
+**3. DELL (Dell Technologies) — Monitor earnings today**
+- Catalyst: AI server demand / PC refresh cycle; reporting before open today
+- If EPS beat + guidance raised + AI server commentary strong → potential entry
+- Requires: PCE binary cleared, VIX <25 confirmed
+- **Action: WATCHLIST — monitor today's earnings print for thesis strength**
+
+---
+
+### Risk Factors
+1. **PCE Wednesday (HIGH):** Hot Oct print → confirms Dec rate hike at 84.5% → growth selloff resumes; this is the dominant gate for new entries
+2. **Post-rally digestion (MEDIUM):** After +4.73% SPX / +6.51% Nasdaq Monday, consolidation/giveback likely Tuesday; not chasing
+3. **10-yr yield ~5.10% (HIGH):** Gate remains active — blocks GEV, NVDA (P/E >40×); CVX/XOM unaffected
+4. **Dec FOMC window Dec 4–5 (APPROACHING):** No new entries Dec 4–5
+5. **MSFT ByteDance (MEDIUM):** No escalation today; ongoing scrutiny; thesis break = immediate close
+6. **MSFT relative underperformance (NEW):** Lagged Monday rally meaningfully; watch for catch-up or further divergence
+7. **HON exp date (LOW):** GTC stop 8303e452 expires Dec 23, 2026 — flag for renewal before then
+8. **Deployment 36.7% (ONGOING):** Still severely underpowered vs 75–85% target; CVX/XOM post-PCE would add ~$15–20k deployed
+
+---
+
+### Decision: **HOLD** (default; patience > activity)
+
+**Rationale:**
+- PCE binary tomorrow morning blocks all new entries — cannot add risk the day before the Fed's preferred inflation gauge
+- Yield ~5.10% gate active — growth names (GEV, NVDA) still blocked
+- HON and MSFT GTC stops intact; both buffers above 3% floor
+- Best trade today = patience; setup for CVX/XOM entry Wednesday afternoon (post-PCE, if benign print + VIX <25)
+- Holiday-shortened week (Wed early close, Thu–Fri closed/early close) = low-volume environment; widen expectations for price swings
+
+**Next Actions:**
+- HON: HOLD. Watch buffer; renew GTC stop before Dec 23 expiry
+- MSFT: HOLD. Monitor ByteDance. Flag underperformance vs Nasdaq peers
+- CVX/XOM: Activated as primary deployment targets post-PCE
+- VIX: Monitor for confirmation <25 today (would remove one gate for CVX/XOM)
+
+_Sources: Alpaca API (live positions, account, orders); WebSearch — Yahoo Finance Nov 23 market recap; FinanceFeeds Nov 23; 247WallSt Nov 23; Tickmill Daily Market Outlook Nov 24, 2026; IC.com General Market Analysis Nov 24; Finviz Economic Calendar; Schwab Weekly Trader's Outlook; FinanceCalendar PCE/GDP Nov 25; BabyPips PCE/GDP preview; Oxford Economics PCE nowcast_
