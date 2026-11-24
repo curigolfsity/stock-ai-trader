@@ -12229,3 +12229,12 @@ _Sources: Alpaca API (live positions, account, orders); WebSearch — Yahoo Fina
 - Both GTC stops active, both buffers above 3% floor
 - CVX/XOM energy thesis remains primary target for post-PCE entry (Wednesday afternoon)
 
+
+#### Midday Addendum — 2026-11-24 (16:16 UTC)
+- **HON $220.79** | intraday −0.53% | unrealized +4.17% | buf 5.19% → normal pullback post Monday's +4.35% surge. HOLD.
+- **MSFT $493.08** | intraday +0.12% | unrealized −2.96% | buf 3.90% → ByteDance Azure scrutiny unchanged, no escalation. HOLD.
+- **No portfolio action taken.** No cuts, no tightenings, no thesis breaks.
+- **PCE Oct (8:30am ET Wednesday)** remains key binary — no new entries until post-PCE read.
+- Holiday week: Thanksgiving Thu closed, Fri early close/closed.
+- FOMC window Dec 4–5 — entry blackout approaching.
+- Deployment 36.7% — underpowered; first new entry opportunity post-PCE if conditions permit (CVX/XOM energy thesis remains primary candidate).
