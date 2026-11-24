@@ -7367,3 +7367,13 @@ _Midday Nov 23: No action. HON +4.16% (buf 5.18%) — HOLD. MSFT −1.81% (buf 5
 - **None.** No cuts. No stop tightenings. No thesis breaks. No new trades.
 
 _Midday Nov 24: No action. HON +4.17% (buf 5.19%) — HOLD. MSFT −2.96% (buf 3.90%) — ByteDance no escalation, thesis intact, HOLD. PCE binary tomorrow = no new entries. Yield ~5.10% — gate active. Weekly trades 0/3. Deployment 36.7% — underpowered; next window post-PCE (Wed afternoon or post-holiday)._
+
+---
+
+### Nov 24 — EOD Snapshot (Day 148, Tuesday)
+**Portfolio:** $95,009.07 | **Cash:** $59,961.73 (63.1%) | **Day P&L:** +$274.21 (+0.29%) | **Phase P&L:** −$4,990.93 (−4.99%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $224.36 | +1.08% | +$980.39 (+5.86%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 6.70%) |
+| MSFT | 35 | $508.09 | $494.94 | +0.50% | −$460.25 (−2.59%) | 10% GTC da992520 (HWM $526.49, stop $473.841, buf 4.26%) |
+**Notes:** Day 148 (Tuesday, Nov 24) — Modest continuation from Monday's rebound: HON +1.08% to $224.36, unrealized now +5.86%; stop buffer 6.70% — comfortable above 3% floor. MSFT +0.50% to $494.94, still underwater at −2.59% unrealized; ByteDance $500M Azure scrutiny ongoing, no regulatory escalation confirmed; buffer 4.26%. Portfolio equity +$274.21 to $95,009.07. No trades today (weekly 0/3). PCE report tomorrow (Nov 25) 8:30am ET — no new entries until post-PCE reaction. Thanksgiving Thu Nov 26 (closed); early close Fri Nov 27; FOMC window Dec 4–5 approaching. Yield ~5.10% — P/E >40 gate still active. Deployment 36.9% — severely underpowered. Phase P&L −$4,990.93 (−4.99%). Post-PCE window (Wed afternoon or post-holiday) is next opportunity for CVX/XOM energy thesis.
