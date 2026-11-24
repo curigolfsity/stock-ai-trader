@@ -12193,3 +12193,39 @@ No direct portfolio exposure.
 - VIX: Monitor for confirmation <25 today (would remove one gate for CVX/XOM)
 
 _Sources: Alpaca API (live positions, account, orders); WebSearch — Yahoo Finance Nov 23 market recap; FinanceFeeds Nov 23; 247WallSt Nov 23; Tickmill Daily Market Outlook Nov 24, 2026; IC.com General Market Analysis Nov 24; Finviz Economic Calendar; Schwab Weekly Trader's Outlook; FinanceCalendar PCE/GDP Nov 25; BabyPips PCE/GDP preview; Oxford Economics PCE nowcast_
+
+### Market-Open Check — 2026-11-24 (Day 148, Tuesday)
+
+**Account at Open:** Equity $94,649.91 | Cash $59,961.73 (63.2%) | Deployed $34,688.18 (36.7%) | Weekly trades: 0/3
+
+**Live Positions at Open:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $222.05 | +$797.63 (+4.76%) | +0.04% | $232.58 | $209.322 (10% GTC 8303e452) | **5.73%** ✓ |
+| MSFT | 35 | $508.09 | $489.90 | −$636.65 (−3.58%) | −0.53% | $526.49 | $473.841 (10% GTC da992520) | **3.28%** ⚠️ |
+
+**GTC Orders Verified:** HON 8303e452 (trail 10%, HWM $232.58, stop $209.322, exp Dec 23 ⚠️ renewal flag) | MSFT da992520 (trail 10%, HWM $526.49, stop $473.841, exp Feb 16 2027 ✓)
+
+**Hard Checks:**
+- Cut check (−7%): HON +4.76% — NOT triggered ✓ | MSFT −3.58% — NOT triggered ✓
+- Tighten check (+15%/$243.74): HON +4.76% — not reached ✓ | MSFT below entry — ineligible ✓
+- Overnight buffer <3% cut: HON 5.73% ✓ | MSFT 3.28% ✓ (above 3% floor)
+- MSFT buffer: 3.28% — above 3% floor but marginal; monitor intraday
+- Thesis intact: HON ✓ | MSFT ✓ (ByteDance no escalation)
+
+**New Trade Gate Checks:**
+- PCE binary tomorrow (Nov 25, 8:30am) → **BLOCKS all new entries today** ✗
+- 10-yr yield ~5.10% → growth P/E >40× still blocked ✗
+- VIX unknown at open (est. ~20–22 post-Monday rally — monitor for <25 confirmation)
+- Holiday-shortened week: Wed early close 1pm, Thu Thanksgiving CLOSED, Fri early close
+
+**Flags:**
+- HON GTC stop (8303e452) expires Dec 23, 2026 — renew before expiry
+- MSFT buffer 3.28% — approaching 3% floor; watch for intraday deterioration
+- MSFT notably lagged Monday's AI/Nasdaq rally (+1.6% vs Nasdaq +6.5%) — relative underperformance ongoing
+
+**Decision: NO TRADES — HOLD**
+- PCE binary tomorrow is the dominant gate; no new entries
+- Both GTC stops active, both buffers above 3% floor
+- CVX/XOM energy thesis remains primary target for post-PCE entry (Wednesday afternoon)
+
