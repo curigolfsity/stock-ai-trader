@@ -12238,3 +12238,68 @@ _Sources: Alpaca API (live positions, account, orders); WebSearch — Yahoo Fina
 - Holiday week: Thanksgiving Thu closed, Fri early close/closed.
 - FOMC window Dec 4–5 — entry blackout approaching.
 - Deployment 36.7% — underpowered; first new entry opportunity post-PCE if conditions permit (CVX/XOM energy thesis remains primary candidate).
+
+---
+
+### Pre-Market Research — 2026-11-25 (Day 149, Wednesday — Thanksgiving Eve)
+
+**Account Snapshot:**
+| Metric | Value |
+|--------|-------|
+| Equity | $94,541.23 |
+| Cash | $59,961.73 (63.4%) |
+| Deployed | $34,579.50 (36.6%) |
+| Phase P&L | −$5,458.77 (−5.46%) vs $100,000 start |
+| Daytrade count | 0/3 (est.) |
+
+**Live Positions:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $222.00 | +$793.95 (+4.74%) | −1.25% | $232.58 | $209.322 (GTC 8303e452, exp Dec 23) | **5.71%** ✓ |
+| MSFT | 35 | $508.09 | $486.90 | −$741.65 (−4.17%) | −1.86% | $526.49 | $473.841 (GTC da992520, exp Feb 16 27) | **2.68% ⚠️ BREACH** |
+
+**⚠️ CRITICAL — MSFT BUFFER BREACH:**
+- Buffer 2.68% < 3% floor → **Strategy rule: execute manual cut at the open**
+- Price dropped from $494.94 (prior close) to $486.90 premarket (−1.63%)
+- Tariff headwinds (new White House tariffs on China/EU) + tech pressure compound ByteDance scrutiny
+- Action: **SELL 35 MSFT at market open (9:30am ET)**
+
+**Market Context:**
+- **S&P 500 futures:** Down ~1% premarket — Thanksgiving-eve selloff on tariff reports + PCE anxiety
+- **VIX:** ~19–25 estimated (most recent confirmed data Nov 9–13 at ~19–25; trending down from ~35 peak in early Nov)
+- **WTI crude:** ~$101–105 estimated (last confirmed Oct 28: WTI $101.65, Brent $115.11)
+- **PCE Oct 2026:** Released 8:30am ET today — forecast 3.8% headline (prior 3.6%); core est. ~3.4%
+- **Tariff risk:** White House reportedly unveiling new tariffs on China/EU — weighing on tech broadly
+- **Earnings today:** Dell (after close) Q3 FY2027 est. $49.3B rev / $6.55 EPS; HPE guidance already weighed on sector
+- **Economic calendar:** PCE only major release (Thanksgiving tomorrow = no economic releases Thu–Fri)
+- **FOMC window:** Dec 4–5 approaching — entry blackout starts Dec 2
+
+**Sector Momentum (YTD 2026):**
+- #1 Energy (+30%+ YTD) — highest conviction
+- #2 Industrials (strong, HON thesis intact)
+- #3 Materials (data-center buildout)
+- Lagging: Technology (weakest in 2026 after leading 2025)
+
+**Ticker News:**
+- **HON:** Honeywell Technologies (post-spinoff, keeps HON ticker). Analyst avg target ~$254, consensus Buy. Q3 sales $5.0B +1%. GTC stop expires Dec 23 — must renew before expiry. THESIS INTACT.
+- **MSFT:** ByteDance $500M Azure deal scrutiny ongoing (national security angle). Tech down premarket. Buffer breach forces cut regardless of thesis. Underlying thesis (Azure AI mega-trend) remains valid — potential re-entry after conditions normalize.
+
+**Trade Ideas:**
+1. **SELL MSFT at open (mandatory):** Buffer rule triggered (2.68% < 3%). Realize −4.17% loss ($741.65). Frees $17,041.50 cash → deployment rises to ~$17.5K / ~18.5% — still underpowered but preserves capital with deteriorating technical picture.
+2. **CVX (post-PCE, if benign):** Energy #1 YTD sector; WTI ~$101; potential entry $155–165 range. Catalyst: energy momentum + post-PCE clarity. Stop 10% below entry. Target +15–20%. Size: ~$18,000 (19% of equity). Gate: PCE not hot, VIX <25, yield check.
+3. **XOM (alternative to CVX):** Same thesis. Pick the stronger chart on the day. Only one, not both — avoids doubling sector concentration.
+
+**Risk Factors:**
+- PCE hot print (3.9%+) → rate hike re-pricing → broad selloff; defer ALL new entries
+- Tariff escalation on China/EU → tech pain spreads to industrials/energy
+- Thanksgiving-week low volume → wider bid/ask spreads; use limit orders for CVX/XOM entry
+- HON GTC stop expires Dec 23 — must replace before then (can be done any day this week)
+- FOMC blackout window Dec 2–5 leaves only 4 trading days after today for new CVX/XOM entry
+
+**Decision: SELL MSFT AT OPEN + HOLD HON + EVALUATE CVX/XOM POST-PCE**
+- Mandatory: MSFT buffer breach overrides hold bias
+- HON: HOLD — thesis intact, buffer comfortable, no action
+- CVX or XOM: Wait for PCE print and market reaction; if PCE ≤3.8% and no negative surprise, proceed at open or midday
+- Weekly trades used: 1/3 after MSFT exit (net = 1 trade this week)
+
+_Sources: Alpaca API (live); WebSearch — CNBC Nov 24–25 2026; Yahoo Finance Nov 24 2026; forexfundamentals.com PCE calendar; Oxford Economics PCE nowcast; stockanalysis.com HON; The Information/NewsQuawk ByteDance-Azure; Fidelity sector mid-year update; 5paisa crude Oct 28 2026_
