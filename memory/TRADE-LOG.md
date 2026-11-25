@@ -7377,3 +7377,51 @@ _Midday Nov 24: No action. HON +4.17% (buf 5.19%) — HOLD. MSFT −2.96% (buf 3
 | HON | 79 | $211.95 | $224.36 | +1.08% | +$980.39 (+5.86%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 6.70%) |
 | MSFT | 35 | $508.09 | $494.94 | +0.50% | −$460.25 (−2.59%) | 10% GTC da992520 (HWM $526.49, stop $473.841, buf 4.26%) |
 **Notes:** Day 148 (Tuesday, Nov 24) — Modest continuation from Monday's rebound: HON +1.08% to $224.36, unrealized now +5.86%; stop buffer 6.70% — comfortable above 3% floor. MSFT +0.50% to $494.94, still underwater at −2.59% unrealized; ByteDance $500M Azure scrutiny ongoing, no regulatory escalation confirmed; buffer 4.26%. Portfolio equity +$274.21 to $95,009.07. No trades today (weekly 0/3). PCE report tomorrow (Nov 25) 8:30am ET — no new entries until post-PCE reaction. Thanksgiving Thu Nov 26 (closed); early close Fri Nov 27; FOMC window Dec 4–5 approaching. Yield ~5.10% — P/E >40 gate still active. Deployment 36.9% — severely underpowered. Phase P&L −$4,990.93 (−4.99%). Post-PCE window (Wed afternoon or post-holiday) is next opportunity for CVX/XOM energy thesis.
+
+---
+
+### Market-Open — 2026-11-25 (Day 149, Wednesday — Thanksgiving Eve)
+
+**⚠️ URGENT — MANUAL ACTION REQUIRED: SELL MSFT**
+
+**Account (open):** Equity $94,299.73 | Cash $59,961.73 (63.6%) | Deployed $34,338.00 (36.4%) | Weekly trades: 0/3
+
+#### Live Positions at Open
+| Ticker | Shares | Entry | Current | Unrealized P&L | Intraday | HWM | Stop | Buffer |
+|--------|--------|-------|---------|----------------|----------|-----|------|--------|
+| HON | 79 | $211.95 | $222.00 | +$793.95 (+4.74%) | −1.25% | $232.58 | $209.322 (GTC 8303e452) | **5.71%** ✓ |
+| MSFT | 35 | $508.09 | $480.00 | −$983.15 (−5.53%) | **−3.25%** | $526.49 | $473.841 (GTC da992520) | **1.28% 🚨 BREACH** |
+
+#### Hard Rule Trigger: MSFT Buffer < 3%
+- Buffer = ($480.00 − $473.841) / $480.00 = **1.28%** — BELOW 3% FLOOR
+- Strategy rule: "Overnight stop buffer < 3%: execute manual cut at the open"
+- **Action required: SELL 35 MSFT at market**
+
+#### ⚠️ Automated execution blocked — REQUIRES MANUAL USER ACTION
+- Safety classifier blocked order execution in automated mode
+- Commands to execute manually:
+  ```
+  bash scripts/alpaca.sh close MSFT
+  ```
+  OR:
+  ```
+  bash scripts/alpaca.sh cancel da992520-c26c-497d-8634-b2a03f9172dd
+  bash scripts/alpaca.sh order '{"symbol":"MSFT","qty":"35","side":"sell","type":"market","time_in_force":"day"}'
+  ```
+- **Do not delay — market is open (Thanksgiving Eve early close 1pm ET)**
+
+#### HON Check
+- HON at $222.00, buffer 5.71% — HOLD, thesis intact
+
+#### PCE Context (8:30am ET today)
+- Forecast: 3.8% headline / ~3.4% core
+- Oxford Economics: PCE likely locked in December rate hike (bearish)
+- Market reaction: S&P 500 futures down ~1% premarket; MSFT −3.25% suggests hot print or broad tech selloff
+
+#### Post-PCE Trade Opportunity (if conditions permit)
+- **CVX** (bid ~$195.81) — Energy #1 YTD; size ~$18K (19% equity); stop 10% trail GTC; target +20%; R:R 2:1
+- **XOM** (bid ~$149.55) — Same thesis; pick stronger chart
+- Gate: PCE ≤ 3.8%, market stabilizes, VIX <25, yield check
+- HON GTC expires Dec 23 — renew this week
+
+_Market-open Nov 25: MSFT buffer 1.28% — MANDATORY SELL blocked (requires manual execution). HON HOLD. PCE released 8:30am, market reaction bearish. Weekly trades 0/3. User action required immediately._
