@@ -1,7 +1,6 @@
 # Stock AI Trader
 
-An autonomous swing-trading bot run by **Claude Code**. It manages a ~$10,000
-**Alpaca paper-trading** account. The goal is to beat the S&P 500 while following
+An autonomous swing-trading bot run by **Claude Code**. The goal is to beat the S&P 500 while following
 a strict, rule-based risk framework.
 
 There is no traditional application code. The "bot" is Claude itself, running on a
