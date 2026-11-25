@@ -7466,3 +7466,12 @@ _Market-open Nov 25: MSFT buffer 1.28% — MANDATORY SELL blocked (requires manu
 | MSFT | SELL | 35 | ~$479.44 | −$1,002.75 | Buffer 1.29% < 3% floor; buffer rule override |
 
 _Midday Nov 25: MSFT closed (buffer rule, −$1,002.75). HON HOLD (+4.32%, buf 5.33%). Equity $94,209. No new entries — PCE reaction bearish + early close. Next window: Mon Nov 30 (pre-FOMC). HON GTC renew before Dec 20._
+
+---
+
+### Nov 25 — EOD Snapshot (Day 149, Wednesday — Thanksgiving Eve)
+**Portfolio:** $94,600.87 | **Cash:** $76,742.13 (81.1%) | **Day P&L:** −$408.20 (−0.43%) | **Phase P&L:** −$5,399.13 (−5.40%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $226.06 | +0.55% | +$1,114.69 (+6.66%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 7.40%) |
+**Notes:** Day 149 (Wednesday, Nov 25 — Thanksgiving Eve) — MSFT forced exit at midday: buffer breached 1.29% (<3% floor), sold 35 shares at ~$479.44, realized −$1,002.75 (−5.63%), freeing $16,780 cash. HON +0.55% to $226.06, unrealized +6.66%, stop buffer 7.40% — healthy. Portfolio equity declined −$408.20 to $94,600.87. No new entries (PCE reaction bearish, early 1pm ET close, Thanksgiving Eve). Weekly new entries: 0/3. Deployment 18.9% — severely underpowered (target 75–85%). Market closed Thu Nov 27 (Thanksgiving), early close Fri Nov 28. Next full trading day Mon Dec 1 — only window before FOMC blackout (Dec 2–). CVX/XOM energy thesis remains valid but yield gate ~5.10% still active (need <4.5%). Must renew HON GTC stop (expires Dec 23) by Dec 20. Phase P&L −$5,399.13 (−5.40%).
