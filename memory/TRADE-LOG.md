@@ -7425,3 +7425,44 @@ _Midday Nov 24: No action. HON +4.17% (buf 5.19%) — HOLD. MSFT −2.96% (buf 3
 - HON GTC expires Dec 23 — renew this week
 
 _Market-open Nov 25: MSFT buffer 1.28% — MANDATORY SELL blocked (requires manual execution). HON HOLD. PCE released 8:30am, market reaction bearish. Weekly trades 0/3. User action required immediately._
+
+---
+
+### Midday Scan — 2026-11-25 (Day 149, Wednesday — Thanksgiving Eve)
+
+**Account (midday):** Equity $94,209.03 | Cash $76,742.13 (81.5%) | Deployed $17,466.90 (18.5%) | Weekly trades: 0/3 new entries
+
+#### STEP 3 — Cut at −7%
+- HON +4.32%: NOT triggered ✓
+- MSFT −5.53%: NOT triggered at −7% rule — but buffer rule override below ↓
+
+#### STEP 3B — Buffer Rule Override (MSFT)
+- MSFT current $480.015 | stop $473.841 → buffer = **1.29% 🚨 BREACH** (< 3% floor)
+- Rule: "Overnight stop buffer < 3%: execute manual cut at the open"
+- **EXECUTED:** Canceled trailing stop da992520; submitted market sell 35 MSFT (order eea88def)
+- **Fill:** ~$479.44 (est.) | Realized P&L: **−$1,002.75 (−5.63%)**
+- Freed cash: +$16,780 → new cash $76,742.13
+
+#### STEP 4 — Stop Tighten (HON)
+- HON +4.32%: +15% threshold $243.74 — not reached; no tightening needed ✓
+- GTC stop 8303e452 (HWM $232.58, stop $209.322, buf 5.33%) intact ✓
+
+#### STEP 5 — Thesis Check
+- **HON:** INTACT — industrial automation post-spinoff; Q3 sales +1%; intraday −1.66% = Thanksgiving-eve low-volume drift; buffer 5.33%; analyst avg target $253.91 Buy consensus. HOLD.
+- **MSFT:** CLOSED — buffer rule; Azure AI mega-trend thesis remains valid; re-entry possible once buffer/conditions normalize post-holiday.
+
+#### STEP 6 — Intraday Research
+- PCE Oct 2026: Released 8:30am ET — Oxford forecast 3.8% headline (prior 3.6%); market reaction negative (equity down ~$878 day); consistent with hot/in-line print
+- Yield ~5.10% — P/E >40 gate still active; CVX/XOM blocked until yield breaks below 4.5%
+- Early close 1pm ET; no new entries today (PCE reaction, low volume, early close)
+- HON GTC expires Dec 23 → must renew by Dec 20 (next window: Mon Nov 30)
+- FOMC window begins Dec 2 → only Mon Nov 30 trading day for new entries before blackout
+
+#### Actions Taken
+- **SOLD 35 MSFT at ~$479.44** — buffer rule (1.29% < 3% floor); realized −$1,002.75
+
+| Ticker | Action | Shares | Price | Realized P&L | Reason |
+|--------|--------|--------|-------|--------------|--------|
+| MSFT | SELL | 35 | ~$479.44 | −$1,002.75 | Buffer 1.29% < 3% floor; buffer rule override |
+
+_Midday Nov 25: MSFT closed (buffer rule, −$1,002.75). HON HOLD (+4.32%, buf 5.33%). Equity $94,209. No new entries — PCE reaction bearish + early close. Next window: Mon Nov 30 (pre-FOMC). HON GTC renew before Dec 20._

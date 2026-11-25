@@ -12303,3 +12303,19 @@ _Sources: Alpaca API (live positions, account, orders); WebSearch — Yahoo Fina
 - Weekly trades used: 1/3 after MSFT exit (net = 1 trade this week)
 
 _Sources: Alpaca API (live); WebSearch — CNBC Nov 24–25 2026; Yahoo Finance Nov 24 2026; forexfundamentals.com PCE calendar; Oxford Economics PCE nowcast; stockanalysis.com HON; The Information/NewsQuawk ByteDance-Azure; Fidelity sector mid-year update; 5paisa crude Oct 28 2026_
+
+#### Midday Addendum — 2026-11-25
+
+**MSFT CLOSED (buffer rule):**
+- Executed market sell 35 MSFT ~$479.44; realized P&L −$1,002.75 (−5.63%)
+- Buffer was 1.29% at midday (stop $473.841 vs price $480.015); < 3% floor rule = mandatory close
+- Azure AI mega-trend thesis intact; ByteDance scrutiny + tariff headwinds drove buffer breach
+- Re-entry criteria: buffer >3%, price stabilizes, ByteDance resolved, VIX <25
+
+**PCE Oct 2026 (actual):** Oxford forecast 3.8% (prior 3.6%); market reaction negative — broad selloff on Thanksgiving Eve; HON −1.66% intraday, equity down ~$878. Actual print not definitively confirmed but market pricing consistent with hot/in-line print.
+
+**HON thesis recheck:** No company-specific negative news. Analyst avg target $253.91, consensus Buy. Buffer 5.33%, well above 3% floor. HOLD through Thanksgiving; renew GTC stop (expires Dec 23) by Dec 20.
+
+**Next entry window:** Mon Nov 30 (only pre-FOMC day before Dec 2 blackout). Gate: VIX <25, yield <4.5% for P/E >40 names, stable PCE reaction, check CVX/XOM energy thesis.
+
+_Sources: Alpaca API live; Oxford Economics PCE nowcast; stockanalysis.com/stocks/hon; finviz.com HON_
