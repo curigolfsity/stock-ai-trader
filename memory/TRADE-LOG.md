@@ -7475,3 +7475,12 @@ _Midday Nov 25: MSFT closed (buffer rule, −$1,002.75). HON HOLD (+4.32%, buf 5
 |--------|--------|-------|-------|---------|----------------|------|
 | HON | 79 | $211.95 | $226.06 | +0.55% | +$1,114.69 (+6.66%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 7.40%) |
 **Notes:** Day 149 (Wednesday, Nov 25 — Thanksgiving Eve) — MSFT forced exit at midday: buffer breached 1.29% (<3% floor), sold 35 shares at ~$479.44, realized −$1,002.75 (−5.63%), freeing $16,780 cash. HON +0.55% to $226.06, unrealized +6.66%, stop buffer 7.40% — healthy. Portfolio equity declined −$408.20 to $94,600.87. No new entries (PCE reaction bearish, early 1pm ET close, Thanksgiving Eve). Weekly new entries: 0/3. Deployment 18.9% — severely underpowered (target 75–85%). Market closed Thu Nov 27 (Thanksgiving), early close Fri Nov 28. Next full trading day Mon Dec 1 — only window before FOMC blackout (Dec 2–). CVX/XOM energy thesis remains valid but yield gate ~5.10% still active (need <4.5%). Must renew HON GTC stop (expires Dec 23) by Dec 20. Phase P&L −$5,399.13 (−5.40%).
+
+---
+
+### Nov 26 — EOD Snapshot (Day 150, Thursday — Thanksgiving)
+**Portfolio:** $94,524.67 | **Cash:** $76,741.77 (81.2%) | **Day P&L:** −$76.20 (−0.08%) | **Phase P&L:** −$5,475.33 (−5.48%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $225.10 | 0.00% | +$1,038.85 (+6.20%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 7.01%) |
+**Notes:** Day 150 (Thursday, Nov 26 — Thanksgiving). Market closed — no trades. Equity $94,524.67 (−$76.20 from yesterday's EOD, fee accrual). HON only position: 79 shares, unrealized +6.20%, stop buffer 7.01% — healthy. Weekly new entries: 0/3. Deployment 18.8% — severely underpowered (target 75–85%). Next trading windows: Fri Nov 28 (early close 1pm ET) and Mon Dec 1 (first full day before FOMC blackout Dec 2–5). CVX/XOM energy thesis valid; yield gate ~5.10% blocks until <4.5%. Must renew HON GTC stop (expires Dec 23) by Dec 20. Phase P&L −$5,475.33 (−5.48%).
