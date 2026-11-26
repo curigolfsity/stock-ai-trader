@@ -12319,3 +12319,85 @@ _Sources: Alpaca API (live); WebSearch — CNBC Nov 24–25 2026; Yahoo Finance 
 **Next entry window:** Mon Nov 30 (only pre-FOMC day before Dec 2 blackout). Gate: VIX <25, yield <4.5% for P/E >40 names, stable PCE reaction, check CVX/XOM energy thesis.
 
 _Sources: Alpaca API live; Oxford Economics PCE nowcast; stockanalysis.com/stocks/hon; finviz.com HON_
+
+---
+
+### Pre-Market Research — 2026-11-26 (Day 150, Thursday — Thanksgiving Day)
+
+**US markets CLOSED today (Thanksgiving). Next session: Fri Nov 28 (early close 1pm ET, thin volume). First full session: Mon Dec 1.**
+
+#### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $94,524.67 |
+| Cash | $76,741.77 (81.2%) |
+| Deployed | $17,782.90 (18.8%) — severely underpowered (target 75–85%) |
+| Phase P&L | ~−$5,399 (−5.40%) |
+| Weekly new entries | 0/3 |
+| Day trades (rolling) | 0/3 |
+
+**Open positions:**
+| Ticker | Shares | Avg Entry | Last Price | Unrealized P&L | Stop |
+|--------|--------|-----------|------------|----------------|------|
+| HON | 79 | $211.95 | $225.10 | +$1,038.85 (+6.20%) | GTC 8303e452 trail 10%, stop $209.322, HWM $232.58, expires 2026-12-23 |
+
+#### Market Context
+- **WTI crude:** ~$83.65 (FinScans Nov 26) — SIGNIFICANTLY DOWN from Oct high of ~$101.65; ~18% correction from October peak
+- **Brent:** ~$93.75–94.46
+- **S&P 500 futures:** Market closed today; last confirmed close (Nov 25 est.) ~7,500–7,562 range; +10.25% YTD (as of Nov 13)
+- **VIX:** ~19–20 (last confirmed Nov 13: ~19.30; down from ~25 in early November)
+- **10Y yield:** ~5.10% (from recent sessions) — above 4.5% gate; P/E >40 growth names BLOCKED
+- **Oil driver:** Ras Tanura (Saudi Arabia) refinery attack supports floor; OPEC+ production meeting Nov 29 (binary risk — could move WTI significantly)
+
+#### Sector Momentum YTD (as of Nov 13, 2026)
+| Rank | Sector | YTD | Note |
+|------|--------|-----|------|
+| #1 | Energy | +42.30% | But WTI -18% from Oct; thesis risk |
+| #2 | Technology | +18.00% | Yield gate blocks P/E>40 entries |
+| #3 | Industrials | +6.84% | HON thesis intact |
+
+#### HON News
+- Price at Alpaca: $225.10 (Nov 25 close); external data Nov 18: $222.70
+- Q3 FY2026: $5.0B sales, +1% reported, +7% organic — thesis intact
+- Dividend: $0.70/share payable Dec 4 (to holders of record Nov 13)
+- Next earnings: Jan 28, 2027 (EPS est. $2.45, rev est. $5.2B)
+- Analyst avg target ~$254; consensus Buy
+- RBC Global Industrials Conference Nov 17 — no adverse news
+- GTC stop expires Dec 23 — MUST renew by Dec 20
+
+#### Critical Update — Oil Thesis Reassessment
+- **WTI dropped from ~$101.65 (Oct 28) to ~$83.65 (Nov 26): −17.7% in ~4 weeks**
+- Energy sector (#1 YTD) may be rolling over; CVX/XOM entry thesis significantly weakened
+- OPEC+ meeting Nov 29 is a production binary — adds uncertainty
+- **Gate: Do NOT enter CVX/XOM until: (1) oil price stabilizes, (2) OPEC+ meeting passes, (3) yield <4.5%**
+
+#### Key Upcoming Dates
+- **Nov 27 (Fri):** Market open, early close 1pm ET — thin volume, avoid new entries
+- **Nov 29 (Sat):** OPEC+ production meeting 2027 policy
+- **Dec 1 (Mon):** First full trading session post-holiday
+- **Dec 2–4:** Trading window (target new entry if conditions met)
+- **~Dec 5 (Fri):** FOMC blackout begins (2 sessions before Dec 9 decision)
+- **Dec 8–9:** FOMC meeting; decision Wed Dec 9 at 2pm ET
+- **Dec 23:** HON GTC stop expiry — MUST renew before this date
+
+#### Trade Ideas
+1. **HOLD HON** — Thesis intact, buffer 7.40%, analyst avg $254, next catalyst Jan 28 earnings. Renew GTC stop on Dec 1.
+2. **CVX/XOM re-evaluate** — Oil -18% from peak; defer until: (a) OPEC+ meeting passes without production hike, (b) oil price stabilizes above $85, (c) yield <4.5%
+3. **MSFT re-entry (watchlist only)** — Azure AI thesis valid; ByteDance scrutiny ongoing; blocked by yield gate (P/E >40); re-evaluate when yield breaks below 4.5%
+
+#### Risk Factors
+- WTI -18% from Oct peak: energy thesis deteriorating — could negate sector #1 rationale for CVX/XOM
+- OPEC+ Nov 29: production increase decision could push WTI below $80
+- FOMC Dec 8-9: no new entries after ~Dec 5; only Dec 1-4 window for new trades
+- HON GTC expires Dec 23: must replace before Dec 20 or stop protection is lost
+- 10Y yield ~5.10% blocks all P/E>40 growth names (MSFT, NVDA, etc.)
+- HON deployment 18.8%: severely underpowered; need 2–3 new positions but gates constrain
+
+#### Decision: HOLD
+- **Market closed today** (Thanksgiving)
+- **Friday Nov 28**: thin volume, early close — no new entries
+- **Monday Dec 1**: first real entry window; primary action = renew HON GTC stop + research post-OPEC+ oil
+- **CVX/XOM thesis weakened** by oil price correction; on watchlist pending OPEC+ outcome
+- **Weekly trades remaining:** 3/3 (week resets; 3 available for w/e Dec 5)
+
+_Sources: Alpaca API (live); FinScans Nov 26 2026 (WTI $83.65); Arbiterz Nov 26 (Brent $93.75); Tapeboard Nov 13 2026 recap (sector YTD); CBOE/ad-hoc-news (VIX Nov 9-13); fedratecalc.com FOMC Dec 8-9 2026; Benzinga/Quiver HON Nov 2026; financecalendar.com_
