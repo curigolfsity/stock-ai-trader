@@ -12401,3 +12401,41 @@ _Sources: Alpaca API live; Oxford Economics PCE nowcast; stockanalysis.com/stock
 - **Weekly trades remaining:** 3/3 (week resets; 3 available for w/e Dec 5)
 
 _Sources: Alpaca API (live); FinScans Nov 26 2026 (WTI $83.65); Arbiterz Nov 26 (Brent $93.75); Tapeboard Nov 13 2026 recap (sector YTD); CBOE/ad-hoc-news (VIX Nov 9-13); fedratecalc.com FOMC Dec 8-9 2026; Benzinga/Quiver HON Nov 2026; financecalendar.com_
+
+---
+
+### Midday Scan — 2026-11-26 (Day 150, Thursday — Thanksgiving Day)
+
+**US markets CLOSED — Thanksgiving holiday. No trading activity.**
+
+#### Account (midday)
+| Field | Value |
+|-------|-------|
+| Equity | $94,524.67 (est. unchanged — market closed) |
+| Cash | $76,741.77 (81.2%) |
+| Deployed | $17,782.90 (18.8%) |
+| Phase P&L | ~−$5,399 (−5.40%) |
+| Weekly new entries | 0/3 |
+
+#### Positions
+| Ticker | Shares | Entry | Last | Unrealized | Stop | Buffer |
+|--------|--------|-------|------|------------|------|--------|
+| HON | 79 | $211.95 | $225.10 | +$1,038.85 (+6.20%) | GTC 8303e452 trail 10%, stop $209.322, HWM $232.58, exp Dec 23 | 7.01% ✓ |
+
+#### Scan Results
+- **STEP 3 (Cut −7%):** HON +6.20% — not triggered ✓
+- **STEP 4 (Tighten stops):** HON +6.20% — below +15% threshold; no tighten needed ✓
+- **STEP 5 (Thesis check):** HON industrial automation thesis intact; no news ✓
+- **STEP 6 (Research):** No intraday moves — market closed ✓
+
+#### Actions Taken
+- None — holiday
+
+#### Reminders for Next Session (Mon Dec 1)
+- Renew HON GTC stop (expires Dec 23) — place before FOMC blackout Dec 2
+- Research post-OPEC+ oil prices (Nov 29 meeting result)
+- FOMC window begins Dec 2 → Dec 1 is ONLY entry window before blackout (Dec 2–9)
+- Yield gate: need <4.5% for P/E >40 growth; currently ~5.10% — blocked
+- CVX/XOM: await OPEC+ result + oil stabilization + yield gate
+
+_Midday Nov 26 (Thanksgiving): No actions. HON HOLD (+6.20%, buf 7.01%). Equity ~$94,525. Next window: Mon Dec 1._
