@@ -1613,3 +1613,60 @@ Rule adherence B (FSLR dual-rule exit immediately correct; AMAT T+0 stop placed;
 Rule adherence A (AMAT dual-rule exit clean; MSFT T+0 stop placed; GEV yield gate enforced; stops verified daily; no process failures), risk management C (MSFT entry timing poor — entered 2 days before major AI selloff catalyst; both positions below 3% buffer at week close, requiring dual forced exits Monday; ByteDance thesis risk unresolved), relative performance A (bot −2.68% vs S&P ~−7.2% = ~+4.52% outperformance — largest positive relative gap since Week 25; driven by 63% cash buffer during correction, not position alpha). Phase P&L: −$6,123.72 (−6.12%) after 27 weeks.
 
 ---
+
+## Week ending 2026-11-27
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $93,876.28 (Fri Nov 20 close) |
+| Ending portfolio | $94,760.88 (Fri Nov 27 early close — HON + cash) |
+| Week return | +$884.60 (+0.94%) |
+| S&P 500 week | +5.6% (~7,016 Nov 20 → 7,297.49 Nov 27; best week since Aug; holiday-shortened Thanksgiving week) |
+| Bot vs S&P | −4.66% |
+| Trades | 1 (W:0 / L:1 / open:1) |
+| Win rate | 0% (0/1 closed) |
+| Best trade | N/A |
+| Worst trade | MSFT −5.63% (−$1,002.75) |
+| Profit factor | 0.00 |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| MSFT | $508.09 (Nov 18) | ~$479.44 (Nov 25) | −$1,002.75 (−5.63%) | Mandatory buffer cut: 1.29% < 3% floor; PCE-day selloff; ByteDance Azure scrutiny ongoing; held 7 trading days |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| HON | $211.95 | $228.09 | +$1,275.06 (+7.62%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 8.23%) |
+
+### What Worked
+- MSFT buffer rule enforced at midday Nov 25 — 1.29% < 3% floor; sold 35 shares ~$479.44; preserved capital ahead of further PCE-driven selloff; correct process despite bot-block requiring midday manual log
+- HON recovered all week: +3.82% Mon Nov 23, +1.08% Tue Nov 24, modest gains Wed/Fri; ended at +7.62% unrealized; buffer 8.23% — healthiest of the phase
+- PCE binary gate held Tue/Wed — no new entries before/during the data release; prevented chasing into a hot print (PCE consistent with December rate hike odds)
+- FOMC blackout proximity correctly flagged — Dec 2 blackout identified as constraint; Dec 1 is last new-entry window
+- HON stop auto-advanced correctly and maintained integrity — HWM $232.58, stop $209.322, buffer never below 3% all week; GTC automation functioned without gaps
+
+### What Didn't Work
+- S&P surged +5.6% (holiday-week recovery); bot captured only +0.94% — 81% cash was a structural drag
+- MSFT −$1,002.75 realized loss — entered Nov 18 two days before the AI selloff accelerated; ByteDance $500M Azure national-security scrutiny was an unresolved thesis risk at entry that was monitored but not resolved before the buffer break
+- 0/3 weekly trade capacity unused for new entries — PCE binary + early closes + VIX >25 Mon blocked all additions; deployment stuck at 19% all week
+- Phase P&L −$5,239.12 (−5.24%) at week end — HON unrealized gains (+$1,275) are the only current positive contribution
+- HON GTC stop (expires Dec 23) not renewed this week — holiday-shortened sessions + early closes blocked the renewal; must renew Dec 1
+
+### Key Lessons
+- Holiday-week S&P rallies (+5.6%) punish cash-heavy portfolios disproportionately — same dynamic as the Week 15 (+2.86%) and Week 23 (+2.0%+) recovery weeks; structural underpayment in recovery weeks is now the phase's dominant recurring theme, not individual trade errors
+- MSFT entry Nov 18 (2 days before AI selloff) followed the same pattern as ASML Jul 16 (entered at earnings gap peak): post-catalyst entries in AI/tech names with active overhangs (ByteDance, Anthropic IPO) need a 48-hour news-scan gate specifically for sector-negative catalysts in the same AI space
+- Dec 1 is a structurally critical day this phase: HON GTC renews, OPEC+ outcome known (Nov 29), FOMC blackout begins Dec 2; missing Dec 1 means 2 more weeks without deployable trades and an unprotected HON stop
+
+### Adjustments for Next Week
+- **Mon Dec 1 — triple action priority:** (1) Renew HON GTC stop (expires Dec 23) BEFORE any other action; (2) check OPEC+ Nov 29 outcome + WTI price; (3) if OPEC+ passes without production hike AND oil >$82 AND VIX <25 → evaluate CVX entry (~$18K, 10% GTC, target +20%, R:R 2:1) — this is the ONLY entry window before FOMC Dec 2 blackout
+- **HON tighten trigger at $243.74 (+15%):** currently $228.09 — only $15.65 / 6.9% away; HON is building momentum; DO NOT miss this trigger; cancel 8303e452 and place 7% GTC immediately if $243.74 crossed
+- **FOMC blackout Dec 2–9:** No new entries; hold HON through the decision; monitor for HON GTC renewal auto-confirmation
+- **Semis ban active:** ASML Jul 31 + AMAT Nov 16 = 2 consecutive failures; no semicap entries until Dec 16 earliest (≥1 month from AMAT exit) AND semis re-ranks + fresh catalyst
+- **Yield gate ~5.10%:** All P/E >40 names (MSFT re-entry, NVDA) blocked; defense/value only for new entries (CVX, LMT/NOC)
+
+### Overall Grade: C−
+Rule adherence A (MSFT buffer-rule exit mechanically correct; HON stop never below 3%; PCE binary gate enforced; FOMC blackout awareness accurate; no process failures), risk management B (MSFT forced-cut executed correctly; HON buffer healthy; CVX/XOM correctly blocked pre-OPEC+), relative performance D (bot +0.94% vs S&P +5.6% = −4.66% gap; structural 81% cash deployment failure is the sole driver; worst relative week since the Nov 6 oil selloff; phase P&L −$5,239 / −5.24% after 28 weeks). Best rule adherence of the phase; worst relative result from cash drag in a +5.6% holiday rally.
+
+---
