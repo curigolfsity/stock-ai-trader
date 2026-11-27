@@ -7484,3 +7484,33 @@ _Midday Nov 25: MSFT closed (buffer rule, −$1,002.75). HON HOLD (+4.32%, buf 5
 |--------|--------|-------|-------|---------|----------------|------|
 | HON | 79 | $211.95 | $225.10 | 0.00% | +$1,038.85 (+6.20%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 7.01%) |
 **Notes:** Day 150 (Thursday, Nov 26 — Thanksgiving). Market closed — no trades. Equity $94,524.67 (−$76.20 from yesterday's EOD, fee accrual). HON only position: 79 shares, unrealized +6.20%, stop buffer 7.01% — healthy. Weekly new entries: 0/3. Deployment 18.8% — severely underpowered (target 75–85%). Next trading windows: Fri Nov 28 (early close 1pm ET) and Mon Dec 1 (first full day before FOMC blackout Dec 2–5). CVX/XOM energy thesis valid; yield gate ~5.10% blocks until <4.5%. Must renew HON GTC stop (expires Dec 23) by Dec 20. Phase P&L −$5,475.33 (−5.48%).
+
+---
+
+## Week of 2026-11-24
+
+### Open Positions
+
+| Date | Ticker | Side | Shares | Avg Entry | Status | Trail Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|--------|------------|--------|--------|-----|
+| 2026-09-24 | HON | LONG | 79 | $211.95 | FILLED | 10% GTC (order 8303e452; HWM $232.58; stop $209.322; exp Dec 23) | Industrial automation post-spinoff; Q3 beat ($2.27 EPS +34% YoY, guide raised $8.40–$8.45); analyst avg target $254; consensus Buy | ~$254 (+20%) | 2:1 |
+
+**Tighten trail:** HON → 7% at $243.74 (+15%), 5% at $254.34 (+20%).
+**Cut rule:** HON manual cut at $197.11 (−7%).
+
+### Market-Open Scan — 2026-11-27 (Day 151, Friday — Black Friday)
+
+- **Account:** Equity $94,772.73 | Cash $76,741.77 (81.0%) | Deployed $18,030.96 (19.0%) | Daytrade count: 0 | Weekly trades: 0/3 (new week)
+- **HON:** $228.24 (+1.40% intraday from $225.10 prior close; +7.69% unrealized from $211.95 entry) — no −7% trigger ($197.11) ✓; below +15% tightening threshold ($243.74) ✓
+- **HON trailing stop:** order 8303e452 | HWM $232.58 | Stop $209.322 | Trail 10% GTC ✓ ACTIVE (confirmed via orders API) | Buffer $18.918 / **8.29% ✓ HEALTHY** (price below HWM; stop locked until new session high above $232.58)
+- **HON GTC expiry:** Dec 23 — ⚠️ MUST renew by Dec 20 (Mon Dec 1 is the window before FOMC blackout Dec 2)
+- **Market context:** Black Friday — early close 1:00 PM ET; thin volume expected; SPX modestly positive; WTI ~$85.09–$85.72 (+~1.5%) on Middle East supply disruption premium (Houthi strikes)
+- **New entries:** BLOCKED on all gates:
+  - Early close 1pm ET + thin volume: no new entries today
+  - OPEC+ Nov 29 binary (2027 production framework): CVX/XOM blocked until result known
+  - 10Y yield ~5.10–5.15%: P/E >40 growth names (MSFT, NVDA) blocked until yield breaks <4.5% for 2+ sessions
+  - FOMC blackout Dec 2: Dec 1 is LAST entry window before Dec 9 decision
+- **Action:** No trades. HON HOLD. GTC stop confirmed ACTIVE.
+- **Thesis check (HON):** INTACT — industrial automation post-spinoff; Q3 beat ($2.27 EPS +34% YoY, revenue +1% reported / +7% organic), guidance raised to $8.40–$8.45 FY EPS; analyst avg target $253.91 (consensus Buy). Dividend $0.70/sh payable Dec 4 (record Nov 13) = near-term cash credit. No CAT-specific negative catalyst.
+- **Phase P&L:** −$5,227.27 (−5.23%) vs. $100,000 starting equity
+- **Next trigger:** Mon Dec 1 — (1) renew HON GTC stop (expires Dec 23); (2) check OPEC+ Nov 29 outcome; if no production hike surprise AND oil holds >$82 AND VIX <25 → evaluate CVX entry (~$18K, stop 10% trail GTC, target +20%, R:R 2:1). FOMC window closes Dec 2 — Dec 1 is the ONLY entry window this week.
