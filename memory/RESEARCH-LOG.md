@@ -12503,3 +12503,32 @@ _Midday Nov 26 (Thanksgiving): No actions. HON HOLD (+6.20%, buf 7.01%). Equity 
 
 _Sources: Alpaca API (live); TokenPost/Mitrade/FinScans Nov 27 2026 (WTI/Brent); OPEC.org Nov 1 2026; WorldOil/StarAdvertiser Nov 2026 (OPEC+ December targets); Trading Economics Nov 16 2026 (10Y yield 5.15%); Quiver/FinancialContent/Benzinga (HON news); Morningstar Nov 10 2026 (10Y yield 4.98%); CBOE (VIX Oct 29 2026)_
 
+
+---
+
+### Midday Scan — 2026-11-27 (Day 151, Friday — Black Friday)
+
+#### Account (midday)
+| Field | Value |
+|-------|-------|
+| Equity | ~$94,695 |
+| Cash | $76,741.77 (81.0%) |
+| Deployed | $17,953.54 (19.0%) |
+| Phase P&L | ~−$5,305 (−5.31%) |
+| Weekly new entries | 0/3 |
+
+#### Positions
+| Ticker | Shares | Entry | Now | Unrealized | Stop | Buffer |
+|--------|--------|-------|-----|------------|------|--------|
+| HON | 79 | $211.95 | $227.26 | +$1,209.49 (+7.22%) | GTC 8303e452 trail 10%, stop $209.322, HWM $232.58, exp Dec 23 | 7.89% ✓ |
+
+#### Scan Results
+- **STEP 3 (Cut −7%):** HON +7.22% — not triggered ✓
+- **STEP 4 (Tighten stops):** HON +7.22% — below +15% threshold ($243.74); no tighten needed ✓
+- **STEP 5 (Thesis check):** HON industrial automation thesis intact; no new negative news ✓
+- **STEP 6 (Research):** No sharp unexplained intraday moves; Black Friday thin volume as expected
+
+#### Actions Taken
+- None
+
+_Midday Nov 27 (Black Friday): No actions. HON HOLD (+7.22%, buf 7.89%). Equity ~$94,695. Next window: Mon Dec 1._

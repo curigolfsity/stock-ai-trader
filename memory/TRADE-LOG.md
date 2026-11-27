@@ -7514,3 +7514,29 @@ _Midday Nov 25: MSFT closed (buffer rule, −$1,002.75). HON HOLD (+4.32%, buf 5
 - **Thesis check (HON):** INTACT — industrial automation post-spinoff; Q3 beat ($2.27 EPS +34% YoY, revenue +1% reported / +7% organic), guidance raised to $8.40–$8.45 FY EPS; analyst avg target $253.91 (consensus Buy). Dividend $0.70/sh payable Dec 4 (record Nov 13) = near-term cash credit. No CAT-specific negative catalyst.
 - **Phase P&L:** −$5,227.27 (−5.23%) vs. $100,000 starting equity
 - **Next trigger:** Mon Dec 1 — (1) renew HON GTC stop (expires Dec 23); (2) check OPEC+ Nov 29 outcome; if no production hike surprise AND oil holds >$82 AND VIX <25 → evaluate CVX entry (~$18K, stop 10% trail GTC, target +20%, R:R 2:1). FOMC window closes Dec 2 — Dec 1 is the ONLY entry window this week.
+
+---
+
+### Midday Scan — 2026-11-27 (Day 151, Friday — Black Friday)
+
+**Account (midday):** Equity ~$94,695 | Cash $76,741.77 (81.0%) | Deployed $17,953.54 (19.0%) | Weekly trades: 0/3
+
+#### STEP 3 — Cut at −7%
+- HON unrealized_plpc +7.22%: NOT triggered ✓
+
+#### STEP 4 — Stop Tighten (HON)
+- HON +7.22%: below +15% threshold ($243.74) — no tightening needed ✓
+- GTC stop 8303e452 (HWM $232.58, stop $209.322, buf 7.89%) intact ✓
+
+#### STEP 5 — Thesis Check
+- **HON:** INTACT — industrial automation post-spinoff; Q3 beat; intraday +0.96% to $227.26; buffer 7.89% healthy. No new negative catalyst. HOLD.
+
+#### STEP 6 — Intraday Research
+- No sharp unexplained moves; Black Friday thin volume as expected
+- HON drifting +0.96% — no news catalyst; consistent with pre-market notes
+- Market early close 1pm ET; no new entries today
+
+#### Actions Taken
+- None — no triggers hit
+
+_Midday Nov 27 (Black Friday): No actions. HON HOLD (+7.22%, buf 7.89%). Equity ~$94,695. Early close 1pm ET. Next window: Mon Dec 1 — renew HON GTC + evaluate CVX post-OPEC+._
