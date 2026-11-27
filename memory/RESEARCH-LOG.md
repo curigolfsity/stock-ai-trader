@@ -12439,3 +12439,67 @@ _Sources: Alpaca API (live); FinScans Nov 26 2026 (WTI $83.65); Arbiterz Nov 26 
 - CVX/XOM: await OPEC+ result + oil stabilization + yield gate
 
 _Midday Nov 26 (Thanksgiving): No actions. HON HOLD (+6.20%, buf 7.01%). Equity ~$94,525. Next window: Mon Dec 1._
+
+---
+
+### Pre-Market Research — 2026-11-27 (Day 151, Friday — Black Friday)
+
+**Account Snapshot**
+| Field | Value |
+|-------|-------|
+| Equity | $94,674.77 |
+| Cash | $76,741.77 (81.1%) |
+| Deployed | $17,933 (18.9%) — severely underpowered (target 75–85%) |
+| Phase P&L | ~−$5,325.23 (−5.33%) |
+| Weekly new entries | 0/3 (week resets) |
+| Day | +$150.10 (+0.16%) intraday |
+
+**Positions**
+| Ticker | Shares | Entry | Now | Unrealized | Stop | Buffer |
+|--------|--------|-------|-----|------------|------|--------|
+| HON | 79 | $211.95 | $227.00 | +$1,188.95 (+7.10%) | GTC 8303e452 trail 10%, stop $209.322, HWM $232.58, exp Dec 23 | 7.79% ✓ |
+
+**Market Context**
+- WTI crude: ~$85.09–$85.72 (↑~1.5%) — Middle East supply risks (Hormuz tanker attacks, Houthi strikes on Saudi targets)
+- Brent crude: ~$96.53–$96.61 (↑) — supply disruption premium elevated
+- SPX futures: Modestly positive lean (holiday half-day, thin data)
+- VIX: ~17–19 (last confirmed ~17.20 Oct 29; likely near that range)
+- 10Y Treasury yield: ~5.10–5.15% (last confirmed 5.15% Nov 16) — P/E >40 gate ACTIVE, blocks MSFT/NVDA/growth names
+- Black Friday: Early close 1:00 PM ET; thin volume expected
+
+**Key Events**
+- OPEC+ Nov 1 meeting: Kept December quotas unchanged; Iran war disrupting Gulf export flows (60–80% of normal)
+- OPEC+ Nov 29: Ministerial meeting — 2027 framework decision (binary event — do NOT enter CVX/XOM before this resolves)
+- HON dividend: $0.70/share payable Dec 4 (record Nov 13) — accrued benefit
+- HON Q4 earnings: Jan 28, 2027 (EPS est. $2.45, rev est. $5.2B) — next major catalyst
+- FOMC: Dec 2 blackout begins → Dec 1 is LAST window for new entries before Dec 9 decision
+- HON GTC expires: Dec 23 → MUST renew on Dec 1
+
+**Sector Momentum**
+- Energy: Oil rising on Middle East geopolitical premium; OPEC+ steady; sector tailwind intact but Nov 29 is binary
+- Industrial/Aerospace: HON thesis intact (industrial automation spinoff); Middle East tensions supportive of defense spending
+- Growth/Tech: Blocked by yield gate (5.10%+ → P/E >40 names deferred)
+
+**Trade Ideas**
+1. **HON HOLD** — Buffer 7.79% ✓, unrealized +7.10%, thesis intact (industrial automation post-spinoff). No tightening needed (threshold: +15%). Must renew GTC stop on Dec 1 (expires Dec 23). Analyst avg target $254.26. R:R remains favorable. Insider selling (7 sales, 0 buys) = monitor, not sell signal yet.
+2. **CVX (watchlist, Dec 1 pending)** — WTI $85+, OPEC+ steady, Middle East supply premium. Energy sector #1 YTD. Gate: await Nov 29 OPEC+ 2027 framework decision. If no production hike surprise, CVX becomes actionable Dec 1 (last window before FOMC blackout). Size ~$18K (19% equity); stop 10% trail GTC; target +20%; R:R 2:1. BLOCKED today.
+3. **XOM (secondary, same thesis)** — Same energy catalyst as CVX; pick stronger chart on Dec 1.
+
+**Risk Factors**
+- Black Friday thin volume: Algo-driven moves possible; no new entries today
+- Nov 29 OPEC+ meeting: Unexpected production hike could tank oil and negate CVX/XOM thesis
+- Yield gate: 5.10%+ — entire growth sector locked out until <4.5% sustained 2 sessions
+- HON insider selling (7 sales, 0 buys): Bearish signal; watch for deterioration but thesis still intact
+- Deployment severely low (18.9%): 1 entry window remains before FOMC blackout (Dec 1 only)
+
+**Decision: HOLD**
+- **Today (Black Friday):** No new entries — early close 1pm ET, thin volume; HON HOLD
+- **Dec 1 (Monday):** Primary action window
+  - Action 1: Renew HON GTC stop (expires Dec 23) — place before FOMC blackout
+  - Action 2: If OPEC+ Nov 29 passes without production hike surprise AND oil holds $82+, enter CVX ~$18K position
+  - Action 3: Research post-OPEC+ oil prices; confirm yield gate status
+- **FOMC blackout Dec 2:** No new entries Dec 2–9; Dec 1 is the only window
+- **Week:** 3/3 trades available for w/e Dec 5
+
+_Sources: Alpaca API (live); TokenPost/Mitrade/FinScans Nov 27 2026 (WTI/Brent); OPEC.org Nov 1 2026; WorldOil/StarAdvertiser Nov 2026 (OPEC+ December targets); Trading Economics Nov 16 2026 (10Y yield 5.15%); Quiver/FinancialContent/Benzinga (HON news); Morningstar Nov 10 2026 (10Y yield 4.98%); CBOE (VIX Oct 29 2026)_
+
