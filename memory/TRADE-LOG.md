@@ -7540,3 +7540,12 @@ _Midday Nov 25: MSFT closed (buffer rule, −$1,002.75). HON HOLD (+4.32%, buf 5
 - None — no triggers hit
 
 _Midday Nov 27 (Black Friday): No actions. HON HOLD (+7.22%, buf 7.89%). Equity ~$94,695. Early close 1pm ET. Next window: Mon Dec 1 — renew HON GTC + evaluate CVX post-OPEC+._
+
+---
+
+### Nov 27 — EOD Snapshot (Day 151, Friday — Black Friday)
+**Portfolio:** $94,760.88 | **Cash:** $76,741.77 (81.0%) | **Day P&L:** +$236.21 (+0.25%) | **Phase P&L:** −$5,239.12 (−5.24%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| HON | 79 | $211.95 | $228.09 | +1.33% | +$1,275.06 (+7.62%) | 10% GTC 8303e452 (HWM $232.58, stop $209.322, buf 8.23%) |
+**Notes:** Day 151 (Friday, Nov 27 — Black Friday). Market closed early at 1pm ET — no trades. HON +1.33% to $228.09, unrealized +$1,275.06 (+7.62%), stop buffer 8.23% — healthy. Weekly new entries: 0/3. Deployment 19.0% — severely underpowered (target 75–85%). Next window: Mon Dec 1 — (1) renew HON GTC stop (expires Dec 23); (2) check OPEC+ Nov 29 outcome; if no production hike surprise AND oil >$82 AND VIX <25 → evaluate CVX entry (~$18K, stop 10% trail GTC, target +20%, R:R 2:1). FOMC blackout begins Dec 2 — Dec 1 is ONLY entry window this week. Phase P&L −$5,239.12 (−5.24%).
